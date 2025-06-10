@@ -14,7 +14,7 @@ def read_txt_prompt(txt_path):
     with open(txt_path, "r", encoding="utf-8") as f:
         return f.read().strip()
 
-def test_with_pdf_and_prompt(pdf_path, prompt_path, model="llama3"):
+def test_with_pdf_and_prompt(pdf_path, prompt_path, model="llama3.2:latest"):
     # Read files
     query = read_pdf_text(pdf_path)
     system_msg = read_txt_prompt(prompt_path)
@@ -25,4 +25,4 @@ def test_with_pdf_and_prompt(pdf_path, prompt_path, model="llama3"):
     print("Structured Output:\n", result)
 
 # Example usage
-test_with_pdf_and_prompt("Burke_2018_29120065_522.pdf", "test_input.txt")
+test_with_pdf_and_prompt("Burke_2018_29120065_522.pdf", "test_prompt.txt")
