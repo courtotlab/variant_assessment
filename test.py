@@ -16,8 +16,16 @@ def read_txt_prompt(txt_path):
 
 def test_with_pdf_and_prompt(pdf_path, prompt_path, model="llama3.2:latest"):
     # Read files
+    print("Reading PDF\n")
     query = read_pdf_text(pdf_path)
+
+    print("=== PDF Text ===")
+    print(query[:1000])  # print first 1000 chars
+
+    print("Reading Prompt\n")
     system_msg = read_txt_prompt(prompt_path)
+
+    print("Calling LLM\n")
 
     # Call structured output function
     result = call_ollama_struct_out(system_msg, query, model)
