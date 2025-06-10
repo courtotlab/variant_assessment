@@ -22,7 +22,7 @@ def test_with_pdf_and_prompt(pdf_path, prompt_path, model="llama3.2:latest"):
     print("=== PDF Text ===")
     print(query[:1000])  # print first 1000 chars
 
-    print("Reading Prompt\n")
+    print("\nReading Prompt\n")
     system_msg = read_txt_prompt(prompt_path)
 
     print("Calling LLM\n")
