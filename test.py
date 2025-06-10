@@ -42,10 +42,10 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
         final_result = merge_structured_output(final_result, result)
 
     print("Writing final structured output to output.json...\n")
-    with open("output/o_llama.json", "w", encoding="utf-8") as out_file:
+    with open("output/Vantroys_llama.json", "w", encoding="utf-8") as out_file:
         json.dump(final_result, out_file, indent=2)
 
     print("Done.")
 
 # Example usage:
-test_pdf_by_two_pages("literature/Burke_2018_29120065_522.pdf", "test_prompt.txt")
+test_pdf_by_two_pages("literature/Vantroys_2018_29783990_371.pdf", "test_prompt.txt")

@@ -1,0 +1,42 @@
+{
+  "num_tested_probands": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "num_positive_het_probands": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "positive_phenotypes": [
+    [
+      "Muscular dystrophy",
+      "Cardiac conduction disorder",
+      "Hearing loss"
+    ],
+    [
+      "Muscular dystrophy",
+      "Cardiac conduction disorder",
+      "Hearing loss"
+    ],
+    [
+      "Muscular dystrophy",
+      "Cardiac conduction disorder",
+      "Hearing loss"
+    ],
+    [
+      "Muscular dystrophy",
+      "Cardiac conduction disorder",
+      "Hearing loss"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    2,
+    2,
+    2,
+    2
+  ]
+}

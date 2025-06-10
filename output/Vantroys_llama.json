@@ -1,0 +1,102 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "Severe hepatopathy",
+      "Neurological deterioration",
+      "Early developmental delay",
+      "Motor weakness",
+      "Intellectual disability",
+      "Epileptic seizure"
+    ],
+    [
+      "Axial hypotonia",
+      "Hyper-tonia",
+      "Dystonic posturing of arms and legs",
+      "Slight dysmorphic features",
+      "Severe delay of cognitive and motor development",
+      "No head control",
+      "Rigidity of arms and legs",
+      "Fists bilaterally clenched",
+      "Weak deep tendon reflexes",
+      "Equinus position of feet",
+      "Decreased awareness",
+      "Lateral eye deviation",
+      "Twitching of eyelids at the left",
+      "Hypoglycemia",
+      "Slightly increased lactate",
+      "Acute liver failure (ALF)",
+      "Metabolic encephalopathy",
+      "Pyramidal tract signs not found",
+      "Optic atrophy"
+    ],
+    [
+      "Developmental delay",
+      "Motor weakness",
+      "Intellectual disability",
+      "Seizures",
+      "Epilepsy",
+      "Acute liver failure",
+      "Unconsciousness"
+    ],
+    [
+      "Hepatopathy",
+      "Epilepsy",
+      "Hypoglycemia"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    0,
+    0,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "Found in the first paragraph: 'Open Access Severe hepatopathy and neurological deterioration after start of valproate treatment in a 6-year-old child with mitochondrial tryptophanyl-tRNA synthetase deficiency'.",
+      "The report states that the proband was born from non-consanguineous parents and underwent genetic testing.",
+      "The report mentions that 'other reported subjects [9, 10]' were tested for genetic variants.",
+      "The proband was the only individual for whom genetic testing was reported.",
+      "Not specified"
+    ],
+    "num_positive_het_probands": [
+      "Not mentioned.",
+      "There is no mention of heterozygous probands in the report.",
+      "There is no mention of heterozygous probands in the report.",
+      "No proband was heterozygous for a pathogenic variant.",
+      "Not specified"
+    ],
+    "positive_phenotypes": [
+      "Found in the first paragraph: 'Severe hepatopathy and neurological deterioration after start of valproate treatment in a 6-year-old child with mitochondrial tryptophanyl-tRNA synthetase deficiency'. Also found in the background section: 'The clinical characteristics can be subdivided into three phenotypes (neonatal phenotype, severe infantile onset phenotype, Parkinson-like phenotype)'.",
+      "The report lists various clinical phenotypes associated with the proband, including axial hypotonia, hyper-tonia, dystonic posturing of arms and legs, slight dysmorphic features, severe delay of cognitive and motor development, no head control, rigidity of arms and legs, fists bilaterally clenched, weak deep tendon reflexes, equinus position of feet, decreased awareness, lateral eye deviation, twitching of eyelids at the left, hypoglycemia, slightly increased lactate, acute liver failure (ALF), metabolic encephalopathy, pyramidal tract signs not found, and optic atrophy.",
+      "The report lists various clinical phenotypes associated with the proband, including developmental delay, motor weakness, intellectual disability, seizures, epilepsy, acute liver failure, and unconsciousness. These phenotypes are mentioned as part of the discussion section.",
+      "Clinical phenotypes associated with the positive probands. Hepatopathy, epilepsy, and hypoglycemia were observed in this subject.",
+      "Not specified"
+    ],
+    "num_compound_or_double_hets": [
+      "Found in the results section: 'Activity staining in the BN-PAGE gel confirmed the low activities of complex I, III and IV and, in addition, showed the presence of a subcomplex of complex V.' Also found in the conclusion section: 'The hepatopathy occurred soon after start of sodium valproate treatment'.",
+      "The report mentions that the proband has compound heterozygous mutations in the WARS2 gene.",
+      "There is no mention of compound or double heterozygous mutations in the report.",
+      "No individual was reported to have compound or double heterozygous mutations.",
+      "Not specified"
+    ],
+    "explanation": [
+      "The report only mentioned one proband, who had hepatopathy, epilepsy, and hypoglycemia. There was no mention of compound or double heterozygous mutations."
+    ]
+  }
+}

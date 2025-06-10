@@ -1,0 +1,54 @@
+{
+  "num_tested_probands": [
+    3,
+    6,
+    32
+  ],
+  "num_positive_het_probands": [
+    2,
+    2,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "AS",
+      "SS"
+    ],
+    [
+      "prolonged duration of action of succinylcholine",
+      "compound heterozygous for the atypical variant and a silent variant"
+    ],
+    [
+      "pseudocholinesterase variant",
+      "abnormal plasma cholinesterase activity",
+      "mivacurium sensitivity"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The number of individual probands for whom genetic testing was reported. In this case, there were three probands.",
+      "Found in Table 1, patients 1-6",
+      "Found in section 2, 'A method for the detection of atypical forms of human serum cholinesterase. Determination of dibucaine numbers.'"
+    ],
+    "num_positive_het_probands": [
+      "The number of probands who were heterozygous for a pathogenic variant. Two out of the three probands were found to be heterozygous for a pathogenic variant.",
+      "Table 1, patient 2-3 and possibly patient 1-2",
+      "Not mentioned in any report."
+    ],
+    "positive_phenotypes": [
+      "Clinical phenotypes associated with the positive probands. The two probands who were heterozygous for a pathogenic variant had an 'AS' phenotype, while the third proband was homozygous for silent variants and had an 'SS' phenotype.",
+      "Fig. 1, Table 1, and discussion section",
+      "Found in sections 3, 'Differential inhibition of human serum cholinesterase with fluoride: recognition of two new phenotypes.', and 23, 'A pseudocholinesterase variant in human tissues.'"
+    ],
+    "num_compound_or_double_hets": [
+      "The number of individuals reported to have compound or double heterozygous mutations. One individual was found to be a compound heterozygous for BCHE*328D and BCHE*142M.",
+      "Table 1, patient 3",
+      "Found in section 24, 'Response to mivacurium in a patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing.'"
+    ]
+  }
+}

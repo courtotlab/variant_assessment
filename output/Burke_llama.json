@@ -1,0 +1,65 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    0,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    1,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "Levodopa-responsive infantile-onset Parkinsonism"
+    ],
+    [
+      "Infantile-onset leukoencephalopathy",
+      "Infantile-onset Parkinsonism"
+    ],
+    [
+      "Levodopa-responsive Parkinsonism",
+      "Infantile-onset neurodegeneration",
+      "Late-onset neurodegeneration",
+      "Hereditary diffuse leukoencephalopathy with spheroids"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report mentions that the patient was one of the probands for whom genetic testing was reported.",
+      "The patient was the first and only child born to non-consanguineous parents, indicating that there is only one proband tested.",
+      "Not mentioned in the report.",
+      "Not specified"
+    ],
+    "num_positive_het_probands": [
+      "There is no mention of any proband being heterozygous for a pathogenic variant in this report.",
+      "There were no positive heterozygous probands reported in the text.",
+      "Mentioned as 'one of the alleles found in our patient' (p.Trp13Gly) and a frameshift mutation predicted to result in loss of function.",
+      "Not specified"
+    ],
+    "positive_phenotypes": [
+      "The report states that the patient presented with Levodopa-responsive infantile-onset Parkinsonism, which is listed as one of the positive phenotypes.",
+      "The clinical description mentions 'Infantile-onset leukoencephalopathy' and 'Infantile-onset Parkinsonism', which are listed as positive phenotypes.",
+      "Listed in Table 1, comparing clinical characteristics of patients with biallelic WARS2 mutations to date. Also mentioned in the discussion section.",
+      "Not specified"
+    ],
+    "num_compound_or_double_hets": [
+      "The report mentions that the patient had compound heterozygous mutations in WARS2, which is counted as 1 individual.",
+      "The patient was found to be compound heterozygous for two variants in the WARS2 gene, indicating that there is one individual reported to have compound or double heterozygous mutations.",
+      "Mentioned as 'compound heterozygous mutations' in the introduction and conclusion sections.",
+      "Not specified"
+    ],
+    "explanation": [
+      "The report does not provide information on the number of probands tested, but it mentions that the patient's WARS2 variants are associated with Parkinsonism or PD. The association may be further clarified by systematically interrogating available cohorts for such mutations."
+    ]
+  }
+}
