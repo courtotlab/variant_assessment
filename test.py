@@ -47,5 +47,5 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
 
     print("Done.")
 
-# Example usage:
+
 test_pdf_by_two_pages("literature/Vantroys_2018_29783990_371.pdf", "test_prompt.txt")
