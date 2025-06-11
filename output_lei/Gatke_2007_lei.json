@@ -1,0 +1,83 @@
+{
+  "num_tested_probands": [
+    3,
+    3,
+    1
+  ],
+  "num_positive_het_probands": [
+    1,
+    1,
+    1
+  ],
+  "positive_phenotypes": [
+    [
+      "prolonged duration of action of succinylcholine",
+      "prolonged duration of action of mivacurium"
+    ],
+    [
+      "prolonged duration of action of succinylcholine",
+      "apnoea",
+      "postoperative artificial ventilation",
+      "complete neuromuscular block"
+    ],
+    [
+      "phenotypically abnormal plasma cholinesterase activity"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    2,
+    1,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The article refers to 'the probands of the three unrelated families', indicating three probands were tested.",
+      "The report mentions probands from family 1, family 2, and family 3.",
+      "The report refers to a 'patient compound heterozygous for a novel and a known silent mutation', indicating a single proband was tested."
+    ],
+    "num_positive_het_probands": [
+      "From Table: Patient in family 3 is genotype 142M/*328D and phenotype AS (heterozygous for the atypical variant and a silent variant), confirming 1 heterozygous.",
+      "Patient 2-3 in family 2 was genotyped as heterozygous for BCHE*FS126.",
+      "The same patient is described as compound heterozygous, implying heterozygosity for pathogenic variants."
+    ],
+    "positive_phenotypes": [
+      "The probands were referred due to 'prolonged duration of action of succinylcholine' and 'mivacurium'.",
+      "Phenotypes such as 'prolonged duration of action of succinylcholine', 'apnoea', 'postoperative artificial ventilation', and 'complete neuromuscular block' were described in the probands.",
+      "The phenotype 'phenotypically abnormal plasma cholinesterase activity' is mentioned in relation to tested probands."
+    ],
+    "num_compound_or_double_hets": [
+      "Patient in family 1 and family 3 are both compound heterozygotes as they have two different mutations (e.g., BCHE*115D*I3E4-14C/*FS126 and 142M/*328D).",
+      "Proband in family 3 is described as compound heterozygous for BCHE*328D and BCHE*142M.",
+      "The text refers to a 'patient compound heterozygous for a novel and a known silent mutation', specifying one such case."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "BCHE",
+      "CLU",
+      "DCR",
+      "FST",
+      "S12",
+      "ST2",
+      "UST"
+    ],
+    [
+      "BCHE",
+      "C5",
+      "CAT",
+      "CHE2",
+      "GC",
+      "PC",
+      "S12",
+      "S19"
+    ],
+    [
+      "BCHE"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    []
+  ]
+}

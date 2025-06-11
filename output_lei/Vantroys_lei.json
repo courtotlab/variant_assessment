@@ -1,0 +1,175 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    11,
+    2
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    5,
+    2
+  ],
+  "positive_phenotypes": [
+    [
+      "early developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "epileptic seizure",
+      "acute liver failure",
+      "severe progressive encephalopathy"
+    ],
+    [
+      "severe axial hypotonia",
+      "hypertonia",
+      "dystonic posturing of arms and legs",
+      "slight dysmorphic features",
+      "optic atrophy",
+      "enlargement of the lateral ventricles",
+      "hypoplastic vermis cerebelli",
+      "severe delay of cognitive and motor development",
+      "dystonic posturing of the limbs",
+      "motor hyperactivity",
+      "continuous choreatic movements",
+      "severe generalized amyotrophy"
+    ],
+    [
+      "developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "seizures",
+      "acute liver failure",
+      "severe encephalopathy"
+    ],
+    [
+      "Long philtrum",
+      "ataxia",
+      "athetosis",
+      "aggressive behaviour",
+      "Severe infantile onset leukoencephalopathy",
+      "spastic quadriplegia",
+      "hypoglycaemia (neonatal)",
+      "epilepsy",
+      "Fatal lactic acidosis",
+      "Lactic acidosis",
+      "epilepsy",
+      "muscular hypotonia",
+      "cardiomyopathy",
+      "retinitis pigmentosa",
+      "Dystonia",
+      "suspected epilepsy",
+      "Ataxia",
+      "nystagmus",
+      "Parkinson-like symptoms",
+      "ptosis",
+      "valproate induced hepatotoxicity"
+    ],
+    [
+      "FARS2 deficiency"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    2,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The case report describes findings in a single 6-year-old girl, indicating one proband was tested.",
+      "The article discusses 'the proband' as a single individual who underwent genetic testing through Whole Exome Sequencing.",
+      "The report focuses on a 6-year-old child referred to as the proband, indicating that genetic testing and subsequent observations are centered on this individual.",
+      "The article refers to eleven subjects with WARS2 deficiency, including cases reported by Wortmann et al. and the current proband.",
+      "The passage mentions 'Two siblings' who were tested for a 'homozygous pathogenic splice-site variant in mitochondrial asparaginyl-tRNA synthetase (NARS2)'."
+    ],
+    "num_positive_het_probands": [
+      "The report does not specify any positive heterozygous probands; it describes compound heterozygosity for pathogenic variants.",
+      "There is no mention of any probands being positive for a heterozygous pathogenic variant.",
+      "No explicit mention of the proband being heterozygous for a pathogenic variant; the report mentions compound heterozygosity but not heterozygosity in isolation.",
+      "Five probands were reported to have the Lys313Met mutation, the most frequently detected pathogenic mutation in WARS2, including the one discussed here.",
+      "The 'Two siblings' were identified with a 'homozygous pathogenic splice-site variant', which is indicative of them being positive heterozygotes."
+    ],
+    "positive_phenotypes": [
+      "The phenotypes associated with the proband are listed in the case report, including early developmental delay, motor weakness, intellectual disability, epileptic seizure, acute liver failure, and severe progressive encephalopathy.",
+      "The phenotypes and clinical features are detailed throughout the case report for the proband, including neurological and physical characteristics.",
+      "Clinical phenotypes mentioned in connection with the proband include developmental delay, motor weakness, intellectual disability, seizures, acute liver failure, and severe encephalopathy.",
+      "The clinical findings for each proband include conditions like ataxia, epilepsy, lactic acidosis, and hypotonia as described in Table 2 and throughout the report.",
+      "The 'FARS2 deficiency' is mentioned in the context of the probands, indicating their associated phenotype."
+    ],
+    "num_compound_or_double_hets": [
+      "Two known pathogenic variants in WARS2 (c.797delC, pPro266ArgfsTer10/ c.938 A > T,p Lys313Met) were detected, indicating one compound heterozygote.",
+      "Whole Exome Sequencing identified two compound heterozygous variants in the WARS2 gene for the proband.",
+      "The report confirms compound heterozygosity by mentioning that both variants are located on different alleles in the proband.",
+      "There are mentions of compound heterozygous genetic findings in two probands: one carrying p Pro266ArgfsTerlO/ pLys313Met and another with pLys31_Gln116del/Val349Leu.",
+      "There is no mention of compound or double heterozygous individuals in the provided text."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AARS2",
+      "AR",
+      "ARC",
+      "B14",
+      "COX2",
+      "DARS2",
+      "FARS2",
+      "NARS2",
+      "NDUFB8",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "CS",
+      "GPT",
+      "SDS",
+      "WARS2"
+    ],
+    [
+      "C2",
+      "COMP",
+      "COX2",
+      "CPE",
+      "CS",
+      "MPL",
+      "PC",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "F2",
+      "F3",
+      "HR",
+      "POLG",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "D12",
+      "FARS2",
+      "FH",
+      "GC",
+      "NARS2",
+      "PC",
+      "POLG",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

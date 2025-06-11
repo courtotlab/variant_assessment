@@ -1,0 +1,110 @@
+{
+  "num_tested_probands": [
+    1,
+    5,
+    6,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    3,
+    3,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "extensively prolonged neuromuscular block"
+    ],
+    [
+      "compound heterozygous for two silent mutations",
+      "homozygous for silent mutations",
+      "no or very little active BChE"
+    ],
+    [
+      "prolonged neuromuscular block",
+      "silent butyrylcholinesterase phenotype",
+      "low BChE activity"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The case report is about a single 30-year-old male patient who was tested.",
+      "The report mentions that the patient, parents, and two brothers participated in the study, totaling five individuals.",
+      "The pedigree indicates testing of the mother, father, and three sons, totaling six individuals including the patient.",
+      "The report does not explicitly mention any number of probands tested."
+    ],
+    "num_positive_het_probands": [
+      "No proband in the report is described as a heterozygous positive for a pathogenic mutation other than the compound heterozygous state.",
+      "The report indicates that the father, the mother, and one brother are heterozygous for a silent mutation, noting 'the father; the mother; and the other brother are heterozygous for a silent mutation.'",
+      "The text specifies that the mother and two sons have heterozygous mutations.",
+      "No mention of probands who were heterozygous for a pathogenic variant was found."
+    ],
+    "positive_phenotypes": [
+      "The reported positive phenotype associated with the patient is an 'extensively prolonged neuromuscular block' in response to mivacurium.",
+      "The patient is described to be compound heterozygous for two silent mutations, related to a prolonged duration of action of mivacurium. Phenotypes such as 'compound heterozygous for two silent mutations' and having 'no or very little active BChE' are highlighted.",
+      "The phenotypes associated with the positive probands include prolonged neuromuscular block, silent BChE phenotype, and low BChE activity, as mentioned throughout the text.",
+      "The text does not describe any clinical phenotypes associated with positive probands."
+    ],
+    "num_compound_or_double_hets": [
+      "The patient is described as 'compound heterozygous for silent mutations in the butyrylcholinesterase gene'.",
+      "The patient is noted as being compound heterozygous for two silent mutations.",
+      "The patient is described as compound heterozygous for two silent mutations, combining mutations inherited from both the mother and father.",
+      "The report does not provide information about any individuals with compound or double heterozygous mutations."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "BCHE",
+      "NES",
+      "PC",
+      "SI",
+      "STH",
+      "TAT"
+    ],
+    [
+      "AGA",
+      "AGT",
+      "BCHE",
+      "CAT",
+      "GAA",
+      "GC",
+      "GCA",
+      "PC",
+      "SI",
+      "TAT",
+      "TG"
+    ],
+    [
+      "AR",
+      "BCHE",
+      "CIT",
+      "CRP",
+      "GC",
+      "NES",
+      "PC",
+      "SI",
+      "STH",
+      "TAT"
+    ],
+    [
+      "BCHE",
+      "CP",
+      "NES",
+      "SI",
+      "STH"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    []
+  ]
+}
