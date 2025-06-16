@@ -17,15 +17,19 @@ The information must be returned in a JSON format that complies with the followi
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
 6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. 
-   Each string in the sublist must be one full line of the quote exactly as it appears in the PDF. You must preserve all original punctuation — 
-   including commas, parentheses, and spacing — exactly as in the source. Do not add or remove spaces around punctuation marks, and do not 
-   replace commas with semicolons. Maintain line breaks and hyphenation if present in the original PDF. This format is intended for use in a 
-   PDF highlighting script using `page.search_for(line)` logic.
+   Each string in the sublist must be one full line of the quote exactly as it appears in the PDF. You must preserve all original punctuation 
+   exactly as it appears — including commas, periods, parentheses, and quotation marks.
+   - Do not replace commas with semicolons.
+   - Do not insert or remove spaces around punctuation or between words.
+   - Do not normalize spacing (e.g., two spaces must stay as two spaces if that’s how they appear).
+   - Do not reformat or clean up any characters — copy the line exactly as visually rendered in the PDF.
+   This format is intended for a PDF highlighter that uses `page.search_for(line)` logic and will fail if there are even minor changes.
 
 Example:
 "highlightable_quotes": [
   [
-    "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)"
+    "Here; we report the case of a 17-year-old boy with com-",
+    "pound heterozygous mutations in WARS2  (p.Trp13Gly,"
   ],
   [
     "Levodopa-responsive Parkinsonism presenting in infancy or child-",
