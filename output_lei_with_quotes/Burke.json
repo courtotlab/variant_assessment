@@ -1,0 +1,242 @@
+{
+  "Pages 1-2": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [
+      "infantile-onset Levodopa-responsive Parkinsonism"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The case report describes a 17-year-old boy as the subject of the study.",
+      "num_positive_het_probands": "The same 17-year-old boy is reported to have compound heterozygous mutations.",
+      "positive_phenotypes": "The boy presented with 'infantile-onset Levodopa-responsive Parkinsonism' at the age of 2 years.",
+      "num_compound_or_double_hets": "The report specifically mentions 'compound heterozygous mutations in WARS2' for the boy."
+    },
+    "highlightable_quotes": [
+      [
+        "Here; we report the case of a 17-year-old boy with com-",
+        "pound heterozygous mutations in WARS2  (p.Trp13Gly."
+      ],
+      [
+        "who presented with infantile-onset; Levodopa-responsive Parkinsonism at the age of 2 years."
+      ]
+    ],
+    "cleaned_quotes": [
+      [
+        "Here, we report the case of a 17-year-old boy with com-",
+        "pound heterozygous mutations in WARS2 (p.Trp13Gly."
+      ],
+      [
+        "who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+      ]
+    ],
+    "gene_symbol": [
+      "AR",
+      "B14",
+      "CAD",
+      "CS",
+      "EPOR",
+      "GAA",
+      "GATC",
+      "GC",
+      "GCA",
+      "GCAT",
+      "HR",
+      "MAF",
+      "MET",
+      "MT-ATP6",
+      "NDUFB8",
+      "NHS",
+      "PC",
+      "PINK1",
+      "Q10",
+      "SDHA",
+      "SI",
+      "TG",
+      "TH",
+      "TRO",
+      "UQCRC2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 3-4": {
+    "num_tested_probands": 3,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [
+      "Infantile-onset Parkinsonism",
+      "Dystonia",
+      "Tremors in extremities responsive to Levodopa treatment"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "Table 1 Clinical characteristics of patients with biallelic mutations in WARS2 lists three individuals.",
+      "num_positive_het_probands": "Proband 1 from Table 1 is heterozygous for WARS2 mutations and has a clinical presentation.",
+      "positive_phenotypes": "Proband 1 is described as having infantile-onset Parkinsonism, dystonia, and tremors responsive to Levodopa treatment.",
+      "num_compound_or_double_hets": "The genetic analysis section describes the patient as compound heterozygous for two variants in WARS2."
+    },
+    "highlightable_quotes": [
+      [
+        "3",
+        "RESULTS",
+        "3.3",
+        "Genetic analysis",
+        "Pathogenic SNPs, small insertions/deletions, and copy number and structural variants in the PD-associated genes PINK1, PRKN, PARKZ, ",
+        "and SCNA were ruled out by whole exome sequencing and whole genome single nucleotide polymorphism (SNP) array analysis: Top ",
+        "candidate variants were identified in several genes including KDMSC, LRCH2, FRY, CUL4A, SETD6, and WARS2 (Table S2 in Appendix ",
+        "S1). Specifically, the patient was compound heterozygous for 2 variants in WARS2 (NM_015836.3): a missense variant c.37T>G (p.",
+        "Trp13Gly) that was inherited from his mother and a missense variant \u20ac.683C>G (p.Ser228Trp) that was inherited from his father."
+      ],
+      [
+        "715",
+        "TABLE 1 Clinical characteristics of patients with biallelic mutations in WARS2",
+        "Column 1",
+        "Family 2-V:7 c37T>G (p.Trp13Gly)",
+        "Patient 1",
+        "Proband 1",
+        "WARS2 mutation Allelle 1 [pathogenecity prediction]",
+        "c.938A>T (p.Lys313Met)",
+        "c37T>G (p.Trp13Gly) [deleterious by SIFT, benign by polyphen, polymorphism by MutationTaster, CADD Phred score of 17.58] c.683CG (p.",
+        "Ser228Trp) [deleterious by SIFT, probably damaging by polyphen, disease causing by MutationTaster; and has a CADD Phred score of 34] ",
+        "Clinical presentation Gender ",
+        "Infantile-onset Parkinsonism",
+        "Male",
+        "Dystonia, tremors in extremities that are responsive to Levodopa treatment"
+      ]
+    ],
+    "cleaned_quotes": [
+      [
+        "3",
+        "RESULTS",
+        "3.3",
+        "Genetic analysis",
+        "Pathogenic SNPs, small insertions/deletions, and copy number and structural variants in the PD-associated genes PINK1, PRKN, PARKZ,",
+        "and SCNA were ruled out by whole exome sequencing and whole genome single nucleotide polymorphism (SNP) array analysis: Top",
+        "candidate variants were identified in several genes including KDMSC, LRCH2, FRY, CUL4A, SETD6, and WARS2 (Table S2 in Appendix",
+        "S1). Specifically, the patient was compound heterozygous for 2 variants in WARS2 (NM_015836.3): a missense variant c.37T>G (p.",
+        "Trp13Gly) that was inherited from his mother and a missense variant \u20ac.683C>G (p.Ser228Trp) that was inherited from his father."
+      ],
+      [
+        "715",
+        "TABLE 1 Clinical characteristics of patients with biallelic mutations in WARS2",
+        "Column 1",
+        "Family 2-V:7 c37T>G (p.Trp13Gly)",
+        "Patient 1",
+        "Proband 1",
+        "WARS2 mutation Allelle 1 [pathogenecity prediction]",
+        "c.938A>T (p.Lys313Met)",
+        "c37T>G (p.Trp13Gly) [deleterious by SIFT, benign by polyphen, polymorphism by MutationTaster, CADD Phred score of 17.58] c.683CG (p.",
+        "Ser228Trp) [deleterious by SIFT, probably damaging by polyphen, disease causing by MutationTaster; and has a CADD Phred score of 34]",
+        "Clinical presentation Gender",
+        "Infantile-onset Parkinsonism",
+        "Male",
+        "Dystonia, tremors in extremities that are responsive to Levodopa treatment"
+      ]
+    ],
+    "gene_symbol": [
+      "AR",
+      "ATP6",
+      "B2M",
+      "CAD",
+      "CS",
+      "CUL4A",
+      "FRY",
+      "GCH1",
+      "LRCH2",
+      "MSC",
+      "NDUFB8",
+      "PC",
+      "PINK1",
+      "PRKN",
+      "PS1",
+      "SETD6",
+      "SI",
+      "UQCRC2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 5-6": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [
+      "infantile-onset",
+      "Levodopa-responsive Parkinsonism"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The text mentions only one patient case, described as 'a fourth patient with compound heterozygous mutations in WARS2.'",
+      "num_positive_het_probands": "The same patient is identified as having compound heterozygous mutations, indicating they are heterozygous for pathogenic variants.",
+      "positive_phenotypes": "The patient is described with 'infantile-onset; Levodopa-responsive Parkinsonism.'",
+      "num_compound_or_double_hets": "The text mentions a 'fourth patient with compound heterozygous mutations in WARS2.'"
+    },
+    "highlightable_quotes": [
+      [
+        "Here; we present a fourth patient with compound heterozygous",
+        "mutations in WARS2 and a clinical presentation of infantile-onset; Levodopa-responsive Parkinsonism:"
+      ],
+      [
+        "In conclusion; we expand the phenotypic spectrum of disorders caused by biallelic",
+        "mutations in WARS2 gene to include infantile-onset; Levodopa-responsive Parkinsonism"
+      ]
+    ],
+    "cleaned_quotes": [
+      [
+        "Here, we present a fourth patient with compound heterozygous",
+        "mutations in WARS2 and a clinical presentation of infantile-onset, Levodopa-responsive Parkinsonism:"
+      ],
+      [
+        "In conclusion, we expand the phenotypic spectrum of disorders caused by biallelic",
+        "mutations in WARS2 gene to include infantile-onset, Levodopa-responsive Parkinsonism"
+      ]
+    ],
+    "gene_symbol": [
+      "AARS2",
+      "AR",
+      "C2",
+      "CS",
+      "FER",
+      "GEM",
+      "ISCU",
+      "MT-ATP6",
+      "NDUFB8",
+      "NHS",
+      "NTS",
+      "PC",
+      "Q10",
+      "REN",
+      "SDHA",
+      "SI",
+      "UQCRC2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 7-8": {
+    "num_tested_probands": 0,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The text does not specify the number of tested probands.",
+      "num_positive_het_probands": "The text does not mention any probands being heterozygous for a pathogenic variant.",
+      "positive_phenotypes": "There are no specific clinical phenotypes associated with positive probands mentioned in the text.",
+      "num_compound_or_double_hets": "The text does not mention individuals with compound or double heterozygous mutations."
+    },
+    "highlightable_quotes": [],
+    "cleaned_quotes": [],
+    "gene_symbol": [
+      "AARS2",
+      "AR",
+      "CS",
+      "KIAA0586",
+      "POR",
+      "SLC25A4",
+      "SLC39A14",
+      "TARS2",
+      "VARS2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  }
+}
