@@ -28,6 +28,7 @@ The information must be returned in a JSON format that complies with the followi
    For each quote in `highlightable_quotes`, return a cleaned, actual version that I can take the text and using crtl+f can find by pasting that text by re-going over the document if necessary:
    - Collapse multiple spaces into a single space in places where an extra space was added.
    - Replace semicolons with commas **only** where semicolons were mistakenly used instead of commas in the original.
+   - Preserve the line breaks as they are so ["Here, we report the case of a 17-year-old boy with com-", "pound] shouldn't be combined into "Here, we report the case of a 17-year-old boy with compound" 
    - Preserve medically meaningful punctuation and gene formatting.
 
 Example:
