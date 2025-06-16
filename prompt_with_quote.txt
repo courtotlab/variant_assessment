@@ -17,31 +17,38 @@ The information must be returned in a JSON format that complies with the followi
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
 6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. 
-   Each string in the sublist must be one full line of the quote exactly as it appears in the PDF. 
-   You must preserve all original punctuation and spacing exactly as in the source.
+   Each string in the sublist must correspond to one full **visual line** exactly as it appears in the PDF.
+   - Preserve original line breaks: if a sentence is broken across lines in the PDF, it must appear as multiple strings.
+   - Preserve original punctuation and spacing **exactly**.
    - Do not replace commas with semicolons.
-   - Do not alter line breaks or hyphenation.
-   - Do not normalize spacing — retain double spaces if they appear in the original.
-   This field is used for PDF highlighting using `page.search_for(line)`.
+   - Do not alter or unwrap hyphenated line breaks.
+   - Do not normalize or trim extra spaces — retain double spaces if present.
+   This field is used for PDF highlighting via `page.search_for(line)`, so **line-level accuracy is required**.
 
 7. "cleaned_quotes" / list of strings. (optional)  
-   For each quote in `highlightable_quotes`, return a cleaned, actual version that I can take the text and using crtl+f can find by pasting that text by re-going over the document if necessary:
-   - Collapse multiple spaces into a single space in places where an extra space was added.
-   - Replace semicolons with commas **only** where semicolons were mistakenly used instead of commas in the original.
-   - Preserve the line breaks as they are so ["Here, we report the case of a 17-year-old boy with com-", "pound] shouldn't be combined into "Here, we report the case of a 17-year-old boy with compound" 
-   - Preserve medically meaningful punctuation and gene formatting.
+   For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
+   - Preserve original line structure (i.e., do **not** concatenate lines into a single string).
+   - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
+   - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons.
+   - Preserve hyphenation and medically meaningful formatting (e.g., p.Trp13Gly, gene names, etc.).
 
 Example:
 "highlightable_quotes": [
   [
     "Here; we report the case of a 17-year-old boy with com-",
     "pound heterozygous mutations in WARS2  (p.Trp13Gly,"
+  ],
+  [
+    "and a syndrome of",
+    "severe infantile-onset leukoencephalopathy"
   ]
 ],
 "cleaned_quotes": [
-    "Here, we report the case of a 17-year-old boy with com-",
-    "pound heterozygous mutations in WARS2 (p.Trp13Gly,"
-  ]
+  "Here, we report the case of a 17-year-old boy with com-",
+  "pound heterozygous mutations in WARS2 (p.Trp13Gly,",
+  "and a syndrome of",
+  "severe infantile-onset leukoencephalopathy"
+]
 
 ## Coreference Resolution
 - **Maintain Entity Consistency**: When extracting entities, always use the most specific and complete identifier possible. 
