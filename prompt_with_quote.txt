@@ -16,14 +16,7 @@ The information must be returned in a JSON format that complies with the followi
 3. "positive_phenotypes" / list of strings.
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
-6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. 
-   Each string in the sublist must correspond to one full **visual line** exactly as it appears in the PDF.
-   - Preserve original line breaks: if a sentence is broken across lines in the PDF, it must appear as multiple strings.
-   - Preserve original punctuation and spacing **exactly**.
-   - Do not replace commas with semicolons.
-   - Do not alter or unwrap hyphenated line breaks.
-   - Do not normalize or trim extra spaces — retain double spaces if present.
-   This field is used for PDF highlighting via `page.search_for(line)`, so **line-level accuracy is required**.
+6. 6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. Each string in the sublist must be one full line of the quote exactly as it appears in the PDF, preserving line breaks and hyphenation if present. This format is intended for use in a PDF highlighting script using `page.search_for(line)` logic.
 
 7. "cleaned_quotes" / list of strings. (optional)  
    For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
