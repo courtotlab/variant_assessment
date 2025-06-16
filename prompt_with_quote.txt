@@ -16,13 +16,15 @@ The information must be returned in a JSON format that complies with the followi
 3. "positive_phenotypes" / list of strings.
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
-6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote from the source document.  
-   Each string in the sublist must be **one full visual line from the PDF**, exactly as it appears — including punctuation, spacing, and line breaks.  
-   - Do not merge lines, even if a sentence continues onto the next line.  
-   - Do not alter punctuation. If a comma appears, it must stay a comma.  
-   - Do not normalize or trim spacing — double spaces must remain if they appear.  
-   - Do not wrap hyphenated line endings — preserve the visual layout line-by-line.  
-   This format is used for PDF text highlighting and requires exact line matches using `page.search_for(line)`.
+6. "quote_snippets" / list of strings.  
+   Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.  
+   These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
+   - Do not merge unrelated ideas; each quote should focus on one finding.  
+   - **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
+   - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).  
+   - Never replace commas with semicolons.  
+   - Fix extra spaces or OCR artifacts only if necessary, but avoid rewording or reflowing structure.  
+   - The goal is to allow exact text matching to the PDF, so fidelity is critical.
 
 7. "cleaned_quotes" / list of strings. (optional)  
    For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
