@@ -16,31 +16,41 @@ The information must be returned in a JSON format that complies with the followi
 3. "positive_phenotypes" / list of strings.
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
-6. 6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. Each string in the sublist must be one full line of the quote exactly as it appears in the PDF, preserving line breaks and hyphenation if present. This format is intended for use in a PDF highlighting script using `page.search_for(line)` logic.
+6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote from the source document.  
+   Each string in the sublist must be **one full visual line from the PDF**, exactly as it appears — including punctuation, spacing, and line breaks.  
+   - Do not merge lines, even if a sentence continues onto the next line.  
+   - Do not alter punctuation. If a comma appears, it must stay a comma.  
+   - Do not normalize or trim spacing — double spaces must remain if they appear.  
+   - Do not wrap hyphenated line endings — preserve the visual layout line-by-line.  
+   This format is used for PDF text highlighting and requires exact line matches using `page.search_for(line)`.
 
-7. "cleaned_quotes" / list of strings. (optional)  
-   For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
-   - Preserve original line structure (i.e., do **not** concatenate lines into a single string).
-   - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
-   - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons.
-   - Preserve hyphenation and medically meaningful formatting (e.g., p.Trp13Gly, gene names, etc.).
+7. "cleaned_quotes" / list of lists of strings. (optional)  
+   This is a cleaned version of the above quotes, preserving the **same line structure**, but:
+   - Replace semicolons with commas **only** when they were mistakenly used instead of commas.
+   - Collapse multiple spaces into a single space if extra spacing was introduced.
+   - Preserve medically meaningful punctuation (e.g., parentheses, gene symbols).
+   - Do not reflow lines or merge sentence fragments — each line in the cleaned quote must correspond one-to-one with the original.
 
-Example:
+### Example
 "highlightable_quotes": [
   [
     "Here; we report the case of a 17-year-old boy with com-",
     "pound heterozygous mutations in WARS2  (p.Trp13Gly,"
   ],
   [
-    "and a syndrome of",
-    "severe infantile-onset leukoencephalopathy"
+    "who presented with",
+    "infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
   ]
 ],
 "cleaned_quotes": [
-  "Here, we report the case of a 17-year-old boy with com-",
-  "pound heterozygous mutations in WARS2 (p.Trp13Gly,",
-  "and a syndrome of",
-  "severe infantile-onset leukoencephalopathy"
+  [
+    "Here, we report the case of a 17-year-old boy with com-",
+    "pound heterozygous mutations in WARS2 (p.Trp13Gly,"
+  ],
+  [
+    "who presented with",
+    "infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+  ]
 ]
 
 ## Coreference Resolution
@@ -49,6 +59,6 @@ For example, if “Proband 1”, "the boy", "the patient", and "he" all refer to
 
 ##### END PROMPT #####
 ##### START PLUGINS #####
-gene_symbol=trie_hgnc
-genomic_hgvs=regex_hgvsg
+gene_symbol=trie_hgnc  
+genomic_hgvs=regex_hgvsg  
 ##### END PLUGINS #####
