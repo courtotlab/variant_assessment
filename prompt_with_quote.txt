@@ -16,10 +16,17 @@ The information must be returned in a JSON format that complies with the followi
 3. "positive_phenotypes" / list of strings.
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
-6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. Each string in the sublist must be one full line of the quote exactly as it appears in the PDF, preserving line breaks and hyphenation if present. This format is intended for use in a PDF highlighting script using `page.search_for(line)` logic.
+6. "highlightable_quotes" / list of lists of strings. Each sublist must represent one complete quote that appears in the source document. 
+   Each string in the sublist must be one full line of the quote exactly as it appears in the PDF. You must preserve all original punctuation — 
+   including commas, parentheses, and spacing — exactly as in the source. Do not add or remove spaces around punctuation marks, and do not 
+   replace commas with semicolons. Maintain line breaks and hyphenation if present in the original PDF. This format is intended for use in a 
+   PDF highlighting script using `page.search_for(line)` logic.
 
 Example:
 "highlightable_quotes": [
+  [
+    "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)"
+  ],
   [
     "Levodopa-responsive Parkinsonism presenting in infancy or child-",
     "hood is extraordinarily rare and may occur as a comorbidity to other",
