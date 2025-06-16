@@ -1,0 +1,192 @@
+{
+  "Pages 1-2": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "infantile-onset Levodopa-responsive Parkinsonism"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The case report discusses a '17-year-old boy' who underwent testing, indicating that only one proband was tested.",
+      "num_positive_het_probands": "The report mentions compound heterozygous mutations, but does not indicate any probands were simply heterozygous for a variant.",
+      "positive_phenotypes": "The report describes the clinical presentation as 'infantile-onset Levodopa-responsive Parkinsonism'.",
+      "num_compound_or_double_hets": "The report specifies the boy had 'compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)'."
+    },
+    "highlightable_quotes": [
+      [
+        "Here; we report the case of a 17-year-old boy with com-",
+        "pound heterozygous mutations in WARS2  (p.Trp13Gly, p.Ser228Trp)",
+        "who presented with infantile-onset; Levodopa-responsive Parkinsonism",
+        "at the age of 2 years."
+      ]
+    ],
+    "gene_symbol": [
+      "AR",
+      "B14",
+      "CAD",
+      "CS",
+      "EPOR",
+      "GAA",
+      "GATC",
+      "GC",
+      "GCA",
+      "GCAT",
+      "HR",
+      "MAF",
+      "MET",
+      "MT-ATP6",
+      "NDUFB8",
+      "NHS",
+      "PC",
+      "PINK1",
+      "Q10",
+      "SDHA",
+      "SI",
+      "TG",
+      "TH",
+      "TRO",
+      "UQCRC2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 3-4": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "Infantile-onset Parkinsonism",
+      "Dystonia",
+      "Tremors in extremities that are responsive to Levodopa treatment",
+      "Retrocollic dystonic spasms",
+      "Chronic headaches",
+      "Advanced Levodopa-responsive Parkinsonism with prominent and unpredictable \"on-off\" fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The report describes only 'The patient' with detailed clinical data and genetic analysis",
+      "num_positive_het_probands": "No separate probands reported as heterozygous for a pathogenic variant alone.",
+      "positive_phenotypes": "Clinical phenotypes like 'Infantile-onset Parkinsonism', 'Dystonia', 'Tremors in extremities responsive to Levodopa', and others are described throughout the report associated with 'The patient.'",
+      "num_compound_or_double_hets": "The patient is described as 'compound heterozygous for 2 variants in WARS2'"
+    },
+    "highlightable_quotes": [
+      [
+        "The patient was evaluated at the NIH at age 9 and had advanced",
+        "Levodopa-responsive Parkinsonism with prominent and",
+        "unpredictable \"on-off\" fluctuations, peak-dose dyskinesia, stooped",
+        "posture and disabling off-dystonia."
+      ],
+      [
+        "Following delivery, he was noted to have pneumothorax and",
+        "received a chest tube and was monitored on a ventilator for 4 days."
+      ],
+      [
+        "By 23 months, tremor had also become apparent in the upper",
+        "extremities along with intermittent dystonic posturing of all extremities",
+        "(Videos S1-S7 in Appendix S1, Supporting information):",
+        "Symptoms were severe enough to warrant a trial of Levodopa."
+      ],
+      [
+        "Specifically, the patient was compound heterozygous for 2 variants",
+        "in WARS2 (NM_015836.3): a missense variant   c.37T>G (p.Trp13Gly)",
+        "that was inherited from his mother and a missense variant",
+        "\u20ac.683C>G (p.Ser228Trp) that was inherited from his father."
+      ],
+      [
+        "Dystonia, tremors in extremities that are responsive to Levodopa treatment"
+      ],
+      [
+        "Chronic headaches occurred due to retrocollic dystonic  spasms"
+      ]
+    ],
+    "gene_symbol": [
+      "AR",
+      "ATP6",
+      "B2M",
+      "CAD",
+      "CS",
+      "CUL4A",
+      "FRY",
+      "GCH1",
+      "LRCH2",
+      "MSC",
+      "NDUFB8",
+      "PC",
+      "PINK1",
+      "PRKN",
+      "PS1",
+      "SETD6",
+      "SI",
+      "UQCRC2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 5-6": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [
+      "infantile-onset",
+      "Levodopa-responsive Parkinsonism"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The text presents 'a fourth patient' with WARS2 compound heterozygous mutations and describes this specific patient's clinical phenotype.",
+      "num_positive_het_probands": "It states 'we present a fourth patient with compound heterozygous mutations in WARS2'. This patient is inferred to be heterozygous for the two different mutations identified\u2014one inherited from each parent.",
+      "positive_phenotypes": "The clinical presentation of the patient is described as 'infantile-onset; Levodopa-responsive Parkinsonism'.",
+      "num_compound_or_double_hets": "The report specifies 'compound heterozygous mutations in WARS2' in the presented patient, identifying one paternal and one maternal mutation."
+    },
+    "highlightable_quotes": [
+      [
+        "Here; we present a fourth patient with compound heterozygous mutations in WARS2",
+        "and a clinical presentation of infantile-onset; Levodopa-responsive Parkinsonism:"
+      ]
+    ],
+    "gene_symbol": [
+      "AARS2",
+      "AR",
+      "C2",
+      "CS",
+      "FER",
+      "GEM",
+      "ISCU",
+      "MT-ATP6",
+      "NDUFB8",
+      "NHS",
+      "NTS",
+      "PC",
+      "Q10",
+      "REN",
+      "SDHA",
+      "SI",
+      "UQCRC2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 7-8": {
+    "num_tested_probands": 0,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The document does not provide any specific information about the number of probands tested.",
+      "num_positive_het_probands": "There is no mention of probands being heterozygous for pathogenic variants in the provided text.",
+      "positive_phenotypes": "There are no identified clinical phenotypes associated with positive probands in the provided text.",
+      "num_compound_or_double_hets": "The text does not mention any individuals with compound or double heterozygous mutations."
+    },
+    "highlightable_quotes": [],
+    "gene_symbol": [
+      "AARS2",
+      "AR",
+      "CS",
+      "KIAA0586",
+      "POR",
+      "SLC25A4",
+      "SLC39A14",
+      "TARS2",
+      "VARS2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  }
+}
