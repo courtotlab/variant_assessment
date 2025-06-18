@@ -28,7 +28,7 @@ def combine_json_file(input_path, output_dir, output_filename="combined.json"):
 
 
 combine_json_file(
-    "/Users/aahmed/Downloads/Vantroys.json",
-    "/Users/aahmed/variant_assessment/output_lei",
-    "Vantroys_lei.json"
+    "output_lei_with_quotes/Vantroys.json",
+    "output_lei_with_quotes",
+    "Vantroys_lei_quotes.json"
 )

@@ -1,0 +1,259 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    11,
+    1
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    2,
+    1
+  ],
+  "positive_phenotypes": [
+    [
+      "early developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "epileptic seizure",
+      "acute liver failure",
+      "severe progressive encephalopathy"
+    ],
+    [
+      "severe axial hypotonia",
+      "hypertonia and dystonic posturing of arms and legs",
+      "slight dysmorphic features",
+      "optic atrophy",
+      "enlargement of the lateral ventricles and third ventricle",
+      "hypoplastic vermis cerebelli and brainstem",
+      "acute liver failure",
+      "metabolic encephalopathy",
+      "severe delay of cognitive and motor development",
+      "rigidity of arms and legs",
+      "dystonic posturing of the limbs",
+      "motor hyperactivity and continuous choreatic movements",
+      "severe generalized amyotrophy"
+    ],
+    [
+      "developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "epilepsy",
+      "acute liver failure",
+      "severe encephalopathy",
+      "extra-pyramidal signs"
+    ],
+    [
+      "Severe infantile onset leukoencephalopathy",
+      "Spastic quadriplegia",
+      "Hypoglycemia",
+      "Epilepsy",
+      "Fatal lactic acidosis",
+      "Lactic acidosis",
+      "Muscular hypotonia",
+      "Cardiomyopathy",
+      "Retinitis pigmentosa",
+      "Ataxia",
+      "Parkinson-like symptoms",
+      "Dystonia",
+      "Valproate induced hepatotoxicity",
+      "Epilepsy",
+      "Neonatal hypoglycemia"
+    ],
+    [
+      "infantile-onset parkinsonism"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    3,
+    1
+  ],
+  "quote_snippets": [
+    [
+      "Here; we report on a subject who presented with early developmental delay, motor weakness and intellectual disability and who was considered during several years as having a non-progressive encephalopathy.",
+      "At the age of six years, she had an epileptic seizure which was treated with sodium valproate: In the months after treatment was started, she developed acute liver failure and severe progressive encephalopathy:",
+      "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, pPro266ArgfsTer10/ c.938 A > T,p Lys313Met):"
+    ],
+    [
+      "The proband was born at term from non-consanguineous parents.",
+      "When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were no-",
+      "ticed and she was found to have slight dysmorphic features, ie a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum",
+      "Ophthalmological examination revealed optic atrophy",
+      "Cerebral MRI showed enlargement of the lateral ventricles and third ventricle presumably due to white matter loss.",
+      "hypoplastic, the fourth ventricle was enlarged",
+      "She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy.",
+      "When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed",
+      "rigidity of arms and legs was noticed",
+      "dystonic posturing of the limbs together with motor hyperactivity and continuous choreatic movements were seen",
+      "severe generalized amyotrophy",
+      "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836)."
+    ],
+    [
+      "In the proband, spectrophotometrical analysis and BN-PAGE in a liver biopsy specimen showed a deficient activity.",
+      "Her condition remained stable for several years until she presented for the first time with seizures.",
+      "developmental delay, motor weakness, intellectual disability: Her condition remained stable for several years until she presented for the first time with seizures.",
+      "fits into the second phenotype (protracted course, early onset developmental delay, motor weakness, extra-pyramidal signs, epilepsy).",
+      "A third primer pair was designed to confirm the compound heterozygosity."
+    ],
+    [
+      "Severe infantile onset leukoencephalopathy, spastic quadriplegia, hypoglycemia (neonatal), epilepsy",
+      "Fatal lactic acidosis",
+      "Lactic acidosis, epilepsy, hypoglycaemia (neonatal)",
+      "Epilepsy, muscular hypotonia, cardiomyopathy, retinitis pigmentosa",
+      "Ataxia, nystagmus",
+      "Long phi-",
+      "l-",
+      "trum,",
+      "Parkinson-like symptoms; dystonia",
+      "Epilepsy, ptosis, hypoglycaemia, valproate induced hepatotoxicity"
+    ],
+    [
+      "Biallelic mutations in mitochondrial Tryptophanyl-tRNA Synthetase cause levodopa-Rresponsive infantile-onset parkinson-",
+      "ism: Clin Genet: 2017;"
+    ]
+  ],
+  "cleaned_quotes": [
+    [
+      "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability and who was considered during several years as having a non-progressive encephalopathy.",
+      "At the age of six years, she had an epileptic seizure which was treated with sodium valproate. In the months after treatment was started, she developed acute liver failure and severe progressive encephalopathy.",
+      "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, pPro266ArgfsTer10/ c.938 A > T,p Lys313Met)."
+    ],
+    [
+      "The proband was born at term from non-consanguineous parents.",
+      "When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were no-",
+      "ticed and she was found to have slight dysmorphic features, ie a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum",
+      "Ophthalmological examination revealed optic atrophy",
+      "Cerebral MRI showed enlargement of the lateral ventricles and third ventricle presumably due to white matter loss.",
+      "hypoplastic, the fourth ventricle was enlarged",
+      "She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy.",
+      "When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed",
+      "rigidity of arms and legs was noticed",
+      "dystonic posturing of the limbs together with motor hyperactivity and continuous choreatic movements were seen",
+      "severe generalized amyotrophy",
+      "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836)."
+    ],
+    [
+      "In the proband, spectrophotometrical analysis and BN-PAGE in a liver biopsy specimen showed a deficient activity.",
+      "Her condition remained stable for several years until she presented for the first time with seizures.",
+      "developmental delay, motor weakness, intellectual disability: Her condition remained stable for several years until she presented for the first time with seizures.",
+      "fits into the second phenotype (protracted course, early onset developmental delay, motor weakness, extra-pyramidal signs, epilepsy).",
+      "A third primer pair was designed to confirm the compound heterozygosity."
+    ],
+    [
+      "Severe infantile onset leukoencephalopathy, spastic quadriplegia, hypoglycemia (neonatal), epilepsy",
+      "Fatal lactic acidosis",
+      "Lactic acidosis, epilepsy, hypoglycaemia (neonatal)",
+      "Epilepsy, muscular hypotonia, cardiomyopathy, retinitis pigmentosa",
+      "Ataxia, nystagmus",
+      "Long phi-",
+      "l-",
+      "trum,",
+      "Parkinson-like symptoms; dystonia",
+      "Epilepsy, ptosis, hypoglycaemia, valproate induced hepatotoxicity"
+    ],
+    [
+      "Biallelic mutations in mitochondrial Tryptophanyl-tRNA Synthetase cause levodopa-Rresponsive infantile-onset parkinson-",
+      "ism: Clin Genet: 2017;"
+    ]
+  ],
+  "gene_symbol": [
+    [
+      "AARS2",
+      "AR",
+      "ARC",
+      "B14",
+      "COX2",
+      "DARS2",
+      "FARS2",
+      "NARS2",
+      "NDUFB8",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "CS",
+      "GPT",
+      "SDS",
+      "WARS2"
+    ],
+    [
+      "C2",
+      "COMP",
+      "COX2",
+      "CPE",
+      "CS",
+      "MPL",
+      "PC",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "F2",
+      "F3",
+      "HR",
+      "POLG",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "D12",
+      "FARS2",
+      "FH",
+      "GC",
+      "NARS2",
+      "PC",
+      "POLG",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The case report focuses on a single 6-year-old girl, making her the sole proband tested in this case study.",
+      "The report details a single proband with a complex clinical presentation: 'Case report. The proband was born at term from non-consanguineous parents.'",
+      "The text describes a single proband: 'In the proband, spectrophotometrical analysis and BN-PAGE in a liver biopsy specimen showed a deficient activity.'",
+      "A total of eleven probands were extracted from Table 2 clinical data, each with different genetic and clinical findings attributed to WARS2 deficiency.",
+      "The report discusses a single proband associated with the WARS2 gene mutation."
+    ],
+    "num_positive_het_probands": [
+      "The report describes compound heterozygous mutations, not simple heterozygosity, thus no probands were noted as only heterozygous.",
+      "There is no mention of probands being heterozygous for pathogenic variants. Instead, a compound heterozygous mutation was identified.",
+      "There is no mention of probands who were heterozygous for a pathogenic variant, only a proband with compound heterozygosity.",
+      "Two probands (F2-V:7 and F2-V:8) with Trp13Gly and Ser1 O9Alafs*15 mutations mentioned in the table indicate they are positive heterozygous for pathogenic mutations.",
+      "The proband is heterozygous for a mutation in the WARS2 gene, specifically identified with infantile-onset parkinsonism."
+    ],
+    "positive_phenotypes": [
+      "The subject presented with early developmental delay, motor weakness, intellectual disability, epileptic seizure, acute liver failure, and severe progressive encephalopathy after sodium valproate treatment.",
+      "Multiple phenotypes were described throughout the text, including severe axial hypotonia, optic atrophy, and severe cognitive and motor delay.",
+      "The proband's phenotypes are outlined in several sections, including 'developmental delay, motor weakness, intellectual disability: Her condition remained stable for several years until she presented for the first time with seizures...' and '...fits into the second phenotype (protracted course, early onset developmental delay, motor weakness, extra-pyramidal signs, epilepsy).'",
+      "Clinical findings listed in Table 2 for each subject include infantile onset leukoencephalopathy, spastic quadriplegia, hypoglycemia, epilepsy, and other related symptoms.",
+      "The phenotype 'infantile-onset parkinsonism' is explicitly mentioned as being associated with WARS2 mutations."
+    ],
+    "num_compound_or_double_hets": [
+      "Two known pathogenic variants were detected in WARS2, indicating the proband is a compound heterozygote.",
+      "The proband has two compound heterozygous variants in the WARS2 gene: 'This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836).' ",
+      "The text mentions the compound heterozygous state: 'A third primer pair was designed to confirm the compound heterozygosity.'",
+      "The identical compound heterozygous genotype (p.Pro266ArgfsTerlO/ p.Lys313Met) was mentioned for two subjects and another subject was compound heterozygous for p.Lys31_Gln116del and Val349Leu, summing to three subjects.",
+      "The text reports compound heterozygous mutations in the WARS2 gene in the proband."
+    ]
+  }
+}

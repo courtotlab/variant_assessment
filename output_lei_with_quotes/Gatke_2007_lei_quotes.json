@@ -1,0 +1,123 @@
+{
+  "num_tested_probands": [
+    3,
+    3,
+    1
+  ],
+  "num_positive_het_probands": [
+    1,
+    1,
+    1
+  ],
+  "positive_phenotypes": [
+    [
+      "prolonged duration of action of succinylcholine"
+    ],
+    [
+      "prolonged duration of action of succinylcholine",
+      "apnoea",
+      "postoperative artificial ventilation"
+    ],
+    [
+      "Response to mivacurium"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    2,
+    1
+  ],
+  "quote_snippets": [
+    [
+      "We present three novel mutations in the butyrylcholinesterase gene (BCHE) identified in three families in which a member had experienced severely prolonged duration of action of succinylcholine:",
+      "The proband in family was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.",
+      "In both patients, BChE activity was below detection limit; and they experienced an extensively prolonged duration of action of succinylcholine:"
+    ],
+    [
+      [
+        "The proband in family 3 (Table 1, patient 3) was com-",
+        "pound heterozygous for BCHE*328D and BCHE*142M, the latter mutation also known a8 the H-variant."
+      ],
+      [
+        "The proband in family 1 (Fig: 1, patient 1-2) had the genotype BCHE*H15D*I3E4-I4CIBCHE*FS126 and dis-",
+        "played prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit."
+      ],
+      [
+        "The mutation BCHE*FS126 also occurred in the unrelated family 2 (Table 1). One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2-3)_"
+      ]
+    ],
+    [
+      [
+        "Response to mivacurium in patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing"
+      ]
+    ]
+  ],
+  "cleaned_quotes": [
+    [
+      "We present three novel mutations in the butyrylcholinesterase gene (BCHE) identified in three families in which a member had experienced severely prolonged duration of action of succinylcholine.",
+      "The proband in family was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.",
+      "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+    ],
+    [
+      "The proband in family 3 (Table 1, patient 3) was com-",
+      "pound heterozygous for BCHE*328D and BCHE*142M, the latter mutation also known as the H-variant.",
+      "The proband in family 1 (Fig: 1, patient 1-2) had the genotype BCHE*H15D*I3E4-I4CIBCHE*FS126 and dis-",
+      "played prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit.",
+      "The mutation BCHE*FS126 also occurred in the unrelated family 2 (Table 1). One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2-3)."
+    ],
+    [
+      "Response to mivacurium in patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing"
+    ]
+  ],
+  "gene_symbol": [
+    [
+      "BCHE",
+      "CLU",
+      "DCR",
+      "FST",
+      "S12",
+      "ST2",
+      "UST"
+    ],
+    [
+      "BCHE",
+      "C5",
+      "CAT",
+      "CHE2",
+      "GC",
+      "PC",
+      "S12",
+      "S19"
+    ],
+    [
+      "BCHE"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    []
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report presents three novel mutations identified in three families, each with a proband experiencing prolonged action of succinylcholine.",
+      "The probands discussed are in family 1 (patient 1-2), family 2 (patient 2-3), and family 3 (patient 3).",
+      "A single patient is mentioned: 'in patient compound heterozygous for a novel and a known silent mutation.'"
+    ],
+    "num_positive_het_probands": [
+      "One proband in family 1 is reported as compound heterozygous for BCHE*115D*I3E4-14C/BCHE*FS126.",
+      "Family 2 has one patient with low BChE activity genotyped as heterozygous for BCHE*FS126.",
+      "The same patient is compound heterozygous, implying they are heterozygous for both mutations: 'in patient compound heterozygous for a novel and a known silent mutation.'"
+    ],
+    "positive_phenotypes": [
+      "The proband in family 1 experienced a severely prolonged duration of action of succinylcholine.",
+      "Phenotypes such as 'prolonged duration of action of succinylcholine, apnoea, and hence postoperative artificial ventilation' described for probands with heterozygous mutations.",
+      "The phenotype 'Response to mivacurium' is associated with the patient: 'Response to mivacurium in patient compound heterozygous...'"
+    ],
+    "num_compound_or_double_hets": [
+      "The text explicitly mentions one proband in family 3 who is compound heterozygous for BCHE*328D and BCHE*142M.",
+      "Two patients are reported as compound heterozygotes: proband in family 3 (patient 3) and proband in family 1 (patient 1-2).",
+      "The text explicitly states: 'in patient compound heterozygous for a novel and a known silent mutation,' indicating one compound heterozygote."
+    ]
+  }
+}
