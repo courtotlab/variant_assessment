@@ -29,25 +29,24 @@
   ],
   "positive_phenotypes": [
     [
-      "Levodopa-responsive Parkinsonism"
+      "infantile-onset, Levodopa-responsive Parkinsonism"
     ],
     [
-      "Infantile-onset Parkinsonism",
-      "Leukoencephalopathy",
-      "Intellectual disability"
+      "Infantile-onset leukoencephalopathy",
+      "Infantile-onset Parkinsonism"
     ],
     [
       "Levodopa-responsive Parkinsonism",
-      "Infantile-onset neurodegeneration"
+      "Infantile-onset Leukoencephalopathy"
     ],
     []
   ],
   "num_compound_or_double_hets": [
     [
-      1
+      0
     ],
     [
-      1
+      2
     ],
     [
       1
@@ -59,10 +58,10 @@
   "explanation": {
     "num_tested_probands": [
       [
-        "The patient was the only proband tested in this report."
+        "The patient is the only proband tested in this report."
       ],
       [
-        "The patient was the first and only child born to non-consanguineous parents, indicating that there is no family history of genetic disorders."
+        "The patient was the only proband tested."
       ],
       [
         "The patient is the only proband tested in this report."
@@ -73,13 +72,13 @@
     ],
     "num_positive_het_probands": [
       [
-        "No probands were reported to be heterozygous for a pathogenic variant."
-      ],
-      [
         "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
-        "No proband was found to be heterozygous for a pathogenic variant."
+        "No proband was heterozygous for a pathogenic variant."
+      ],
+      [
+        "No heterozygous probands were reported to have pathogenic variants."
       ],
       [
         "No heterozygous probands were identified in the provided articles."
@@ -87,13 +86,13 @@
     ],
     "positive_phenotypes": [
       [
-        "The patient presented with Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkinson's disease."
+        "The patient presents with infantile-onset, Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkinson's disease."
       ],
       [
-        "The patient exhibited infantile-onset Parkinsonism, leukoencephalopathy, and intellectual disability."
+        "The patient had infantile-onset leukoencephalopathy and infantile-onset Parkinsonism."
       ],
       [
-        "The patient has infantile-onset neurodegeneration and Levodopa-responsive Parkinsonism. The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings."
+        "The patient has infantile-onset Levodopa-responsive Parkinsonism and a clinical presentation of infantile-onset Leukoencephalopathy."
       ],
       [
         "None"
@@ -101,13 +100,13 @@
     ],
     "num_compound_or_double_hets": [
       [
-        "The patient had compound heterozygous mutations in WARS2, which are reported to cause different clinical manifestations."
+        "There are no compound or double heterozygotes reported in this case."
       ],
       [
         "The patient was compound heterozygous for two variants in the WARS2 gene."
       ],
       [
-        "The patient has compound heterozygous mutations in WARS2."
+        "One compound heterozygous mutation in WARS2 was reported."
       ],
       [
         "No compound or double heterozygotes were reported in the provided articles."
@@ -121,9 +120,8 @@
       "decreased steady-state WARS2 protein and normal OXPHOS content"
     ],
     [
-      "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable 'on-off' fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia.",
-      "Qualitative evaluation of MRI spectroscopy revealed slightly low N-acetylaspartate (NAA) in the left frontal white matter compared to normal adults.",
-      "The patient underwent implantation of deep brain stimulator leads that resulted in substantial improvement in the motor complications of PD."
+      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-koencephalopathy with axonal spheroids and pigmented glia.",
+      "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable \u201con-off\u201d fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia."
     ],
     [
       "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
@@ -131,13 +129,29 @@
       "The association of the patient\u2019s WARS2 variants to Parkinsonism or PD may be further clarified by systematically interrogating available cohorts for such mutations."
     ],
     [
-      "de novo mutations causing sporadic early-onset Parkin-son's disease.",
-      "implicated in the etiology of autosomal recessive intellectual disability.",
-      "causes severe infantile onset leukoencephalopathy.",
-      "mutations in SLC25A4 cause severe early-onset mitochondrial dis-ease and loss of mitochondrial DNA copy number.",
-      "novel (ovario) leukodystrophy related to AARS2 mutations.",
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-koencephalopathy with axonal spheroids and pigmented glia.",
-      "VARS2 and TARS2 mutations in patients with mitochondrial encephalomyopathies."
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   ]
 }
