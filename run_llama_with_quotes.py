@@ -63,6 +63,6 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
 
 # === Run it ===
 test_pdf_by_two_pages(
-    "literature/Burke_2018_29120065_522.pdf.pdf",
+    "literature/Burke_2018_29120065_522.pdf",
     "prompt_with_quote_llama.txt"
 )

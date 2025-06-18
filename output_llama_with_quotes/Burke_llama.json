@@ -1,0 +1,150 @@
+{
+  "num_tested_probands": [
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "num_positive_het_probands": [
+    [
+      0
+    ],
+    [
+      0
+    ],
+    [
+      0
+    ],
+    [
+      0
+    ]
+  ],
+  "positive_phenotypes": [
+    [
+      "infantile-onset, Levodopa-responsive Parkinsonism"
+    ],
+    [
+      "Infantile-onset Parkinsonism",
+      "Leukoencephalopathy"
+    ],
+    [
+      "Levodopa-responsive Parkinsonism",
+      "Infantile-onset Parkinsonism"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      [
+        "The patient was the only proband tested in this report."
+      ],
+      [
+        "The patient was the first and only child born to non-consanguineous parents, indicating that there is no family history of genetic disorders."
+      ],
+      [
+        "The patient is the only proband tested in this report."
+      ],
+      [
+        "No probands were tested."
+      ]
+    ],
+    "num_positive_het_probands": [
+      [
+        "No probands were reported to be heterozygous for a pathogenic variant."
+      ],
+      [
+        "No proband was found to be heterozygous for a pathogenic variant."
+      ],
+      [
+        "No heterozygous probands were reported to have pathogenic variants."
+      ],
+      [
+        "No heterozygous probands were identified."
+      ]
+    ],
+    "positive_phenotypes": [
+      [
+        "The patient presented with infantile-onset, Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkin's disease."
+      ],
+      [
+        "The patient exhibited infantile-onset Parkinsonism and leukoencephalopathy, which are characteristic features of the disorder."
+      ],
+      [
+        "The patient has infantile-onset Levodopa-responsive Parkinsonism and infantile-onset Parkinsonism. The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings."
+      ],
+      [
+        "No clinical phenotypes were reported for positive probands."
+      ]
+    ],
+    "num_compound_or_double_hets": [
+      [
+        "One compound/heterozygous mutation was reported in the WARS2 gene."
+      ],
+      [
+        "The patient was compound heterozygous for two variants in the WARS2 gene: c.37T>G (p.Trp13Gly) and c.683C>G (p.Ser228Trp)."
+      ],
+      [
+        "The patient has compound heterozygous mutations in WARS2."
+      ],
+      [
+        "No compound or double heterozygotes were reported."
+      ]
+    ]
+  },
+  "quote_snippets": [
+    [
+      "com-pound",
+      "Parkinson-sonism"
+    ],
+    [
+      "The patient was first noted to have left leg tremor while learning to stand at the age of 1.",
+      "At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills.",
+      "Symptoms were severe enough to warrant a trial of Levodopa. After a trial dose of Levodopa, lower extremities tremor and dystonia disappeared for an entire day."
+    ],
+    [
+      "While the clinical presentations vary substantially among the reported WARS2 cases and our own patient, there are some shared similarities.",
+      "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
+      "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies."
+    ],
+    []
+  ],
+  "cleaned_quotes": [
+    [
+      "com-pound",
+      "Parkinson-sonism"
+    ],
+    [
+      "The patient was first noted to have left leg tremor while learning to stand at the age of 1.",
+      "At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills.",
+      "Symptoms were severe enough to warrant a trial of Levodopa. After a trial dose of Levodopa, lower extremities tremor and dystonia disappeared for an entire day."
+    ],
+    [
+      "While the clinical presentations vary substantially among the reported WARS2 cases and our own patient, there are some shared similarities.",
+      "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
+      "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies."
+    ],
+    []
+  ]
+}
