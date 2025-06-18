@@ -22,7 +22,7 @@ The information must be returned in a JSON format that complies with the followi
    - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).   
    - The goal is to allow exact text matching to the PDF, so fidelity is critical.
    - The quote must word for word match what is in the pdf Please.
-7. "cleaned_snippets" / list of strings.  
+7. "cleaned_quotes" / list of strings.  
    For each quote in `quote_snippets`: Go through the pdf and and the quote_snippets and replace unicodes in the quote_snippets with the actual punctuation otherwise copy the exact quote over here.  
    - The LLM may have replaces the single quotes with double quotes so correct that over here  
    - If a word gets cut off at the end of a line, then present these as 2 separate quotes. For example:
