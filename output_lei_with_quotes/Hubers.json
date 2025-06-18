@@ -1,0 +1,105 @@
+{
+  "Pages 1-2": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [
+      "severe hyperkinetic movement disorder",
+      "ballistic movements",
+      "dystonic movements",
+      "cognitive deficits"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The document describes a single case report of a 31-year-old man.",
+      "num_positive_het_probands": "The proband tested has compound heterozygous mutations in WARS2.",
+      "positive_phenotypes": "The reported clinical phenotypes include severe hyperkinetic movement disorder and cognitive deficits among others.",
+      "num_compound_or_double_hets": "The report clearly describes the patient as having two variants in WARS2, suggestive of compound heterozygosity."
+    },
+    "quote_snippets": [
+      "Here, we further increase the knowledge on the clinical pre-",
+      "sentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dys-",
+      "tonia, chorea, and ballism:",
+      "Case Report A 31-year-old man was referred to our movement disorders out-",
+      "patient clinic at the age of 30 years.",
+      "Since the age of 2 years, the patient showed severe hyperkinetic ",
+      "The clinical presentation of the patient at the age of 31 years is demonstrated in the accompanying Video S1.",
+      "Based on the suspected autosomal recessive pattern of inheritance, we prioritized genes carrying biallelic vari-",
+      "ants in the index and detected 2 variants in WARS2 (NM_201263.2).",
+      "The paternally inherited missense variant c.37T>6, p.(Trpl3Gly) is listed as pathogenic in Clin Var (WWW_",
+      "ncbinlm nih-gov/clinvar/) _",
+      "The maternally inherited c.149G>A p.GlySOAsp missense variant has not been previously described:",
+      "Here we present a patient with biallelic variants in WARS2 and clinical phenotype consisting of a severe hyperkinetic move-",
+      "ment disorder and cognitive deficits."
+    ],
+    "cleaned_quotes": [
+      "Here, we further increase the knowledge on the clinical pre-",
+      "sentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dys-",
+      "tonia, chorea, and ballism:",
+      "Case Report A 31-year-old man was referred to our movement disorders out-",
+      "patient clinic at the age of 30 years.",
+      "Since the age of 2 years, the patient showed severe hyperkinetic ",
+      "The clinical presentation of the patient at the age of 31 years is demonstrated in the accompanying Video S1.",
+      "Based on the suspected autosomal recessive pattern of inheritance, we prioritized genes carrying biallelic vari-",
+      "ants in the index and detected 2 variants in WARS2 (NM_201263.2).",
+      "The paternally inherited missense variant c.37T>6, p.(Trpl3Gly) is listed as pathogenic in ClinVar (WWW_",
+      "ncbinlm.nih.gov/clinvar/).",
+      "The maternally inherited c.149G>A p.GlySOAsp missense variant has not been previously described:",
+      "Here we present a patient with biallelic variants in WARS2 and clinical phenotype consisting of a severe hyperkinetic move-",
+      "ment disorder and cognitive deficits."
+    ],
+    "gene_symbol": [
+      "AR",
+      "C34",
+      "EPOR",
+      "GAL",
+      "MB",
+      "SORD",
+      "TRG",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 3-4": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "severe hyperkinetic movement disorder",
+      "uncontrollable dystonic and ballistic movements"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "There is mention of a 31-year-old patient, which indicates one proband was tested.",
+      "num_positive_het_probands": "There is no clear mention of a proband being heterozygous for a pathogenic variant.",
+      "positive_phenotypes": "The clinical presentation note describes the following phenotypes: 'severe hyperkinetic movement disorder' and 'uncontrollable dystonic and ballistic movements'.",
+      "num_compound_or_double_hets": "The report is about a case study involving WARS2 and suggests compound heterozygosity without explicit enumeration."
+    },
+    "quote_snippets": [
+      [
+        "Video S1. Clinical presentation of the 31-year-old patient in",
+        "the movement   disorders outpatient  clinic  in 2018 show-",
+        "ing severe hyperkinetic movement disorder with uncon-"
+      ],
+      [
+        "trollable dys-",
+        "tonic and ballistic movements."
+      ]
+    ],
+    "cleaned_quotes": [
+      "Video S1. Clinical presentation of the 31-year-old patient in",
+      "the movement disorders outpatient clinic in 2018 show-",
+      "ing severe hyperkinetic movement disorder with uncon-",
+      "trollable dys-",
+      "tonic and ballistic movements."
+    ],
+    "gene_symbol": [
+      "A20",
+      "AR",
+      "EPOR",
+      "KIN",
+      "SORD",
+      "TANGO2",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  }
+}

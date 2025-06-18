@@ -1,0 +1,161 @@
+{
+  "Pages 1-2": {
+    "num_tested_probands": 4,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "sensitivity to succinylcholine"
+    ],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The text mentions that an unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals.",
+      "num_positive_het_probands": "The text describes observations about the heterozygous state for the BChE variant, but does not specify a count of individuals who are confirmed positive as heterozygous.",
+      "positive_phenotypes": "The phenotype of 'sensitivity to succinylcholine' is noted for the individuals with the variant.",
+      "num_compound_or_double_hets": "The text does not mention any compound or double heterozygous individuals specifically, only that the variant can occur in heterozygous combination with the Atypical variant, but no specific numbers are provided."
+    },
+    "quote_snippets": [
+      "An unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals sensitive to succinylcholine:",
+      "Sequencing of genomic DNA revealed a single nucleotide substitution which results in the replacement of amino acid residue Gly115 by Asp.",
+      "This variant can be recognized by its increased instability under extremes of temperature such as heating and also freezing and thawing, both in homozygous and hetero-",
+      "zygous states.",
+      "When in heterozygous combination with the Atypical variant, it produces dibu-",
+      "caine and fluoride numbers which are intermediary between those of Atypical homozygotes and heterozygotes"
+    ],
+    "cleaned_quotes": [
+      "An unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals sensitive to succinylcholine:",
+      "Sequencing of genomic DNA revealed a single nucleotide substitution which results in the replacement of amino acid residue Gly115 by Asp.",
+      "This variant can be recognized by its increased instability under extremes of temperature such as heating and also freezing and thawing, both in homozygous and hetero-",
+      "zygous states.",
+      "When in heterozygous combination with the Atypical variant, it produces dibu-",
+      "caine and fluoride numbers which are intermediary between those of Atypical homozygotes and heterozygotes"
+    ],
+    "gene_symbol": [
+      "AGA",
+      "AGT",
+      "AP2",
+      "B10",
+      "BCHE",
+      "CAT",
+      "GC",
+      "GCA",
+      "GEM",
+      "HB1",
+      "P39",
+      "PC",
+      "SI",
+      "TAT",
+      "TCTA",
+      "TG",
+      "U35"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 3-4": {
+    "num_tested_probands": 14,
+    "num_positive_het_probands": 6,
+    "positive_phenotypes": [
+      "Atypical phenotype",
+      "Usual BChE phenotype",
+      "Unstable BChE variant"
+    ],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "Based on Table 2, there are 14 individuals analyzed for BChE activity and genotype.",
+      "num_positive_het_probands": "From Table 2, individuals with BCHE*U/*115D and BCHE*70G/*115D genotypes are heterozygous for pathogenic variants.",
+      "positive_phenotypes": "Noted phenotypes include Atypical and Usual BChE from the text and Table 3, and Unstable BChE variant associated with freezing/thawing effects.",
+      "num_compound_or_double_hets": "There is no mention of individuals having compound or double heterozygous mutations in the provided text."
+    },
+    "quote_snippets": [
+      "Table 2. Phenotypic characteristics of all individuals analysed in the present study.",
+      "This new BCHE allele, BCHE*115D, was present in heterozygous combination with the Atypical allele in individuals 1-IV-1 and 1-IV-2, and with the Usual allele in the other relatives (Fig: 1).",
+      "Sequencing of DNA isolated from the original plasma sample of individual 1-I-l disclosed a single nucleotide substitution in homozygous state, which results in the replacement of glycine 115 by aspartate.",
+      "Most of these had the Usual BChE phenotype; the exception being 1-IV - 1 and 1-IV-2 whose results were close to those reported for the BCHE 706,497E (AJ) phenotype (Table 3).",
+      "Patient 1-[-1 was first believed to have a Silent BChE phenotype, Since no BChE activity was detected in her plasma:",
+      "Surprisingly, the new DN and FN were now similar to those of the Atypical phenotype."
+    ],
+    "cleaned_quotes": [
+      "Table 2. Phenotypic characteristics of all individuals analysed in the present study.",
+      "This new BCHE allele, BCHE*115D, was present in heterozygous combination with the Atypical allele in individuals 1-IV-1 and 1-IV-2, and with the Usual allele in the other relatives (Fig: 1).",
+      "Sequencing of DNA isolated from the original plasma sample of individual 1-I-l disclosed a single nucleotide substitution in homozygous state, which results in the replacement of glycine 115 by aspartate.",
+      "Most of these had the Usual BChE phenotype; the exception being 1-IV - 1 and 1-IV-2 whose results were close to those reported for the BCHE 706,497E (AJ) phenotype (Table 3).",
+      "Patient 1-[-1 was first believed to have a Silent BChE phenotype, Since no BChE activity was detected in her plasma.",
+      "Surprisingly, the new DN and FN were now similar to those of the Atypical phenotype."
+    ],
+    "gene_symbol": [
+      "BCHE",
+      "PC"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 5-6": {
+    "num_tested_probands": 1,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [
+      "Usual BChE phenotype"
+    ],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The document refers to an individual identified as patient 1-I-1 whose plasma sample was tested and analyzed for the BChE variant.",
+      "num_positive_het_probands": "The patient 1-I-1 was indicated to have the Usual BChE phenotype but was also heterozygous for the BCHE*U/*115D genotype.",
+      "positive_phenotypes": "The phenotype associated with the proband showing heterozygosity is referred to as the Usual BChE phenotype.",
+      "num_compound_or_double_hets": "There are no explicit mentions of compound or double heterozygous probands in the text."
+    },
+    "quote_snippets": [
+      "The unavailabil-",
+      "ity of fresh samples from homozygous individuals led",
+      "uS to express this new variant in cell culture, in",
+      "order to evaluate its activity characteristics in the"
+    ],
+    "cleaned_quotes": [
+      "The unavailability",
+      "of fresh samples from homozygous individuals led",
+      "uS to express this new variant in cell culture, in",
+      "order to evaluate its activity characteristics in the"
+    ],
+    "gene_symbol": [
+      "BCHE",
+      "GAA",
+      "GCG",
+      "GFY",
+      "GSS",
+      "KL",
+      "SGTA",
+      "SST",
+      "TAT",
+      "TG"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 7-8": {
+    "num_tested_probands": 0,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 3,
+    "explanation": {
+      "num_tested_probands": "The text does not specify any test conducted on probands.",
+      "num_positive_het_probands": "The text does not specify any positive heterozygous probands.",
+      "positive_phenotypes": "The text does not specify any positive proband phenotypes.",
+      "num_compound_or_double_hets": "The text mentions 'three compound heterozygotes' without detail on specific variants or phenotypes."
+    },
+    "highlightable_quotes": [
+      [
+        "Maekawa M, Sudo K, Kanno T, Kotani K, Dey DC, Ishikawa ], Izumi",
+        "M, Etoh K Genetic basis of the silent phenotype of serum",
+        "butyrylcholinesterase in three compound heterozygotes Clin",
+        "Chim Acta 1995: 235, 41-57."
+      ]
+    ],
+    "cleaned_quotes": [
+      "Maekawa M, Sudo K, Kanno T, Kotani K, Dey DC, Ishikawa ], Izumi",
+      "M, Etoh K Genetic basis of the silent phenotype of serum",
+      "butyrylcholinesterase in three compound heterozygotes Clin",
+      "Chim Acta 1995: 235, 41-57."
+    ],
+    "gene_symbol": [
+      "AR",
+      "BCHE",
+      "CP",
+      "EMB"
+    ],
+    "genomic_hgvs": []
+  }
+}

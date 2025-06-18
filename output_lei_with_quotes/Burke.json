@@ -7,18 +7,20 @@
     ],
     "num_compound_or_double_hets": 1,
     "explanation": {
-      "num_tested_probands": "The report describes a specific case of a 17-year-old boy, indicating that only one proband was tested.",
-      "num_positive_het_probands": "The boy is described as having compound heterozygous mutations in WARS2, indicating he is heterozygous for a pathogenic variant.",
-      "positive_phenotypes": "The boy presented with infantile-onset Levodopa-responsive Parkinsonism.",
-      "num_compound_or_double_hets": "He is reported to have compound heterozygous mutations in WARS2."
+      "num_tested_probands": "The report describes a '17-year-old boy' as the subject of the study, suggesting one proband was tested.",
+      "num_positive_het_probands": "The boy described in the study had compound heterozygous mutations.",
+      "positive_phenotypes": "The text states that the boy presented with 'infantile-onset Levodopa-responsive Parkinsonism.'",
+      "num_compound_or_double_hets": "The boy had 'compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)' as described in the report."
     },
     "quote_snippets": [
       "Here; we report the case of a 17-year-old boy with com-",
-      "pound heterozygous mutations in WARS2  (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset; Levodopa-responsive Parkinsonism at the age of 2 years."
+      "pound heterozygous mutations in WARS2  (p.Trp13Gly,",
+      "p.Ser228Trp) who presented with infantile-onset; Levodopa-responsive Parkinsonism at the age of 2 years."
     ],
     "cleaned_quotes": [
       "Here, we report the case of a 17-year-old boy with com-",
-      "pound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+      "pound heterozygous mutations in WARS2 (p.Trp13Gly,",
+      "p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
     ],
     "gene_symbol": [
       "AR",
@@ -55,40 +57,25 @@
     "num_positive_het_probands": 1,
     "positive_phenotypes": [
       "Infantile-onset Parkinsonism",
-      "Infantile onset leukoencephalopathy"
+      "Dystonia",
+      "Tremors in extremities that are responsive to Levodopa treatment"
     ],
     "num_compound_or_double_hets": 1,
     "explanation": {
-      "num_tested_probands": "The report describes one proband, referred to as 'the patient', who underwent genetic analysis.",
-      "num_positive_het_probands": "Proband 1 was reported to be compound heterozygous for two variants in WARS2, which implies heterozygosity.",
-      "positive_phenotypes": "The phenotypes 'Infantile-onset Parkinsonism' and 'Infantile onset leukoencephalopathy' are associated with Proband 1 (Table 1).",
-      "num_compound_or_double_hets": "The patient was compound heterozygous for two variants in WARS2 (c.37T>G and c.683C>G)."
+      "num_tested_probands": "The report describes detailed genetic analysis and clinical data for 'The patient' who is referred throughout and is the proband.",
+      "num_positive_het_probands": "Proband 1 is described with compound heterozygous mutations in WARS2 associated with their clinical presentation.",
+      "positive_phenotypes": "The phenotypes listed for Patient 1 include 'Infantile-onset Parkinsonism', 'Dystonia, tremors in extremities that are responsive to Levodopa treatment'.",
+      "num_compound_or_double_hets": "Patient 1 is identified as compound heterozygous for WARS2 mutations."
     },
     "quote_snippets": [
-      [
-        "The patient was compound heterozygous for 2 variants in",
-        "WARS2 (NM_015836.3): a missense variant c.37T>G (p.Trp13Gly)",
-        "that was inherited from his mother and a missense variant",
-        "\u20ac.683C>G (p.Ser228Trp) that was inherited from his father."
-      ],
-      [
-        "Clinical characteristics of patients with biallelic mutations in WARS2",
-        "Infantile-onset Parkinsonism"
-      ],
-      [
-        "c37T>G (p.Trp13Gly)",
-        "Infantile onset leukoencephalopathy"
-      ]
+      "The patient was compound heterozygous for 2 variants in WARS2 (NM_015836.3): a missense variant c.37T>G (p.Trp13Gly) that was inherited from his mother and a missense variant c.683C>G (p.Ser228Trp) that was inherited from his father.",
+      "Infantile-onset Parkinsonism",
+      "Dystonia, tremors in extremities that are responsive to Levodopa treatment"
     ],
     "cleaned_quotes": [
-      "The patient was compound heterozygous for 2 variants in",
-      "WARS2 (NM_015836.3): a missense variant c.37T>G (p.Trp13Gly)",
-      "that was inherited from his mother and a missense variant",
-      "\u20ac.683C>G (p.Ser228Trp) that was inherited from his father.",
-      "Clinical characteristics of patients with biallelic mutations in WARS2",
+      "The patient was compound heterozygous for 2 variants in WARS2 (NM_015836.3): a missense variant c.37T>G (p.Trp13Gly) that was inherited from his mother and a missense variant c.683C>G (p.Ser228Trp) that was inherited from his father.",
       "Infantile-onset Parkinsonism",
-      "c37T>G (p.Trp13Gly)",
-      "Infantile onset leukoencephalopathy"
+      "Dystonia, tremors in extremities that are responsive to Levodopa treatment"
     ],
     "gene_symbol": [
       "AR",
@@ -117,20 +104,37 @@
     "num_tested_probands": 1,
     "num_positive_het_probands": 1,
     "positive_phenotypes": [
-      "infantile-onset Levodopa-responsive Parkinsonism"
+      "infantile-onset Parkinsonism",
+      "Levodopa-responsive Parkinsonism"
     ],
     "num_compound_or_double_hets": 1,
     "explanation": {
-      "num_tested_probands": "The report describes a single patient involved in the genetic analysis, indicating the number of tested probands as one.",
-      "num_positive_het_probands": "The text confirms a heterozygous pathogenic variant in the proband, making the number of positive heterozygous probands one.",
-      "positive_phenotypes": "Infantile-onset Levodopa-responsive Parkinsonism is specifically mentioned as the phenotype observed in the patient.",
-      "num_compound_or_double_hets": "The patient is described as having compound heterozygous mutations in WARS2, resulting in a count of one."
+      "num_tested_probands": "The text refers to a single patient with compound heterozygous mutations in WARS2.",
+      "num_positive_het_probands": "The 'fourth patient' discussed exhibits compound heterozygous mutations in WARS2 and relevant clinical symptoms.",
+      "positive_phenotypes": "Infantile-onset and Levodopa-responsive Parkinsonism are specifically mentioned in association with the patient.",
+      "num_compound_or_double_hets": "The term 'compound heterozygous mutations in WARS2' is directly mentioned with respect to the patient."
     },
     "quote_snippets": [
-      "Here; we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset; Levodopa-responsive Parkinsonism:"
+      [
+        "Here; we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset;",
+        "Levodopa-responsive Parkinsonism:"
+      ],
+      [
+        "In conclusion; we expand the phenotypic spectrum of disorders caused by biallelic mutations in WARS2 gene to include infantile-onset;",
+        "Levodopa-responsive Parkinsonism and implicate WARS2 dys-",
+        "function as a potential driver of mitochondrial dysfunction leading to nigrostriatal degeneration and Parkinsonism:"
+      ]
     ],
     "cleaned_quotes": [
-      "Here, we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset, Levodopa-responsive Parkinsonism:"
+      [
+        "Here, we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset,",
+        "Levodopa-responsive Parkinsonism:"
+      ],
+      [
+        "In conclusion, we expand the phenotypic spectrum of disorders caused by biallelic mutations in WARS2 gene to include infantile-onset,",
+        "Levodopa-responsive Parkinsonism and implicate WARS2 dys-",
+        "function as a potential driver of mitochondrial dysfunction leading to nigrostriatal degeneration and Parkinsonism."
+      ]
     ],
     "gene_symbol": [
       "AARS2",
@@ -155,29 +159,18 @@
     "genomic_hgvs": []
   },
   "Pages 7-8": {
-    "num_tested_probands": 1,
+    "num_tested_probands": 0,
     "num_positive_het_probands": 0,
-    "positive_phenotypes": [
-      "infantile-onset Parkinsonism",
-      "Levodopa-responsive"
-    ],
-    "num_compound_or_double_hets": 1,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
     "explanation": {
-      "num_tested_probands": "The text mentions a single 'case of a 17-year-old boy,' indicating only one proband was described in detail.",
-      "num_positive_het_probands": "There is no explicit mention of heterozygous probands testing positive.",
-      "positive_phenotypes": "The phenotypes are stated in 'cause Levodopa-responsive infantile-onset Parkinsonism'.",
-      "num_compound_or_double_hets": "The description 'biallelic mutations in mitochondrial tryptophanyl-tRNA synthetase' implies compound mutations causing the disease state."
+      "num_tested_probands": "The provided text does not explicitly mention the number of tested probands.",
+      "num_positive_het_probands": "There is no mention of positive heterozygous probands in the text.",
+      "positive_phenotypes": "No specific phenotypes of positive probands are described in the text.",
+      "num_compound_or_double_hets": "There is no information given regarding compound or double heterozygous individuals."
     },
-    "quote_snippets": [
-      [
-        "Biallelic mutations in mitochondrial tryptophanyl-tRNA synthetase cause Levodopa-responsive infantile-onset Parkin-",
-        "sonism: Clin Genet_ 2018,93.712-718."
-      ]
-    ],
-    "cleaned_quotes": [
-      "Biallelic mutations in mitochondrial tryptophanyl-tRNA synthetase cause Levodopa-responsive infantile-onset Parkin-",
-      "sonism: Clin Genet_ 2018,93.712-718."
-    ],
+    "quote_snippets": [],
+    "cleaned_quotes": [],
     "gene_symbol": [
       "AARS2",
       "AR",

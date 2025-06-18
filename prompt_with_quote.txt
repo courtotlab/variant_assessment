@@ -21,18 +21,17 @@ The information must be returned in a JSON format that complies with the followi
    These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
    - Do not merge unrelated ideas; each quote should focus on one finding.  
    - **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
-   - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).  
-   - Never replace commas with semicolons.  
-   - Fix extra spaces or OCR artifacts only if necessary, but avoid rewording or reflowing structure.  
+   - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).   
    - The goal is to allow exact text matching to the PDF, so fidelity is critical.
+   -If a word gets cut off a the end of a line like then present these as 2 seperate quotes to represent a new line Parkin- sonism, present end the quote with "Parkin-" and begine the next quote with "sonism"
 
-7. "cleaned_quotes" / list of strings. (optional)  
+7. "cleaned_quotes" / list of strings.  
    For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
    - Preserve original line structure (i.e., do **not** concatenate lines into a single string).
    - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
-   - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons.
+   - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons. Please ensure this is done.
    - Preserve hyphenation and medically meaningful formatting (e.g., p.Trp13Gly, gene names, etc.).
-   - Replace colons with periods **only** if the original PDF mistakenly uses semicolons.
+   - Replace colons with periods **only** if the original PDF mistakenly uses semicolons. Please ensure this is done.
 
 Example:
 "highlightable_quotes": [
