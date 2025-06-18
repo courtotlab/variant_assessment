@@ -32,6 +32,7 @@ The information must be returned in a JSON format that complies with the followi
    - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
    - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons.
    - Preserve hyphenation and medically meaningful formatting (e.g., p.Trp13Gly, gene names, etc.).
+   - Replace colons with periods **only** if the original PDF mistakenly uses semicolons.
 
 Example:
 "highlightable_quotes": [
