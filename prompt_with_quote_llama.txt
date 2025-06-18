@@ -21,13 +21,6 @@ The information must be returned in a JSON format that complies with the followi
    - **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
    - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).   
    - The goal is to allow exact text matching to the PDF, so fidelity is critical.
-   - If a word gets cut off at the end of a line like then present these as 2 seperate quotes to represent a new line Parkin- sonism, present end the quote with "Parkin-" and begine the next quote with "sonism"
-
-7. "cleaned_quotes" / list of strings.  
-   For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
-   - Preserve original line structure (i.e., do **not** concatenate lines into a single string).
-   - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
-   - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons. Please ensure this is done.
-   - Preserve hyphenation and medically meaningful formatting (e.g., p.Trp13Gly, gene names, etc.).
-   - Replace colons with periods **only** if the original PDF mistakenly uses semicolons. Please ensure this is done.
+   - The quote must word for word match what is in the pdf Please.
+   
 
