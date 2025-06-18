@@ -15,18 +15,19 @@ The information must be returned in a JSON format that complies with the followi
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
 6. "quote_snippets" / list of strings.  
-   Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.   
-   - Do not merge unrelated ideas; each quote should focus on one finding.    
-   - Preserve punctuation exactly and do not give the unicodes please go over and see that the quotes don't contain unicodes.   
+   Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.  
+   These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
+   - Do not merge unrelated ideas; each quote should focus on one finding.  
+   - **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
+   - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).   
    - The goal is to allow exact text matching to the PDF, so fidelity is critical.
-   - The quote must word for word match what is in the pdf.
-   - Do not paraphrase, summarize, or merge concepts.
-   - Do not replace double quotes (") from the PDF with single quotes (').
-   - Do not add periods.
-   - Do not use unicode punctuation (e.g., \u2019). Use straight ASCII characters as they appear.
-   - Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`), but at the line break present these as 2 separate quotes. For example:
+   - The quote must word for word match what is in the pdf Please.
+7. "cleaned_snippets" / list of strings.  
+   For each quote in `quote_snippets`: Go through the pdf and and the quote_snippets and replace unicodes in the quote_snippets with the actual punctuation otherwise copy the exact quote over here.  
+   - The LLM may have replaces the single quotes with double quotes so correct that over here  
+   - If a word gets cut off at the end of a line, then present these as 2 separate quotes. For example:
      Instead of:
-       "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-koencephalopathy with axonal spheroids and pigmented glia."
+       "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia."
      Output as:
        "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-",
        "koencephalopathy with axonal spheroids and pigmented glia."
