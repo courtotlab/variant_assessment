@@ -32,21 +32,23 @@
       "infantile-onset, Levodopa-responsive Parkinsonism"
     ],
     [
-      "Infantile-onset leukoencephalopathy",
-      "Infantile-onset Parkinsonism"
+      "Infantile-onset Parkinsonism",
+      "Intellectual disability"
     ],
     [
       "Levodopa-responsive Parkinsonism",
-      "Infantile-onset Leukoencephalopathy"
+      "Infantile-onset neurodegeneration",
+      "Late-onset neurodegeneration",
+      "Hereditary diffuse leukoencephalopathy with spheroids"
     ],
     []
   ],
   "num_compound_or_double_hets": [
     [
-      0
+      1
     ],
     [
-      2
+      1
     ],
     [
       1
@@ -61,7 +63,7 @@
         "The patient is the only proband tested in this report."
       ],
       [
-        "The patient was the only proband tested."
+        "The patient was the first and only child born to non-consanguineous parents, indicating that there is no family history of genetic disorders."
       ],
       [
         "The patient is the only proband tested in this report."
@@ -75,7 +77,7 @@
         "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
-        "No proband was heterozygous for a pathogenic variant."
+        "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
         "No heterozygous probands were reported to have pathogenic variants."
@@ -89,10 +91,10 @@
         "The patient presents with infantile-onset, Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkinson's disease."
       ],
       [
-        "The patient had infantile-onset leukoencephalopathy and infantile-onset Parkinsonism."
+        "The patient exhibited symptoms of infantile-onset Parkinsonism and intellectual disability."
       ],
       [
-        "The patient has infantile-onset Levodopa-responsive Parkinsonism and a clinical presentation of infantile-onset Leukoencephalopathy."
+        "The patient has infantile-onset Levodopa-responsive Parkinsonism and late-onset neurodegeneration. The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function."
       ],
       [
         "None"
@@ -100,13 +102,13 @@
     ],
     "num_compound_or_double_hets": [
       [
-        "There are no compound or double heterozygotes reported in this case."
+        "One compound/heterozygous mutation was identified in the WARS2 gene."
       ],
       [
         "The patient was compound heterozygous for two variants in the WARS2 gene."
       ],
       [
-        "One compound heterozygous mutation in WARS2 was reported."
+        "The patient has compound heterozygous mutations in WARS2."
       ],
       [
         "No compound or double heterozygotes were reported in the provided articles."
@@ -120,38 +122,57 @@
       "decreased steady-state WARS2 protein and normal OXPHOS content"
     ],
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-koencephalopathy with axonal spheroids and pigmented glia.",
-      "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable \u201con-off\u201d fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia."
+      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
+      "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable 'on-off' fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia."
     ],
     [
+      "Muscle biopsy analysis A quadriceps muscle biopsy had non-specific changes including mild variation in fiber size with rare atrophic fiber, and normal COX and SDH stains.",
+      "Muscle electron microscopy demonstrated well pre-served z-bands and fibrils with minimally increased subsarcolemmal mitochondria, many which were mitochondria and some that vary in shape without paracrystalline inclusions.",
+      "Mitochondrial DNA content by quantitative polymerase chain reaction (qPCR) analysis was 76% of age- and tissue-matched control.",
+      "Numerous publications have documented significant phenotypic variability caused by defects in mtARS genes.6,7 Patients harboring biallelic mutation in AARS2, for example, may present with intrauterine or perinatal cardiomyopathy,20 adolescent onset ovario leukodystrophy21 or late-onset neurodegeneration in patients with hereditary diffuse leukoencephalopathy with spheroids (HDLS).22",
+      "The latest mtARS to be linked to a disease is WARS2, based upon 2 independent case reports. Musante et al9 described 2 sib-lings with moderate delayed psychomotor development, speech impairment, ataxia, and athetoid movements.",
+      "Here, we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset, Levodopa-responsive Parkinsonism. While the clinical presentations vary substantially among the reported WARS2 cases and our own patient, there are some shared similarities.",
       "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
+      "MRI information was not provided to establish the presence or absence of leukoencephalopathy. The MRI of the patient reported by Theisen et al revealed a periventricular multifocal leu-koencephalopathy, but the clinical presentation might have been compounded by perinatal insult.",
+      "Both previous reports indicate intellectual disability, various neurological deficits, and symptoms including motor control disorders (ataxia, tremor, spasticity and athetoid movement).",
+      "Theisen et al8 found impaired RC subunit expression in their patient with WARS2 mutations, while we found no significant change in RC subunit expression or function in our patient\u2019s muscle tissue.",
       "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies.",
-      "The association of the patient\u2019s WARS2 variants to Parkinsonism or PD may be further clarified by systematically interrogating available cohorts for such mutations."
+      "In general, it is not uncommon for mtARS defects to have no effect on RC subunit expression in patient fibroblasts.23 Interestingly, the mtDNA content of the muscle is still lower than age-matched control; this, together with the finding of increased mitochondrial CoQ10 content may suggest some compensation for the mtDNA depletion.",
+      "WES and whole genome SNP array data analysis for known variants and copy number variations associated with PD did not yield significant findings. The association of the patient\u2019s WARS2 variants to Parkinsonism or PD may be further clarified by systematically interrogating available cohorts for such mutations.",
+      "MRI imaging at the time of our evaluation revealed a structurally normal study without evidence of abnormal mineral or metal deposition in the deep brain nuclei or leukoencephalopathy, but rather minimal non-specific atrophy.",
+      "The temporal pattern of our patient\u2019s clinical progression has followed the prototypical course of adult idiopathic PD, except that it began 6 decades earlier. Specifically, our patient exhibited the typical early \u2018honeymoon\u2019 response to Levodopa supplementation allowing for several years of excellent clinical response, followed by increasingly severe motor fluctuation associated with progressive nigrostriatal denervation that eventually led to the need for DBS at age 10 to achieve control of motor complications.",
+      "In conclusion, we expand the phenotypic spectrum of disorders caused by biallelic mutations in WARS2 gene to include infantile-onset, Levodopa-responsive Parkinsonism and implicate WARS2 dysfunction as a potential driver of mitochondrial dysfunction leading to nigrostriatal degeneration and Parkinsonism."
+    ],
+    []
+  ],
+  "cleaned_quotes": [
+    [
+      "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)",
+      "infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years",
+      "decreased steady-state WARS2 protein and normal OXPHOS content"
     ],
     [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
+      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
+      "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable 'on-off' fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia."
+    ],
+    [
+      "Muscle biopsy analysis A quadriceps muscle biopsy had non-specific changes including mild variation in fiber size with rare atrophic fiber, and normal COX and SDH stains.",
+      "Muscle electron microscopy demonstrated well pre-served z-bands and fibrils with minimally increased subsarcolemmal mitochondria, many which were mitochondria and some that vary in shape without paracrystalline inclusions.",
+      "Mitochondrial DNA content by quantitative polymerase chain reaction (qPCR) analysis was 76% of age- and tissue-matched control.",
+      "Numerous publications have documented significant phenotypic variability caused by defects in mtARS genes.6,7 Patients harboring biallelic mutation in AARS2, for example, may present with intrauterine or perinatal cardiomyopathy,20 adolescent onset ovario leukodystrophy21 or late-onset neurodegeneration in patients with hereditary diffuse leukoencephalopathy with spheroids (HDLS).22",
+      "The latest mtARS to be linked to a disease is WARS2, based upon 2 independent case reports. Musante et al9 described 2 sib-lings with moderate delayed psychomotor development, speech impairment, ataxia, and athetoid movements.",
+      "Here, we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset, Levodopa-responsive Parkinsonism. While the clinical presentations vary substantially among the reported WARS2 cases and our own patient, there are some shared similarities.",
+      "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
+      "MRI information was not provided to establish the presence or absence of leukoencephalopathy. The MRI of the patient reported by Theisen et al revealed a periventricular multifocal leu-koencephalopathy, but the clinical presentation might have been compounded by perinatal insult.",
+      "Both previous reports indicate intellectual disability, various neurological deficits, and symptoms including motor control disorders (ataxia, tremor, spasticity and athetoid movement).",
+      "Theisen et al8 found impaired RC subunit expression in their patient with WARS2 mutations, while we found no significant change in RC subunit expression or function in our patient\u2019s muscle tissue.",
+      "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies.",
+      "In general, it is not uncommon for mtARS defects to have no effect on RC subunit expression in patient fibroblasts.23 Interestingly, the mtDNA content of the muscle is still lower than age-matched control; this, together with the finding of increased mitochondrial CoQ10 content may suggest some compensation for the mtDNA depletion.",
+      "WES and whole genome SNP array data analysis for known variants and copy number variations associated with PD did not yield significant findings. The association of the patient\u2019s WARS2 variants to Parkinsonism or PD may be further clarified by systematically interrogating available cohorts for such mutations.",
+      "MRI imaging at the time of our evaluation revealed a structurally normal study without evidence of abnormal mineral or metal deposition in the deep brain nuclei or leukoencephalopathy, but rather minimal non-specific atrophy.",
+      "The temporal pattern of our patient\u2019s clinical progression has followed the prototypical course of adult idiopathic PD, except that it began 6 decades earlier. Specifically, our patient exhibited the typical early \u2018honeymoon\u2019 response to Levodopa supplementation allowing for several years of excellent clinical response, followed by increasingly severe motor fluctuation associated with progressive nigrostriatal denervation that eventually led to the need for DBS at age 10 to achieve control of motor complications.",
+      "In conclusion, we expand the phenotypic spectrum of disorders caused by biallelic mutations in WARS2 gene to include infantile-onset, Levodopa-responsive Parkinsonism and implicate WARS2 dysfunction as a potential driver of mitochondrial dysfunction leading to nigrostriatal degeneration and Parkinsonism."
+    ],
+    []
   ]
 }
