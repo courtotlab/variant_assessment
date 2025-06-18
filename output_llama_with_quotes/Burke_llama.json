@@ -29,15 +29,16 @@
   ],
   "positive_phenotypes": [
     [
-      "infantile-onset, Levodopa-responsive Parkinsonism"
+      "Levodopa-responsive Parkinsonism"
     ],
     [
       "Infantile-onset Parkinsonism",
-      "Leukoencephalopathy"
+      "Leukoencephalopathy",
+      "Intellectual disability"
     ],
     [
       "Levodopa-responsive Parkinsonism",
-      "Infantile-onset Parkinsonism"
+      "Infantile-onset neurodegeneration"
     ],
     []
   ],
@@ -46,7 +47,7 @@
       1
     ],
     [
-      2
+      1
     ],
     [
       1
@@ -67,7 +68,7 @@
         "The patient is the only proband tested in this report."
       ],
       [
-        "No probands were tested."
+        "No probands were tested in the provided articles."
       ]
     ],
     "num_positive_het_probands": [
@@ -78,73 +79,65 @@
         "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
-        "No heterozygous probands were reported to have pathogenic variants."
+        "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
-        "No heterozygous probands were identified."
+        "No heterozygous probands were identified in the provided articles."
       ]
     ],
     "positive_phenotypes": [
       [
-        "The patient presented with infantile-onset, Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkin's disease."
+        "The patient presented with Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkinson's disease."
       ],
       [
-        "The patient exhibited infantile-onset Parkinsonism and leukoencephalopathy, which are characteristic features of the disorder."
+        "The patient exhibited infantile-onset Parkinsonism, leukoencephalopathy, and intellectual disability."
       ],
       [
-        "The patient has infantile-onset Levodopa-responsive Parkinsonism and infantile-onset Parkinsonism. The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings."
+        "The patient has infantile-onset neurodegeneration and Levodopa-responsive Parkinsonism. The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings."
       ],
       [
-        "No clinical phenotypes were reported for positive probands."
+        "None"
       ]
     ],
     "num_compound_or_double_hets": [
       [
-        "One compound/heterozygous mutation was reported in the WARS2 gene."
+        "The patient had compound heterozygous mutations in WARS2, which are reported to cause different clinical manifestations."
       ],
       [
-        "The patient was compound heterozygous for two variants in the WARS2 gene: c.37T>G (p.Trp13Gly) and c.683C>G (p.Ser228Trp)."
+        "The patient was compound heterozygous for two variants in the WARS2 gene."
       ],
       [
         "The patient has compound heterozygous mutations in WARS2."
       ],
       [
-        "No compound or double heterozygotes were reported."
+        "No compound or double heterozygotes were reported in the provided articles."
       ]
     ]
   },
   "quote_snippets": [
     [
-      "com-pound",
-      "Parkinson-sonism"
+      "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)",
+      "infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years",
+      "decreased steady-state WARS2 protein and normal OXPHOS content"
     ],
     [
-      "The patient was first noted to have left leg tremor while learning to stand at the age of 1.",
-      "At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills.",
-      "Symptoms were severe enough to warrant a trial of Levodopa. After a trial dose of Levodopa, lower extremities tremor and dystonia disappeared for an entire day."
+      "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable 'on-off' fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia.",
+      "Qualitative evaluation of MRI spectroscopy revealed slightly low N-acetylaspartate (NAA) in the left frontal white matter compared to normal adults.",
+      "The patient underwent implantation of deep brain stimulator leads that resulted in substantial improvement in the motor complications of PD."
     ],
     [
-      "While the clinical presentations vary substantially among the reported WARS2 cases and our own patient, there are some shared similarities.",
       "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
-      "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies."
-    ],
-    []
-  ],
-  "cleaned_quotes": [
-    [
-      "com-pound",
-      "Parkinson-sonism"
+      "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies.",
+      "The association of the patient\u2019s WARS2 variants to Parkinsonism or PD may be further clarified by systematically interrogating available cohorts for such mutations."
     ],
     [
-      "The patient was first noted to have left leg tremor while learning to stand at the age of 1.",
-      "At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills.",
-      "Symptoms were severe enough to warrant a trial of Levodopa. After a trial dose of Levodopa, lower extremities tremor and dystonia disappeared for an entire day."
-    ],
-    [
-      "While the clinical presentations vary substantially among the reported WARS2 cases and our own patient, there are some shared similarities.",
-      "The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings.",
-      "This difference likely reflects the unique impact that a specific variant in WARS2 can have on the resulting cellular and clinical phenotype, or different methodologies."
-    ],
-    []
+      "de novo mutations causing sporadic early-onset Parkin-son's disease.",
+      "implicated in the etiology of autosomal recessive intellectual disability.",
+      "causes severe infantile onset leukoencephalopathy.",
+      "mutations in SLC25A4 cause severe early-onset mitochondrial dis-ease and loss of mitochondrial DNA copy number.",
+      "novel (ovario) leukodystrophy related to AARS2 mutations.",
+      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-koencephalopathy with axonal spheroids and pigmented glia.",
+      "VARS2 and TARS2 mutations in patients with mitochondrial encephalomyopathies."
+    ]
   ]
 }
