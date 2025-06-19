@@ -18,16 +18,11 @@ The information must be returned in a JSON format that complies with the followi
    Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.  
    These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
    - Do not merge unrelated ideas; each quote should focus on one finding.  
-   - **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
+   - Please **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
    - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).   
    - The goal is to allow exact text matching to the PDF, so fidelity is critical.
    - The quote must word for word match what is in the pdf Please.
    - Don't use unicodes use the actual quotation mark in the string
-   - If a word gets cut off at the end of a line, then present these as 2 separate quotes. For example:
-     Instead of:
-       "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia."
-     Output as:
-       "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-",
-       "koencephalopathy with axonal spheroids and pigmented glia."
+
    
 
