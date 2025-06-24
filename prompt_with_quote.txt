@@ -16,7 +16,7 @@ The information must be returned in a JSON format that complies with the followi
 3. "positive_phenotypes" / list of strings.
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
-6. "quote_snippets" / list of strings.  
+6. "quote_snippets" / dictionary with keys from above 4 fields and values providing exact quotes of where the information was found.  
    Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.  
    These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
    - Do not merge unrelated ideas; each quote should focus on one finding.  
@@ -25,7 +25,7 @@ The information must be returned in a JSON format that complies with the followi
    - The goal is to allow exact text matching to the PDF, so fidelity is critical.
    -If a word gets cut off a the end of a line like then present these as 2 seperate quotes to represent a new line Parkin- sonism, present end the quote with "Parkin-" and begine the next quote with "sonism"
 
-7. "cleaned_quotes" / list of strings.  
+7. "cleaned_quotes" / dictionary with keys from above 4 fields and values providing exact quotes of where the information was found. 
    For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
    - Preserve original line structure (i.e., do **not** concatenate lines into a single string).
    - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
