@@ -53,7 +53,7 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
         except Exception as e:
             print(f"⚠️ Error processing pages {page_range}: {e}")
 
-    output_path = "output_llama_with_quotes/Vantroys_llama.json"
+    output_path = "output_llama_with_quotes/PrimoParmo_llama.json"
     Path("output_llama_with_quotes").mkdir(exist_ok=True)
     print(f"Writing final structured output to {output_path}...\n")
     with open(output_path, "w", encoding="utf-8") as out_file:
@@ -63,6 +63,6 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
 
 # === Run it ===
 test_pdf_by_two_pages(
-    "literature/Vantroys_2018_29783990_371.pdf",
+    "literature/PrimoParmo_1997_9110359_130.pdf",
     "prompt_with_quote_llama.txt"
 )

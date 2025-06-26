@@ -1,0 +1,392 @@
+{
+  "Pages 1-2": {
+    "num_tested_probands": 2,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "moderate ID",
+      "microcephaly",
+      "ataxia",
+      "speech impairment",
+      "aggressive behavior"
+    ],
+    "num_compound_or_double_hets": 1,
+    "explanation": {
+      "num_tested_probands": "The report identifies mutations in two unrelated Iranian families, implying at least two probands.",
+      "num_positive_het_probands": "There are no mentions of probands being heterozygous with harmful phenotypic manifestations. Both families involve either homozygous or compound heterozygous mutations.",
+      "positive_phenotypes": "Several phenotypes are listed in association with identified mutations, co-segregating with ID.",
+      "num_compound_or_double_hets": "The second family was found with a compound heterozygous genotype."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "Here, we report on mutations in two unrelated Iranian fam-",
+        "ilies."
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "co-segregates with moderate ID; microcephaly, ataxia, speech impairment; and aggres-",
+        "sive behavior:"
+      ],
+      "num_compound_or_double_hets": [
+        "compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene"
+      ]
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "Here, we report on mutations in two unrelated Iranian fam-",
+        "ilies."
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggres-",
+        "sive behavior:"
+      ],
+      "num_compound_or_double_hets": [
+        "compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene"
+      ]
+    },
+    "gene_symbol": [
+      "AIMP1",
+      "AR",
+      "ARC",
+      "GC",
+      "L12",
+      "MET",
+      "PC",
+      "SI",
+      "TG",
+      "TH",
+      "TRO",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 3-4": {
+    "num_tested_probands": 6,
+    "num_positive_het_probands": 1,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV.2, IV:3, V.2, V:7 V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis.",
+      "num_positive_het_probands": "Whole genome sequencing was performed in one affected (V:7) by Complete Genomics.",
+      "positive_phenotypes": "The text does not mention explicit phenotypes associated with the positive probands.",
+      "num_compound_or_double_hets": "The text does not report compound or double heterozygous mutations in any individuals."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV.2, IV:3, V.2, V:7 V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+      ],
+      "num_positive_het_probands": [
+        "Whole genome sequencing was performed in one affected (V:7) by Complete Genomics."
+      ],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": []
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV.2, IV:3, V.2, V:7 V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+      ],
+      "num_positive_het_probands": [
+        "Whole genome sequencing was performed in one affected (V:7) by Complete Genomics."
+      ],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": []
+    },
+    "gene_symbol": [
+      "AR",
+      "GC",
+      "P138",
+      "TG",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 5-6": {
+    "num_tested_probands": 7,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "moderate ID",
+      "speech impairment",
+      "aggressive behavior",
+      "microcephaly",
+      "ataxia",
+      "muscular weakness",
+      "tonic-clonic seizures"
+    ],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "Clinical description indicates DNA was extracted from four affected siblings and three healthy siblings.",
+      "num_positive_het_probands": "No specific mention of heterozygous positive probands in the text.",
+      "positive_phenotypes": "Affected individuals exhibit multiple phenotypes listed under clinical report of family 1.",
+      "num_compound_or_double_hets": "No specific mention of compound or double heterozygous individuals in the text."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "DNA was extracted from peripheral blood of the patients (Ill:4, Ill:9, Ill:1O, Ill:11), three healthy siblings"
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "testing of cognitive function using the Wechsler Adult Intel-",
+        "ligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40-45 in the range of moderate ID",
+        "speech impairment (slow and slurred speech) and aggressive behavior: In addition",
+        "the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7-",
+        "10 years), and muscular weakness (since the age of 6-10). All patients developed tonic-clonic",
+        "seizures during infancy"
+      ],
+      "num_compound_or_double_hets": []
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "DNA was extracted from peripheral blood of the patients (Ill:4, Ill:9, Ill:10, Ill:11), three healthy siblings"
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "testing of cognitive function using the Wechsler Adult Intel-",
+        "ligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40-45 in the range of moderate ID",
+        "speech impairment (slow and slurred speech) and aggressive behavior. In addition",
+        "the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7-",
+        "10 years), and muscular weakness (since the age of 6-10). All patients developed tonic-clonic",
+        "seizures during infancy"
+      ],
+      "num_compound_or_double_hets": []
+    },
+    "gene_symbol": [
+      "AR",
+      "BL2",
+      "DAP",
+      "EGF",
+      "HR",
+      "L21",
+      "LSM7",
+      "PC",
+      "SDHA",
+      "SDS",
+      "SP6",
+      "TG",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 7-8": {
+    "num_tested_probands": 0,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The document provided does not explicitly state the number of probands tested for genetic mutations.",
+      "num_positive_het_probands": "There is no clear mention in the text of any heterozygous probands testing positive for pathogenic variants.",
+      "positive_phenotypes": "The document does not detail clinical phenotypes associated with any probands that are positive.",
+      "num_compound_or_double_hets": "There is no specific mention of any compound or double heterozygous individuals in the provided text."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": []
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": []
+    },
+    "gene_symbol": [
+      "AR",
+      "CIT",
+      "GC",
+      "P65",
+      "PC",
+      "S3A",
+      "SI",
+      "SP6",
+      "WARS2",
+      "ZNF697"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 9-10": {
+    "num_tested_probands": 0,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The text does not explicitly mention any probands being tested for genetic variation.",
+      "num_positive_het_probands": "There is no mention of probands being heterozygous for a pathogenic variant.",
+      "positive_phenotypes": "No clinical phenotypes are associated with probands or mentioned explicitly.",
+      "num_compound_or_double_hets": "The text mentions a compound heterozygous genotype in a family but does not specify the number of individuals, probands, or directly involve testing for this genotype in probands."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": [
+        "As a result of whole genome sequencing; we found a compound het-",
+        "erozygous genotype of the WARS2 gene in the affected individuals of family 2"
+      ]
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": [
+        "As a result of whole genome sequencing; we found a compound het-",
+        "erozygous genotype of the WARS2 gene in the affected individuals of family 2"
+      ]
+    },
+    "gene_symbol": [
+      "AR",
+      "PHB1",
+      "S3A",
+      "SDHA",
+      "SDS",
+      "SP6",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 11-12": {
+    "num_tested_probands": 2,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "moderate ID",
+      "speech impairment",
+      "seizures",
+      "ataxia",
+      "muscular weakness"
+    ],
+    "num_compound_or_double_hets": 2,
+    "explanation": {
+      "num_tested_probands": "In the second family, whole genome sequencing revealed a com- pound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change.",
+      "num_positive_het_probands": "There is no explicit mention of positive probands being heterozygous.",
+      "positive_phenotypes": "Families had closely overlapping additional clinical features including moderate ID, speech impairment; seizures, ataxia, and mus- cular weakness.",
+      "num_compound_or_double_hets": "In the second family, whole genome sequencing revealed a com- pound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "In the second family, whole genome sequencing revealed a com-",
+        "pound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p Trp13Gly)..."
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "In this report, we describe putatively ID causing mutations in SARS and WARS2 in families with closely overlapping additional clinical features including moderate ID, speech impairment; seizures, ataxia, and mus-",
+        "cular weakness."
+      ],
+      "num_compound_or_double_hets": [
+        "In the second family, whole genome sequencing revealed a com-",
+        "pound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p Trp13Gly)..."
+      ]
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "In the second family, whole genome sequencing revealed a",
+        "compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p Trp13Gly)..."
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "In this report, we describe putatively ID causing mutations in SARS and WARS2 in families with closely overlapping additional clinical features including moderate ID, speech impairment, seizures, ataxia, and mus-",
+        "cular weakness."
+      ],
+      "num_compound_or_double_hets": [
+        "In the second family, whole genome sequencing revealed a",
+        "compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p Trp13Gly)..."
+      ]
+    },
+    "gene_symbol": [
+      "AIMP1",
+      "AR",
+      "DAP",
+      "DARS2",
+      "ERG",
+      "HPS6",
+      "ISCU",
+      "PHB1",
+      "SDHA",
+      "SDS",
+      "SI",
+      "SP6",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 13-14": {
+    "num_tested_probands": 0,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The text does not explicitly mention the number of probands tested.",
+      "num_positive_het_probands": "The text does not provide information regarding heterozygous probands.",
+      "positive_phenotypes": "There are no specific positive phenotypes mentioned for probands.",
+      "num_compound_or_double_hets": "The text mentions compound heterozygosity in animals as a comparison but not in human probands."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": [
+        "animals with com-pound heterozygosity for the WT allele and the p.Leu53Phe allele",
+        "Wars2--/L53 represents a com-pound hypomorph similar to the situation observed in our patients"
+      ]
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": [
+        "animals with com-pound heterozygosity for the WT allele and the p.Leu53Phe allele",
+        "Wars2--/L53 represents a com-pound hypomorph similar to the situation observed in our patients"
+      ]
+    },
+    "gene_symbol": [
+      "AIMP1",
+      "AR",
+      "CARS2",
+      "FER",
+      "HR",
+      "MCPH1",
+      "MP1",
+      "MTR",
+      "NTS",
+      "REN",
+      "S18",
+      "ST3GAL3",
+      "TAT",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 15-16": {
+    "num_tested_probands": null,
+    "num_positive_het_probands": null,
+    "positive_phenotypes": [],
+    "num_compound_or_double_hets": null,
+    "explanation": {
+      "num_tested_probands": "The text does not provide information about the number of probands tested.",
+      "num_positive_het_probands": "The text does not provide information about positive heterozygous probands.",
+      "positive_phenotypes": "The text does not provide specific phenotypes associated with positive probands.",
+      "num_compound_or_double_hets": "The text does not provide information about the number of individuals with compound or double heterozygous mutations."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": []
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [],
+      "num_compound_or_double_hets": []
+    },
+    "gene_symbol": [
+      "AR",
+      "EMB",
+      "FAS",
+      "IARS2",
+      "NARS2",
+      "PARS2",
+      "POR",
+      "WARS2"
+    ],
+    "genomic_hgvs": []
+  }
+}

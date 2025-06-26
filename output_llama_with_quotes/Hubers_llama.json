@@ -1,7 +1,7 @@
 {
   "num_tested_probands": [
     [
-      1
+      19
     ],
     [
       0
@@ -17,15 +17,13 @@
   ],
   "positive_phenotypes": [
     [
-      "Hyperkinetic movement disorder",
-      "Neurodevelopmental disorder, mitochondrial",
-      "Aminoacyl tRNA synthetase deficiency"
+      "Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures"
     ],
     []
   ],
   "num_compound_or_double_hets": [
     [
-      1
+      2
     ],
     [
       0
@@ -34,7 +32,7 @@
   "explanation": {
     "num_tested_probands": [
       [
-        "The patient was the only proband tested in this case report."
+        "The report states that a total of 19 different mitochondrial tRNA synthetases exist and are essential for mitochondrial protein synthesis."
       ],
       [
         "No probands were tested in this study."
@@ -42,15 +40,15 @@
     ],
     "num_positive_het_probands": [
       [
-        "No heterozygous probands were reported to have pathogenic variants."
+        "No proband is reported to be heterozygous for a pathogenic variant."
       ],
       [
-        "There are no reported heterozygous probands with pathogenic variants."
+        "There is no information on the number of heterozygous probands."
       ]
     ],
     "positive_phenotypes": [
       [
-        "The patient had a severe hyperkinetic movement disorder, neurodevelopmental disorder, and aminoacyl tRNA synthetase deficiency."
+        "The patient presents with a severe hyperkinetic movement disorder, dystonia, chorea, and ballism, which are consistent with the clinical phenotypes of mitochondrial disorders."
       ],
       [
         "None"
@@ -58,26 +56,49 @@
     ],
     "num_compound_or_double_hets": [
       [
-        "One compound/heterozygote mutation was detected in the WARS2 gene."
+        "Two probands are reported to have compound or double heterozygous mutations in the WARS2 gene."
       ],
       [
-        "There are no reported compound or double heterozygotes."
+        "There is no information on compound or double heterozygotes."
       ]
     ]
   },
   "quote_snippets": [
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "the patient showed a severe hyperkinetic movement disorder with uncontrollable",
-      "the cranial magnetic resonance imaging showed gross cerebellar atrophy of both hemispheres, but no white matter lesions or signs of leukencephalopathy.",
-      "serum lactate levels were not elevated at the time of presentation and documented lactate levels during childhood ranged between 0.3 and 6.0 mmol/l",
-      "the patient received symptomatic treatment with tiapridhydrochloride up to 450 mg per day, which reduced the occurrence and the amplitude of the hyperkinetic movements and did not cause drowsiness.",
-      "no pathogenic or likely pathogenic variants were detected in the mitochondrial DNA.",
-      "this variant has been found in association with disease and is hence considered a hypomorphic allele."
+      {
+        "num_tested_probands": "The report states that a total of 19 different mitochondrial tRNA synthetases exist and are essential for mitochondrial protein synthesis.",
+        "text": "Mitochondrial diseases can be caused by pathogenic variants in the nuclear DNA or in the mitochondrial DNA itself.1 They can result in variable clinical signs and symptoms."
+      },
+      {
+        "num_positive_het_probands": "No proband is reported to be heterozygous for a pathogenic variant.",
+        "text": "No pathogenic or likely pathogenic variants were detected in the mitochondrial DNA."
+      },
+      {
+        "positive_phenotypes": "The patient presents with a severe hyperkinetic movement disorder, dystonia, chorea, and ballism, which are consistent with the clinical phenotypes of mitochondrial disorders.",
+        "text": "All presented neu-rodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa,"
+      },
+      {
+        "num_compound_or_double_hets": "Two probands are reported to have compound or double heterozygous mutations in the WARS2 gene.",
+        "text": "The patient received symptomatic treatment with tiapridhydro-chloride up to 450 mg per day, which reduced the occurrence and the amplitude of the hyperkinetic movements and did not cause drowsiness."
+      }
     ],
     [
-      "severe hyperkinetic movement disorder with uncontrollable dys-tonic and ballistic movements.",
-      "He can communicate nonverbally with the parents on a basic level and react to orders."
+      {
+        "field": "num_tested_probands",
+        "quote": "There was no funding for this study. All authors have no con\ufb02icts of interest to report."
+      },
+      {
+        "field": "num_positive_het_probands",
+        "quote": ""
+      },
+      {
+        "field": "positive_phenotypes",
+        "quote": ""
+      },
+      {
+        "field": "num_compound_or_double_hets",
+        "quote": ""
+      }
     ]
   ]
 }

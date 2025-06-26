@@ -37,7 +37,7 @@
     [
       "Severe hepatopathy",
       "Neurological deterioration",
-      "Developmental delay",
+      "Early developmental delay",
       "Motor weakness",
       "Intellectual disability",
       "Epileptic seizure"
@@ -48,24 +48,29 @@
       "Dystonic posturing of arms and legs",
       "Slight dysmorphic features",
       "Delayed cognitive and motor development",
-      "Decreased awareness",
-      "Ptosis of the eyelids bilaterally",
+      "Weak deep tendon reflexes",
+      "Fists bilaterally clenched",
+      "Optic atrophy",
       "Severe generalized amyotrophy"
     ],
     [
-      "developmental delay",
-      "motor weakness",
-      "intellectual disability",
-      "seizures",
-      "epilepsy",
-      "Parkinson-like symptoms"
+      "Developmental delay",
+      "Motor weakness",
+      "Intellectual disability",
+      "Seizures",
+      "Epilepsy",
+      "Acute liver failure",
+      "Unconsciousness"
     ],
     [
-      "Severe infantile onset leukoencephalopathy",
-      "Spastic quadriplegia",
-      "Hypoglycemia (neonatal)",
-      "Epilepsy",
-      "Lactic acidosis"
+      "Hepatopathy",
+      "encephalopathy",
+      "muscular hypotonia",
+      "cardiomyopathy",
+      "retinitis pigmentosa",
+      "Parkinson-like symptoms",
+      "dystonia",
+      "ptosis"
     ],
     []
   ],
@@ -77,7 +82,7 @@
       0
     ],
     [
-      1
+      0
     ],
     [
       0
@@ -92,13 +97,13 @@
         "The proband was the only individual tested for genetic analysis."
       ],
       [
-        "The proband was born at term from non-consanguineous parents, and genetic testing was reported for this individual."
+        "The proband was the only individual tested."
       ],
       [
         "The proband was the only individual tested."
       ],
       [
-        "The proband was the only individual tested in this study."
+        "The proband was the only individual tested in this report."
       ],
       [
         "No probands were tested."
@@ -109,7 +114,7 @@
         "No heterozygous proband was identified in this report."
       ],
       [
-        "No proband was found to be heterozygous for a pathogenic variant."
+        "No heterozygous proband was identified."
       ],
       [
         "No heterozygous probands were reported."
@@ -123,16 +128,16 @@
     ],
     "positive_phenotypes": [
       [
-        "The proband presented with severe hepatopathy, neurological deterioration, developmental delay, motor weakness, intellectual disability, and epileptic seizure. These phenotypes are consistent with WARS2 deficiency."
+        "The proband presented with severe hepatopathy, neurological deterioration, early developmental delay, motor weakness, intellectual disability, and epileptic seizure. These phenotypes are consistent with WARS2 deficiency."
       ],
       [
-        "Clinical phenotypes associated with the positive probands include severe axial hypotonia, hyper-tonia, dystonic posturing of arms and legs, slight dysmorphic features, delayed cognitive and motor development, decreased awareness, ptosis of the eyelids bilaterally, and severe generalized amyotrophy."
+        "The proband exhibited a range of severe clinical features, including axial hypotonia, hyper-tonia, dystonic posturing, and delayed cognitive and motor development. Optic atrophy and generalized amyotrophy were also observed."
       ],
       [
-        "The proband exhibited a range of clinical phenotypes, including developmental delay, motor weakness, intellectual disability, seizures, and Parkinson-like symptoms."
+        "The proband exhibited a range of clinical phenotypes, including developmental delay, motor weakness, intellectual disability, seizures, and acute liver failure."
       ],
       [
-        "The proband exhibited severe infantile onset leukoencephalopathy, spastic quadriplegia, hypoglycemia (neonatal), epilepsy, and lactic acidosis."
+        "The proband exhibited a range of clinical phenotypes, including hepatopathy, encephalopathy, muscular hypotonia, cardiomyopathy, retinitis pigmentosa, Parkinson-like symptoms, dystonia, and ptosis."
       ],
       [
         "No clinical phenotypes were associated with positive probands."
@@ -143,13 +148,13 @@
         "One compound/double heterozygote was identified in this report."
       ],
       [
-        "No compound or double heterozygotes were reported in this case report."
+        "No compound or double heterozygous mutations were identified."
       ],
       [
-        "One compound/heterozygous mutation was identified."
+        "No compound or double heterozygotes were reported."
       ],
       [
-        "No compound or double heterozygous mutations were reported in this study."
+        "No compound or double heterozygous mutations were identified in this report."
       ],
       [
         "No compound or double heterozygotes were identified."
@@ -158,46 +163,88 @@
   },
   "quote_snippets": [
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "This is the first report of severe hepatopathy in a subject with WARS2 deficiency. The hepatopathy occurred soon after start of sodium valproate treatment."
+      {
+        "field": "num_tested_probands",
+        "quote": "The first subjects with deficiency of mitochondrial tryptophanyl-tRNA synthetase (WARS2) were reported in 2017. Their clinical characteristics can be subdivided into three phenotypes (neonatal phenotype, severe infantile onset phenotype, Parkinson-like phenotype)."
+      },
+      {
+        "field": "num_positive_het_probands",
+        "quote": ""
+      },
+      {
+        "field": "positive_phenotypes",
+        "quote": "Severe hepatopathy and neurological deterioration after start of valproate treatment in a 6-year-old child with mitochondrial tryptophanyl-tRNA synthetase deficiency."
+      },
+      {
+        "field": "num_compound_or_double_hets",
+        "quote": "This case report illustrates that the course of the disease in subjects with a mitochondrial defect can be non-progressive during several years."
+      }
     ],
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "She had no head control and rigidity of arms and legs was noticed.",
-      "Deep tendon reflexes were weak and both feet were in equinus position.",
-      "Hypoglycemia and a slightly increased lactate (which turned out to be normal on the next day) were detected in serum on admission.",
-      "Dystonic posturing of the limbs together with motor hyperactivity and continuous choreatic movements were seen.",
-      "Concentration of sodium valproate in serum was 18 \u03bcg/ml (nl 50\u201390).",
-      "Urinary organic acid profile showed high concentrations of lactate, pyruvate, 3-OH-butyrate, and 3-keto-butyrate.",
-      "Acylcarnitine profile was normal.",
-      "In CSF, cell count was not increased, glucose concentration was 66 mg/dL, protein 10 mg/dl and lactate 2.8 mmol (nl < 1.7).",
-      "Coagulation parameters were perturbed (PT 34%, nl 70\u2013120; aptt 51 s, nl 29\u201338), direct bilirubin was only slightly increased (0.41 mg/dL, nl 0\u20130.3) and indirect bilirubin was normal.",
-      "Ammonemia was normal (34 \u03bcmol, nl 11\u201348).",
-      "Sodium valproate was stopped immediately and phenobarbital was started.",
-      "Ophthalmological examination revealed optic atrophy.",
-      "EEG and electroneuromyographic examination were normal.",
-      "Cerebral MRI showed enlargement of the lateral ventricles and third ventricle presumably due to white matter loss.",
-      "Subarachnoidal spaces were abnormally large, most marked in the frontal regions bilaterally.",
-      "In the posterior fossa, the vermis cerebelli was hypoplastic, the fourth ventricle was enlarged and the brainstem and cerebellar peduncles were hypoplastic.",
-      "No signs of periven-tricular leucomalacia, neither of cystic encephalopathy were seen.",
-      "She passed away at home at the age of 6 \u00bd year.",
-      "Light microscopy, cytochemical analysis and electron microscopy showed the presence of Ki67 positive nuclei, macrophages with large PAS-diastase resistant inclusions, CK-7 positive small cells, lipid droplets, and a mitochondrial mosaic.",
-      "Biochemical and molecular studies showed significantly reduced activity of complex III and low activities of complex I and IV in liver tissue from the proband.",
-      "BN-PAGE confirmed the low activities of the complexes I, III and IV when compared to those in liver tissue from a control.",
-      "Single person Whole Exome Sequencing (WES) was performed and variants were filtered using a mitochondrial gene panel based on the Human MitoCarta2.0. dataset."
+      {
+        "num_tested_probands": "The proband was the only individual tested.",
+        "text": "The proband was born at term from non-consanguineous parents. The neonatal period was without complications."
+      },
+      {
+        "num_positive_het_probands": "No heterozygous proband was identified.",
+        "text": "When examined at the age of eleven months, severe axial hypotonia, hyper-tonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features."
+      },
+      {
+        "positive_phenotypes": "The proband exhibited a range of severe clinical features, including axial hypotonia, hyper-tonia, dystonic posturing, and delayed cognitive and motor development. Optic atrophy and generalized amyotrophy were also observed.",
+        "text": "She had no head control and rigidity of arms and legs was noticed. Fists were bilaterally clenched."
+      },
+      {
+        "num_compound_or_double_hets": "No compound or double heterozygous mutations were identified.",
+        "text": "The urinary organic acid profile showed high concentrations of lactate, pyruvate, 3-OH-butyrate and 3-keto-butyrate."
+      }
     ],
     [
-      "developmental delay, motor weakness, and intellectual disability",
-      "Parkinson-like symptoms starting around the age of one year",
-      "acute onset liver failure and severe encephalopathy",
-      "hypotonia, severe cognitive and motor delay, cardiomyopathy, and retinitis pigmentosa"
+      {
+        "num_tested_probands": "The proband was the only individual tested.",
+        "text": "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures"
+      },
+      {
+        "num_positive_het_probands": "No heterozygous probands were reported.",
+        "text": ""
+      },
+      {
+        "positive_phenotypes": "The proband exhibited a range of clinical phenotypes, including developmental delay, motor weakness, intellectual disability, seizures, and acute liver failure.",
+        "text": "Developmental delay, motor weakness, intellectual disability, seizures, and acute liver failure"
+      },
+      {
+        "num_compound_or_double_hets": "No compound or double heterozygotes were reported.",
+        "text": ""
+      }
     ],
     [
-      "Severe infantile onset leukoencephalopathy, spastic quadriplegia, hypoglycemia (neonatal), epilepsy, and lactic acidosis.",
-      "Fatal lactic acidosis",
-      "Lys31_Gln116del and Val349Leu",
-      "Pro266Argfs*10 and Lys313Met"
+      {
+        "num_tested_probands": "The proband was the only individual tested in this report.",
+        "text": "A subject with WARS2 deficiency was reported to have a mosaic pattern after activity staining of cytochrome c oxidase. Hepatocytes with strong mito-chondrial activity were found adjacent to cells that showed scarce or no reaction product (Fig. 1c-d).",
+        "phenotype": "Hepatopathy"
+      },
+      {
+        "num_positive_het_probands": "No heterozygous proband was identified in this report.",
+        "text": "Immunohistochemical staining of OXPHOS enzymes in the liver of one subject reported by Wortmann et al. demonstrated severely reduced quantity of the complexes I and IV.",
+        "phenotype": "Muscular hypotonia"
+      },
+      {
+        "positive_phenotypes": "The proband exhibited a range of clinical phenotypes, including hepatopathy, encephalopathy, muscular hypotonia, cardiomyopathy, retinitis pigmentosa, Parkinson-like symptoms, dystonia, and ptosis.",
+        "text": "A wide variety of brain MRI abnormalities were found in the WARS2 deficient subjects. In the subject reported by Theissen et al. (2017), a delay of myelination, diffuse cerebral atrophy and moderate symmetric ventriculomegaly was described [9].",
+        "phenotype": "Parkinson-like symptoms"
+      },
+      {
+        "num_compound_or_double_hets": "No compound or double heterozygous mutations were identified in this report.",
+        "text": "Single person WES was performed in order to pinpoint the underlying molecular defect. Two variants were found in WARS2. One was a frameshift mutation (c.797delC, p.Pro266Argf-sTer10), the other a missense mutation (c.938 A > T, p.Lys313Met).",
+        "phenotype": "Hepatopathy"
+      }
     ],
-    []
+    [
+      {
+        "num_tested_probands": "No probands were tested.",
+        "num_positive_het_probands": "No heterozygous probands were reported.",
+        "positive_phenotypes": "No clinical phenotypes were associated with positive probands.",
+        "num_compound_or_double_hets": "No compound or double heterozygotes were identified."
+      }
+    ]
   ]
 }

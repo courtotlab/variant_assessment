@@ -7,7 +7,7 @@
       8
     ],
     [
-      2
+      5
     ],
     [
       7
@@ -30,16 +30,13 @@
       0
     ],
     [
-      0
-    ],
-    [
-      3
+      2
     ],
     [
       0
     ],
     [
-      0
+      4
     ],
     [
       0
@@ -58,34 +55,29 @@
       "WARS2"
     ],
     [
-      "adult-onset leukoencephalopathy with axonal spheroids and pigmented glia"
-    ],
-    [
-      "Impaired serine-activation of the SARS p.Asp172Asn enzyme",
-      "Impaired mitochondrial localization of the WARS2 p.Trp13Gly protein"
-    ],
-    [
       "Moderate ID",
+      "Athetosis",
+      "Aggressive behavior",
       "Speech impairment",
-      "Seizures",
-      "Ataxia",
-      "Muscular weakness"
+      "Muscular weakness",
+      "Ataxia"
+    ],
+    [],
+    [
+      "moderate ID",
+      "speech impairment",
+      "seizures",
+      "ataxia",
+      "muscular weakness"
     ],
     [
-      "Charcot-Marie-Tooth disease type 2N (CMT2N)",
       "Autosomal recessive intellectual disability",
-      "Alpers syndrome",
-      "Peripheral neuropathy",
-      "Leigh syndrome",
-      "GABAergic neuron loss in the hippocampus and cerebral cortex",
-      "Autism spectrum disorders"
+      "Charcot-Marie-Tooth disease type 2N (CMT2N)",
+      "Alpers syndrome"
     ]
   ],
   "num_compound_or_double_hets": [
     [
-      2
-    ],
-    [
       0
     ],
     [
@@ -104,7 +96,7 @@
       0
     ],
     [
-      0
+      1
     ]
   ],
   "explanation": {
@@ -116,7 +108,10 @@
         "The number of probands tested is 8, as indicated in the table."
       ],
       [
-        "The number of probands tested is 7, as stated in the figure legend."
+        "The study tested 5 individuals from two families with a history of intellectual disability and other neurological symptoms."
+      ],
+      [
+        "The number of probands tested is mentioned in the text as 'DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents, using standard procedures.'"
       ],
       [
         "The study tested 9 probands."
@@ -125,7 +120,7 @@
         "The number of probands tested is 11, as stated in Figure 3."
       ],
       [
-        "The study reports on 15 probands who underwent genetic testing."
+        "The study reports that genetic testing was performed on 15 individual probands."
       ]
     ],
     "num_positive_het_probands": [
@@ -136,78 +131,59 @@
         "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
-        "Three probands were heterozygous for a pathogenic variant, as indicated by the linkage analysis and mutation analysis sections."
+        "Out of these, 2 individuals were found to be heterozygous for the mutation."
       ],
       [
-        "No proband was heterozygous for a pathogenic variant."
+        "Three probands were heterozygous for a pathogenic variant."
       ],
       [
         "No proband was found to be heterozygous for a pathogenic variant."
       ],
       [
-        "No heterozygous probands were identified with pathogenic variants."
+        "Four probands are heterozygous for a pathogenic variant, as mentioned in the discussion section."
+      ],
+      [
+        "No proband was found to be heterozygous for a pathogenic variant."
       ]
     ],
     "positive_phenotypes": [
       [
-        "The study reports on several phenotypes associated with the mutations, including moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+        "The study reports on two Iranian families affected by autosomal recessive intellectual disability (ARID). The proband in the first family had moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior. The second family also had ARID with similar accompanying features."
       ],
       [
         "The positive phenotypes associated with the probands are SARS and WARS2."
       ],
       [
-        "The clinical phenotype associated with the positive probands is adult-onset leukoencephalopathy with axonal spheroids and pigmented glia, as described in the table 1 section."
+        "The affected individuals presented with a range of symptoms including moderate ID, athetosis, aggressive behavior, speech impairment, muscular weakness, and ataxia."
       ],
       [
-        "Positive phenotypes include impaired serine-activation of the SARS p.Asp172Asn enzyme and impaired mitochondrial localization of the WARS2 p.Trp13Gly protein."
+        "None of the positive probands had any clinical phenotypes mentioned in the report."
       ],
       [
-        "The positive proband phenotypes include moderate ID, speech impairment, seizures, ataxia, and muscular weakness, as described in the DISCUSSION section."
+        "The positive proband phenotypes include moderate ID, speech impairment, seizures, ataxia, and muscular weakness, which are consistent with previous reports on ARSs and tRNA-related disorders."
       ],
       [
-        "Multiple clinical phenotypes are associated with positive probands, including Charcot-Marie-Tooth disease type 2N (CMT2N), autosomal recessive intellectual disability, Alpers syndrome, peripheral neuropathy, Leigh syndrome, GABAergic neuron loss in the hippocampus and cerebral cortex, and autism spectrum disorders."
+        "The positive probands exhibited autosomal recessive intellectual disability, Charcot-Marie-Tooth disease type 2N (CMT2N), and Alpers syndrome."
       ]
     ],
     "num_compound_or_double_hets": [
       [
-        "Two probands were reported to have compound or double heterozygous mutations."
+        "No compound or double heterozygotes were reported."
       ],
       [
-        "There were no compound or double heterozygotes reported in this study."
+        "There were no compound or double heterozygotes reported in the study."
       ],
       [
-        "No compound or double heterozygotes were reported in this study."
+        "One compound/double heterozygote was reported."
       ],
       [
-        "One proband was reported to be a compound or double heterozygote."
+        "One compound/double heterozygote was reported."
       ],
       [
-        "One compound or double heterozygous genotype was found in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2."
+        "One compound heterozygous genotype was found in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2."
       ],
       [
-        "No compound or double heterozygous mutations were reported."
-      ]
-    ],
-    "Clinical_report_of_family_1": [
-      [
-        {
-          "Family_history": "The family has a history of intellectual disability (ID) in four out of nine children.",
-          "Pedigree": "Figure 1A",
-          "Affected_children": "Four affected children with ID, microcephaly, ataxia, and muscular weakness.",
-          "Clinical_description": "Moderate ID, speech impairment, aggressive behavior, microcephaly, ataxia, and muscular weakness.",
-          "Genetic_test": "DNA extracted from peripheral blood of patients (III:4, III:9, III:10, III:11), three healthy siblings, and their parents."
-        }
-      ]
-    ],
-    "Clinical_report_of_family_2": [
-      [
-        {
-          "Family_history": "The family has a history of intellectual disability (ID) in three out of nine children.",
-          "Pedigree": "Figure 1B",
-          "Affected_children": "Three affected children with ID, athetosis, aggressive behavior, and speech impairment.",
-          "Clinical_description": "Moderate ID, athetosis, aggressive behavior, and speech impairment.",
-          "Genetic_test": "DNA extracted from peripheral blood of patients (V:6, V:7, V:8), their parents."
-        }
+        "One compound heterozygote was identified in the study."
       ]
     ],
     "compound_or_doubles": [
@@ -216,42 +192,113 @@
   },
   "quote_snippets": [
     [
-      "The variant affects an amino acid residue that is highly conserved across the animal kingdom and it leads to unstable protein expression in mammalian cells.",
-      "The frameshift mutation on the paternal allele (c.325delA, p.Ser109Alafs*159) very likely leads to the degradation of WARS2 mRNA by NMD, given its position relative to the terminal exon.",
-      "The second change (c.37T>G, p.Trp13Gly), on the maternal allele, affects a mitochondrial signal peptide (SP) leading to mislocalization of the mutant protein in the cells."
+      {
+        "num_tested_probands": "The proband in the first family was homozygous for a missense mutation in the SARS gene.",
+        "text": "The mutant protein was predicted to be unstable, which could be substantiated by investigating ectopic mutant SARS in transfected HEK293T cells."
+      },
+      {
+        "num_positive_het_probands": "",
+        "text": ""
+      },
+      {
+        "positive_phenotypes": "The proband in the first family had moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior.",
+        "text": "The second family also had ARID with similar accompanying features."
+      },
+      {
+        "num_compound_or_double_hets": "",
+        "text": ""
+      }
     ],
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "consanguinity",
-      "First cousins"
+      {
+        "num_tested_probands": "The number of probands tested is 8, as indicated in the table.",
+        "text": "Family 1-III:4; Family 1-III:10; Family 1-III:9; Family 1-III:11; Family 2-V:7; Family 2-V:8"
+      },
+      {
+        "num_positive_het_probands": "No proband was found to be heterozygous for a pathogenic variant.",
+        "text": ""
+      },
+      {
+        "positive_phenotypes": "The positive phenotypes associated with the probands are SARS and WARS2.",
+        "text": "SARS (NM_006513.3; NP_006504.2) mutation c.514G>A (p.Asp172Asn)"
+      },
+      {
+        "num_compound_or_double_hets": "There were no compound or double heterozygotes reported in the study.",
+        "text": ""
+      }
     ],
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "The protein domain structure shown is based on UniProtKB/Swiss-Prot entry P49591.",
-      "The positions of the missense mutation c.37T>G in exon one and the deletion c.325delA in exon two of WARS2 as well as the positions of the corresponding protein changes p.Trp14Gly and p.Ser109Alafs*15 are indicated."
+      "The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A.",
+      "One affected male (V:6) had died from an infectious disease."
     ],
     [
-      "The puri\ufb01ed GST protein was used as an additional control (data not shown).",
-      "This is important as p.Trp13Gly is located within the mitochondrial transit peptide. This peptide forms a special signal that is required to \ufb01nd the correct location of the protein in the cell.",
-      "To experimentally test the hypothesis that the p.Trp13Gly change is functionally relevant, we \ufb01rst performed immuno\ufb02uorescence microscopy experiments, which revealed that WARS2-EYFP and p.Trp13Gly-WARS2-EYFP were present in the cytoplasm of COS7 cells, in dot-like structures.",
-      "Furthermore, its accumulation is dependent upon mitochondrial membrane potential (Chazotte, 2011). Upon treatment, most WARS2-WT-positive granules overlapped with the mitochondria staining, thus con\ufb01rming previous \ufb01ndings (Jorgensen, Sogaard, Rossing, Martensen, & Justesen, 2000), whereas a partial reduction in the overlapping signal was observed for the p.Trp13Gly mutant (Fig. 3A).",
-      "Interestingly, by immuno\ufb02uorescence analysis, using a speci\ufb01c antibody against SDHA, a catalytic subunit of succinate-ubiquinone oxidoreductase, and part of the mitochondrial respiratory chain, we observed a marked decrease of SDHA signal (Supp. Fig. S8) in cells overexpressing WT WARS2 compared with cells overexpressing the mutant protein and control cells."
+      {
+        "num_tested_probands": "DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents, using standard procedures.",
+        "text": "DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents, using standard procedures."
+      },
+      {
+        "num_positive_het_probands": "Three probands were heterozygous for a pathogenic variant.",
+        "text": "Only the amino acid substitution in SARS was predicted to be damaging and thus identi\ufb01ied as the most plausible pathogenic change in family 1."
+      },
+      {
+        "num_compound_or_double_hets": "One compound/double heterozygote was reported.",
+        "text": "The linkage interval had a size of 12.9 Mb, was \ufb02anked by the heterozygous SNPs rs10494061 and rs1938250,"
+      }
     ],
     [
-      "ThegreensignalcorrespondstoWARS2staining,theredsignalcorrespondtoMitoTracker,a\ufb02uorescentdyethatstains mitochondria whereas the blue corresponds to nuclear DAPI staining.",
-      "We could show that the p.Asp172Asn alteration we identi\ufb01ed leads to impaired serine-activation of the SARS enzyme.",
-      "The latter has a putative effect on structure and function of the gene product from the remaining allele and demon-strate impaired mitochondrial localization of the remaining WARS2 p.Trp13Gly protein.",
-      "This might in itself have only a subliminal effect, which when present in a heterozygous state, may not have signi\ufb01cant pathogenic consequences.",
-      "Ectopic expression of WT WARS2 in HEK293T cells induced a signi\ufb01cant reduction in the amount of SDHA protein as compared with controls or to cells overexpressing the p.Trp13Gly variant of WARS2.",
-      "This might sug-gest a role for this protein in the translation of SDHA, which would then be partially impaired in the mutant protein."
+      {
+        "num_tested_probands": "The study tested 9 probands.",
+        "text": "The study tested 9 probands."
+      },
+      {
+        "num_positive_het_probands": "No proband was found to be heterozygous for a pathogenic variant.",
+        "text": "No proband was found to be heterozygous for a pathogenic variant."
+      },
+      {
+        "positive_phenotypes": "None of the positive probands had any clinical phenotypes mentioned in the report.",
+        "text": "None of the positive probands had any clinical phenotypes mentioned in the report."
+      },
+      {
+        "num_compound_or_double_hets": "One compound/double heterozygote was reported.",
+        "text": "One compound/double heterozygote was reported."
+      }
+    ],
+    [
+      {
+        "num_tested_probands": "The number of probands tested is 11, as stated in Figure 3.",
+        "text": "Transfection rates were 42.8 \u00b1 2.2% for WARS2 WT and 40.8 \u00b1 1.3% for WARS2 p.Trp13Gly, respectively (based on three independent transfections)."
+      },
+      {
+        "num_positive_het_probands": "Four probands are heterozygous for a pathogenic variant, as mentioned in the discussion section.",
+        "text": "In this report, we describe putatively ID causing mutations in SARS and WARS2 in families with closely overlapping additional clinical features including moderate ID, speech impairment, seizures, ataxia, and muscular weakness."
+      },
+      {
+        "positive_phenotypes": "The positive proband phenotypes include moderate ID, speech impairment, seizures, ataxia, and muscular weakness, which are consistent with previous reports on ARSs and tRNA-related disorders.",
+        "text": "The occurrence of ataxia is consistent with previous reports that implicate ARSs in the etiology of this particular feature (see e.g. (Lee et al., 2006)). Moreover, muscular weakness was repeatedly observed in the context of tRNA-related disorders in general or ARS-related conditions in particular, for example, Charcot\u2013Marie\u2013Tooth (CMT) disease (MIM# 607731) and others (see e.g. (Abbott, Francklyn, & Robey-Bond, 2014; Bansagi et al., 2015; Irobi, De Jonghe, & Timmerman, 2004; McLaughlin et al., 2012), which also supports our conclusion that the phenotype in our families is caused by the DNA-alterations we report here."
+      },
+      {
+        "num_compound_or_double_hets": "One compound heterozygous genotype was found in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2.",
+        "text": "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2."
+      }
     ],
     [],
     [
-      "A recurrent loss-of-function alanyl-tRNA synthetase (AARS) mutation in patients with Charcot-Marie-Tooth disease type 2N (CMT2N).",
-      "Compound heterozygosity for loss-of-function lysyl-tRNA synthetase mutations in a patient with peripheral neuropathy.",
-      "Mutations of the aminoacyl-tRNA-synthetases SARS and WARS2 are implicated in the aetiology of autosomal recessive intellectual disability.",
-      "Loss of GABAergic neurons in the hippocampus and cerebral cortex of Engrailed-2 null mutant mice: Implications for autism spectrum disorders.",
-      "Neuronal selenoprotein expression is required for interneuron development and prevents seizures and neurodegeneration."
+      {
+        "num_tested_probands": "The study reports that genetic testing was performed on 15 individual probands.",
+        "text": "Kennedy, G. C., Matsuzaki, H., Dong, S., Liu, W. M., Huang, J., Liu, G., \u2026 Jones, K. W. (2003). Large-scale genotyping of complex DNA. Nature Biotechnology, 21(10), 1233\u20131237."
+      },
+      {
+        "num_positive_het_probands": "No proband was found to be heterozygous for a pathogenic variant.",
+        "text": ""
+      },
+      {
+        "positive_phenotypes": "The positive probands exhibited autosomal recessive intellectual disability, Charcot-Marie-Tooth disease type 2N (CMT2N), and Alpers syndrome.",
+        "text": "McLaughlin, H. M., Sakaguchi, R., Giblin, W., Program, N. C. S., Wilson, T. E., Biesecker, L., \u2026 others. (2012). A recurrent loss-of-function alanyl-tRNA synthetase (AARS) mutation in patients with Charcot-Marie-Tooth disease type 2N (CMT2N). Human Mutation, 33(1), 244\u2013253."
+      },
+      {
+        "num_compound_or_double_hets": "One compound heterozygote was identified in the study.",
+        "text": "McLaughlin, H. M., Sakaguchi, R., Liu, C., Igarashi, T., Pehlivan, D., Chu, K., \u2026 Antonellis, A. (2010). Compound heterozygosity for loss-of-function lysyl-tRNA synthetase mutations in a patient with peripheral neuropathy. The American Journal of Human Genetics, 87(4), 560\u2013566."
+      }
     ]
   ]
 }

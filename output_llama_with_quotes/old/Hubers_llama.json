@@ -1,0 +1,83 @@
+{
+  "num_tested_probands": [
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "num_positive_het_probands": [
+    [
+      0
+    ],
+    [
+      0
+    ]
+  ],
+  "positive_phenotypes": [
+    [
+      "Hyperkinetic movement disorder",
+      "Neurodevelopmental disorder, mitochondrial",
+      "Aminoacyl tRNA synthetase deficiency"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      [
+        "The patient was the only proband tested in this case report."
+      ],
+      [
+        "No probands were tested in this study."
+      ]
+    ],
+    "num_positive_het_probands": [
+      [
+        "No heterozygous probands were reported to have pathogenic variants."
+      ],
+      [
+        "There are no reported heterozygous probands with pathogenic variants."
+      ]
+    ],
+    "positive_phenotypes": [
+      [
+        "The patient had a severe hyperkinetic movement disorder, neurodevelopmental disorder, and aminoacyl tRNA synthetase deficiency."
+      ],
+      [
+        "None"
+      ]
+    ],
+    "num_compound_or_double_hets": [
+      [
+        "One compound/heterozygote mutation was detected in the WARS2 gene."
+      ],
+      [
+        "There are no reported compound or double heterozygotes."
+      ]
+    ]
+  },
+  "quote_snippets": [
+    [
+      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
+      "the patient showed a severe hyperkinetic movement disorder with uncontrollable",
+      "the cranial magnetic resonance imaging showed gross cerebellar atrophy of both hemispheres, but no white matter lesions or signs of leukencephalopathy.",
+      "serum lactate levels were not elevated at the time of presentation and documented lactate levels during childhood ranged between 0.3 and 6.0 mmol/l",
+      "the patient received symptomatic treatment with tiapridhydrochloride up to 450 mg per day, which reduced the occurrence and the amplitude of the hyperkinetic movements and did not cause drowsiness.",
+      "no pathogenic or likely pathogenic variants were detected in the mitochondrial DNA.",
+      "this variant has been found in association with disease and is hence considered a hypomorphic allele."
+    ],
+    [
+      "severe hyperkinetic movement disorder with uncontrollable dys-tonic and ballistic movements.",
+      "He can communicate nonverbally with the parents on a basic level and react to orders."
+    ]
+  ]
+}

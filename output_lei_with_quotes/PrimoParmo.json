@@ -1,0 +1,205 @@
+{
+  "Pages 1-2": {
+    "num_tested_probands": 4,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "sensitivity to succinylcholine",
+      "unstable variant of human butyrylcholinesterase (BChE)"
+    ],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The study described an unstable variant of human butyrylcholinesterase in four apparently unrelated individuals.",
+      "num_positive_het_probands": "The text does not specify the number of probands who were heterozygous for a pathogenic variant, only describing a single nucleotide substitution responsible for the variant in a general context.",
+      "positive_phenotypes": "The phenotypes described include sensitivity to succinylcholine and the presence of an unstable BChE variant.",
+      "num_compound_or_double_hets": "The report does not provide specific numbers of compound or double heterozygotes, but it discusses the variant being in heterozygous combination with the Atypical variant."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "An unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals sensitive to succinylcholine:"
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "An unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals sensitive to succinylcholine:",
+        "Sequencing of genomic DNA revealed a single nucleotide substitution which results in the replacement of amino acid residue Gly115 by Asp."
+      ],
+      "num_compound_or_double_hets": []
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "An unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals sensitive to succinylcholine."
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "An unstable variant of human butyrylcholinesterase (BChE) is described in four apparently unrelated individuals sensitive to succinylcholine.",
+        "Sequencing of genomic DNA revealed a single nucleotide substitution which results in the replacement of amino acid residue Gly115 by Asp."
+      ],
+      "num_compound_or_double_hets": []
+    },
+    "gene_symbol": [
+      "AGA",
+      "AGT",
+      "AP2",
+      "B10",
+      "BCHE",
+      "CAT",
+      "GC",
+      "GCA",
+      "GEM",
+      "HB1",
+      "P39",
+      "PC",
+      "SI",
+      "TAT",
+      "TCTA",
+      "TG",
+      "U35"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 3-4": {
+    "num_tested_probands": 13,
+    "num_positive_het_probands": 7,
+    "positive_phenotypes": [
+      "Usual phenotype",
+      "Atypical phenotype",
+      "Silent BChE phenotype"
+    ],
+    "num_compound_or_double_hets": 2,
+    "explanation": {
+      "num_tested_probands": "The table lists 13 individuals analyzed with specific BChE genotypes and activities.",
+      "num_positive_het_probands": "Seven individuals (1-II-1, 1-II-2, 1-III-2, 1-IV-1, 1-IV-2, MP, JoW) were heterozygous for BCHE*115D.",
+      "positive_phenotypes": "The text describes phenotypes including Usual, Atypical, and Silent BChE phenotypes.",
+      "num_compound_or_double_hets": "Two patients, MP and JoW, are described as having the genotype BCHE*70G/*115D, indicating compound heterozygosity."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "Table 2 shows the values of BChE activity and the percentage of inhibition by dibucaine (DN) and sodium fluoride (FN) for all individuals analysed in the present study."
+      ],
+      "num_positive_het_probands": [
+        "The new BCHE allele, BCHE*115D, was present in heterozygous combination with the Atypical allele in individuals 1-IV-1 and 1-IV-2, and with the Usual allele in the other relatives.",
+        "Two other patients, MP and JoW, had the genotype BCHE*70G/*115D."
+      ],
+      "positive_phenotypes": [
+        "the Usual BChE phenotype; the exception being 1-IV - 1 and 1-IV-2 whose results were close to those reported for the BCHE 706,497E (AJ) phenotype",
+        "Patient 1-[-1 was first believed to have a Silent BChE phenotype, Since no BChE activity was detected in her plasma:"
+      ],
+      "num_compound_or_double_hets": [
+        "Two other patients, MP and JoW, had the genotype BCHE*70G/*115D."
+      ]
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "Table 2 shows the values of BChE activity and the percentage of inhibition by dibucaine (DN) and sodium fluoride (FN) for all individuals analysed in the present study."
+      ],
+      "num_positive_het_probands": [
+        "The new BCHE allele, BCHE*115D, was present in heterozygous combination with the Atypical allele in individuals 1-IV-1 and 1-IV-2, and with the Usual allele in the other relatives.",
+        "Two other patients, MP and JoW, had the genotype BCHE*70G/*115D."
+      ],
+      "positive_phenotypes": [
+        "the Usual BChE phenotype; the exception being 1-IV-1 and 1-IV-2 whose results were close to those reported for the BCHE 706,497E (AJ) phenotype",
+        "Patient 1-1-1 was first believed to have a Silent BChE phenotype, Since no BChE activity was detected in her plasma:"
+      ],
+      "num_compound_or_double_hets": [
+        "Two other patients, MP and JoW, had the genotype BCHE*70G/*115D."
+      ]
+    },
+    "gene_symbol": [
+      "BCHE",
+      "PC"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 5-6": {
+    "num_tested_probands": 3,
+    "num_positive_het_probands": 2,
+    "positive_phenotypes": [
+      "DN and FN characteristic of the Atypical phenotype"
+    ],
+    "num_compound_or_double_hets": 0,
+    "explanation": {
+      "num_tested_probands": "The proband with the Usual BChE phenotype had two sons tested, making it a total of three."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "The proband with the Usual BChE phenotype had two sons with DN and FN characteristic of the Atypical phenotype."
+      ],
+      "num_positive_het_probands": [
+        "The proband with the Usual BChE phenotype had two sons with DN and FN characteristic of the Atypical phenotype."
+      ],
+      "positive_phenotypes": [
+        "The proband with the Usual BChE phenotype had two sons with DN and FN characteristic of the Atypical phenotype."
+      ],
+      "num_compound_or_double_hets": []
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "The proband with the Usual BChE phenotype had two sons with DN and FN characteristic of the Atypical phenotype."
+      ],
+      "num_positive_het_probands": [
+        "The proband with the Usual BChE phenotype had two sons with DN and FN characteristic of the Atypical phenotype."
+      ],
+      "positive_phenotypes": [
+        "The proband with the Usual BChE phenotype had two sons with DN and FN characteristic of the Atypical phenotype."
+      ],
+      "num_compound_or_double_hets": []
+    },
+    "gene_symbol": [
+      "BCHE",
+      "GAA",
+      "GCG",
+      "GFY",
+      "GSS",
+      "KL",
+      "SGTA",
+      "SST",
+      "TAT",
+      "TG"
+    ],
+    "genomic_hgvs": []
+  },
+  "Pages 7-8": {
+    "num_tested_probands": 3,
+    "num_positive_het_probands": 0,
+    "positive_phenotypes": [
+      "silent phenotype of serum butyrylcholinesterase"
+    ],
+    "num_compound_or_double_hets": 3,
+    "explanation": {
+      "num_tested_probands": "The document mentions 'compound heterozygotes' indicating that 3 probands were tested for the silent phenotype.",
+      "num_positive_het_probands": "There is no direct mention of heterozygous probands with a positive result.",
+      "positive_phenotypes": "The phenotype associated with the positive probands is described as 'silent phenotype of serum butyrylcholinesterase.'",
+      "num_compound_or_double_hets": "The document states 'three compound heterozygotes,' indicating the number of compound or double heterozygous probands."
+    },
+    "quote_snippets": {
+      "num_tested_probands": [
+        "silent phenotype of serum butyrylcholinesterase in three compound heterozygotes"
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "silent phenotype of serum butyrylcholinesterase in three compound heterozygotes"
+      ],
+      "num_compound_or_double_hets": [
+        "silent phenotype of serum butyrylcholinesterase in three compound heterozygotes"
+      ]
+    },
+    "cleaned_quotes": {
+      "num_tested_probands": [
+        "silent phenotype of serum butyrylcholinesterase in three compound heterozygotes"
+      ],
+      "num_positive_het_probands": [],
+      "positive_phenotypes": [
+        "silent phenotype of serum butyrylcholinesterase in three compound heterozygotes"
+      ],
+      "num_compound_or_double_hets": [
+        "silent phenotype of serum butyrylcholinesterase in three compound heterozygotes"
+      ]
+    },
+    "gene_symbol": [
+      "AR",
+      "BCHE",
+      "CP",
+      "EMB"
+    ],
+    "genomic_hgvs": []
+  }
+}

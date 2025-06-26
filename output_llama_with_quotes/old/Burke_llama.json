@@ -1,0 +1,163 @@
+{
+  "num_tested_probands": [
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "num_positive_het_probands": [
+    [
+      0
+    ],
+    [
+      0
+    ],
+    [
+      0
+    ],
+    [
+      0
+    ]
+  ],
+  "positive_phenotypes": [
+    [
+      "infantile-onset, Levodopa-responsive Parkinsonism"
+    ],
+    [
+      "Infantile-onset Parkinsonism",
+      "Infantile leukoencephalopathy"
+    ],
+    [
+      "Levodopa-responsive Parkinsonism",
+      "Infantile-onset neurodegeneration",
+      "Late-onset neurodegeneration",
+      "Hereditary diffuse leukoencephalopathy with spheroids"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    [
+      0
+    ],
+    [
+      2
+    ],
+    [
+      1
+    ],
+    [
+      0
+    ]
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      [
+        "The patient is the only proband tested in this report."
+      ],
+      [
+        "The patient was the only proband tested."
+      ],
+      [
+        "The patient is the only proband tested in this report."
+      ],
+      [
+        "No probands were tested in the provided reports."
+      ]
+    ],
+    "num_positive_het_probands": [
+      [
+        "No proband was found to be heterozygous for a pathogenic variant."
+      ],
+      [
+        "No proband was found to be heterozygous for a pathogenic variant."
+      ],
+      [
+        "No heterozygous probands were reported to have pathogenic variants."
+      ],
+      [
+        "No heterozygous probands were identified in the provided reports."
+      ]
+    ],
+    "positive_phenotypes": [
+      [
+        "The patient presents with infantile-onset, Levodopa-responsive Parkinsonism, which is a clinical hallmark of Parkinson's disease."
+      ],
+      [
+        "The patient exhibited infantile-onset Parkinsonism and infantile leukoencephalopathy."
+      ],
+      [
+        "The patient has infantile-onset Levodopa-responsive Parkinsonism and late-onset neurodegeneration. The first family carried one of the alleles found in our patient (p.Trp13Gly), along with a frameshift mutation predicted to result in loss of function; the latter may account for the more severe intellectual disability seen in the affected siblings."
+      ],
+      [
+        "None of the provided reports mentioned specific clinical phenotypes associated with positive probands."
+      ]
+    ],
+    "num_compound_or_double_hets": [
+      [
+        "There are no compound or double heterozygotes reported in this case."
+      ],
+      [
+        "The patient was compound heterozygous for two variants in the WARS2 gene."
+      ],
+      [
+        "The patient has compound heterozygous mutations in WARS2."
+      ],
+      [
+        "No compound or double heterozygotes were reported in the provided articles."
+      ]
+    ]
+  },
+  "quote_snippets": [
+    [
+      "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)",
+      "infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years",
+      "decreased steady-state WARS2 protein and normal OXPHOS content",
+      "mitochondrial proliferation without obvious respiratory chain deficiencies"
+    ],
+    [
+      "The p.Trp13Gly variant is present in the ExAC database with an allelic frequency of 0.003383 and is not predicted to be extremely deleterious.",
+      "However, its location in the mitochondrial localization signal of the protein gives it functional relevance.",
+      "The patient was compound heterozygous for two variants in the WARS2 gene: a missense variant c.37T>G (p.Trp13Gly) inherited from his mother and a missense variant c.683C>G (p.Ser228Trp) inherited from his father."
+    ],
+    [
+      "Muscle biopsy analysis A quadriceps muscle biopsy had non-specific changes including mild variation in fiber size with rare atrophic fiber, and normal COX and SDH stains.",
+      "Muscle electron microscopy demonstrated well pre-preserved z-bands and fibrils with minimally increased subsarcolemmal mitochondria, many which were mitochondria and some that vary in shape without paracrystalline inclusions.",
+      "Mitochondrial DNA content by quantitative polymerase chain reaction (qPCR) analysis was 76% of age- and tissue-matched control.",
+      "The association of the patient\u2019s WARS2 variants to Parkinsonism or PD may be further clarified by systematically interrogating available cohorts for such mutations.",
+      "MRI imaging at the time of our evaluation revealed a structurally normal study without evidence of abnormal mineral or metal deposition in the deep brain nuclei or leukoencephalopathy, but rather minimal non-specific atrophy."
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

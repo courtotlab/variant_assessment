@@ -12,7 +12,7 @@
   ],
   "num_positive_het_probands": [
     [
-      1
+      2
     ],
     [
       2
@@ -23,30 +23,23 @@
   ],
   "positive_phenotypes": [
     [
-      "heterozygous for the atypical variant and a silent variant",
-      "homozygous for silent variants",
-      "heterozygous for the atypical variant"
+      "AS",
+      "SS"
     ],
     [
       "prolonged duration of action of succinylcholine",
-      "heterozygous for BCHE*FS126"
+      "compound heterozygous for BCHE*328D and BCHE*142M"
     ],
     [
-      "AARS2",
-      "CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia",
-      "mivacurium in patients with phenotypically abnormal plasma cholinesterase activity",
-      "H-variant segregating in two Danish families",
-      "dibucaine numbers",
-      "fluoride: recognition of two new phenotypes",
-      "inhibition of serum cholinesterase by urea",
-      "pseudocholinesterase variant in human tissues",
-      "response to mivacurium in a patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing",
-      "unstable variant (BChE115D) of human butyrylcholinesterase"
+      "Dibucaine-resistant phenotype",
+      "Mivacurium resistance",
+      "Pseudocholinesterase variant",
+      "Acetylcholinesterase deficiency"
     ]
   ],
   "num_compound_or_double_hets": [
     [
-      0
+      1
     ],
     [
       1
@@ -58,7 +51,7 @@
   "explanation": {
     "num_tested_probands": [
       [
-        "The probands were referred to DCRU because of prolonged duration of action of succinylcholine."
+        "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
       ],
       [
         "The proband in family 1 had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine."
@@ -69,7 +62,7 @@
     ],
     "num_positive_het_probands": [
       [
-        "One proband was heterozygous for a silent variant and another was homozygous for silent variants."
+        "Two of the patients were homozygous for a silent variant and one was heterozygous for the atypical and a silent variant (AS)."
       ],
       [
         "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2\u20133)."
@@ -78,55 +71,96 @@
         "The number of probands who were heterozygous for a pathogenic variant is 10."
       ]
     ],
-    "positive_phenotypes": [
-      [
-        "The phenotypes found in the study were AS, SS, and US."
-      ],
-      [
-        "The proband in family 3 had a prolonged duration of action of succinylcholine of 90 min."
-      ],
-      [
-        "Clinical phenotypes associated with the positive probands include AARS2, CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia, mivacurium in patients with phenotypically abnormal plasma cholinesterase activity, H-variant segregating in two Danish families, dibucaine numbers, fluoride: recognition of two new phenotypes, inhibition of serum cholinesterase by urea, pseudocholinesterase variant in human tissues, response to mivacurium in a patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing, unstable variant (BChE115D) of human butyrylcholinesterase."
-      ]
-    ],
     "num_compound_or_double_hets": [
       [
-        "No compound or double heterozygotes were reported."
+        "One patient was compound heterozygous for BCHE*328D and BCHE*142M."
       ],
       [
-        "Patient 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+        "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
       ],
       [
-        "The number of individuals reported to have compound or double heterozygous mutations is 2."
+        "There are 2 individuals reported to have compound or double heterozygous mutations."
+      ]
+    ],
+    "positive_phenotypes": [
+      [
+        "Patients with the novel variants had severely prolonged duration of action of succinylcholine."
+      ],
+      [
+        "Positive proband phenotypes include dibucaine-resistant phenotype, mivacurium resistance, pseudocholinesterase variant, and acetylcholinesterase deficiency."
       ]
     ]
   },
   "quote_snippets": [
     [
-      "mutations in BCHE result in an extensively prolonged duration of action of succinylcholine",
-      "BCHE*FS126 results in a truncated protein lacking the active site and is therefore inactive",
-      "BCHE*328D also results in an inactive protein, as this change in amino acid is radical and further situated in the gorge harbouring the active site"
+      {
+        "num_tested_probands": "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping.",
+        "text": "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
+      },
+      {
+        "num_positive_het_probands": "Two of the patients were homozygous for a silent variant and one was heterozygous for the atypical and a silent variant (AS).",
+        "text": "Two of the patients were homozygous for a silent variant and one was heterozygous for the atypical and a silent variant (AS)."
+      },
+      {
+        "num_compound_or_double_hets": "One patient was compound heterozygous for BCHE*328D and BCHE*142M.",
+        "text": "One patient was compound heterozygous for BCHE*328D and BCHE*142M."
+      }
     ],
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "prolonged duration of action of succinylcholine after mivacurium-induced neuromuscular blockade in phenotypically normal patients.",
-      "prolonged paralysis after mivacurium in a patient apparently heterozygous for the atypical and usual pseudocholinesterase alleles by conventional biochemical testing.",
-      "prolonged mivacurium neuromuscular block in children.",
-      "sensitivity of butyrylcholinesterase knockout mice to (\u2013)huperzine A and donepezil suggests humans with butyrylcholinesterase deficiency may not tolerate these Alzheimer\u2019s disease drugs and indicates butyrylcholinesterase function in neurotransmission.",
-      "identification of human plasma cholinesterase variants in 6688 individuals using biochemical analysis."
+      {
+        "num_tested_probands": "The proband in family 1 (Fig. 1, patient 1\u20132) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit.",
+        "quote": "The proband in family 1 (Fig. 1, patient 1\u20132) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit."
+      },
+      {
+        "num_positive_het_probands": "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2\u20133).",
+        "quote": "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2\u20133)."
+      },
+      {
+        "num_compound_or_double_hets": "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.",
+        "quote": "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+      },
+      {
+        "positive_phenotypes": "Patients with the novel variants had severely prolonged duration of action of succinylcholine.",
+        "quote": "Patients with the novel variants had severely prolonged duration of action of succinylcholine."
+      }
     ],
     [
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
-      "mutations in AARS2 in a series of CSF1R-negative patients with adult-onset leu-",
-      "koencephalopathy with axonal spheroids and pigmented glia.",
-      "dibucaine numbers",
-      "fluoride: recognition of two new phenotypes",
-      "inhibition of serum cholinesterase by urea. Mechanism of action and application in the typing of abnormal genes.",
-      "The inhibition of serum cholinesterase by urea.",
-      "A pseudocholinesterase variant in human tissues.",
-      "response to mivacurium in a patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing.",
-      "Characterization of an unstable variant (BChE115D) of human butyrylcholinesterase.",
-      "Characterization of 12 silent alleles of the human butyrylcholinesterase (BCHE) gene."
+      {
+        "num_tested_probands": "\"The number of probands tested is 32.\"",
+        "num_positive_het_probands": "",
+        "positive_phenotypes": "",
+        "num_compound_or_double_hets": ""
+      },
+      {
+        "num_tested_probands": "",
+        "num_positive_het_probands": "\"The number of probands who were heterozygous for a pathogenic variant is 10.\"",
+        "positive_phenotypes": "\"Positive proband phenotypes include dibucaine-resistant phenotype, mivacurium resistance, pseudocholinesterase variant, and acetylcholinesterase deficiency.\"",
+        "num_compound_or_double_hets": ""
+      },
+      {
+        "num_tested_probands": "",
+        "num_positive_het_probands": "",
+        "positive_phenotypes": "\"Dibucaine-resistant phenotype\".",
+        "num_compound_or_double_hets": "\"There are 2 individuals reported to have compound or double heterozygous mutations.\""
+      },
+      {
+        "num_tested_probands": "",
+        "num_positive_het_probands": "",
+        "positive_phenotypes": "\"Mivacurium resistance\".",
+        "num_compound_or_double_hets": ""
+      },
+      {
+        "num_tested_probands": "",
+        "num_positive_het_probands": "",
+        "positive_phenotypes": "\"Pseudocholinesterase variant\".",
+        "num_compound_or_double_hets": "\"There are 2 individuals reported to have compound or double heterozygous mutations.\""
+      },
+      {
+        "num_tested_probands": "",
+        "num_positive_het_probands": "",
+        "positive_phenotypes": "\"Acetylcholinesterase deficiency\".",
+        "num_compound_or_double_hets": ""
+      }
     ]
   ]
 }
