@@ -14,7 +14,7 @@ The information must be returned in a JSON format that complies with the followi
 3. "positive_phenotypes" / list of strings.
 4. "num_compound_or_double_hets" / integer.
 5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
-6. "quote_snippets" / dictionary with keys from above 4 fields and values providing exact quotes of where the information was found.  
+6. "quote_snippets" / dictionary with keys from above 4 fields and values as a list of strings providing exact quotes of where the information was found.  
    Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.  
    These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
    - Do not merge unrelated ideas; each quote should focus on one finding.  
