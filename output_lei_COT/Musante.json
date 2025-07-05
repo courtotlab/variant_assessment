@@ -1,0 +1,196 @@
+{
+  "num_tested_probands": [
+    2,
+    1,
+    2,
+    1,
+    0,
+    2,
+    0,
+    1
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [],
+    [],
+    [],
+    [
+      "intellectual disability"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "Two unrelated Iranian families were analyzed, with probands in each family undergoing genetic testing. Family 1's proband (referred to as V:1) and the second family's proband with compound heterozygous mutations in WARS2 are explicitly mentioned as tested.",
+      "Whole genome sequencing was performed in one affected (V:7).",
+      "From family 1, probands III:4, III:9, III:10, and III:11 were explicitly mentioned as individuals whose DNA was extracted and assumed to be genetically tested, as DNA extraction typically precedes genetic testing in genetic studies.",
+      "The report discusses family 1 with a single affected proband carrying a homozygous mutation in the SARS gene.",
+      "No explicit mention of individual probands undergoing genetic testing.",
+      "Two families were described, one with a compound heterozygous genotype in affected individuals.",
+      "There is no mention of probands being genetically tested in the provided text.",
+      "The report mentions mutations of the aminoacyl-tRNA-synthetases SARS and WARS2 in the context of autosomal recessive intellectual disability, implying at least some level of genetic testing, but gives specific testing context for one proband with reported condition."
+    ],
+    "num_positive_het_probands": [
+      "There were no probands reported as being heterozygous for a single pathogenic variant.",
+      "No heterozygous mutation described for any proband.",
+      "No specific probands were mentioned as being heterozygous for a pathogenic variant in the provided text.",
+      "The heterozygous variant in SARS gene was identified in one proband (family 1) as pathogenic.",
+      "No probands are specified as heterozygous for a pathogenic variant.",
+      "There was no mention of probands being heterozygous for a single pathogenic variant.",
+      "The text does not specify any human probands being heterozygous for a pathogenic variant.",
+      "There is no mention of any proband being heterozygous for a single pathogenic or likely pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "No heterozygous probands exhibiting specific phenotypes were identified in the text.",
+      "No phenotypes linked to positive heterozygous findings.",
+      "No phenotypes were linked back to any positively identified heterozygous probands, as no positive heterozygous probands were identified.",
+      "The phenotype linked to the proband heterozygous for the variant is 'intellectual disability', as represented by full symbols in the pedigree (Figure 1).",
+      "No phenotypes are mentioned in connection with positive heterozygous probands.",
+      "No phenotypes were attributed specifically to heterozygous individuals; phenotypes were associated with compound heterozygous cases.",
+      "No phenotypes are specified in relation to positive heterozygous probands.",
+      "No individual phenotypes are directly tied to heterozygous probands, only the general condition discussed in terms of mutations."
+    ],
+    "num_compound_or_double_hets": [
+      "The second family's proband had compound heterozygous mutations in the WARS2 gene, featuring a nonsense mutation and a missense mutation.",
+      "No compound or double heterozygous mutations were mentioned.",
+      "While we have variance information, the text does not specify any individuals being compound or double heterozygotes for pathogenic variants.",
+      "There is no mention of compound or double heterozygotes; the report only identifies a homozygous variant as pathogenic.",
+      "The text states 'compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2' indicating at least one individual with compound heterozygous mutations.",
+      "A compound heterozygous genotype was identified in affected individuals consisting of a frame-shift mutation and a missense change (p.Trp13Gly) in WARS2.",
+      "The text does not mention compound or double heterozygous probands for any specific mutations.",
+      "The individuals tested are linked to the discovery related to 'mutations of the aminoacyl-tRNA-synthetases SARS and WARS2', which implies compound heterozygosity in the context of autosomal recessive intellectual disability."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AIMP1",
+      "AR",
+      "ARC",
+      "GC",
+      "L12",
+      "MET",
+      "PC",
+      "SI",
+      "TG",
+      "TH",
+      "TRO",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "GC",
+      "P138",
+      "TG",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "BL2",
+      "DAP",
+      "EGF",
+      "HR",
+      "L21",
+      "LSM7",
+      "PC",
+      "SDHA",
+      "SDS",
+      "SP6",
+      "TG",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "CIT",
+      "GC",
+      "P65",
+      "PC",
+      "S3A",
+      "SI",
+      "SP6",
+      "WARS2",
+      "ZNF697"
+    ],
+    [
+      "AR",
+      "PHB1",
+      "S3A",
+      "SDHA",
+      "SDS",
+      "SP6",
+      "WARS2"
+    ],
+    [
+      "AIMP1",
+      "AR",
+      "DAP",
+      "DARS2",
+      "ERG",
+      "HPS6",
+      "ISCU",
+      "PHB1",
+      "SDHA",
+      "SDS",
+      "SI",
+      "SP6",
+      "WARS2"
+    ],
+    [
+      "AIMP1",
+      "AR",
+      "CARS2",
+      "FER",
+      "HR",
+      "MCPH1",
+      "MP1",
+      "MTR",
+      "NTS",
+      "REN",
+      "S18",
+      "ST3GAL3",
+      "TAT",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "EMB",
+      "FAS",
+      "IARS2",
+      "NARS2",
+      "PARS2",
+      "POR",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

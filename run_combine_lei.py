@@ -50,4 +50,4 @@ def process_directory(directory):
         combine_json_file(json_file, json_file)
 
 # Run for all JSON files in the specified directory
-process_directory("output_lei_few_shot")
+process_directory("output_lei_COT")

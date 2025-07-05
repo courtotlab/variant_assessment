@@ -1,0 +1,73 @@
+{
+  "num_tested_probands": [
+    1,
+    1
+  ],
+  "num_positive_het_probands": [
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "severe hyperkinetic movement disorder",
+      "dystonia",
+      "chorea",
+      "ballism",
+      "cognitive deficits",
+      "developmental and cognitive delay",
+      "complex movement disorders"
+    ],
+    [
+      "severe hyperkinetic movement disorder",
+      "uncontrollable dystonic and ballistic movements",
+      "nonverbal communication abilities"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The case report describes a single proband (31-year-old man) with WARS2-related mitochondrial disease.",
+      "The report focuses on a 31-year-old patient with a hyperkinetic movement disorder."
+    ],
+    "num_positive_het_probands": [
+      "There are no single heterozygous carriers described in the proband. The focus is on biallelic variants.",
+      "There is no mention of heterozygous carriers of pathogenic variants."
+    ],
+    "positive_phenotypes": [
+      "The proband presented with severe hyperkinetic movement disorder, dystonia, chorea, ballism, cognitive deficits, and developmental delay as described throughout the case report.",
+      "The clinical presentation for the patient includes severe hyperkinetic movement disorder, uncontrollable dystonic and ballistic movements, and the ability to communicate nonverbally."
+    ],
+    "num_compound_or_double_hets": [
+      "The proband is a compound heterozygote, as indicated by the presence of two variants in WARS2: a paternally inherited and a maternally inherited variant.",
+      "The mention of 'biallelic variants in WARS2 encoding' from the references implies compound heterozygous mutations in affected individuals."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AR",
+      "C34",
+      "EPOR",
+      "GAL",
+      "MB",
+      "SORD",
+      "TRG",
+      "WARS2"
+    ],
+    [
+      "A20",
+      "AR",
+      "EPOR",
+      "KIN",
+      "SORD",
+      "TANGO2",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    []
+  ]
+}

@@ -3,8 +3,8 @@ from pathlib import Path
 
 # === CONFIGURATION ===
 pdf_dir = Path("literature")
-prompt_path = Path("prompts/lei_prompt_few_shot_COT.txt")
-output_dir = Path("output_lei_few_shot_COT")
+prompt_path = Path("prompts/lei_prompt_COT.txt")
+output_dir = Path("output_lei_COT")
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # === SPECIAL FILENAMES ===
@@ -18,10 +18,15 @@ for pdf_path in pdf_dir.glob("*.pdf"):
     pdf_name = pdf_path.name
 
     # Determine output filename
-    out_json_name = special_cases.get(pdf_name, pdf_name.replace(".pdf", ".json"))
+    if pdf_name in special_cases:
+        out_json_name = special_cases[pdf_name]
+    else:
+        first_author = pdf_name.split("_")[0]
+        out_json_name = f"{first_author}.json"
+
     out_path = output_dir / out_json_name
 
-    # Build command: note backslash (`\`) added in one argument string
+    # Build command: backslash must be part of the same argument string
     task_arg = f"lei\\ {prompt_path}"
 
     command = [
@@ -35,6 +40,6 @@ for pdf_path in pdf_dir.glob("*.pdf"):
     result = subprocess.run(" ".join(command), shell=True, capture_output=True, text=True)
 
     if result.returncode == 0:
-        print(f"✅ Success: {out_path}")
+        print(f"✅ Success: {out_path.name}")
     else:
-        print(f"❌ Failed on {pdf_path.name}\n{result.stderr}")
+        print(f"❌ Failed on {pdf_name}\n{result.stderr}")

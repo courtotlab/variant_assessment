@@ -1,0 +1,165 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    5,
+    2
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "early developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "epileptic seizure",
+      "acute liver failure",
+      "severe progressive encephalopathy"
+    ],
+    [
+      "intrauterine growth retardation",
+      "severe axial hypotonia",
+      "hypertonia",
+      "dystonic posturing",
+      "slight dysmorphic features",
+      "optic atrophy",
+      "brain abnormalities",
+      "severe delay of cognitive and motor development",
+      "acute liver failure",
+      "metabolic encephalopathy",
+      "decreased awareness",
+      "motor hyperactivity",
+      "continuous choreatic movements",
+      "generalized amyotrophy"
+    ],
+    [
+      "developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "seizures",
+      "acute liver failure",
+      "severe encephalopathy"
+    ],
+    [
+      "long philtrum",
+      "ataxia",
+      "athetosis",
+      "aggressive behaviour",
+      "severe infantile onset leukoencephalopathy",
+      "spastic quadriplegia",
+      "hypoglycemia (neonatal)",
+      "epilepsy",
+      "fatal lactic acidosis",
+      "ptosis",
+      "valproate induced hepatotoxicity"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    3,
+    2
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report centers on a case study that involves a singular 6-year-old girl with mitochondrial tryptophanyl-tRNA synthetase deficiency.",
+      "The text describes a single proband case throughout.",
+      "The text describes a 'proband', indicating there was just one individual tested.",
+      "Five subjects mentioned with genotype data in Table 2.",
+      "Two siblings are inferred to be probands due to the context of genetic discussion about mutations."
+    ],
+    "num_positive_het_probands": [
+      "There is no mention of a proband with a single heterozygous pathogenic variant. The case report mentions two known pathogenic variants detected in the subject.",
+      "No single heterozygous carriership for a pathogenic variant was described.",
+      "The proband is a compound heterozygote, not a simple heterozygous carrier.",
+      "Three subjects have heterozygous mutations; two siblings and one other with pLys31_Gln116del/Val349Leu.",
+      "There is no explicit mention of a heterozygous carrier of a single pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The phenotypes associated with the proband include early developmental delay, motor weakness, intellectual disability, an epileptic seizure, acute liver failure, and severe progressive encephalopathy as described in the report.",
+      "The proband exhibits multiple clinical phenotypes related to growth, muscular, cognitive, neurological, and hepatic presentations, as described throughout the case report.",
+      "The phenotypes of the proband are specified: developmental delay, motor weakness, intellectual disability, seizures, acute liver failure, and severe encephalopathy.",
+      "Combined from clinical findings in Table 2 and throughout the text, including descriptions of epilepsy and hepatopathy.",
+      "There was no explicit mention of phenotypes in the extracted text."
+    ],
+    "num_compound_or_double_hets": [
+      "Whole Exome Sequencing detected two known pathogenic variants in WARS2 in the subject, indicating compound heterozygosity.",
+      "Whole Exome Sequencing identified two compound heterozygous variants in the WARS2 gene.",
+      "The text mentions 'compound heterozygosity' confirmed by Sanger sequencing, indicating that the proband has two variants on different alleles.",
+      "Three subjects described with compound heterozygous mutations: pPro266ArgfsTerlO/pLys313Met, pLys31_Gln116del/Val349Leu from Wortmann et al. series.",
+      "Both siblings are described with compound heterozygous mutations in the context of genetic literature."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AARS2",
+      "AR",
+      "ARC",
+      "B14",
+      "COX2",
+      "DARS2",
+      "FARS2",
+      "NARS2",
+      "NDUFB8",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "CS",
+      "GPT",
+      "SDS",
+      "WARS2"
+    ],
+    [
+      "C2",
+      "COMP",
+      "COX2",
+      "CPE",
+      "CS",
+      "MPL",
+      "PC",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "F2",
+      "F3",
+      "HR",
+      "POLG",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "D12",
+      "FARS2",
+      "FH",
+      "GC",
+      "NARS2",
+      "PC",
+      "POLG",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

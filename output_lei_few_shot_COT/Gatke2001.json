@@ -1,0 +1,107 @@
+{
+  "num_tested_probands": [
+    1,
+    3,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    2,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "extensively prolonged neuromuscular block"
+    ],
+    [
+      "Prolonged duration of action of mivacurium",
+      "Zero BChE activity"
+    ],
+    [
+      "prolonged neuromuscular block"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The article discusses a single patient who was monitored after administration of mivacurium.",
+      "Three family members (patient and two brothers) were mentioned to have their BChE activity and genotype determined.",
+      "The text specifically discusses 'the patient' who was analyzed genetically and pharmacologically in this study.",
+      "The text does not mention or provide evidence of specific probands being tested."
+    ],
+    "num_positive_het_probands": [
+      "The patient is specifically described as compound heterozygous, not just heterozygous for one mutation.",
+      "The father, mother, and one brother were described as heterozygous for silent mutations.",
+      "Heterozygous occurence of the silent mutation is estimated, but there's no mention of a single heterozygous positive proband in this study.",
+      "There is no mention of probands being heterozygous for any pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The phenotype observed was 'extensively prolonged neuromuscular block', as noted when describing the patient's response to mivacurium.",
+      "The patient showed prolonged duration of mivacurium action and zero BChE activity.",
+      "The patient had 'extensively prolonged duration of mivacurium action', indicating a phenotype of prolonged neuromuscular block.",
+      "The text does not describe any clinical phenotypes associated with probands."
+    ],
+    "num_compound_or_double_hets": [
+      "Complete nucleotide sequencing revealed two point mutations: one known silent variant and another undescribed mutation, indicating the patient was compound heterozygous.",
+      "The patient is compound heterozygous for two silent mutations: BCHE*115D and BCHE*172STOP.",
+      "The study explicitly states 'the patient was compound heterozygous for two silent mutations'.",
+      "There is no clear indication of individuals with compound or double heterozygous mutations."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "BCHE",
+      "NES",
+      "PC",
+      "SI",
+      "STH",
+      "TAT"
+    ],
+    [
+      "AGA",
+      "AGT",
+      "BCHE",
+      "CAT",
+      "GAA",
+      "GC",
+      "GCA",
+      "PC",
+      "SI",
+      "TAT",
+      "TG"
+    ],
+    [
+      "AR",
+      "BCHE",
+      "CIT",
+      "CRP",
+      "GC",
+      "NES",
+      "PC",
+      "SI",
+      "STH",
+      "TAT"
+    ],
+    [
+      "BCHE",
+      "CP",
+      "NES",
+      "SI",
+      "STH"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "num_tested_probands": [
+    4,
+    8,
+    6,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    8,
+    3,
+    0
+  ],
+  "positive_phenotypes": [
+    [],
+    [
+      "Usual BChE phenotype",
+      "Atypical phenotype",
+      "New unstable BChE variant"
+    ],
+    [
+      "Usual BChE phenotype"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    0,
+    2,
+    0,
+    3
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report describes 'four apparently unrelated individuals' who were sensitive to succinylcholine and had their genomic DNA sequenced.",
+      "Individuals analyzed in Table 2 include 1-I-1, 1-II-1, 1-II-2, 1-III-1, 1-III-2, 1-III-3, 1-IV-1, 1-IV-2, and their genotypes listed, totaling 8 individuals tested.",
+      "Tested individuals include 1-II-1, 1-II-2, 1-III-2, 1-IV-1, 1-IV-2, and patient 1-I-1 as mentioned in the text.",
+      "The input does not explicitly mention any individual probands who underwent genetic testing."
+    ],
+    "num_positive_het_probands": [
+      "No probands are explicitly mentioned as being heterozygous for a pathogenic variant alone.",
+      "Individuals 1-II-1, 1-II-2, 1-III-2, and 1-IV-1 to 1-IV-2 had heterozygous combinations with BCHE*115D and were reported with phenotypes like Usual, Atypical, or a new unstable variant.",
+      "Individuals 1-II-1, 1-II-2, and 1-III-2 were heterozygous for BCHE*U/*115D, indicating heterozygous status.",
+      "There are no mentions of heterozygous probands with pathogenic or likely pathogenic variants."
+    ],
+    "positive_phenotypes": [
+      "No specific phenotypes were linked directly to heterozygous probands.",
+      "Table 2 and text describe phenotypes as Usual BChE phenotype, Atypical phenotype, and a new unstable BChE variant associated with heterozygous carriers.",
+      "The phenotype 'Usual BChE phenotype' is associated with individuals 1-II-1, 1-II-2, and 1-III-2 (BCHE*U/*115D).",
+      "No phenotypes are linked to positive heterozygous probands in the text provided."
+    ],
+    "num_compound_or_double_hets": [
+      "No individuals are described as having compound or double heterozygous mutations.",
+      "Individuals 1-IV-1 and 1-IV-2 had compound heterozygous genotype BCHE*115D with a different allele (Atypical) as stated in the text.",
+      "No individuals were explicitly described as compound or double heterozygotes with pathogenic variants.",
+      "The section 'Genetic basis of the silent phenotype of serum butyrylcholinesterase in three compound heterozygotes' indicates the presence of 3 compound heterozygotes."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AGA",
+      "AGT",
+      "AP2",
+      "B10",
+      "BCHE",
+      "CAT",
+      "GC",
+      "GCA",
+      "GEM",
+      "HB1",
+      "P39",
+      "PC",
+      "SI",
+      "TAT",
+      "TCTA",
+      "TG",
+      "U35"
+    ],
+    [
+      "BCHE",
+      "PC"
+    ],
+    [
+      "BCHE",
+      "GAA",
+      "GCG",
+      "GFY",
+      "GSS",
+      "KL",
+      "SGTA",
+      "SST",
+      "TAT",
+      "TG"
+    ],
+    [
+      "AR",
+      "BCHE",
+      "CP",
+      "EMB"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    []
+  ]
+}
