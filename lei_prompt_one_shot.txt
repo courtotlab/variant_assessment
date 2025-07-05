@@ -14,7 +14,7 @@ Input text:
 "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives. Genotypes were determined using complete nucleotide sequencing. Results Three novel mutations were identified: BCHE*FS126, BCHE*I3E4-14C and BCHE*328D. The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M. In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine. The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126. BCHE*I3E4-14C was in linkage with a known silent variant."
 
 Expected output:
-- Number of probands tested: 2
+- Number of probands tested: 3
 - Number of positive HET probands: 1  
 - Number of compound/double heterozygotes: 1
 
