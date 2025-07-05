@@ -1,0 +1,103 @@
+{
+  "num_tested_probands": [
+    1,
+    6,
+    6,
+    7,
+    1,
+    11,
+    15
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [],
+    [
+      "Muscle weakness",
+      "Seizure",
+      "Behavior problems"
+    ],
+    [
+      "Intellectual disability",
+      "Ataxia",
+      "Muscular weakness"
+    ],
+    [],
+    [],
+    [
+      "Intellectual disability",
+      "Speech impairment",
+      "Seizures",
+      "Ataxia",
+      "Muscular weakness"
+    ],
+    [
+      "intellectual disability",
+      "ataxia"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    0,
+    0,
+    3,
+    0,
+    1,
+    1,
+    0,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report mentions that the proband was 'examined by experienced clinical geneticists' and that their DNA was extracted, but it does not explicitly state that they underwent genetic testing. However, based on the context, we can infer that the proband was genetically tested.",
+      "Found in 'Family 1-III:4', 'Family 1-III:10', 'Family 1-III:9', 'Family 1-III:11', 'Family 2-V:7', and 'Family 2-V:8'.",
+      "The report mentions that DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents, using standard procedures. This indicates that a total of 7 individuals were genetically tested.",
+      "The report mentions that 'we tested' the proband, indicating genetic testing was performed on this individual.",
+      "The report states that 'we tested' 11 individuals, indicating that genetic testing was reported for these probands.",
+      "The authors state that they tested 15 individuals."
+    ],
+    "num_positive_het_probands": [
+      "There is no mention of heterozygous probands in the report.",
+      "No proband was identified as heterozygous for a pathogenic variant.",
+      "There is no mention of heterozygous probands in the report. The report only discusses homozygous mutations detected in family 1.",
+      "There is no mention of heterozygous probands in the report.",
+      "No heterozygous probands were identified in the report. The text mentions carriers of single mutations but does not explicitly state which probands are heterozygous.",
+      "No proband was found to be heterozygous for a pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The report mentions phenotypes such as 'moderate ID', 'microcephaly', 'ataxia', 'speech impairment', and 'aggressive behavior' associated with the proband, but it does not specify which ones are linked to positive heterozygous probands. Therefore, we cannot extract any specific phenotypes.",
+      "Phenotypes associated with positive probands include muscle weakness, seizure, and behavior problems.",
+      "The report does not provide information on clinical phenotypes associated with positive probands. However, it mentions that table 1 provides a full description of clinical features.",
+      "No phenotypes are mentioned as being associated with positive heterozygous probands.",
+      "The report describes phenotypes associated with positive heterozygous probands, including intellectual disability, speech impairment, seizures, ataxia, and muscular weakness.",
+      "Phenotypes associated with positive probands include intellectual disability and ataxia."
+    ],
+    "num_compound_or_double_hets": [
+      "There is no mention of compound or double heterozygous mutations in the report.",
+      "No compound or double heterozygotes were reported in the study.",
+      "There is no mention of compound or double heterozygous mutations in the report.",
+      "The report mentions a compound heterozygous mutation in the WARS2 gene, indicating two different pathogenic variants in the same gene.",
+      "One compound heterozygote was identified in the report. The text mentions a 'compound heterozygous genotype' in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2.",
+      "One individual is reported to have compound or double heterozygous mutations."
+    ],
+    "compound_hets": [
+      "III:4, III:9, III:10, III:11"
+    ],
+    "doubles": [
+      []
+    ],
+    "explanation": [
+      "Compound heterozygous mutation in WARS2 gene",
+      "The report does not provide explicit information on where each field was found. However, it is clear that genetic testing was reported for 11 individuals, and no heterozygous probands were identified. The phenotypes associated with positive heterozygous probands are described in the report, as well as a compound heterozygote in affected individuals."
+    ],
+    "compound_or_doubles": [
+      []
+    ]
+  }
+}

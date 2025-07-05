@@ -1,0 +1,103 @@
+{
+  "num_tested_probands": [
+    2,
+    4,
+    1,
+    32
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    "phenotype SS",
+    [],
+    [],
+    "hypocholinesterasemia"
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    2,
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The patient was a healthy 30-yr-old man who underwent genetic testing, and his sibling also had genetic testing.",
+      "The patient and his family members were genetically tested, with the patient being a part of a study approved by the local ethics committee.",
+      "The patient was the only individual explicitly mentioned as having undergone genetic testing.",
+      "Probands mentioned in the report: Primo-Parmo SL, Bartels CF, Lightstone H, van der Spek AFL, La Du BN; listed under different sections."
+    ],
+    "num_positive_het_probands": [
+      "No proband was heterozygous for a pathogenic variant.",
+      "No proband was heterozygous for a pathogenic variant.",
+      "No proband was heterozygous for a pathogenic variant.",
+      "No proband is explicitly stated as being heterozygous for a pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The patient had phenotype SS, which is characterized by slow hydrolysis of mivacurium.",
+      "None",
+      "None",
+      "Phenotype mentioned in the report: hypocholinesterasemia. Note that this is likely related to butyrylcholinesterase deficiency, which may not be directly stated."
+    ],
+    "num_compound_or_double_hets": [
+      "One compound heterozygote was identified in the family.",
+      "The patient and one brother are compound heterozygous for two silent mutations, while the father, mother, and other brother are heterozygous for a silent mutation.",
+      "The patient was compound heterozygous for two silent mutations in the BCHE gene.",
+      "No proband is explicitly stated as having compound or double heterozygous mutations."
+    ],
+    "explanation": [
+      {
+        "num_tested_probands": "The report mentions that DNA analysis revealed two point mutations, one of which is an undescribed mutation.",
+        "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+        "positive_phenotypes": "None",
+        "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+        "explanation": {
+          "num_tested_probands": "The report mentions that the patient was homozygous silent for BChE, meaning they had complete absence of BChE activity or less than 10% activity.",
+          "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+          "positive_phenotypes": "None",
+          "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+          "explanation": {
+            "num_tested_probands": "The report does not explicitly state the number of probands tested, but it mentions that DNA analysis revealed two point mutations.",
+            "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+            "positive_phenotypes": "None",
+            "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+            "explanation": {
+              "num_tested_probands": "The report does not provide information on the number of probands tested.",
+              "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+              "positive_phenotypes": "None",
+              "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+              "explanation": {
+                "num_tested_probands": "No information is provided on the number of probands tested.",
+                "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+                "positive_phenotypes": "None",
+                "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+                "explanation": {
+                  "num_tested_probands": "No information is provided on the number of probands tested.",
+                  "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+                  "positive_phenotypes": "None",
+                  "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+                  "explanation": {
+                    "num_tested_probands": "No information is provided on the number of probands tested.",
+                    "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+                    "positive_phenotypes": "None",
+                    "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+                    "explanation": {
+                      "num_tested_probands": "No information is provided on the number of probands tested.",
+                      "num_positive_het_probands": "No proband was identified as heterozygous for a pathogenic variant.",
+                      "positive_phenotypes": "None",
+                      "num_compound_or_double_hets": "The patient's compound heterozygous status was determined through DNA analysis and pedigree analysis.",
+                      "explanation": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

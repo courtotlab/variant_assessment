@@ -1,0 +1,39 @@
+{
+  "num_tested_probands": [
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    1
+  ],
+  "positive_phenotypes": [
+    [],
+    [
+      "Hyperkinetic movement disorder",
+      "Dys-tonic and ballistic movements"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    0,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The patient was referred to the movement disorders outpatient clinic at the age of 30 years, and genetic testing was performed.",
+      "No proband testing mentioned in the report."
+    ],
+    "num_positive_het_probands": [
+      "No pathogenic or likely pathogenic variants were detected in the mitochondrial DNA. However, two biallelic variants in WARS2 were detected.",
+      "The patient is described as heterozygous for a pathogenic variant of WARS2, causing hyperkinetic movement disorder."
+    ],
+    "positive_phenotypes": [
+      "The patient presented with a severe hyperkinetic movement disorder and cognitive deficits.",
+      "Phenotypes associated with the positive proband are listed in Table S1 and described in the clinical presentation video."
+    ],
+    "num_compound_or_double_hets": [
+      "No compound or double heterozygous mutations were reported in the case report.",
+      "No compound or double heterozygous mutations mentioned in the report."
+    ]
+  }
+}
