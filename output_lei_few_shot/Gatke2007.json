@@ -1,0 +1,79 @@
+{
+  "num_tested_probands": [
+    3,
+    3,
+    1
+  ],
+  "num_positive_het_probands": [
+    1,
+    1,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "severely prolonged duration of action of succinylcholine"
+    ],
+    [
+      "prolonged duration of action of succinylcholine",
+      "complete neuromuscular block",
+      "postoperative artificial ventilation"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    2,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The text states that DNA samples were collected from two of the probands within three families, totaling three probands.",
+      "The article discusses three probands from three different families in relation to their BChE genotypes.",
+      "The text mentions a patient who is compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene."
+    ],
+    "num_positive_het_probands": [
+      "One proband was heterozygous for BCHE*115D*I3E4-14C and BCHE*FS126 according to the genotype description.",
+      "Only one individual from family 2 was specifically reported as heterozygous for a mutation (BCHE*FS126).",
+      "No specific heterozygous proband is explicitly mentioned as tested for pathogenic variants."
+    ],
+    "positive_phenotypes": [
+      "Both identified patients among probands experienced 'severely prolonged duration of action of succinylcholine'.",
+      "The positive probands across families were associated with extended action of succinylcholine, neuromuscular blockade, and the need for artificial ventilation postoperatively.",
+      "There is no mention of specific clinical phenotypes associated with the proband."
+    ],
+    "num_compound_or_double_hets": [
+      "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.",
+      "Two probands were identified as compound heterozygotes, familities 1 and 3 probands, each carrying two different mutations.",
+      "The text mentions one patient as being compound heterozygous for a novel and a known silent mutation."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "BCHE",
+      "CLU",
+      "DCR",
+      "FST",
+      "S12",
+      "ST2",
+      "UST"
+    ],
+    [
+      "BCHE",
+      "C5",
+      "CAT",
+      "CHE2",
+      "GC",
+      "PC",
+      "S12",
+      "S19"
+    ],
+    [
+      "BCHE"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    []
+  ]
+}

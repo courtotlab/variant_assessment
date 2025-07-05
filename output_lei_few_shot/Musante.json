@@ -1,0 +1,219 @@
+{
+  "num_tested_probands": [
+    2,
+    6,
+    7,
+    2,
+    2,
+    2,
+    0,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "autosomal recessive intellectual disability",
+      "moderate ID",
+      "microcephaly",
+      "ataxia",
+      "speech impairment",
+      "aggressive behavior"
+    ],
+    [],
+    [
+      "intellectual disability (ID)",
+      "moderate ID",
+      "speech impairment (slow and slurred speech)",
+      "aggressive behavior",
+      "microcephaly",
+      "ataxia (unbalanced gait starting at the age of 7-10 years)",
+      "muscular weakness (since the age of 6-10)",
+      "tonic-clonic seizures during infancy",
+      "athetosis"
+    ],
+    [
+      "Intellectual Disability (ID)"
+    ],
+    [],
+    [
+      "moderate ID",
+      "speech impairment",
+      "seizures",
+      "ataxia",
+      "muscular weakness"
+    ],
+    [],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    0,
+    0,
+    2,
+    1,
+    2,
+    0,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The article reports on two unrelated Iranian families affected by ARID, indicating that two probands were tested.",
+      "The report mentions genotyping results of six DNA samples (IV.2, IV:3, V.2, V:7 V:8, V:9) from family 2.",
+      "There were DNA extractions from individuals Ill:4, Ill:9, Ill:1O, Ill:11 from Family 1 (4 probands), and V:7, V:8 from Family 2 (3 probands).",
+      "The report mentions a pedigree of family 1 and family 2 with two index patients (probands) indicated by arrows.",
+      "The report discusses affected individuals in family 2 with compound heterozygous mutations in WARS2, indicating testing of these family members.",
+      "The text describes two affected individuals in the second family with a compound heterozygous genotype: a frame-shift mutation plus a missense change (p.Trp13Gly)",
+      "The document does not mention any human probands being tested; rather it discusses animal models and theoretical implications of gene mutations.",
+      "The document seems to be a list of references and articles with no direct mention of probands being tested in the provided text."
+    ],
+    "num_positive_het_probands": [
+      "There were no heterozygous mutations reported. The first family had a homozygous mutation and the second family had a compound heterozygous genotype.",
+      "There is no mention of heterozygous pathogenic variants identified in the report. The described efforts focus on identifying homozygous regions and variants.",
+      "No mention of probands being heterozygous for a pathogenic variant.",
+      "The text does not indicate any heterozygous individuals for the pathogenic variants; all described variants are homozygous.",
+      "There is no indication of single heterozygous positive probands; the focus is on compound heterozygous mutations.",
+      "No specific mention of heterozygous probands being reported as having a pathogenic variant alone.",
+      "There are no human probands mentioned, hence no positive heterozygous probands are reported.",
+      "There is no specific mention of probands that are heterozygous for a pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The phenotypes associated with the positive probands included moderate ID, microcephaly, ataxia, speech impairment, aggressive behavior.",
+      "No specific phenotypes associated with positive probands are indicated in the text.",
+      "Detailed descriptions of phenotypes for affected individuals in Families 1 and 2.",
+      "Affected individuals in the pedigrees are described to have Intellectual Disability (ID) as indicated by the full symbols in the pedigrees.",
+      "No specific phenotype description was provided in relation to compound heterozygous mutations.",
+      "Clinical features listed as associated with ID-causing mutations in the context of the described families (moderate ID, speech impairment, seizures, ataxia, muscular weakness).",
+      "The text mentions potential neurodegenerative and neurodevelopmental phenotypes induced by mutations in WARS2 and Selenoproteins in animal models, but no specific human proband phenotypes are detailed.",
+      "No mention of specific phenotypes associated with positive probands in the input text."
+    ],
+    "num_compound_or_double_hets": [
+      "In the second family, a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene was identified.",
+      "The report discusses searching for causative mutations in homozygous regions. No compound or double heterozygous cases are reported.",
+      "No mention of individuals with compound or double heterozygous mutations.",
+      "Both families have probands with mutations in two different genes (SARS and WARS2) indicating compound/double heterozygotes.",
+      "The report mentions a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2.",
+      "Two affected individuals with compound heterozygous mutations (frame-shift + missense mutation (p.Trp13Gly)) in the second family are reported.",
+      "The document discusses heterozygous animals and compounds but does not involve any human cases of compound heterozygosity or double heterozygosity.",
+      "No mention of individuals with compound or double heterozygote status in the input text."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AIMP1",
+      "AR",
+      "ARC",
+      "GC",
+      "L12",
+      "MET",
+      "PC",
+      "SI",
+      "TG",
+      "TH",
+      "TRO",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "GC",
+      "P138",
+      "TG",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "BL2",
+      "DAP",
+      "EGF",
+      "HR",
+      "L21",
+      "LSM7",
+      "PC",
+      "SDHA",
+      "SDS",
+      "SP6",
+      "TG",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "CIT",
+      "GC",
+      "P65",
+      "PC",
+      "S3A",
+      "SI",
+      "SP6",
+      "WARS2",
+      "ZNF697"
+    ],
+    [
+      "AR",
+      "PHB1",
+      "S3A",
+      "SDHA",
+      "SDS",
+      "SP6",
+      "WARS2"
+    ],
+    [
+      "AIMP1",
+      "AR",
+      "DAP",
+      "DARS2",
+      "ERG",
+      "HPS6",
+      "ISCU",
+      "PHB1",
+      "SDHA",
+      "SDS",
+      "SI",
+      "SP6",
+      "WARS2"
+    ],
+    [
+      "AIMP1",
+      "AR",
+      "CARS2",
+      "FER",
+      "HR",
+      "MCPH1",
+      "MP1",
+      "MTR",
+      "NTS",
+      "REN",
+      "S18",
+      "ST3GAL3",
+      "TAT",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "EMB",
+      "FAS",
+      "IARS2",
+      "NARS2",
+      "PARS2",
+      "POR",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

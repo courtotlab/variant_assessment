@@ -1,0 +1,71 @@
+{
+  "num_tested_probands": [
+    1,
+    1
+  ],
+  "num_positive_het_probands": [
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "severe hyperkinetic movement disorder",
+      "dystonia",
+      "chorea",
+      "ballism",
+      "developmental and cognitive delay"
+    ],
+    [
+      "severe hyperkinetic movement disorder",
+      "uncontrollable dystonic movements",
+      "ballistic movements"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "A single 31-year-old man was reported in the case study, who underwent genetic testing.",
+      "The report discusses a single 31-year-old patient observed in the clinic in 2018."
+    ],
+    "num_positive_het_probands": [
+      "The proband was found to have biallelic variants in WARS2, not heterozygous variants.",
+      "There is no mention of probands being heterozygous for a pathogenic variant. The focus is on a single individual with described clinical presentations."
+    ],
+    "positive_phenotypes": [
+      "The proband presented with a severe hyperkinetic movement disorder, dystonia, chorea, ballism, and developmental and cognitive delay.",
+      "The clinical presentation of the patient includes severe hyperkinetic movement disorder with uncontrollable dystonic and ballistic movements."
+    ],
+    "num_compound_or_double_hets": [
+      "The proband was identified with two variants in WARS2, inherited from each parent, indicative of compound heterozygosity.",
+      "There is no mention of compound or double heterozygotes in the report."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AR",
+      "C34",
+      "EPOR",
+      "GAL",
+      "MB",
+      "SORD",
+      "TRG",
+      "WARS2"
+    ],
+    [
+      "A20",
+      "AR",
+      "EPOR",
+      "KIN",
+      "SORD",
+      "TANGO2",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    []
+  ]
+}

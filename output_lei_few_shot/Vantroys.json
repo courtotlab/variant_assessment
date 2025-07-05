@@ -1,0 +1,166 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    12,
+    2
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    5,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "early developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "acute liver failure",
+      "severe progressive encephalopathy"
+    ],
+    [
+      "intrauterine growth retardation",
+      "severe axial hypotonia",
+      "hypertonia",
+      "dystonic posturing of arms and legs",
+      "slight dysmorphic features",
+      "optic atrophy",
+      "severe motor and cognitive development delay",
+      "generalized amyotrophy"
+    ],
+    [
+      "developmental delay",
+      "motor weakness",
+      "extra-pyramidal signs",
+      "epilepsy",
+      "acute liver failure",
+      "severe encephalopathy"
+    ],
+    [
+      "long philtrum",
+      "ataxia",
+      "athetosis",
+      "aggressive behaviour",
+      "severe infantile onset leukoencephalopathy",
+      "spastic quadriplegia",
+      "hypoglycemia",
+      "epilepsy",
+      "fatal lactic acidosis",
+      "muscular hypotonia",
+      "cardiomyopathy",
+      "retinitis pigmentosa",
+      "Parkinson-like symptoms",
+      "dystonia",
+      "valproate induced hepatotoxicity",
+      "hypoplastic facial structure"
+    ],
+    [
+      "severe infantile onset leukoencephalopathy",
+      "mitochondrial encephalopathy"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    9,
+    6
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report focuses on a single subject, a 6-year-old child, with mitochondrial tryptophanyl-tRNA synthetase deficiency.",
+      "The report describes a 'proband' who underwent genetic testing.",
+      "The report discusses a single proband, specifically a 6-year-old child with WARS2 deficiency.",
+      "The text reports multiple subjects, including 'the 12 reported variants in WARS2' and 'Table 2 Clinical and molecular data of reported WARS2 deficient subjects'.",
+      "The report mentions six individuals with mitochondrial encephalopathy, and references two siblings with a deficiency in mitochondrial tryptophanyl tRNA synthetase."
+    ],
+    "num_positive_het_probands": [
+      "There is no mention of heterozygous individuals tested in this case report; the proband presented with compound heterozygous mutations.",
+      "No probands were found to be heterozygous for a pathogenic variant.",
+      "There is no mention of heterozygous probands as being specifically pathogenic, rather the focus is on compound heterozygosity.",
+      "Five probands are reported with the p.Lys313Met missense mutation.",
+      "There are no mentions of positive heterozygous probands. The focus is on biallelic variants."
+    ],
+    "positive_phenotypes": [
+      "The proband exhibited early developmental delay, motor weakness, intellectual disability, acute liver failure, and severe progressive encephalopathy, as described in the results and case summary.",
+      "The proband exhibited several clinical phenotypes, described in detail: severe axial hypotonia, hypertonia, dystonic posturing of arms and legs, slight dysmorphic features, optic atrophy, severe motor and cognitive development delay, and generalized amyotrophy.",
+      "The proband presented with developmental delay, motor weakness, extra-pyramidal signs, epilepsy, acute liver failure, and severe encephalopathy as described in the narrative.",
+      "Clinical findings for each subject are reported in the table: long philtrum, ataxia, athetosis, aggressive behaviour, and others throughout the text.",
+      "Severe infantile onset leukoencephalopathy and mitochondrial encephalopathy were extracted from references to individuals affected by biallelic variants."
+    ],
+    "num_compound_or_double_hets": [
+      "Two known pathogenic variants in WARS2 (c.797delC, pPro266ArgfsTer10 and c.938A>T, pLys313Met) were detected in the subject, indicating the presence of compound heterozygous mutations.",
+      "Genetic analysis identified two compound heterozygous variants in the WARS2 gene.",
+      "The proband was described as having compound heterozygosity for two distinct variants.",
+      "The text explicitly states two compound heterozygous subjects (p.Pro266ArgfsTer10/p.Lys313Met) and a third subject with a compound heterozygous genotype (p.Lys31_Gln116del/Val349Leu) among others.",
+      "Six individuals are described as having biallelic variants in genes encoding mitochondrial tRNA synthetase, suggesting compound heterozygous mutations as described under reference 10."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AARS2",
+      "AR",
+      "ARC",
+      "B14",
+      "COX2",
+      "DARS2",
+      "FARS2",
+      "NARS2",
+      "NDUFB8",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "CS",
+      "GPT",
+      "SDS",
+      "WARS2"
+    ],
+    [
+      "C2",
+      "COMP",
+      "COX2",
+      "CPE",
+      "CS",
+      "MPL",
+      "PC",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "F2",
+      "F3",
+      "HR",
+      "POLG",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "D12",
+      "FARS2",
+      "FH",
+      "GC",
+      "NARS2",
+      "PC",
+      "POLG",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

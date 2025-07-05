@@ -3,12 +3,11 @@ from pathlib import Path
 from collections import defaultdict
 
 def flatten_once(x):
-    """Flattens a list by one level if it's a list of one item that is a list."""
     if isinstance(x, list) and len(x) == 1 and isinstance(x[0], list):
         return flatten_once(x[0])
     return x
 
-def combine_json_file(input_path, output_dir, output_filename="combined.json"):
+def combine_json_file(input_path, output_path):
     with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -26,10 +25,9 @@ def combine_json_file(input_path, output_dir, output_filename="combined.json"):
             else:
                 combined[key].append(flatten_once(value))
 
-    # Convert back defaultdict to normal dict
     combined["explanation"] = dict(combined["explanation"])
     combined = dict(combined)
-    # Reorder keys
+
     key_order = [
         "num_tested_probands",
         "num_positive_het_probands",
@@ -41,19 +39,15 @@ def combine_json_file(input_path, output_dir, output_filename="combined.json"):
     ]
     ordered_combined = {key: combined[key] for key in key_order if key in combined}
 
-    # Write to output file
-    Path(output_dir).mkdir(parents=True, exist_ok=True)
-    output_path = Path(output_dir) / output_filename
     with open(output_path, "w", encoding="utf-8") as out_file:
         json.dump(ordered_combined, out_file, indent=2)
 
-    print(f"Combined output written to: {output_path}")
-   
+    print(f"✔ Combined output written to: {output_path}")
 
+def process_directory(directory):
+    directory = Path(directory)
+    for json_file in directory.glob("*.json"):
+        combine_json_file(json_file, json_file)
 
-
-combine_json_file(
-    "output_lei_few_shot/Vantroys.json",
-    "output_lei_few_shot",
-    "Vantroys.json"
-)
+# Run for all JSON files in the specified directory
+process_directory("output_lei_few_shot")
