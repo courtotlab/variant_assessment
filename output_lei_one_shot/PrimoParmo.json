@@ -1,0 +1,111 @@
+{
+  "num_tested_probands": [
+    4,
+    1,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    2,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "sensitivity to succinylcholine",
+      "prolonged paralysis"
+    ],
+    [
+      "Atypical phenotype",
+      "BCHE*70G/*115D phenotype"
+    ],
+    [
+      "Unstable BChE activity",
+      "low BChE activity",
+      "Atypical phenotype"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    0,
+    2,
+    0,
+    3
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The study described four apparently unrelated individuals with the unstable BChE variant.",
+      "Patient 1-I-1 was tested with a reported BChE phenotype and genotype determination.",
+      "The text does not specify a number of probands distinctly, but references to individuals 1-IV-1, 1-IV-2, 1-II-1, 1-II-2, and 1-III-2 who were part of a genetic study related to BChE activity.",
+      "The document did not explicitly mention any specific probands that were tested."
+    ],
+    "num_positive_het_probands": [
+      "No specific mention of heterozygous probands with a pathogenic variant is made.",
+      "Individuals 1-IV-1 and 1-IV-2 were heterozygous with BCHE*115D in combination with the Atypical allele.",
+      "The text discusses individuals with various genetic backgrounds but does not specifically mention any being heterozygous with a direct pathogenic variant.",
+      "There is no mention of any probands being heterozygous for a pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The text mentions sensitivity to succinylcholine and prolonged paralysis associated with BChE variants, including the new one.",
+      "Individual 1-IV-1 and 1-IV-2 showed phenotypic characteristics consistent with the Atypical phenotype. Additionally, two other patients, MP and JoW, expressed the BCHE*70G/*115D phenotype.",
+      "The phenotypes associated with abnormalities in BChE activity are 'Unstable BChE activity' and 'Atypical phenotype'.",
+      "No clinical phenotypes were associated with probands as there were no specific probands discussed."
+    ],
+    "num_compound_or_double_hets": [
+      "The study focuses on a single nucleotide substitution variant and does not report any compound or double heterozygotes.",
+      "MP and JoW were compound heterozygotes with genotype BCHE*70G/*115D, and individuals 1-IV-1 and 1-IV-2 had BCHE*115D with the Atypical allele.",
+      "There is no mention of compound or double heterozygotes in the provided text.",
+      "It mentions 'three compound heterozygotes' in the context of silent phenotype of serum butyrylcholinesterase."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AGA",
+      "AGT",
+      "AP2",
+      "B10",
+      "BCHE",
+      "CAT",
+      "GC",
+      "GCA",
+      "GEM",
+      "HB1",
+      "P39",
+      "PC",
+      "SI",
+      "TAT",
+      "TCTA",
+      "TG",
+      "U35"
+    ],
+    [
+      "BCHE",
+      "PC"
+    ],
+    [
+      "BCHE",
+      "GAA",
+      "GCG",
+      "GFY",
+      "GSS",
+      "KL",
+      "SGTA",
+      "SST",
+      "TAT",
+      "TG"
+    ],
+    [
+      "AR",
+      "BCHE",
+      "CP",
+      "EMB"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "num_tested_probands": [
+    1,
+    null
+  ],
+  "num_positive_het_probands": [
+    0,
+    null
+  ],
+  "positive_phenotypes": [
+    [
+      "severe hyperkinetic movement disorder",
+      "dystonia",
+      "chorea",
+      "ballism",
+      "cognitive deficits",
+      "developmental cognitive delay",
+      "absence of epileptic seizures"
+    ],
+    [
+      "severe hyperkinetic movement disorder",
+      "uncontrollable dystonic and ballistic movements",
+      "limited nonverbal communication",
+      "reacts to orders"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    null
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "One proband was reported: the 31-year-old man who was referred to the movement disorders clinic.",
+      "The case report does not specify the number of probands tested."
+    ],
+    "num_positive_het_probands": [
+      "There were no probands who were heterozygous for a pathogenic variant mentioned in the report. The proband was found to have biallelic variants.",
+      "The report does not mention heterozygous probands."
+    ],
+    "positive_phenotypes": [
+      "The proband presented with severe hyperkinetic movement disorder, dystonia, chorea, ballism, and cognitive deficits. Also noted were developmental cognitive delay and the absence of epileptic seizures.",
+      "The positive phenotypic descriptions are taken from the clinical presentation of the 31-year-old patient showing symptoms such as 'severe hyperkinetic movement disorder', 'uncontrollable dystonic and ballistic movements', 'limited nonverbal communication', and 'reacts to orders'."
+    ],
+    "num_compound_or_double_hets": [
+      "The proband carried two variants in WARS2, one paternally and one maternally inherited, indicating compound heterozygosity.",
+      "The report does not mention any compound or double heterozygotes."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AR",
+      "C34",
+      "EPOR",
+      "GAL",
+      "MB",
+      "SORD",
+      "TRG",
+      "WARS2"
+    ],
+    [
+      "A20",
+      "AR",
+      "EPOR",
+      "KIN",
+      "SORD",
+      "TANGO2",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    []
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "infantile-onset Levodopa-responsive Parkinsonism"
+    ],
+    [
+      "Infantile-onset Parkinsonism",
+      "Dystonia",
+      "tremors in extremities that are responsive to Levodopa treatment"
+    ],
+    [
+      "infantile-onset Levodopa-responsive Parkinsonism",
+      "mitochondrial dysfunction",
+      "nigrostriatal degeneration"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "One 17-year-old boy was reported with compound heterozygous mutations in WARS2.",
+      "The text describes 'the patient', suggesting only one proband was tested.",
+      "The study detailed in the text refers to presenting a 'fourth patient', indicating one proband was tested in this study.",
+      "The input text does not provide specific information about the number of tested probands."
+    ],
+    "num_positive_het_probands": [
+      "There was no mention of probands who were heterozygous for a pathogenic variant alone.",
+      "There is no explicit mention of positive heterozygous probands; the patient is described as compound heterozygous.",
+      "No proband is described as being heterozygous for a pathogenic variant without mentioning compound heterozygosity.",
+      "The input text does not mention heterozygous probands with positive findings."
+    ],
+    "positive_phenotypes": [
+      "The 17-year-old boy presented with infantile-onset Levodopa-responsive Parkinsonism at the age of 2 years.",
+      "The clinical description of the patient includes 'Infantile-onset Parkinsonism', 'Dystonia', and 'tremors that are responsive to Levodopa treatment'.",
+      "The text describes the proband's condition as 'infantile-onset Levodopa-responsive Parkinsonism' and implicates 'mitochondrial dysfunction leading to nigrostriatal degeneration' as part of the phenotype.",
+      "No clinical phenotypes associated with positive probands are mentioned in the input."
+    ],
+    "num_compound_or_double_hets": [
+      "The boy had compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp).",
+      "The patient is described as 'compound heterozygous for 2 variants in WARS2'.",
+      "The text explicitly mentions 'a fourth patient with compound heterozygous mutations in WARS2'.",
+      "There are no mentions of compound or double heterozygous mutations in the input."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AR",
+      "B14",
+      "CAD",
+      "CS",
+      "EPOR",
+      "GAA",
+      "GATC",
+      "GC",
+      "GCA",
+      "GCAT",
+      "HR",
+      "MAF",
+      "MET",
+      "MT-ATP6",
+      "NDUFB8",
+      "NHS",
+      "PC",
+      "PINK1",
+      "Q10",
+      "SDHA",
+      "SI",
+      "TG",
+      "TH",
+      "TRO",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "AR",
+      "ATP6",
+      "B2M",
+      "CAD",
+      "CS",
+      "CUL4A",
+      "FRY",
+      "GCH1",
+      "LRCH2",
+      "MSC",
+      "NDUFB8",
+      "PC",
+      "PINK1",
+      "PRKN",
+      "PS1",
+      "SETD6",
+      "SI",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "C2",
+      "CS",
+      "FER",
+      "GEM",
+      "ISCU",
+      "MT-ATP6",
+      "NDUFB8",
+      "NHS",
+      "NTS",
+      "PC",
+      "Q10",
+      "REN",
+      "SDHA",
+      "SI",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "CS",
+      "KIAA0586",
+      "POR",
+      "SLC25A4",
+      "SLC39A14",
+      "TARS2",
+      "VARS2",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    []
+  ]
+}

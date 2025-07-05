@@ -1,0 +1,108 @@
+{
+  "num_tested_probands": [
+    1,
+    6,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    3,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "extensively prolonged neuromuscular block"
+    ],
+    [
+      "extremely prolonged duration of action of mivacurium",
+      "BChE activity was zero"
+    ],
+    [
+      "markedly prolonged paralysis after mivacurium",
+      "very prolonged block with reappearance of T1 after 274 min"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The study mentions only one patient undergoing genetic testing as detailed in the 'Case Report' section.",
+      "The report details that the patient and his family, which includes parents and two brothers, were tested, making a total of 6 individuals.",
+      "The pedigree indicates analysis of a single patient, described as 'the patient' who undergoes detailed genetic and biochemical analysis.",
+      "The text provided is a list of references and does not contain specific information about tested probands."
+    ],
+    "num_positive_het_probands": [
+      "There is no mention of any probands who were heterozygous for a pathogenic variant.",
+      "The father, the mother, and one of the brothers are heterozygous for a silent mutation.",
+      "The heterozygous mutation details are provided for the parents, but there is no specific count of probands who are heterozygous for a pathogenic variant.",
+      "No heterozygous probands for a pathogenic variant are mentioned in the provided text."
+    ],
+    "positive_phenotypes": [
+      "The report states 'The response to mivacurium was an extensively prolonged duration of action' as a phenotype.",
+      "The patient, who was compound heterozygous for two silent mutations, exhibited an extremely prolonged duration of action of mivacurium, and his BChE activity was zero.",
+      "The report describes 'markedly prolonged paralysis after mivacurium' and 'very prolonged block with reappearance of T1 after 274 min' in the patient.",
+      "There are no clinical phenotypes associated with positive probands in the provided text."
+    ],
+    "num_compound_or_double_hets": [
+      "The report specifies 'The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene' in the 'Conclusions' section.",
+      "The patient is reported to be compound heterozygous for two silent mutations.",
+      "The patient is described as compound heterozygous for two silent mutations in the BCHE gene.",
+      "The text does not report any individuals with compound or double heterozygous mutations."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "BCHE",
+      "NES",
+      "PC",
+      "SI",
+      "STH",
+      "TAT"
+    ],
+    [
+      "AGA",
+      "AGT",
+      "BCHE",
+      "CAT",
+      "GAA",
+      "GC",
+      "GCA",
+      "PC",
+      "SI",
+      "TAT",
+      "TG"
+    ],
+    [
+      "AR",
+      "BCHE",
+      "CIT",
+      "CRP",
+      "GC",
+      "NES",
+      "PC",
+      "SI",
+      "STH",
+      "TAT"
+    ],
+    [
+      "BCHE",
+      "CP",
+      "NES",
+      "SI",
+      "STH"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    []
+  ]
+}

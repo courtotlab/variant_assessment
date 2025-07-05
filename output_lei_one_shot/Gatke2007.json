@@ -1,0 +1,79 @@
+{
+  "num_tested_probands": [
+    3,
+    3,
+    0
+  ],
+  "num_positive_het_probands": [
+    1,
+    1,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "prolonged duration of action of mivacurium",
+      "prolonged duration of action of succinylcholine"
+    ],
+    [
+      "prolonged duration of action of succinylcholine",
+      "complete neuromuscular block"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    2,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "Three probands from three different families were involved in the study as mentioned in the background and methods sections.",
+      "The text refers to probands from three families: the proband in family 1, the proband in family 2, and the proband in family 3.",
+      "The document does not specify the number of probands tested."
+    ],
+    "num_positive_het_probands": [
+      "One proband from family 1 was heterozygous for BCHE*115D*I3E4-14C and heterozygous for a silent variant.",
+      "In family 2, one patient was reported as heterozygous for BCHE*FS126 (patient 2-3) with low BChE activity.",
+      "There is no explicit mention of probands who were heterozygous for a pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "Both patients tested had a prolonged duration of action of succinylcholine noted in the results and introduction sections.",
+      "Phenotypes such as 'prolonged duration of action of succinylcholine' (family 1 and 3 patients) and 'complete neuromuscular block' (family 3 patient) are mentioned.",
+      "The document does not describe any phenotypes associated with positive probands."
+    ],
+    "num_compound_or_double_hets": [
+      "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M as outlined in the results.",
+      "The proband in family 1 and the proband in family 3 were reported as compound heterozygous: family 1 for BCHE*H15D*I3E4-I4C/BCHE*FS126, and family 3 for BCHE*328D and BCHE*142M.",
+      "The document mentions a patient who is compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "BCHE",
+      "CLU",
+      "DCR",
+      "FST",
+      "S12",
+      "ST2",
+      "UST"
+    ],
+    [
+      "BCHE",
+      "C5",
+      "CAT",
+      "CHE2",
+      "GC",
+      "PC",
+      "S12",
+      "S19"
+    ],
+    [
+      "BCHE"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    []
+  ]
+}

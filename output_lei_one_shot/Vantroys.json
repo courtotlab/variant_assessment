@@ -1,0 +1,162 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    1,
+    0,
+    0,
+    1,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "early developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "epileptic seizure",
+      "acute liver failure",
+      "severe progressive encephalopathy"
+    ],
+    [
+      "severe axial hypotonia",
+      "hypertonia",
+      "dystonic posturing of arms and legs",
+      "slight dysmorphic features",
+      "thin upper lip",
+      "low set ears",
+      "broad nasal bridge",
+      "hypertelorism of the eyes",
+      "ogival palatum",
+      "optic atrophy",
+      "severe delay of cognitive and motor development",
+      "decreased awareness",
+      "lateral eye deviation",
+      "twitching of the eyelids at the left",
+      "dystonic posturing of the limbs",
+      "motor hyperactivity",
+      "continuous choreatic movements",
+      "generalized amyotrophy"
+    ],
+    [
+      "developmental delay",
+      "motor weakness",
+      "intellectual disability",
+      "seizures",
+      "acute liver failure",
+      "severe encephalopathy"
+    ],
+    [
+      "epilepsy",
+      "ptosis",
+      "hypoglycaemia",
+      "valproate induced hepatotoxicity"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    1,
+    2,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The report discusses a single 6-year-old subject presenting with symptoms, identified as a proband.",
+      "The case report focuses on a single proband who underwent genetic testing.",
+      "The study reports on a single proband, a 6-year-old child with WARS2 deficiency.",
+      "The proband was specifically referred to as a subject with certain clinical findings being discussed.",
+      "The input text provided does not contain explicit mentions of any tested probands, only a list of references."
+    ],
+    "num_positive_het_probands": [
+      "The proband was found to have two known pathogenic variants in WARS2 (c.797delC and c.938 A > T), confirming heterozygosity for a pathogenic variant.",
+      "There is no mention of a proband being heterozygous for a pathogenic variant, the detected genetic condition is in compound heterozygous state.",
+      "There is no mention of the proband being heterozygous for a pathogenic variant; rather, they have compound heterozygosity.",
+      "The proband was found to have two WARS2 variants, a frameshift and a missense mutation, which could confirm as a positive proband with heterozygous mutations.",
+      "No probands were mentioned as being heterozygous for a pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "Multiple clinical phenotypes associated with the proband were reported, including early developmental delay, motor weakness, intellectual disability, epileptic seizure, acute liver failure, and severe progressive encephalopathy.",
+      "The proband exhibited several clinical phenotypes such as severe axial hypotonia, optic atrophy, cognitive and motor development delay, and others as described in the text.",
+      "The phenotypes associated with the proband are detailed in multiple sections: developmental delay, motor weakness, intellectual disability, and additional symptoms such as seizures, acute liver failure, and severe encephalopathy.",
+      "The text mentions the proband had epilepsy, ptosis, hypoglycaemia, and valproate induced hepatotoxicity.",
+      "No clinical phenotypes associated with positive probands were described."
+    ],
+    "num_compound_or_double_hets": [
+      "The proband carries two pathogenic variants in WARS2, making them compound heterozygous (c.797delC, p.Pro266ArgfsTer10 and c.938A > T, p.Lys313Met).",
+      "The proband was found to have two compound heterozygous variants in the WARS2 gene.",
+      "The text describes the proband having compound heterozygosity: 'both variants were located on a different allele.'",
+      "Two subjects, referred to in the text, were compound heterozygous with different mutations: p.Pro266Argfs*10/p.Lys313Met and p.Lys31_Gln116del/p.Val349Leu.",
+      "The input text provided does not mention any individuals with compound or double heterozygous mutations."
+    ]
+  },
+  "gene_symbol": [
+    [
+      "AARS2",
+      "AR",
+      "ARC",
+      "B14",
+      "COX2",
+      "DARS2",
+      "FARS2",
+      "NARS2",
+      "NDUFB8",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "UQCRC2",
+      "WARS2"
+    ],
+    [
+      "CS",
+      "GPT",
+      "SDS",
+      "WARS2"
+    ],
+    [
+      "C2",
+      "COMP",
+      "COX2",
+      "CPE",
+      "CS",
+      "MPL",
+      "PC",
+      "POLG",
+      "SDHB",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "F2",
+      "F3",
+      "HR",
+      "POLG",
+      "TWNK",
+      "WARS2"
+    ],
+    [
+      "AARS2",
+      "AR",
+      "D12",
+      "FARS2",
+      "FH",
+      "GC",
+      "NARS2",
+      "PC",
+      "POLG",
+      "WARS2"
+    ]
+  ],
+  "genomic_hgvs": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}
