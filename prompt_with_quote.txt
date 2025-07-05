@@ -4,9 +4,9 @@ You are a top-tier algorithm designed to extract specific clinical information f
 returned in JSON format. You must look in the report for the following fields:
 
 1. Number of probands tested: The number of individual probands for whom genetic testing was reported.
-2. Number of positive HET probands: The number of probands who were heterozygous for a pathogenic variant.
+2. Number of positive HET probands: Number of probands who were heterozygous (i.e., carrying a single pathogenic or likely pathogenic variant) and *not* compound or double heterozygous.
 3. Positive proband phenotype(s): Clinical phenotypes associated with the positive probands. List all relevant terms.
-4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations.
+4. Number of compound/double heterozygotes: Number of probands with compound or double heterozygous mutations, meaning two different pathogenic or likely pathogenic variants in the same gene.
 
 ## JSON schema
 The information must be returned in a JSON format that complies with the following key/value schema:
