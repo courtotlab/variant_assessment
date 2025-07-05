@@ -11,25 +11,25 @@ def read_txt_prompt(txt_path):
     with open(txt_path, "r", encoding="utf-8") as f:
         return f.read().strip()
 
+def recursive_flatten(x):
+    while isinstance(x, list) and len(x) == 1:
+        x = x[0]
+    return x
+
 def merge_structured_output(cumulative, new_result):
     for key, value in new_result.items():
-        if isinstance(value, dict):
+        if isinstance(value, dict):  # e.g., "explanation"
             if key not in cumulative:
                 cumulative[key] = {}
             for sub_key, sub_value in value.items():
-                # If sub_value is a list, append directly; else wrap in list
-                if isinstance(sub_value, list):
-                    cumulative[key].setdefault(sub_key, []).append(sub_value)
-                else:
-                    cumulative[key].setdefault(sub_key, []).append([sub_value])
+                flattened = recursive_flatten(sub_value)
+                cumulative[key].setdefault(sub_key, []).append(flattened)
         else:
-            if isinstance(value, list):
-                cumulative.setdefault(key, []).append(value)
-            else:
-                cumulative.setdefault(key, []).append([value])
+            flattened = recursive_flatten(value)
+            cumulative.setdefault(key, []).append(flattened)
     return cumulative
 
-def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
+def test_pdf_by_two_pages(pdf_path, prompt_path, output_path, model="llama3.2:latest"):
     print("Reading Prompt...\n")
     system_msg = read_txt_prompt(prompt_path)
 
@@ -37,7 +37,6 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
     pages = read_pdf_pages(pdf_path)
 
     final_result = {}
-
     for i in range(0, len(pages), 2):
         page_start = i + 1
         page_end = min(i + 2, len(pages))
@@ -45,7 +44,6 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
         print(f"Processing pages {page_range}...")
 
         two_page_text = "\n".join(pages[i:page_end])
-
         try:
             result = call_ollama_struct_out(system_msg, two_page_text, model)
             print(f"Structured Output from {page_range}:\n{json.dumps(result, indent=2)}\n")
@@ -53,16 +51,15 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, model="llama3.2:latest"):
         except Exception as e:
             print(f"⚠️ Error processing pages {page_range}: {e}")
 
-    output_path = "output_llama_with_quotes/PrimoParmo_llama.json"
-    Path("output_llama_with_quotes").mkdir(exist_ok=True)
-    print(f"Writing final structured output to {output_path}...\n")
+    Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as out_file:
         json.dump(final_result, out_file, indent=2)
 
-    print("✅ Done.")
+    print(f"\n✅ Final structured output written to: {output_path}")
 
 # === Run it ===
 test_pdf_by_two_pages(
-    "literature/PrimoParmo_1997_9110359_130.pdf",
-    "prompt_with_quote_llama.txt"
+    "literature/Burke_2018_29120065_522.pdf",
+    "llama prompts/llama_prompt_one_shot.txt",
+    "output_llama_one_shot/Burke.json"
 )

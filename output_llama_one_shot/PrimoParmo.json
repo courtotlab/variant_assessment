@@ -1,0 +1,52 @@
+{
+  "num_tested_probands": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "num_positive_het_probands": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "positive_phenotypes": [
+    "Prolonged action of succinylcholine",
+    "Prolonged action of succinylcholine",
+    "Prolonged action of succinylcholine",
+    "Prolonged action of succinylcholine"
+  ],
+  "num_compound_or_double_hets": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The proband in family 1 was genotyped as BCHE*115D/I3E4-14C/BCHE*FS126, whereas the proband in family 2 was compound heterozygous for BCHE*328D and BCHE*142M.",
+      "The proband in family 1 was genotyped as BCHE*115D/I3E4-14C/BCHE*FS126, whereas the proband in family 2 was compound heterozygous for BCHE*328D and BCHE*142M.",
+      "The proband in family 1 was genotyped as BCHE*115D/I3E4-14C/BCHE*FS126, whereas the proband in family 2 was compound heterozygous for BCHE*328D and BCHE*142M.",
+      "The proband in family 1 was genotyped as BCHE*115D/I3E4-14C/BCHE*FS126, whereas the proband in family 2 was compound heterozygous for BCHE*328D and BCHE*142M."
+    ],
+    "num_positive_het_probands": [
+      "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126.",
+      "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126.",
+      "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126.",
+      "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+    ],
+    "positive_phenotypes": [
+      "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine.",
+      "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine.",
+      "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine.",
+      "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+    ],
+    "num_compound_or_double_hets": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

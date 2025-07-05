@@ -1,0 +1,58 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    0,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism",
+    [
+      "Infantile-onset Parkinsonism",
+      "Intellectual disability"
+    ],
+    [],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    1,
+    0,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The patient is the only proband for whom genetic testing was reported.",
+      "The patient was the first and only child born to non-consanguineous parents, indicating that they were not tested with multiple probands.",
+      "The report does not mention the number of probands tested.",
+      "No probands were tested."
+    ],
+    "num_positive_het_probands": [
+      "There are no probands who were heterozygous for a pathogenic variant.",
+      "There is no mention of any proband being heterozygous for a pathogenic variant in this report.",
+      "There is no information about heterozygous probands in this report.",
+      "No heterozygous probands were identified."
+    ],
+    "positive_phenotypes": [
+      "The patient has infantile-onset, Levodopa-responsive Parkinsonism. The authors also mention that the patient's relatives have compound heterozygous mutations in WARS2, but this is not considered a positive phenotype for the proband.",
+      "The patient exhibited symptoms of Infantile-onset Parkinsonism and Intellectual disability, as described in the clinical description section.",
+      "Although the report mentions various clinical phenotypes, they are not explicitly stated as positive phenotypes for a specific proband. However, it does mention that the patient exhibited infantile-onset, Levodopa-responsive Parkinsonism and had several years of excellent clinical response followed by increasingly severe motor fluctuation.",
+      "No clinical phenotypes were mentioned in the report."
+    ],
+    "num_compound_or_double_hets": [
+      "One of the patient's relatives (the mother) has compound heterozygous mutations in WARS2. This is mentioned as part of the family history, but it does not apply to the proband.",
+      "The patient was found to be compound heterozygous for two variants in the WARS2 gene, indicating that they had a compound or double heterozygous mutation.",
+      "The report mentions compound heterozygous mutations in WARS2 but does not provide information on the number of individuals with this mutation.",
+      "No compound or double heterozygotes were reported."
+    ],
+    "report_title": [
+      "Burke et al. (2018) - Biallelic mutations in mitochondrial tryptophanyl-tRNA synthetase cause Levodopa-responsive infantile-onset Parkin-sonism."
+    ]
+  }
+}

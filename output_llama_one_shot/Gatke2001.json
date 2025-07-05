@@ -1,0 +1,59 @@
+{
+  "num_tested_probands": [
+    1,
+    0,
+    1,
+    32
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    "SS",
+    [],
+    [],
+    [
+      "Silent phenotype",
+      "Hypocholinesterasemia"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    0,
+    1,
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The patient was a healthy 30-yr-old man, which indicates that only one proband was tested.",
+      "The number of probands tested is not mentioned in the report.",
+      "The patient is the only proband tested in this report.",
+      "Found in the first paper 'Heterogeneity of the silent phenotype of human butyrylcholinesterase: Identification of eight new mutations, Multidisciplinary Approaches to Cholinesterase Functions.'"
+    ],
+    "num_positive_het_probands": [
+      "There is no mention of any proband being heterozygous for a pathogenic variant.",
+      "There is no mention of heterozygous probands in the report.",
+      "There are no positive heterozygous probands mentioned in this report.",
+      "Not mentioned in any of the papers."
+    ],
+    "positive_phenotypes": [
+      "The patient had the SS phenotype, which is associated with compound heterozygous occurrence for two silent mutations.",
+      "Phenotype information is not provided in the report.",
+      "None of the phenotypes associated with mivacurium administration are explicitly stated in this report. However, it is implied that the patient has a prolonged neuromuscular block.",
+      "Found in the first paper 'Heterogeneity of the silent phenotype of human butyrylcholinesterase: Identification of eight new mutations, Multidisciplinary Approaches to Cholinesterase Functions.'"
+    ],
+    "num_compound_or_double_hets": [
+      "The patient was reported to be compound heterozygous for two silent mutations in the butyrylcholinesterase gene.",
+      "The number of compound or double heterozygotes is not mentioned in the report.",
+      "The patient is reported to be compound heterozygous for two silent mutations in the BCHE gene.",
+      "Found in the 20th paper 'Dose\u2013response relationship for mivacurium in patients with phenotypically abnormal plasma cholinesterase activity.'"
+    ],
+    "explanation": [
+      "The report only mentions one proband, and there is no mention of any other probands being tested. The patient's phenotype is SS, which indicates that they are compound heterozygous for two silent mutations.",
+      "The report does not provide explicit information about the phenotypes associated with mivacurium administration. However, it implies that the patient has a prolonged neuromuscular block."
+    ]
+  }
+}
