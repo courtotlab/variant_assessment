@@ -1,0 +1,41 @@
+{
+  "num_tested_probands": [
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "Severe hyperkinetic movement disorder",
+      "Dystonia",
+      "Chorea",
+      "Ballism",
+      "Cognitive deficits"
+    ],
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The patient was the only proband tested in this case report.",
+      "No probands were tested in this report."
+    ],
+    "num_positive_het_probands": [
+      "No heterozygous carriers were mentioned, but a compound heterozygote was identified in the proband.",
+      "There is no mention of heterozygous carriers in the report."
+    ],
+    "positive_phenotypes": [
+      "The clinical presentation of the patient is described as a severe hyperkinetic movement disorder with dystonia, chorea, and ballism, along with cognitive deficits. These phenotypes are listed in the 'Positive phenotypes' section.",
+      "The shared phenotype mentioned in the title and supporting information is 'Hyperkinetic Movement Disorder'."
+    ],
+    "num_compound_or_double_hets": [
+      "One compound heterozygote was identified in the proband, which is mentioned in the 'Discussion' section.",
+      "No compound or double heterozygotes were reported."
+    ]
+  }
+}

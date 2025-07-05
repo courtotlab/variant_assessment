@@ -1,0 +1,45 @@
+{
+  "num_tested_probands": [
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "Severe hyperkinetic movement disorder",
+      "Dystonia",
+      "Chorea",
+      "Ballism",
+      "Cognitive deficits"
+    ],
+    [
+      "Hyperkinetic movement disorder",
+      "Uncontrollable dystonic and ballistic movements"
+    ]
+  ],
+  "num_compound_or_double_hets": [
+    2,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The patient was the only proband tested in this report.",
+      "There is no mention of the number of probands tested in this report."
+    ],
+    "num_positive_het_probands": [
+      "No heterozygous probands were reported in this case.",
+      "There is no mention of heterozygous probands in this report."
+    ],
+    "positive_phenotypes": [
+      "These phenotypes were associated with the patient's clinical presentation and were mentioned in the report as part of the differential diagnosis.",
+      "The positive phenotypes are mentioned in Table S1 and Video S1, which describe a 31-year-old patient with hyperkinetic movement disorder."
+    ],
+    "num_compound_or_double_hets": [
+      "The patient was found to be compound heterozygous for the WARS2 variants c.37T>G, p.(Trp13Gly) and c.149G>A, p.Gly50Asp.",
+      "There is no mention of compound or double heterozygous mutations in this report."
+    ]
+  }
+}

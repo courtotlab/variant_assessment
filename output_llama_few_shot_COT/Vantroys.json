@@ -1,0 +1,82 @@
+{
+  "num_tested_probands": [
+    1,
+    1,
+    1,
+    1,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "Severe hepatopathy",
+      "Neurological deterioration"
+    ],
+    [
+      "Severe axial hypotonia",
+      "Hyper-tonia",
+      "Dystonic posturing of arms and legs",
+      "Slight dysmorphic features",
+      "Delayed cognitive and motor development",
+      "Decreased awareness",
+      "Ptosis of the eyelids bilaterally",
+      "Severe generalized amyotrophy"
+    ],
+    [
+      "Acute liver failure",
+      "Seizures"
+    ],
+    [
+      "Hepatopathy",
+      "Valproate-induced hepatotoxicity"
+    ],
+    []
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The proband was a 6-year-old girl who underwent genetic testing.",
+      "The proband was born at term from non-consanguineous parents and underwent various medical tests, including whole cell lysates and mitochondrial fractions prepared from skeletal muscle and heart muscle from controls. The same fractions were prepared from liver from the proband and controls.",
+      "The proband was the only individual tested for genetic mutations.",
+      "The proband was the only individual tested for genetic mutations.",
+      "Not applicable, as the text does not mention any probands."
+    ],
+    "num_positive_het_probands": [
+      "No heterozygous carriers were identified among the proband's relatives.",
+      "No heterozygous carriers of a pathogenic variant were identified in the report.",
+      "No heterozygous carriers were reported in the study.",
+      "No heterozygous carriers were identified among the proband's relatives or in the literature.",
+      "Not applicable, as the text does not mention any heterozygous carriers."
+    ],
+    "positive_phenotypes": [
+      "The phenotypes mentioned in the report are severe hepatopathy and neurological deterioration, which are associated with mitochondrial tryptophanyl-tRNA synthetase deficiency.",
+      "The proband exhibited severe axial hypotonia, hyper-tonia, dystonic posturing of arms and legs, slight dysmorphic features, delayed cognitive and motor development, decreased awareness, ptosis of the eyelids bilaterally, and severe generalized amyotrophy. These phenotypes were confirmed through various medical tests and examinations.",
+      "The proband's phenotype was described as acute liver failure and seizures, which are mentioned in the title of the paper.",
+      "Clinical phenotypes associated with the proband include hepatopathy and valproate-induced hepatotoxicity.",
+      "Not mentioned in the provided text."
+    ],
+    "num_compound_or_double_hets": [
+      "No compound or double heterozygotes were identified among the proband's relatives.",
+      "No compound or double heterozygous mutations were identified in the report.",
+      "No compound or double heterozygotes were reported in the study.",
+      "No compound or double heterozygotes were reported in the study.",
+      "Not applicable, as the text does not mention any compound or double heterozygotes."
+    ],
+    "explanation": [
+      "Compound heterozygous mutations were identified in the WARS2 gene, but no other compound or double heterozygous mutations were reported.",
+      "The text does not explicitly state that the proband is a compound or double heterozygote. However, it mentions that the father's DNA was not available for testing and that the mother is a carrier of one variant.",
+      "The study focused on a single proband, and no relatives were tested for genetic mutations. The literature review did not identify any heterozygous carriers among the proband's relatives."
+    ]
+  },
+  "num_compound_or_double_hets": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

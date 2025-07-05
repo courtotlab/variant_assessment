@@ -66,8 +66,8 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, output_path, model="llama3.2:la
 # === Main Batch Runner ===
 def run_on_literature_folder(
     literature_dir="literature",
-    prompt_file="llama prompts/llama_prompt_few_shot.txt",
-    output_dir="output_llama_few_shot"
+    prompt_file="llama prompts/llama_prompt_few_shot_COT.txt",
+    output_dir="output_llama_few_shot_COT"
 ):
     pdf_dir = Path(literature_dir)
     out_dir = Path(output_dir)

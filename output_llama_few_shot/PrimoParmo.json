@@ -1,0 +1,52 @@
+{
+  "num_tested_probands": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome",
+    "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome",
+    "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome",
+    "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome"
+  ],
+  "num_compound_or_double_hets": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The two sisters were initially followed for the last 20 years and then exome sequencing was performed in 2013 using DNA extracted from a buccal swab of one of the sisters.",
+      "The two sisters were initially followed for the last 20 years and then exome sequencing was performed in 2013 using DNA extracted from a buccal swab of one of the sisters.",
+      "The two sisters were initially followed for the last 20 years and then exome sequencing was performed in 2013 using DNA extracted from a buccal swab of one of the sisters.",
+      "The two sisters were initially followed for the last 20 years and then exome sequencing was performed in 2013 using DNA extracted from a buccal swab of one of the sisters."
+    ],
+    "num_positive_het_probands": [
+      "Neither sister was heterozygous for any pathogenic variant.",
+      "Neither sister was heterozygous for any pathogenic variant.",
+      "Neither sister was heterozygous for any pathogenic variant.",
+      "Neither sister was heterozygous for any pathogenic variant."
+    ],
+    "positive_phenotypes": [
+      "The variants identified were p.(Arg172Cys) in phosphatidylinositol glycan anchor biosynthesis class T protein (PIGT).",
+      "The variants identified were p.(Arg172Cys) in phosphatidylinositol glycan anchor biosynthesis class T protein (PIGT).",
+      "The variants identified were p.(Arg172Cys) in phosphatidylinositol glycan anchor biosynthesis class T protein (PIGT).",
+      "The variants identified were p.(Arg172Cys) in phosphatidylinositol glycan anchor biosynthesis class T protein (PIGT)."
+    ],
+    "num_compound_or_double_hets": [
+      "Both sisters carried the two variants identified, which are in trans.",
+      "Both sisters carried the two variants identified, which are in trans.",
+      "Both sisters carried the two variants identified, which are in trans.",
+      "Both sisters carried the two variants identified, which are in trans."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "num_tested_probands": [
+    3,
+    0
+  ],
+  "num_positive_het_probands": [
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    "prolonged duration of action of succinylcholine",
+    []
+  ],
+  "num_compound_or_double_hets": [
+    1,
+    3,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The number of individual probands for whom genetic testing was reported. In this case, three patients were referred to the DCRU because of prolonged duration of action of succinylcholine.",
+      "No probands were tested in these reports."
+    ],
+    "num_positive_het_probands": [
+      "The number of probands who were heterozygous for a pathogenic variant. In this case, none of the tested probands were found to be heterozygous for a pathogenic variant.",
+      "No heterozygous probands were identified in these reports."
+    ],
+    "positive_phenotypes": [
+      "Clinical phenotypes associated with the positive probands. In this case, one patient was found to have prolonged duration of action of succinylcholine.",
+      "No clinical phenotypes were mentioned in these reports."
+    ],
+    "num_compound_or_double_hets": [
+      "The number of individuals reported to have compound or double heterozygous mutations. In this case, one patient was found to be compound heterozygous for BCHE*328D and BCHE*142M.",
+      "No compound or double heterozygotes were reported in these articles."
+    ],
+    "BCHE*115D*I3E4-14C": [
+      "a known silent mutation"
+    ],
+    "BCHE*FS126": [
+      "deletion of two nucleotides (376\u2013377) resulting in a shift in the translational reading frame and a truncated protein"
+    ],
+    "BCHE*328D": [
+      "nucleotide substitution at position 983 leading to an amino acid substitution of alanine by aspartate"
+    ]
+  }
+}

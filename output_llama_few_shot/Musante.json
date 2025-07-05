@@ -1,0 +1,93 @@
+{
+  "num_tested_probands": [
+    2,
+    3,
+    2,
+    3,
+    0,
+    16
+  ],
+  "num_positive_het_probands": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "positive_phenotypes": [
+    [
+      "Intellectual disability",
+      "Microcephaly",
+      "Ataxia",
+      "Speech impairment",
+      "Aggressive behavior"
+    ],
+    "SARS",
+    "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome",
+    "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome"
+  ],
+  "num_compound_or_double_hets": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "explanation": {
+    "num_tested_probands": [
+      "The number of individual probands for whom genetic testing was reported. In this case, there are 2 probands.",
+      "Family members listed as 'Family 1-III:4', 'Family 1-III:10', etc. indicate the number of probands tested in each family.",
+      "The number of individual probands for whom genetic testing was reported. This is stated in the text as 'DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents, using standard procedures.'",
+      "The number of probands tested is not mentioned in the report."
+    ],
+    "num_positive_het_probands": [
+      "There are no heterozygous probands with the identified mutations.",
+      "No heterozygous probands were identified with a pathogenic variant.",
+      "The number of probands who were heterozygous for a pathogenic variant. In this case, no positive heterozygous probands were found.",
+      "There are no positive heterozygous probands mentioned in the report."
+    ],
+    "positive_phenotypes": [
+      "The phenotypes associated with the mutations in SARS and WARS2 genes. These include intellectual disability, microcephaly, ataxia, speech impairment, and aggressive behavior.",
+      "Clinical features listed under 'SARS' indicate the presence of SARS, which is associated with the positive proband phenotype.",
+      "Clinical phenotypes associated with the positive probands. This is stated in the text as 'Table 1 for full description of clinical features'.",
+      "The phenotype 'Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome' is associated with the positive probands."
+    ],
+    "num_compound_or_double_hets": [
+      "There are no compound or double heterozygous individuals with the identified mutations.",
+      "No compound or double heterozygotes were reported in this study.",
+      "The number of individuals reported to have compound or double heterozygous mutations. In this case, no compound or double heterozygotes were found.",
+      "Two compound or double heterozygotes are reported in the study."
+    ],
+    "Clinical_report_of_family_1": [
+      {
+        "Family_history": "The family has a history of intellectual disability (ID) in four out of nine children.",
+        "Pedigree": "Figure 1A",
+        "Affected_children": "Four affected children with ID, microcephaly, ataxia, and muscular weakness.",
+        "Clinical_description": "Moderate ID, speech impairment, aggressive behavior, microcephaly, ataxia, and muscular weakness.",
+        "Genetic_test": "DNA extracted from peripheral blood of patients (III:4, III:9, III:10, III:11), three healthy siblings, and their parents."
+      }
+    ],
+    "Clinical_report_of_family_2": [
+      {
+        "Family_history": "The family has a history of intellectual disability (ID) in three out of nine children.",
+        "Pedigree": "Figure 1B",
+        "Affected_children": "Three affected children with ID, athetosis, aggressive behavior, and speech impairment.",
+        "Clinical_description": "Moderate ID, athetosis, aggressive behavior, and speech impairment.",
+        "Genetic_test": "DNA extracted from peripheral blood of patients (V:6, V:7, V:8), their parents."
+      }
+    ],
+    "text": [
+      "Compound heterozygous mutation in the WARS2 gene",
+      "The study analyzed the genetic causes of autosomal recessive intellectual disability in 16 individuals. The analysis identified mutations in two aminoacyl-tRNA synthetases, SARS and WARS2, which were found to be associated with this condition."
+    ],
+    "type": [
+      "mutation"
+    ],
+    "compound_or_doubles": [
+      []
+    ]
+  }
+}
