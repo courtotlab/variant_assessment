@@ -6,7 +6,7 @@ returned in JSON format. You must look in the report for the following fields:
 3. Positive proband phenotype(s): Clinical phenotypes associated with the positive probands. List all relevant terms.
 4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations. u may use these pdfs
 
-Example:
+Example 1:
 
 Input text:
 "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives. Genotypes were determined using complete nucleotide sequencing. Results Three novel mutations were identified: BCHE*FS126, BCHE*I3E4-14C and BCHE*328D. The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M. In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine. The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126. BCHE*I3E4-14C was in linkage with a known silent variant."
@@ -15,6 +15,37 @@ Expected output:
 - Number of probands tested: 2
 - Number of positive HET probands: 1  
 - Number of compound/double heterozygotes: 1
+
+Example 2:
+
+Input text:
+"Mystery solved after 23 years: M syndrome is PIGT-associated multiple congenital anomalies-hypotonia-seizures syndrome 3  
+To the Editor,  
+Rauch et al. (1999) reported in 1999 in the American Journal of Medical Genetics two sisters with a new syndrome that they have called multiple congenital anomalies/mental retardation (MCA/MR) syndrome with light fixation, retinal cone dystrophy, and seizures, or M Syndrome, a reference to the first letter of the girls' last name. This condition has also received an OMIM entry (603530) as light fixation seizure syndrome. We have been following these sisters for the last 20 years. Exome sequencing was initially performed in 2013 using DNA extracted from a buccal swab of one of the sisters, in a clinical laboratory on the Illumina HiSeq 2500 platform, and did not find any candidate variant at first. However, reanalysis after 3 years allowed the identification of two variants in phosphatidylinositol glycan anchor biosynthesis class T protein (PIGT; OMIM 610272): NM_015937.6: c.494-2A>G and c.514C>T, p.(Arg172Cys). It was possible to determine that the variants are in trans through alignment visualization by the Integrative Genomics Viewer. Sanger sequencing was subsequently performed in both sisters, confirming they both harbor the two variants identified."
+
+Expected output:
+- Number of probands tested: 2  
+- Number of positive HET probands: 0  
+- Positive proband phenotype(s): multiple congenital anomalies-hypotonia-seizures syndrome  
+- Number of compound/double heterozygotes: 2
+
+Example 3:
+
+Input text:
+"Analyzing clinical and genetic characteristics of a cohort with multiple congenital anomalies-hypotonia-seizures syndrome (MCAHS)  
+Xianru Jiao, Jiao Xue, Pan Gong, Xinhua Bao, Ye Wu, Yuehua Zhang, Yuwu Jiang and Zhixian Yang*  
+Abstract  
+Objective: To summarize and extend the phenotypic characterization of Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome, and to discuss genotype-phenotype correlations.  
+Methods: Collecting clinical information of 17 patients with pathogenic variants in PIGN, PIGA, and PIGT. Genetic studies were performed on all patients."  
+“Fifteen variants from seven patients were identified with PIGN mutations… case 4 had 3 mutations… All variants were validated by Sanger sequencing confirming their parental inheritance.”  
+“Five PIGT variants were identified in two sporadic patients… case 16 carried 3 mutations…”  
+“Mutation analysis identified seven different hemizygous PIGA mutations… among eight patients… Seven of the mutations were inherited from their mothers, and only one was de novo.”
+
+Expected output:
+- Number of probands tested: 17  
+- Number of positive HET probands: 8 
+- Positive proband phenotype(s): Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome  
+- Number of compound/double heterozygotes: 9
 
 
 ## JSON schema
