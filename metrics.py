@@ -41,7 +41,7 @@ for fname in os.listdir(json_folder):
         y_pred = [1 if v > 0 else 0 for v in pred[field]]
         if len(y_true) != len(y_pred):
             raise ValueError(
-                f"\n❌ Length mismatch detected!\n"
+                f"\nLength mismatch detected!\n"
                 f"File: {base_name}\n"
                 f"Field: {field}\n"
                 f"GT length: {len(y_true)}\n"
