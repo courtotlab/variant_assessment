@@ -1,11 +1,11 @@
 {
   "num_tested_probands": [
     1,
-    null
+    0
   ],
   "num_positive_het_probands": [
     0,
-    null
+    0
   ],
   "positive_phenotypes": [
     [
@@ -26,7 +26,7 @@
   ],
   "num_compound_or_double_hets": [
     1,
-    null
+    0
   ],
   "explanation": {
     "num_tested_probands": [

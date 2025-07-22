@@ -37,9 +37,13 @@
   },
   "num_tested_probands": [
     4,
-    32
+    32,
+    0,
+    0
   ],
   "num_positive_het_probands": [
+    0,
+    0,
     0,
     0
   ],

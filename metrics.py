@@ -5,8 +5,8 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 
 # === CONFIGURATION ===
 ground_truth_csv = "ground.csv"
-json_folder = "output_llama"
-output_csv = "llama_metrics_output.csv"
+json_folder = "output_lei_COT"
+output_csv = "metrics/lei_metrics_COT.csv"
 
 # === Load ground truth ===
 ground_df = pd.read_csv(ground_truth_csv)
@@ -15,10 +15,10 @@ for col in ["num_tested_probands", "num_positive_het_probands", "num_compound_or
 
 # === Store results ===
 all_results = []
-overall = {
-    "num_tested_probands": {"y_true": [], "y_pred": []},
-    "num_positive_het_probands": {"y_true": [], "y_pred": []},
-    "num_compound_or_double_hets": {"y_true": [], "y_pred": []}
+per_field_scores = {
+    "num_tested_probands": [],
+    "num_positive_het_probands": [],
+    "num_compound_or_double_hets": []
 }
 
 # === Loop through JSON files ===
@@ -39,6 +39,7 @@ for fname in os.listdir(json_folder):
     for field in ["num_tested_probands", "num_positive_het_probands", "num_compound_or_double_hets"]:
         y_true = [1 if v > 0 else 0 for v in row[field]]
         y_pred = [1 if v > 0 else 0 for v in pred[field]]
+
         if len(y_true) != len(y_pred):
             raise ValueError(
                 f"\nLength mismatch detected!\n"
@@ -48,9 +49,12 @@ for fname in os.listdir(json_folder):
                 f"Pred length: {len(y_pred)}"
             )
 
-        precision = precision_score(y_true, y_pred, zero_division=0)
-        recall = recall_score(y_true, y_pred, zero_division=0)
-        f1 = f1_score(y_true, y_pred, zero_division=0)
+        if sum(y_true) == 0 and sum(y_pred) == 0:
+            precision = recall = f1 = 1.0
+        else:
+            precision = precision_score(y_true, y_pred, zero_division=0)
+            recall = recall_score(y_true, y_pred, zero_division=0)
+            f1 = f1_score(y_true, y_pred, zero_division=0)
 
         all_results.append({
             "file": base_name,
@@ -60,27 +64,25 @@ for fname in os.listdir(json_folder):
             "f1_score": f1
         })
 
-        overall[field]["y_true"].extend(y_true)
-        overall[field]["y_pred"].extend(y_pred)
+        per_field_scores[field].append((precision, recall, f1))
 
-# === Compute Overall Scores ===
-for field in overall:
-    y_true_all = overall[field]["y_true"]
-    y_pred_all = overall[field]["y_pred"]
+# === Compute Macro-Averaged Overall Scores ===
+for field, score_list in per_field_scores.items():
+    if score_list:
+        avg_precision = sum(x[0] for x in score_list) / len(score_list)
+        avg_recall = sum(x[1] for x in score_list) / len(score_list)
+        avg_f1 = sum(x[2] for x in score_list) / len(score_list)
 
-    precision = precision_score(y_true_all, y_pred_all, zero_division=0)
-    recall = recall_score(y_true_all, y_pred_all, zero_division=0)
-    f1 = f1_score(y_true_all, y_pred_all, zero_division=0)
-
-    all_results.append({
-        "file": "OVERALL",
-        "field": field,
-        "precision": precision,
-        "recall": recall,
-        "f1_score": f1
-    })
+        all_results.append({
+            "file": "OVERALL",
+            "field": field,
+            "precision": avg_precision,
+            "recall": avg_recall,
+            "f1_score": avg_f1
+        })
 
 # === Save to CSV ===
 df = pd.DataFrame(all_results)
+os.makedirs(os.path.dirname(output_csv), exist_ok=True)
 df.to_csv(output_csv, index=False)
 print(f"Saved to {output_csv}")
