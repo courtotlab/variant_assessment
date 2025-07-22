@@ -1,0 +1,85 @@
+## Pages 1-2 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "Clinical data and patient samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)" which implies that the study involved a certain number of patients, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient, following informed and written consent, under the protocol 76-HG-0238, “Diagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders” of the NIH-UDP" which implies that the study involved a certain number of patients, but the exact number is not specified.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years" which implies that the patient had a specific clinical phenotype. Additionally, the text mentions that "the patient's condition was characterized by decreased steady-state WARS2 protein and normal OXPHOS content" which suggests that the patient had a specific biochemical abnormality.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient, following informed and written consent, under the protocol 76-HG-0238, “Diagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders” of the NIH-UDP" which implies that the study involved a certain number of patients, but the exact number is not specified. However, it does mention that "the patient had compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype.
+
+Uncertainty/Ambiguity: The text does not provide explicit information on the number of probands tested, positive HET probands, or compound/double heterozygotes. However, it does provide some contextual clues and mentions specific details about the patient's condition, which can be used to infer some information.
+
+## Pages 3-4 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "Clinical data and samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)" which implies that the study involved a certain number of patients, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype. However, it does not provide information on the total number of individuals who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years" which implies that the patient had a specific clinical phenotype. Additionally, the text mentions that "the patient's condition was characterized by decreased steady-state WARS2 protein and normal OXPHOS content" which suggests that the patient had a specific biochemical abnormality.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype. However, it does not provide information on the total number of individuals who were compound or double heterozygotes.
+
+Uncertainty/Ambiguity: The text does not provide explicit information on the number of probands tested, positive HET probands, or compound/double heterozygotes. However, it does provide some contextual clues and mentions specific details about the patient's condition, which can be used to infer some information.
+
+## Pages 5-6 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "Clinical data and samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)" which implies that the study involved a certain number of patients, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of individuals who were heterozygous for a pathogenic variant. However, it mentions that "The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years" which implies that the patient had a specific clinical phenotype. Additionally, the text mentions that "the patient's condition was characterized by decreased steady-state WARS2 protein and normal OXPHOS content" which suggests that the patient had a specific biochemical abnormality.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype. However, it does not provide information on the total number of individuals who were compound or double heterozygotes.
+
+Uncertainty/Ambiguity: The text does not provide explicit information on the number of probands tested, positive HET probands, or compound/double heterozygotes. However, it does provide some contextual clues and mentions specific details about the patient's condition, which can be used to infer some information.
+
+## Pages 7 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "Clinical data and samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)" which implies that the study involved a certain number of patients, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of individuals who were heterozygous for a pathogenic variant. However, it mentions that "The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years" which implies that the patient had a specific clinical phenotype. Additionally, the text mentions that "the patient's condition was characterized by decreased steady-state WARS2 protein and normal OXPHOS content" which suggests that the patient had a specific biochemical abnormality.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)" which suggests that there was at least one individual with this specific genotype. However, it does not provide information on the total number of individuals who were compound or double heterozygotes.
+
+Uncertainty/Ambiguity: The text does not provide explicit information on the number of probands tested, positive HET probands, or compound/double heterozygotes. However, it does provide some contextual clues and mentions specific details about the patient's condition, which can be used to infer some information.
+
+Note that none of the provided texts contain explicit quotes directly addressing these questions. The text only provides contextual clues and mentions specific details about the patient's condition, which can be used to infer some information.

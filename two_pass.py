@@ -55,7 +55,7 @@ def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama
         query = current_text + context_section
 
         try:
-            result = call_ollama_struct_out(system_msg, query, model)
+            result = call_ollama_struct_out(system_msg, query, model, use_structured_output=False)
             result_text = result if isinstance(result, str) else json.dumps(result, indent=2)
 
             all_text_outputs.append(f"## Pages {page_range} ##\n{result_text}\n")
@@ -82,7 +82,7 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
         raw_text = f.read()
 
     try:
-        result = call_ollama_struct_out(system_msg, raw_text, model)
+        result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=True)
         Path(output_json_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_json_path, "w", encoding="utf-8") as out_json:
             json.dump(result, out_json, indent=2)
@@ -93,10 +93,10 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
 # === Run Both Passes ===
 if __name__ == "__main__":
     pdf_path = "literature/Burke_2018_29120065_522.pdf"
-    prompt_pass1 = "prompts/prompt_pass1.txt"
-    prompt_pass2 = "prompts/prompt_pass2.txt"
-    intermediate_txt = "output/pass1_output.txt"
-    final_json = "output/final_output.json"
+    prompt_pass1 = "llama prompts first pass/llama_zero_shot.txt"
+    prompt_pass2 = "llama prompts two pass/zero_shot.txt"
+    intermediate_txt = "one_pass_output/pass1_output.txt"
+    final_json = "output_llama_2_pass/Burke.json"
     model = "llama3.2:latest"
 
     pass_one_extract_to_txt(pdf_path, prompt_pass1, intermediate_txt, model)
