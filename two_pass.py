@@ -31,11 +31,12 @@ def merge_structured_output(cumulative, new_result):
 
 # === PASS 1: Extract raw summaries or content and save to text ===
 def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama3.2:latest"):
-    print("🔁 Starting PASS 1 - Extracting Text...\n")
+    print("🔁 Starting PASS 1 - Extracting Text with Context...\n")
     system_msg = read_txt_prompt(prompt_path)
     pages = read_pdf_pages(pdf_path)
 
     all_text_outputs = []
+    all_quotes_context = ""  # Accumulated context
 
     for i in range(0, len(pages), 2):
         page_start = i + 1
@@ -43,11 +44,25 @@ def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama
         page_range = f"{page_start}-{page_end}" if page_end > page_start else f"{page_start}"
         print(f"Processing pages {page_range}...")
 
-        two_page_text = "\n".join(pages[i:page_end])
+        current_text = "\n".join(pages[i:page_end])
+
+        # Add context from previously extracted quotes (if any)
+        if all_quotes_context.strip():
+            context_section = f"\n\nPreviously extracted quotes:\n{all_quotes_context.strip()}\n"
+        else:
+            context_section = ""
+
+        query = current_text + context_section
+
         try:
-            result = call_ollama_struct_out(system_msg, two_page_text, model)
+            result = call_ollama_struct_out(system_msg, query, model)
             result_text = result if isinstance(result, str) else json.dumps(result, indent=2)
+
             all_text_outputs.append(f"## Pages {page_range} ##\n{result_text}\n")
+
+            # Add this result to the accumulated context
+            all_quotes_context += f"\n\n## From pages {page_range} ##\n{result_text}"
+
         except Exception as e:
             print(f"⚠️ Error processing pages {page_range}: {e}")
 
@@ -56,6 +71,7 @@ def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama
         out_txt.write("\n".join(all_text_outputs))
 
     print(f"\n✅ PASS 1 complete. Output written to: {output_txt_path}\n")
+
 
 # === PASS 2: Use final prompt and structure the raw text into JSON ===
 def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path, model="llama3.2:latest"):
