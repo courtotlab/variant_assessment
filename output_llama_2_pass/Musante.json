@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "Moderate ID",
+    "Microcephaly",
+    "Ataxia",
+    "Speech impairment",
+    "Aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text mentions that 'all available individuals from family 1' were genotyped, suggesting that at least one individual was tested.",
+    "num_positive_het_probands": "The text does not provide explicit information on the number of heterozygous probands. However, it mentions that 'siblings and parents were also sequenced' to confirm co-segregation of the allele within families, suggesting that multiple individuals may have been tested.",
+    "positive_phenotypes": "The text describes the phenotypes observed in both families, including moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior. These phenotypes are associated with mutations in SARS and WARS2 genes.",
+    "num_compound_or_double_hets": "The text mentions that the second family had a 'compound DNA-alteration' affecting the WARS2 gene, suggesting that at least one individual may have been a compound or double heterozygote."
+  }
+}

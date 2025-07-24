@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 0,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "SS"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text does not provide explicit information on the number of probands tested. The mention of 'about 24.0% of the white population' implies that a certain number were tested, but the exact number is not specified.",
+    "num_positive_het_probands": "The text does not provide explicit information on the number of positive HET probands. However, it mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action.",
+    "positive_phenotypes": "The text mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action. This implies that the patient in this case report has the SS phenotype.",
+    "num_compound_or_double_hets": "The text does not provide explicit information on the number of compound or double heterozygotes. However, it mentions that the patient is 'compound heterozygous for two silent mutations' which implies that this is a single case report."
+  }
+}

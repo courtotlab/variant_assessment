@@ -1,0 +1,91 @@
+## Pages 1-2 ##
+Here are the answers to your questions:
+
+**1. Number of probands tested:**
+
+- EXPLICIT: None
+- INFERRED: The text mentions that "about 24.0% of the white population carries at least one genetic variant allele of the butyryl-cholinesterase enzyme (BChE; E.C. 3.1.1.8)" which implies that a certain number of probands were tested, but the exact number is not specified.
+
+**2. Number of positive HET probands:**
+
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of positive HET probands. However, it mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action.
+
+**3. Positive proband phenotype(s):**
+
+- EXPLICIT: None
+- INFERRED: The text mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action. This implies that the patient in this case report has the SS phenotype.
+
+**4. Number of compound/double heterozygotes:**
+
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of compound or double heterozygotes. However, it mentions that the patient is "compound heterozygous for silent mutations in the butyrylcholinesterase gene" which implies that this is a single case report.
+
+Note: There is no explicit quote or clear indication of the exact number of probands tested, positive HET probands, or compound/double heterozygotes. The information provided is inferred from the text and may not be comprehensive or up-to-date.
+
+## Pages 3-4 ##
+Here are the answers to your questions:
+
+**1. Number of probands tested:**
+
+- EXPLICIT: None
+- INFERRED: The text mentions that "about 24.0% of the white population carries at least one genetic variant allele of the butyryl-cholinesterase enzyme (BChE; E.C. 3.1.1.8)" which implies that a certain number of probands were tested, but the exact number is not specified.
+
+**2. Number of positive HET probands:**
+
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of positive HET probands. However, it mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action.
+
+**3. Positive proband phenotype(s):**
+
+- EXPLICIT: None
+- INFERRED: The text mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action. This implies that the patient in this case report has the SS phenotype.
+
+**4. Number of compound/double heterozygotes:**
+
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of compound or double heterozygotes. However, it mentions that the patient is "compound heterozygous for two silent mutations" which implies that this is a single case report.
+
+Note: There is no explicit quote or clear indication of the exact number of probands tested, positive HET probands, or compound/double heterozygotes. The information provided is inferred from the text and may not be comprehensive or up-to-date.
+
+## Pages 5-6 ##
+Based on the provided text, here are some answers to your questions:
+
+1. Number of probands tested:
+The exact number of probands tested is not specified in the text.
+
+2. Number of positive HET probands:
+The text does not provide explicit information on the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+The patient has the SS phenotype, which indicates that they are homozygous for silent mutations in the butyrylcholinesterase gene.
+
+4. Number of compound/double heterozygotes:
+The text mentions that the patient is "compound heterozygous for two silent mutations", implying that this is a single case report.
+
+Note: The information provided is inferred from the text and may not be comprehensive or up-to-date.
+
+## Pages 7 ##
+Here are the answers to your questions:
+
+**1. Number of probands tested:**
+
+- EXPLICIT: None
+- INFERRED: The text mentions that "about 24.0% of the white population carries at least one genetic variant allele of the butyryl-cholinesterase enzyme (BChE; E.C. 3.1.1.8)" which implies that a certain number of probands were tested, but the exact number is not specified.
+
+**2. Number of positive HET probands:**
+
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of positive HET probands. However, it mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action.
+
+**3. Positive proband phenotype(s):**
+
+- EXPLICIT: None
+- INFERRED: The text mentions that patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action. This implies that the patient in this case report has the SS phenotype.
+
+**4. Number of compound/double heterozygotes:**
+
+- EXPLICIT: None
+- INFERRED: The text does not provide explicit information on the number of compound or double heterozygotes. However, it mentions that the patient is "compound heterozygous for two silent mutations" which implies that this is a single case report.
+
+Note: There is no explicit quote or clear indication of the exact number of probands tested, positive HET probands, or compound/double heterozygotes. The information provided is inferred from the text and may not be comprehensive or up-to-date.

@@ -1,0 +1,34 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "SS"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": [
+      {
+        "text": "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
+      }
+    ],
+    "num_positive_het_probands": [
+      "INFERRED: The text mentions that one patient in family 3 was heterozygous for BCHE*142M, but does not explicitly state the number of heterozygous probands."
+    ],
+    "positive_phenotypes": [
+      {
+        "text": ""
+      },
+      {
+        "text": "SS (homozygous for silent variants) is mentioned as a phenotype for patients in family 1 and 3."
+      }
+    ],
+    "num_compound_or_double_hets": [
+      {
+        "text": "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+      },
+      {
+        "text": "The text also mentions that patient 3 was compound heterozygous for the mutations BCHE*142M and BCHE*FS126."
+      }
+    ]
+  }
+}

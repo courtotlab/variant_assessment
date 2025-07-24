@@ -1,0 +1,133 @@
+## Pages 1-2 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The first subjects with deficiency of mitochondrial tryptophanyl-tRNA synthetase (WARS2) were reported in 2017" and that "three more papers describing WARS2 deficient subjects were published subsequently". This suggests that there may be multiple probands tested, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband was heterozygous for a pathogenic variant (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p.Lys313Met), but it does not specify whether this is the only positive HET proband or if there are others.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband presented with "early developmental delay, motor weakness and intellectual disability" and had a diagnosis of "non-progressive encephalopathy". It also mentions that she developed acute liver failure and severe progressive encephalopathy after starting sodium valproate treatment.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text does not provide any information about the number of compound or double heterozygotes.
+
+## Pages 3-4 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The first subjects with deficiency of mitochondrial tryptophanyl-tRNA synthetase (WARS2) were reported in 2017" and that "three more papers describing WARS2 deficient subjects were published subsequently". This suggests that there may be multiple probands tested, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband was heterozygous for a pathogenic variant (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p.Lys313Met), but it does not specify whether this is the only positive HET proband or if there are others.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband presented with "early developmental delay, motor weakness and intellectual disability" and had a diagnosis of "non-progressive encephalopathy". It also mentions that she developed acute liver failure and severe progressive encephalopathy after starting sodium valproate treatment.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text does not provide any information about the number of compound or double heterozygotes.
+
+Uncertainty/Ambiguity:
+
+* The exact number of probands tested is not specified, and it is unclear whether this refers to the total number of subjects studied or only those with WARS2 deficiency.
+* It is also unclear how many positive HET probands there are, as the text only mentions that the proband was heterozygous for a pathogenic variant.
+
+## Pages 5-6 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None
+- INFERRED: The text mentions that "The first subjects with deficiency of mitochondrial tryptophanyl-tRNA synthetase (WARS2) were reported in 2017" and that "three more papers describing WARS2 deficient subjects were published subsequently". This suggests that there may be multiple probands tested, but the exact number is not specified.
+
+2. Number of positive HET probands:
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband was heterozygous for a pathogenic variant (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p.Lys313Met), but it does not specify whether this is the only positive HET proband or if there are others.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband presented with "early developmental delay, motor weakness and intellectual disability" and had a diagnosis of "non-progressive encephalopathy". It also mentions that she developed acute liver failure and severe progressive encephalopathy after starting sodium valproate treatment.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None
+- INFERRED: The text does not provide any information about the number of compound or double heterozygotes.
+
+Uncertainty/Ambiguity:
+
+* The exact number of probands tested is not specified, and it is unclear whether this refers to the total number of subjects studied or only those with WARS2 deficiency.
+* It is also unclear how many positive HET probands there are, as the text only mentions that the proband was heterozygous for a pathogenic variant.
+
+Additional contextual information:
+
+- The proband's phenotype fits into the second phenotype described in the literature (protracted course, early onset developmental delay, motor weakness, extra-pyramidal signs, epilepsy).
+- The proband developed acute liver failure after starting sodium valproate treatment, which is consistent with the hypothesis that treatment with valproate has induced or triggered a severe hepatopathy.
+- The text mentions that WARS2 deficient subjects can have different clinical phenotypes, including a severe neonatal phenotype and a phenotype characterized by normal early development and Parkinson-like symptoms starting around age 1.
+
+## Pages 7-8 ##
+Here are the answers to your questions:
+
+**1. Number of probands tested:**
+- EXPLICIT: None
+- INFERRED: The text mentions that "The first subjects with deficiency of mitochondrial tryptophanyl-tRNA synthetase (WARS2) were reported in 2017" and that "three more papers describing WARS2 deficient subjects were published subsequently". This suggests that there may be multiple probands tested, but the exact number is not specified.
+
+**2. Number of positive HET probands:**
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband was heterozygous for a pathogenic variant (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p.Lys313Met), but it does not specify whether this is the only positive HET proband or if there are others.
+
+**3. Positive proband phenotype(s):**
+- EXPLICIT: None
+- INFERRED: The text mentions that the proband presented with "early developmental delay, motor weakness and intellectual disability" and had a diagnosis of "non-progressive encephalopathy". It also mentions that she developed acute liver failure and severe progressive encephalopathy after starting sodium valproate treatment.
+
+**4. Number of compound/double heterozygotes:**
+- EXPLICIT: None
+- INFERRED: The text does not provide any information about the number of compound or double heterozygotes.
+
+Uncertainty/Ambiguity:
+
+* The exact number of probands tested is not specified, and it is unclear whether this refers to the total number of subjects studied or only those with WARS2 deficiency.
+* It is also unclear how many positive HET probands there are, as the text only mentions that the proband was heterozygous for a pathogenic variant.
+
+Additional contextual information:
+
+* The proband's phenotype fits into the second phenotype described in the literature (protracted course, early onset developmental delay, motor weakness, extra-pyramidal signs, epilepsy).
+* The proband developed acute liver failure after starting sodium valproate treatment, which is consistent with the hypothesis that treatment with valproate has induced or triggered a severe hepatopathy.
+* The text mentions that WARS2 deficient subjects can have different clinical phenotypes, including a severe neonatal phenotype and a phenotype characterized by normal early development and Parkinson-like symptoms starting around age 1.
+
+## Pages 9 ##
+Here are the answers to your questions:
+
+**From pages 1-2**
+
+1. Number of probands tested: Not specified
+2. Number of positive HET probands: Not specified
+3. Positive proband phenotype(s): Early developmental delay, motor weakness, intellectual disability, non-progressive encephalopathy, acute liver failure, and severe progressive encephalopathy.
+4. Number of compound/double heterozygotes: Not specified
+
+**From pages 3-4**
+
+1. Number of probands tested: Not specified
+2. Number of positive HET probands: Not specified
+3. Positive proband phenotype(s): Same as above
+4. Number of compound/double heterozygotes: Not specified
+
+**From pages 5-6**
+
+1. Number of probands tested: Not specified
+2. Number of positive HET probands: Not specified
+3. Positive proband phenotype(s): Same as above
+4. Number of compound/double heterozygotes: Not specified
+
+**From pages 7-8**
+
+1. Number of probands tested: Not specified
+2. Number of positive HET probands: Not specified
+3. Positive proband phenotype(s): Same as above
+4. Number of compound/double heterozygotes: Not specified

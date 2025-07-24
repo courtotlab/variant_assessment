@@ -1,0 +1,47 @@
+## Pages 1-2 ##
+Here are the answers to your questions:
+
+**1. Number of probands tested:**
+
+- EXPLICIT: None found.
+
+**INFERRED**: The text mentions that "In 2017, 9 individuals were reported with biallelic variants in WARS2" and that "the majority of published patients were reported to have had epileptic seizures". However, it does not explicitly state the number of probands tested for this specific case report.
+
+**2. Number of positive HET probands:**
+
+- EXPLICIT: None found.
+
+**INFERRED**: The text mentions that the patient has "a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits" but does not provide information on whether they are heterozygous for a pathogenic variant.
+
+**3. Positive proband phenotype(s):**
+
+- EXPLICIT: None found.
+
+**INFERRED**: The text mentions that the patient has "a clinical presentation consisting of a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements" but does not provide information on other phenotypes.
+
+**4. Number of compound/double heterozygotes:**
+
+- EXPLICIT: None found.
+
+**INFERRED**: The text mentions that the patient has "biallelic variants in WARS2" but does not provide information on whether they are compound or double heterozygous.
+
+## Pages 3 ##
+Here is the response to your questions:
+
+1. Number of probands tested:
+- EXPLICIT: None found.
+- INFERRED: The text mentions that "In 2017, 9 individuals were reported with biallelic variants in WARS2" and that "the majority of published patients were reported to have had epileptic seizures". However, it does not explicitly state the number of probands tested for this specific case report.
+
+2. Number of positive HET probands:
+- EXPLICIT: None found.
+- INFERRED: The text mentions that the patient has "a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits" but does not provide information on whether they are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+- EXPLICIT: None found.
+- INFERRED: The text mentions that the patient has "a clinical presentation consisting of a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements" but does not provide information on other phenotypes.
+
+4. Number of compound/double heterozygotes:
+- EXPLICIT: None found.
+- INFERRED: The text mentions that the patient has "biallelic variants in WARS2" but does not provide information on whether they are compound or double heterozygous.
+
+Note: There is no explicit quote or statement regarding the number of probands tested, positive HET probands, positive proband phenotype(s), or number of compound/double heterozygotes. The provided INFERRED clues attempt to infer this information based on the text, but it remains uncertain without further clarification.

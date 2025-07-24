@@ -1,0 +1,39 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "non-progressive encephalopathy",
+    "acute liver failure",
+    "severe progressive encephalopathy"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "1-2 pages": {
+      "num_tested_probands": "Not specified, inferred from context that there may be multiple probands tested but exact number is not specified",
+      "num_positive_het_probands": "Not specified, text only mentions one pathogenic variant for the proband",
+      "positive_phenotypes": "Early developmental delay, motor weakness, intellectual disability, non-progressive encephalopathy, acute liver failure, and severe progressive encephalopathy. These phenotypes fit into the second phenotype described in the literature (protracted course, early onset developmental delay, motor weakness, extra-pyramidal signs, epilepsy)",
+      "num_compound_or_double_hets": "Not specified"
+    },
+    "3-4 pages": {
+      "num_tested_probands": "Not specified",
+      "num_positive_het_probands": "Not specified",
+      "positive_phenotypes": "Same as above",
+      "num_compound_or_double_hets": "Not specified"
+    },
+    "5-6 pages": {
+      "num_tested_probands": "Not specified",
+      "num_positive_het_probands": "Not specified",
+      "positive_phenotypes": "Same as above",
+      "num_compound_or_double_hets": "Not specified"
+    },
+    "7-8 pages": {
+      "num_tested_probands": "Not specified",
+      "num_positive_het_probands": "Not specified",
+      "positive_phenotypes": "Same as above",
+      "num_compound_or_double_hets": "Not specified"
+    }
+  }
+}
