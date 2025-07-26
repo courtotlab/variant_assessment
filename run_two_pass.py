@@ -1,6 +1,7 @@
 import fitz  # PyMuPDF
 from pathlib import Path
 from Ollama_struct_out import call_ollama_struct_out
+# from openai_struct_out import call_openai_struct_out as call_ollama_struct_out
 import json
 
 def read_pdf_pages(pdf_path):
