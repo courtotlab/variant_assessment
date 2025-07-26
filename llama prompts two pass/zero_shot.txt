@@ -28,7 +28,7 @@ returned in **JSON format**. You must look in the report for the following field
 ### Important Rules:
 
 - When explicit numeric counts are missing, infer values using **contextual clues and singular/plural language**.
-- The **number of positive HET probands** and **compound/double heterozygotes** **must not exceed the number of tested probands**.
+- However, when making inference make sure the **number of positive HET probands** and **compound/double heterozygotes** **must not exceed the number of tested probands**.
 - **Do not misinterpret literature review phrases** like “we present a fourth patient” — such phrases refer to previously published global cases, not additional patients in the current study.
 - Only include individuals actually studied and described in **this specific paper**.
 - Each explanation should include a **supporting quote or paraphrase** from the report indicating how the value was determined.

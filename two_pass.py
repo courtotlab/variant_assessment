@@ -31,7 +31,7 @@ def merge_structured_output(cumulative, new_result):
 
 # === PASS 1: Extract raw summaries or content and save to text ===
 def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama3.2:latest"):
-    print("🔁 Starting PASS 1 - Extracting Text with Context...\n")
+    print("Starting PASS 1 - Extracting Text with Context...\n")
     system_msg = read_txt_prompt(prompt_path)
     pages = read_pdf_pages(pdf_path)
 
@@ -64,13 +64,13 @@ def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama
             all_quotes_context += f"\n\n## From pages {page_range} ##\n{result_text}"
 
         except Exception as e:
-            print(f"⚠️ Error processing pages {page_range}: {e}")
+            print(f"Error processing pages {page_range}: {e}")
 
     Path(output_txt_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_txt_path, "w", encoding="utf-8") as out_txt:
         out_txt.write("\n".join(all_text_outputs))
 
-    print(f"\n✅ PASS 1 complete. Output written to: {output_txt_path}\n")
+    print(f"\nPASS 1 complete. Output written to: {output_txt_path}\n")
 
 
 # === PASS 2: Use final prompt and structure the raw text into JSON ===
@@ -86,17 +86,17 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
         Path(output_json_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_json_path, "w", encoding="utf-8") as out_json:
             json.dump(result, out_json, indent=2)
-        print(f"\n✅ PASS 2 complete. Structured JSON saved to: {output_json_path}")
+        print(f"\nPASS 2 complete. Structured JSON saved to: {output_json_path}")
     except Exception as e:
-        print(f"⚠️ Error during PASS 2: {e}")
+        print(f"Error during PASS 2: {e}")
 
 # === Run Both Passes ===
 if __name__ == "__main__":
-    pdf_path = "literature/Burke_2018_29120065_522.pdf"
+    pdf_path = "literature/Hubers_2020_31970218_331.pdf"
     prompt_pass1 = "llama prompts first pass/llama_zero_shot.txt"
     prompt_pass2 = "llama prompts two pass/zero_shot.txt"
-    intermediate_txt = "one_pass_output/pass1_Burke.txt"
-    final_json = "output_llama_2_pass/Burke.json"
+    intermediate_txt = "one_pass_output/pass1_Hubers.txt"
+    final_json = "output_llama_2_pass/Hubers.json"
     model = "llama3.2:latest"
 
     pass_one_extract_to_txt(pdf_path, prompt_pass1, intermediate_txt, model)

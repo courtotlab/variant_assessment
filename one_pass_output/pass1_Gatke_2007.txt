@@ -1,0 +1,83 @@
+## Pages 1-2 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+
+INFERRED: The text mentions that "some members had died and genotyping was not possible" which suggests that there may be additional individuals in the study, but it does not provide explicit information on the number of probands tested.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text states that one patient (Family 3) is "heterozygous for BCHE*328D and BCHE*142M" which implies that this individual has a heterozygous mutation, but it does not provide information on the number of such individuals.
+
+3. Positive proband phenotype(s):
+EXPLICIT: 
+- "SS" (homozygous for silent variants)
+- "AS" (heterozygous for atypical and silent variants)
+
+INFERRED: The text mentions that one patient (Family 2) has a relative who is "heterozygous for BCHE*FS126", but it does not provide information on the phenotype of this individual.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+
+INFERRED: The text states that Family 3 is "compound heterozygous for BCHE*328D and BCHE*142M" which implies that this individual has a compound heterozygous mutation, but it does not provide information on the number of such individuals.
+
+## Pages 3-4 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+
+INFERRED: The text mentions that "some members had died and genotyping was not possible" which suggests that there may be additional individuals in the study, but it does not provide explicit information on the number of probands tested.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text states that one patient (Family 3) is "heterozygous for BCHE*328D and BCHE*142M" which implies that this individual has a heterozygous mutation, but it does not provide information on the number of such individuals.
+
+3. Positive proband phenotype(s):
+EXPLICIT: 
+- "SS" (homozygous for silent variants)
+- "AS" (heterozygous for atypical and silent variants)
+
+INFERRED: The text mentions that one patient (Family 2) has a relative who is "heterozygous for BCHE*FS126", but it does not provide information on the phenotype of this individual.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+
+INFERRED: The text states that Family 3 is "compound heterozygous for BCHE*328D and BCHE*142M" which implies that this individual has a compound heterozygous mutation, but it does not provide information on the number of such individuals.
+
+Note: There are no explicit mentions of the exact number of probands tested, HET positive probands, or compound/double heterozygotes in the provided text. The inferred answers are based on the context and available information.
+
+## Pages 5 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+
+INFERRED: The text mentions that "some members had died and genotyping was not possible" which suggests that there may be additional individuals in the study, but it does not provide explicit information on the number of probands tested.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text states that one patient (Family 3) is "heterozygous for BCHE*328D and BCHE*142M" which implies that this individual has a heterozygous mutation, but it does not provide information on the number of such individuals.
+
+3. Positive proband phenotype(s):
+EXPLICIT: 
+- "SS" (homozygous for silent variants)
+- "AS" (heterozygous for atypical and silent variants)
+
+INFERRED: The text mentions that one patient (Family 2) has a relative who is "heterozygous for BCHE*FS126", but it does not provide information on the phenotype of this individual.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+
+INFERRED: The text states that Family 3 is "compound heterozygous for BCHE*328D and BCHE*142M" which implies that this individual has a compound heterozygous mutation, but it does not provide information on the number of such individuals.
+
+Note: There are no explicit mentions of the exact number of probands tested, HET positive probands, or compound/double heterozygotes in the provided text. The inferred answers are based on the context and available information.
+
+Uncertainty/Ambiguity:
+- The text does not provide a clear answer to question 1, as it only mentions that "some members had died and genotyping was not possible", which could imply additional individuals in the study.
+- The text does not provide explicit information on the phenotype of Family 2's relative with BCHE*FS126.
+- The text does not provide a clear answer to question 4, as it only states that Family 3 is "compound heterozygous" without providing information on the number of such individuals.

@@ -2,33 +2,14 @@
   "num_tested_probands": 3,
   "num_positive_het_probands": 0,
   "positive_phenotypes": [
-    "SS"
+    "SS",
+    "AS"
   ],
   "num_compound_or_double_hets": 1,
   "explanation": {
-    "num_tested_probands": [
-      {
-        "text": "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
-      }
-    ],
-    "num_positive_het_probands": [
-      "INFERRED: The text mentions that one patient in family 3 was heterozygous for BCHE*142M, but does not explicitly state the number of heterozygous probands."
-    ],
-    "positive_phenotypes": [
-      {
-        "text": ""
-      },
-      {
-        "text": "SS (homozygous for silent variants) is mentioned as a phenotype for patients in family 1 and 3."
-      }
-    ],
-    "num_compound_or_double_hets": [
-      {
-        "text": "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
-      },
-      {
-        "text": "The text also mentions that patient 3 was compound heterozygous for the mutations BCHE*142M and BCHE*FS126."
-      }
-    ]
+    "num_tested_probands": "EXPLICIT: 'The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine.' INFERRED: The text mentions that 'some members had died and genotyping was not possible' which suggests that there may be additional individuals in the study, but it does not provide explicit information on the number of probands tested.",
+    "num_positive_het_probands": "EXPLICIT: None. INFERRED: The text states that one patient (Family 3) is 'heterozygous for BCHE*328D and BCHE*142M' which implies that this individual has a heterozygous mutation, but it does not provide information on the number of such individuals.",
+    "positive_phenotypes": "EXPLICIT: '- SS (homozygous for silent variants) - AS (heterozygous for atypical and silent variants).' INFERRED: The text mentions that one patient (Family 2) has a relative who is 'heterozygous for BCHE*FS126', but it does not provide information on the phenotype of this individual.",
+    "num_compound_or_double_hets": "EXPLICIT: None. INFERRED: The text states that Family 3 is 'compound heterozygous for BCHE*328D and BCHE*142M' which implies that this individual has a compound heterozygous mutation, but it does not provide information on the number of such individuals."
   }
 }

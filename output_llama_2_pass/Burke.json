@@ -1,12 +1,15 @@
 {
   "num_tested_probands": 1,
   "num_positive_het_probands": 0,
-  "positive_phenotypes": [],
-  "num_compound_or_double_hets": 4,
+  "positive_phenotypes": [
+    "SS"
+  ],
+  "num_compound_or_double_hets": 1,
   "explanation": {
-    "num_tested_probands": "The text does not explicitly state the number of probands tested. However, it mentions that 'Clinical data and patient samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)'. This suggests that only one patient was studied.",
-    "num_positive_het_probands": "The text does not provide explicit information on the number of heterozygous probands. However, it mentions that 'Analysis of patient-derived dermal fibroblasts revealed decreased steady-state WARS2 protein and normal OXPHOS content.' This suggests that the patient has a compound heterozygous mutation in WARS2.",
-    "positive_phenotypes": "The text does not provide explicit information on the specific phenotypes of the proband. However, it mentions that 'Levodopa-responsive Parkinsonism presenting in infancy or childhood is extraordinarily rare and may occur as a comorbidity to other diseases or genetic conditions.' This suggests that the patient's phenotype is consistent with this rare condition.",
-    "num_compound_or_double_hets": "The text explicitly states that the patient has compound heterozygous mutations in WARS2."
+    "num_tested_probands": "The text does not explicitly state the number of individuals tested, but it mentions that the authors analyzed the patient's family and used molecular genetic methods to identify the genotype. The text also mentions 'the patient' in the singular form, implying only one individual was studied.",
+    "num_positive_het_probands": "There is no explicit mention of heterozygous (HET) cases in the text. However, the authors do mention that the patient was compound heterozygous for silent mutations, which implies that at least one other individual may have been tested.",
+    "positive_phenotypes": "The text does not provide information on the phenotypes of other individuals in the study. The patient had a phenotype SS, indicating low BChE activity.",
+    "num_compound_or_double_hets": "There is no explicit mention of other individuals with compound or double heterozygous mutations, but the authors do mention that they analyzed the family and used molecular genetic methods to identify the genotype. This patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene.",
+    "explanation": "The text does not provide a clear answer to question 1, as it does not explicitly state the number of individuals tested. However, based on the information provided, it can be inferred that at least one individual (the patient) was tested, and possibly others in the family."
   }
 }

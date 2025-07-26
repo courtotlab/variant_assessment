@@ -6,9 +6,10 @@
   ],
   "num_compound_or_double_hets": 1,
   "explanation": {
-    "num_tested_probands": "The text does not explicitly state the number of individuals tested, but it mentions that the authors analyzed the patient's family and used molecular genetic methods to identify the genotype.",
+    "num_tested_probands": "The text does not explicitly state the number of individuals tested, but it mentions that the authors analyzed the patient's family and used molecular genetic methods to identify the genotype. The text also mentions 'the patient' in the singular form, implying only one individual was studied.",
     "num_positive_het_probands": "There is no explicit mention of heterozygous (HET) cases in the text. However, the authors do mention that the patient was compound heterozygous for silent mutations, which implies that at least one other individual may have been tested.",
-    "positive_phenotypes": "The text does not provide information on the phenotypes of other individuals in the study. The patient had a phenotype SS.",
-    "num_compound_or_double_hets": "There is no explicit mention of other individuals with compound or double heterozygous mutations, but the authors do mention that they analyzed the family and used molecular genetic methods to identify the genotype."
+    "positive_phenotypes": "The text does not provide information on the phenotypes of other individuals in the study. The patient had a phenotype SS, indicating low BChE activity.",
+    "num_compound_or_double_hets": "There is no explicit mention of other individuals with compound or double heterozygous mutations, but the authors do mention that they analyzed the family and used molecular genetic methods to identify the genotype. This patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene.",
+    "explanation": "The text does not provide a clear answer to question 1, as it does not explicitly state the number of individuals tested. However, based on the information provided, it can be inferred that at least one individual (the patient) was tested, and possibly others in the family."
   }
 }
