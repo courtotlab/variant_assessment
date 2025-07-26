@@ -1,14 +1,12 @@
 {
   "num_tested_probands": 1,
   "num_positive_het_probands": 0,
-  "positive_phenotypes": [
-    "Infantile-onset, Levodopa-responsive Parkinsonism"
-  ],
-  "num_compound_or_double_hets": 1,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 4,
   "explanation": {
-    "num_tested_probands": "The text does not provide explicit information on the number of probands tested. However, it mentions that 'Clinical data and patient samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)', which implies that the study involved a certain number of patients, but the exact number is not specified.",
-    "num_positive_het_probands": "The text does not provide explicit information on the number of individuals who were heterozygous for a pathogenic variant. However, it mentions that 'The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)', which suggests that there was at least one individual with this specific genotype.",
-    "positive_phenotypes": "The text mentions that 'The patient presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years', which implies that the patient had a specific clinical phenotype. Additionally, the text mentions that 'the patient's condition was characterized by decreased steady-state WARS2 protein and normal OXPHOS content', which suggests that the patient had a specific biochemical abnormality.",
-    "num_compound_or_double_hets": "The text mentions that 'The patient was compound heterozygous for 2 variants in WARS2 (p.Trp13Gly, p.Ser228Trp)', which suggests that there was at least one individual with this specific genotype. However, it does not provide information on the total number of individuals who were compound or double heterozygotes."
+    "num_tested_probands": "The text does not explicitly state the number of probands tested. However, it mentions that 'Clinical data and patient samples were obtained in accordance with the ethical standards approved by the National Human Genome Research Institute (NHGRI) Institutional Review Board (IRB)'. This suggests that only one patient was studied.",
+    "num_positive_het_probands": "The text does not provide explicit information on the number of heterozygous probands. However, it mentions that 'Analysis of patient-derived dermal fibroblasts revealed decreased steady-state WARS2 protein and normal OXPHOS content.' This suggests that the patient has a compound heterozygous mutation in WARS2.",
+    "positive_phenotypes": "The text does not provide explicit information on the specific phenotypes of the proband. However, it mentions that 'Levodopa-responsive Parkinsonism presenting in infancy or childhood is extraordinarily rare and may occur as a comorbidity to other diseases or genetic conditions.' This suggests that the patient's phenotype is consistent with this rare condition.",
+    "num_compound_or_double_hets": "The text explicitly states that the patient has compound heterozygous mutations in WARS2."
   }
 }

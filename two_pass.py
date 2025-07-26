@@ -92,11 +92,11 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
 
 # === Run Both Passes ===
 if __name__ == "__main__":
-    pdf_path = "literature/Gatke_2001_11575530_392.pdf"
+    pdf_path = "literature/Burke_2018_29120065_522.pdf"
     prompt_pass1 = "llama prompts first pass/llama_zero_shot.txt"
     prompt_pass2 = "llama prompts two pass/zero_shot.txt"
-    intermediate_txt = "one_pass_output/pass1_Gatke.txt"
-    final_json = "output_llama_2_pass/Gatke.json"
+    intermediate_txt = "one_pass_output/pass1_Burke.txt"
+    final_json = "output_llama_2_pass/Burke.json"
     model = "llama3.2:latest"
 
     pass_one_extract_to_txt(pdf_path, prompt_pass1, intermediate_txt, model)
