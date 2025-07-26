@@ -36,10 +36,10 @@ for pdf_path in pdf_dir.glob("*.pdf"):
         "--outfile", str(out_path)
     ]
 
-    print(f"▶ Running: {' '.join(command)}")
+    print(f"Running: {' '.join(command)}")
     result = subprocess.run(" ".join(command), shell=True, capture_output=True, text=True)
 
     if result.returncode == 0:
-        print(f"✅ Success: {out_path.name}")
+        print(f"Success: {out_path.name}")
     else:
-        print(f"❌ Failed on {pdf_name}\n{result.stderr}")
+        print(f"Failed on {pdf_name}\n{result.stderr}")
