@@ -28,7 +28,8 @@ returned in **JSON format**. You must look in the report for the following field
 ### Important Rules:
 
 - When explicit numeric counts are missing, infer values using **contextual clues and singular/plural language**.
-- - Do not use literature review summaries or comparisons (e.g., "9 individuals were reported previously") as evidence for patients tested in this study. Only include individuals who were tested, diagnosed, or described in **this paper**.
+- Do NOT infer any individuals from sentences like “X individuals were reported with mutation Y” UNLESS they are clearly described as being tested, sequenced, or diagnosed IN THIS STUDY. These individuals belong to prior studies and must not be counted.
+- Do not use literature review summaries or comparisons (e.g., "9 individuals were reported previously") as evidence for patients tested in this study. Only include individuals who were tested, diagnosed, or described in **this paper**.
 - Do not infer probands from phrases like "previously reported", "in 2017", or "has been associated with" unless those individuals are explicitly tested **in the current study**.
 - The number of heterozygotes or compound heterozygotes **must not exceed the number of probands tested** in this paper.
 - **Do not misinterpret literature review phrases** like “we present a fourth patient” — such phrases refer to previously published global cases, not additional patients in the current study.
