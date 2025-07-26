@@ -1,18 +1,24 @@
 {
-  "num_tested_probands": 1,
+  "num_tested_probands": 2,
   "num_positive_het_probands": 0,
   "positive_phenotypes": [
-    "Moderate ID",
-    "Microcephaly",
-    "Ataxia",
-    "Speech impairment",
-    "Aggressive behavior"
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
   ],
   "num_compound_or_double_hets": 1,
   "explanation": {
-    "num_tested_probands": "The text mentions that 'all available individuals from family 1' were genotyped, suggesting that at least one individual was tested.",
-    "num_positive_het_probands": "The text does not provide explicit information on the number of heterozygous probands. However, it mentions that 'siblings and parents were also sequenced' to confirm co-segregation of the allele within families, suggesting that multiple individuals may have been tested.",
-    "positive_phenotypes": "The text describes the phenotypes observed in both families, including moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior. These phenotypes are associated with mutations in SARS and WARS2 genes.",
-    "num_compound_or_double_hets": "The text mentions that the second family had a 'compound DNA-alteration' affecting the WARS2 gene, suggesting that at least one individual may have been a compound or double heterozygote."
+    "num_tested_probands": "EXPLICIT: The probands were examined by experienced clinical geneticists who assessed their physical and mental status. INFERRED: The text mentions that the study was conducted on two Iranian families, suggesting that there may be multiple individuals in each family being studied.",
+    "num_positive_het_probands": "No explicit quotes or information is found to directly answer this question. However, INFERRED: The text does not provide enough information to determine the number of heterozygous probands.",
+    "positive_phenotypes": [
+      "moderate ID",
+      "microcephaly",
+      "ataxia",
+      "speech impairment",
+      "aggressive behavior"
+    ],
+    "num_compound_or_double_hets": "EXPLICIT: compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene. INFERRED: The text mentions that the second family had a compound heterozygous genotype in the WARS2 gene, suggesting that there may be only one individual with this mutation (i.e., the proband)."
   }
 }
