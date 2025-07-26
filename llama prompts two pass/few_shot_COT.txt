@@ -1,0 +1,84 @@
+You are a top-tier algorithm designed to extract specific clinical information from genetic case reports. The extracted information must be  
+returned in **JSON format**. You must look in the report for the following fields:
+---
+
+### Fields to Extract:
+
+1. Number of probands tested: The number of individual probands for whom genetic testing was reported only in this study not in other studies.
+2. Number of positive HET probands: The number of probands who were heterozygous for a pathogenic variant; only have one allele that is mutated.
+3. Positive proband phenotype(s): Clinical phenotypes associated with the proband(s) being studied in this study. List all relevant terms.
+4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations.
+
+Example 1:
+
+Input text:
+"As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives. Genotypes were determined using complete nucleotide sequencing... The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M... The proband in family 2 was not sequenced..."
+
+Chain-of-thought:
+- Three probands are mentioned
+- Proband 1 has BCHE115DI3E4-14C on one allele and BCHE*FS126 on the other. The text does not say these are on opposite alleles (in trans), nor does it explicitly label this as a compound heterozygote.
+- Proband 3 explicitly described as compound heterozygous for two different pathogenic alleles.
+- Proband 2 was not sequenced.
+- Only one heterozygous carrier (a relative of proband 2) is mentioned, but that individual is not a proband.
+- No mention of phenotypes.
+
+Expected output:
+- Number of probands tested: 3  
+- Number of positive HET probands: 1  
+- Number of compound/double heterozygotes: 1  
+- Positive proband phenotype(s): 
+
+---
+
+Example 2:
+
+Input text:
+"Mystery solved after 23 years: M syndrome is PIGT-associated multiple congenital anomalies-hypotonia-seizures syndrome 3...  
+Rauch et al. (1999) reported... two sisters with a new syndrome... Exome sequencing... allowed the identification of two variants in PIGT... It was possible to determine that the variants are in trans... Sanger sequencing was subsequently performed in both sisters, confirming they both harbor the two variants..."
+
+Chain-of-thought:
+- Two sisters are the probands → 2 tested probands.
+- Both confirmed by Sanger sequencing.
+- Each sister has two variants in trans → compound heterozygotes.
+- No mention of a single heterozygous pathogenic carrier → 0 positive HETs.
+- Phenotype is described in the title: "multiple congenital anomalies-hypotonia-seizures syndrome".
+
+Expected output:
+- Number of probands tested: 2  
+- Number of positive HET probands: 0  
+- Number of compound/double heterozygotes: 2  
+- Positive proband phenotype(s): multiple congenital anomalies-hypotonia-seizures syndrome
+
+---
+
+Example 3:
+
+Input text:
+"Analyzing clinical and genetic characteristics of a cohort with multiple congenital anomalies-hypotonia-seizures syndrome (MCAHS)...  
+Collecting clinical information of 17 patients with pathogenic variants in PIGN, PIGA, and PIGT...  
+Fifteen variants from seven patients were identified with PIGN mutations… case 4 had 3 mutations...  
+Five PIGT variants were identified in two sporadic patients… case 16 carried 3 mutations…  
+Seven different hemizygous PIGA mutations… among eight patients… Seven of the mutations were inherited from their mothers, and only one was de novo."
+
+Chain-of-thought:
+- The study tested 17 probands.
+- 7 PIGN cases and 2 PIGT cases have compound mutations (some with 3 variants).
+- That gives 9 compound heterozygotes.
+- 8 PIGA cases with hemizygous mutations → single variants inherited from heterozygous mothers → count as positive HET probands.
+- The paper's title and cohort definition give clear shared phenotype: "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome".
+
+Expected output:
+- Number of probands tested: 17  
+- Number of positive HET probands: 8  
+- Number of compound/double heterozygotes: 9  
+- Positive proband phenotype(s): Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome
+
+
+
+## JSON schema
+1. "num_tested_probands"/The number of individual probands for whom genetic testing was reported.
+2. "num_positive_het_probands"/The number of probands who were heterozygous for a pathogenic variant.
+3. "positive_phenotypes"/Clinical phenotypes associated with the positive probands. List all relevant terms.
+4. "num_compound_or_double_hets"/The number of individuals reported to have compound or double heterozygous mutations.
+5. "explanation"/A dictionary explaining where each field was found in the report.
+##
