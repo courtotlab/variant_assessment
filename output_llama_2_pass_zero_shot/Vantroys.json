@@ -1,0 +1,16 @@
+{
+  "num_tested_probands": 0,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "severe delay of early cognitive and motor development",
+    "epileptic seizure",
+    "mild dysmorphic facial features"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "No relevant information found. The text mentions that the great majority of mitochondrial diseases follows a recessive mode of inheritance and only variants that were homozygous or compound heterozygous were included in the filtering strategy.",
+    "num_positive_het_probands": "INFERRED: The patient had a mild phenotype initially, but the treatment led to a more severe presentation. There is no explicit quote or statement about the number of positive HET probands.",
+    "positive_phenotypes": "EXPLICIT: 'severe delay of early cognitive and motor development' (neurological deterioration), INFERRED: The text also mentions 'mild dysmorphic facial features', which could be related to a neurological or developmental disorder. EXPLICIT: 'epileptic seizure'.",
+    "num_compound_or_double_hets": "No relevant information found."
+  }
+}

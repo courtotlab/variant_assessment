@@ -1,0 +1,101 @@
+## Pages 1-2 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+No relevant information found.
+
+2. Number of positive HET probands:
+INFERRED: The text mentions that "the subject reported here was first diagnosed as having cerebral palsy" and that "only after a mitochondriotoxic medication was started, the disease became progressive". This suggests that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+EXPLICIT: There is no explicit quote or statement about the number of positive HET probands. However, it can be inferred from the context that the patient's condition worsened after starting valproate treatment.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "severe delay of early cognitive and motor development" (neurological deterioration)
+INFERRED: The text also mentions "mild dysmorphic facial features", which could be related to a neurological or developmental disorder.
+EXPLICIT: "epileptic seizure"
+INFERRED: The patient's condition is described as having a "non-progressive encephalopathy" initially, but the treatment led to a more severe presentation.
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+## Pages 3-4 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+
+INFERRED: The text mentions that "the great majority of mitochondrial diseases follows a recessive mode of inheritance" and that only variants that were homozygous or compound heterozygous were included in the filtering strategy.
+
+2. Number of positive HET probands:
+EXPLICIT: There is no explicit quote or statement about the number of positive HET probands. However, it can be inferred from the context that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+INFERRED: The text mentions that "the subject reported here was first diagnosed as having cerebral palsy" and that "only after a mitochondriotoxic medication was started, the disease became progressive". This suggests that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "severe delay of early cognitive and motor development"
+INFERRED: The text also mentions "mild dysmorphic facial features", which could be related to a neurological or developmental disorder.
+EXPLICIT: "epileptic seizure"
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+Note that there is no explicit quote or statement about the number of probands tested, positive HET probands, or compound/double heterozygotes. The text provides some context and inferences, but does not provide direct answers to these questions.
+
+## Pages 5-6 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+INFERRED: The text mentions that "the great majority of mitochondrial diseases follows a recessive mode of inheritance" and that only variants that were homozygous or compound heterozygous were included in the filtering strategy.
+
+2. Number of positive HET probands:
+EXPLICIT: There is no explicit quote or statement about the number of positive HET probands. However, it can be inferred from the context that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+INFERRED: The text mentions that "the subject reported here was first diagnosed as having cerebral palsy" and that "only after a mitochondriotoxic medication was started, the disease became progressive". This suggests that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+3. Positive proband phenotype(s):
+EXPLICIT: 
+- "severe delay of early cognitive and motor development"
+- "epileptic seizure"
+
+INFERRED:
+- "mild dysmorphic facial features", which could be related to a neurological or developmental disorder.
+- "non-progressive encephalopathy" initially, but the treatment led to a more severe presentation.
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+## Pages 7-8 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+
+INFERRED: The text mentions that "the great majority of mitochondrial diseases follows a recessive mode of inheritance" and that only variants that were homozygous or compound heterozygous were included in the filtering strategy.
+
+2. Number of positive HET probands:
+EXPLICIT: There is no explicit quote or statement about the number of positive HET probands. However, it can be inferred from the context that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+INFERRED: The text mentions that "the subject reported here was first diagnosed as having cerebral palsy" and that "only after a mitochondriotoxic medication was started, the disease became progressive". This suggests that the patient had a mild phenotype initially, but the treatment led to a more severe presentation.
+
+3. Positive proband phenotype(s):
+EXPLICIT: 
+- "severe delay of early cognitive and motor development"
+- "epileptic seizure"
+
+INFERRED:
+- "mild dysmorphic facial features", which could be related to a neurological or developmental disorder.
+- "non-progressive encephalopathy" initially, but the treatment led to a more severe presentation.
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+Note that there is no explicit quote or statement about the number of probands tested, positive HET probands, or compound/double heterozygotes. The text provides some context and inferences, but does not provide direct answers to these questions.
+
+## Pages 9 ##
+Based on the provided references, I was unable to find any information that directly answers the questions about the number of probands tested, positive HET probands, or compound/double heterozygotes. The text provides some context and inferences, but does not provide direct answers to these questions.
+
+However, I can provide some general information about mitochondrial diseases and the inheritance patterns of certain conditions:
+
+* Mitochondrial diseases often follow a recessive mode of inheritance, which means that a person needs to inherit two copies of the mutated gene (one from each parent) to express the disease.
+* Compound heterozygotes are individuals who have two different mutations in one gene, one inherited from each parent. This can lead to a more severe expression of the disease.
+* Double heterozygotes are individuals who have two different mutations in two genes, one inherited from each parent.
+
+It's worth noting that the text does not provide enough information to determine the exact number of probands tested, positive HET probands, or compound/double heterozygotes. If you have any further questions or would like more general information about mitochondrial diseases, I'd be happy to try and help.

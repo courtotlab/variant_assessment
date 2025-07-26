@@ -1,0 +1,102 @@
+## Pages 1-2 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose."
+
+INFERRED: The text mentions that the study presents the pharmacodynamics and pharmacokinetics of mivacurium in a patient with phenotype SS, but it does not explicitly state how many probands were tested.
+
+2. Number of positive HET probands:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: The text implies that the patient is a heterozygous case, as they are described as being compound heterozygous.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient had phenotype SS."
+
+EXPLICIT: "Patients who are homozygous for the atypical mutation (AA), compound heterozygous for the atypical and a silent mutation (AS), or homozygous for silent mutations (SS) respond to mivacurium with extensively prolonged durations of action."
+
+INFERRED: The text mentions that patients with phenotype SS have an extensively prolonged duration of action, but it does not explicitly state what phenotypes are associated with the other genotypes.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: The text implies that there is only one compound heterozygote, as it states that identification of this genotype presupposes access to modern molecular genetic methods.
+
+## Pages 3-4 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: No relevant information found.
+
+INFERRED: The study presents a single patient with phenotype SS, but it does not explicitly state how many probands were tested in total.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text implies that the patient is a heterozygous case, as they are described as being compound heterozygous for silent mutations. However, there is no explicit mention of other heterozygous cases.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient had phenotype SS."
+
+INFERRED: The text mentions that patients with phenotypes AS or AA also respond to mivacurium with prolonged durations of action, but it does not explicitly state what phenotypes are associated with the other genotypes.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: The text implies that there is only one compound heterozygote, as it states that identification of this genotype presupposes access to modern molecular genetic methods.
+
+## Pages 5-6 ##
+Based on the provided information, here are some answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: No relevant information found.
+
+INFERRED: The study presents a single patient with phenotype SS, but it does not explicitly state how many probands were tested in total.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text implies that the patient is a heterozygous case, as they are described as being compound heterozygous for silent mutations. However, there is no explicit mention of other heterozygous cases.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient had phenotype SS."
+
+INFERRED: The text mentions that patients with phenotypes AS or AA also respond to mivacurium with prolonged durations of action, but it does not explicitly state what phenotypes are associated with the other genotypes.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: The text implies that there is only one compound heterozygote, as it states that identification of this genotype presupposes access to modern molecular genetic methods.
+
+## Pages 7 ##
+Here are the answers to the questions based on the provided PDF:
+
+1. Number of probands tested:
+EXPLICIT: No relevant information found.
+
+INFERRED: The study presents a single patient with phenotype SS, but it does not explicitly state how many probands were tested in total.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text implies that the patient is a heterozygous case, as they are described as being compound heterozygous for silent mutations. However, there is no explicit mention of other heterozygous cases.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient had phenotype SS."
+
+INFERRED: The text mentions that patients with phenotypes AS or AA also respond to mivacurium with prolonged durations of action, but it does not explicitly state what phenotypes are associated with the other genotypes.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: The text implies that there is only one compound heterozygote, as it states that identification of this genotype presupposes access to modern molecular genetic methods.
+
+Additionally, I found some relevant information:
+
+* Question 1: The study presents a single patient with phenotype SS.
+* Question 2: There are no explicit mentions of HET probands in the provided text. However, the text implies that patients with phenotypes AS or AA also respond to mivacurium with prolonged durations of action.
+* Question 3: The text mentions that patients with phenotypes SS, AS, and AA respond to mivacurium with prolonged durations of action. It does not explicitly state what phenotypes are associated with the other genotypes.
+* Question 4: There is only one explicit mention of a compound heterozygote in the provided text.
+
+Please note that some questions may require additional information or context to provide accurate answers.

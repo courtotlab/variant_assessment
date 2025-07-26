@@ -1,0 +1,15 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text mentions that 'The patient, following informed and written consent, under the protocol 76-HG-0238, \u201cDiagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders\u201d of the NIH-UDP.' This suggests that there is only one proband being tested in this study.",
+    "num_positive_het_probands": "The text does not provide information on the number of heterozygous (HET) probands specifically. However, it mentions that the patient has compound heterozygous mutations in WARS2.",
+    "positive_phenotypes": "EXPLICIT: 'infantile-onset, Levodopa-responsive Parkinsonism'. INFERRED: The text does not provide information on other phenotypes associated with the proband. It only mentions the specific phenotype of infantile-onset, Levodopa-responsive Parkinsonism.",
+    "num_compound_or_double_hets": "EXPLICIT: 'Here, we describe a patient with pathogenic WARS2 mutations presenting with infantile-onset, Levodopa-responsive Parkinsonism.' INFERRED: The text mentions that the patient has 'compound heterozygous mutations in WARS2' (p.Trp13Gly, p.Ser228Trp). This suggests that there is only one individual reported to have compound or double heterozygous mutations.",
+    "uncertainty": "The text does not provide explicit information on the number of heterozygous (HET) probands. The text mentions that 'it is not uncommon for mtARS defects to have no effect on RC subunit expression in patient fibroblasts.' This suggests that there may be other patients with WARS2 mutations who do not exhibit significant changes in RC subunit expression."
+  }
+}

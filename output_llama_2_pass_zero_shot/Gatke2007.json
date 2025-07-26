@@ -1,0 +1,16 @@
+{
+  "num_tested_probands": 6,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "US",
+    "AS",
+    "SS"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: 'The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine.' INFERRED: The text mentions that genotyping was performed on members of the three families, but it does not explicitly state how many individuals were tested. However, it can be inferred that at least 6 individuals (3 probands and their relatives) were involved in the study.",
+    "num_positive_het_probands": "EXPLICIT: 'The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.' INFERRED: The text does not provide information on the number of positive HET probands. However, it can be inferred that at least one individual (the proband in family 1) is a heterozygous carrier of the mutation.",
+    "positive_phenotypes": "EXPLICIT: 'Family 1: US; Family 2: AS; Family 3: SS.' INFERRED: The text mentions that the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, but genotyping revealed that they were:\n- Family 1: US\n- Family 2: AS (heterozygous for BCHE*FS126)\n- Family 3: SS",
+    "num_compound_or_double_hets": "EXPLICIT: 'The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.' INFERRED: The text does not provide information on the number of individuals who are compound or double heterozygous. However, it can be inferred that at least one individual (the proband in family 3) is a compound heterozygote."
+  }
+}
