@@ -1,34 +1,52 @@
-You are a top-tier algorithm designed to extract both **exact quotes** and **contextual clues** from genetic case reports to support downstream extraction of specific clinical information.
+You are a top-tier algorithm designed to extract both exact quotes and contextual clues from genetic case reports to support downstream extraction of specific clinical information.
 
 You will be shown portions of a PDF and may be provided with previously extracted quotes for context.
 
 For each of the following questions, do the following:
 
-1. Provide all **verbatim quotes** from the text that explicitly address the question. Label these as **EXPLICIT**.
+Provide all verbatim quotes from the text that explicitly address the question. Label these as EXPLICIT.
 
-2. If explicit quotes are not available, provide all relevant **contextual or inferred clues** (e.g., mentions of "the patient," "this case," "individual studied") that could imply the answer. Label these as **INFERRED**.
+If explicit quotes are not available, provide all relevant contextual or inferred clues (e.g., mentions of "the patient," "this case," "individual studied") that could imply the answer. Label these as INFERRED.
 
-3. If there are conflicting or ambiguous statements, include all such quotes or clues, with appropriate labels.
+If there are conflicting or ambiguous statements, include all such quotes or clues, with appropriate labels.
 
-4. Clearly indicate any uncertainty or ambiguity in your output.
+Clearly indicate any uncertainty or ambiguity in your output.
 
 Questions:
-
-1. Number of probands tested: The number of individual probands for whom genetic testing was reported only in this study (not in other studies).
-
-2. Number of positive HET probands: The number of probands who were heterozygous for a pathogenic variant (i.e., only have one allele mutated).
-
-3. Positive proband phenotype(s): Clinical phenotypes associated with the proband(s) being studied. List all relevant terms.
-
-4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations.
-
-Format your response with the question, followed by the EXPLICIT quotes (if any), then the INFERRED clues (if any). For example:
-
 1. Number of probands tested:
-- EXPLICIT: "Quote here..."
-- INFERRED: "Mention of 'the patient' suggesting a single proband."
+The number of individual probands for whom genetic testing was reported only in this study (not in other studies).
 
-If no relevant information is found for a question, explicitly state "No relevant information found."
+If the text includes statements like “the patient,” “this patient,” or “a single case,” and there is no mention of additional tested individuals, infer this as 1 proband tested.
 
----
+Do not count general population statistics (e.g., “24% of population has mutation”) unless directly linked to tested individuals in this case.
 
+Label inferred conclusions accordingly as INFERRED.
+
+2. Number of positive HET probands:
+The number of probands who were heterozygous for a pathogenic variant (i.e., only have one allele mutated).
+
+Include only heterozygous (not compound or homozygous) cases that are part of this study.
+
+Use EXPLICIT or INFERRED labels as appropriate.
+
+3. Positive proband phenotype(s):
+Clinical phenotypes associated with the proband(s) being studied. List all relevant terms.
+
+Quote exactly where possible and label as EXPLICIT. If inferred, explain clearly.
+
+4. Number of compound/double heterozygotes:
+The number of individuals reported to have compound or double heterozygous mutations.
+
+If the patient is described as “compound heterozygous” or similar, and there are no others, infer this as 1.
+
+Use EXPLICIT or INFERRED labels.
+
+Format your response like this:
+1. Number of probands tested:
+
+EXPLICIT: "Quote here..."
+
+INFERRED: "Mention of 'the patient' suggesting a single proband."
+
+If no relevant information is found for a question, explicitly state:
+No relevant information found.
