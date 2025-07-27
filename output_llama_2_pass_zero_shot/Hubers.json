@@ -1,5 +1,7 @@
 {
   "num_tested_probands": 0,
+  "num_positive_het_probands": 0,
+  "num_compound_or_double_hets": 0,
   "explanation": {
     "1": "EXPLICIT: None; INFERRED: The text does not provide explicit information on the number of probands tested, but it mentions that 9 individuals were reported with biallelic variants in WARS2."
   }
