@@ -1,0 +1,87 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Whole exome sequencing of both parents and the patient was performed at NIH Intramural Sequencing Center (NISC)." 
+
+This quote suggests that one proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+This quote suggests that there is one proband who is heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+The proband's phenotype is described as "infantile-onset, Levodopa-responsive Parkinsonism."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+This quote suggests that there is one individual who is compound heterozygous.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was the first and only child born to non-consanguineous parents of European descent with no relevant family history."
+
+This quote suggests that one proband was tested.
+
+2. Number of positive HET probands:
+
+No new explicit information found.
+
+INFERRED: The text continues to refer to a single patient, suggesting that there is only one heterozygous proband.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Early development was normal until the age of 1 when he was first noted to have left leg tremor while learning to stand. At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills. By 23 months, tremor had also become apparent in the upper extremities along with intermittent dystonic posturing of all extremities."
+
+This quote provides additional details about the proband's phenotype, including left leg tremor, expressive language delay, and intermittent dystonic posturing of all extremities.
+
+4. Number of compound/double heterozygotes:
+
+No new explicit information found.
+
+INFERRED: The text continues to refer to a single patient, suggesting that there is only one compound heterozygote.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "Whole exome sequencing of both parents and the patient was performed at NIH Intramural Sequencing Center (NISC)." 
+EXPLICIT: "The patient was the first and only child born to non-consanguineous parents of European descent with no relevant family history."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+EXPLICIT: "Early development was normal until the age of 1 when he was first noted to have left leg tremor while learning to stand. At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills. By 23 months, tremor had also become apparent in the upper extremities along with intermittent dystonic posturing of all extremities."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+## Pages 7 ##
+1. Number of probands tested:
+
+EXPLICIT: "Whole exome sequencing of both parents and the patient was performed at NIH Intramural Sequencing Center (NISC)." 
+EXPLICIT: "The patient was the first and only child born to non-consanguineous parents of European descent with no relevant family history."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+EXPLICIT: "Early development was normal until the age of 1 when he was first noted to have left leg tremor while learning to stand. At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills. By 23 months, tremor had also become apparent in the upper extremities along with intermittent dystonic posturing of all extremities."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."

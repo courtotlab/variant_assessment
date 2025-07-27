@@ -1,0 +1,15 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "Abnormal response to mivacurium"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: 'The patient was a healthy 30-yr-old man'",
+    "num_positive_het_probands": "No relevant information found.",
+    "positive_phenotypes": "INFERRED: The patient is described as healthy, but with a response to mivacurium that was an 'extensively prolonged duration of action.' This suggests a phenotype related to abnormal response to mivacurium.",
+    "num_compound_or_double_hets": "EXPLICIT: 'The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene.'",
+    "explanation": "The information was extracted from the provided text."
+  }
+}

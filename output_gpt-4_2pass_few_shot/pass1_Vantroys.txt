@@ -1,0 +1,125 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Here, we present a 6-year-old girl..." suggests that one proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability and who was considered during several years as having a non-progressive encephalopathy."
+
+INFERRED: No inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)."
+
+INFERRED: The mention of "two known pathogenic variants" suggests that the proband may be a compound heterozygote.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "The same fractions were prepared from liver from the proband and controls." This suggests that one proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proband was born at term from non-consanguineous parents. Antenatal ultrasound examination revealed intra-uterine growth retardation... When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum... When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed."
+
+INFERRED: No inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+INFERRED: The mention of "two compound heterozygous variants" suggests that the proband is a compound heterozygote.
+
+## Pages 5-6 ##
+## From pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Here, we report on a 6-year-old child with WARS2 deficiency." This suggests that one proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated. During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+
+INFERRED: No inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No inferred information found.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Here, we present a 6-year-old girl..." and "The same fractions were prepared from liver from the proband and controls." and "Here, we report on a 6-year-old child with WARS2 deficiency." All these quotes suggest that one proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability and who was considered during several years as having a non-progressive encephalopathy." and "The proband was born at term from non-consanguineous parents. Antenatal ultrasound examination revealed intra-uterine growth retardation... When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum... When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed." and "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated. During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+
+INFERRED: No inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)." and "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+INFERRED: No inferred information found.
+
+## Pages 9 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Here, we present a 6-year-old girl..." and "The same fractions were prepared from liver from the proband and controls." and "Here, we report on a 6-year-old child with WARS2 deficiency." All these quotes suggest that one proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability and who was considered during several years as having a non-progressive encephalopathy." and "The proband was born at term from non-consanguineous parents. Antenatal ultrasound examination revealed intra-uterine growth retardation... When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum... When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed." and "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated. During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+
+INFERRED: No inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)." and "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+INFERRED: No inferred information found.

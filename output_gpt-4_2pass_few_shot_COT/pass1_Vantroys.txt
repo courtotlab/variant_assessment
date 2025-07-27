@@ -1,0 +1,108 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+INFERRED: No additional information inferred.
+
+2. Number of positive HET probands:
+
+INFERRED: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)." This suggests that the proband is heterozygous for two pathogenic variants, but it is not explicitly stated whether these are on different alleles (in trans).
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability... At the age of six years, she had an epileptic seizure... In the months after treatment was started, she developed acute liver failure and severe progressive encephalopathy."
+
+4. Number of compound/double heterozygotes:
+
+INFERRED: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)." This suggests that the proband may be compound heterozygous, but it is not explicitly stated whether these are on different alleles (in trans).
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The proband was born at term from non-consanguineous parents."
+
+INFERRED: No additional information inferred.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum... When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed... At six years of age, she was hospitalized because of a long lasting episode with decreased awareness, lateral eye deviation and twitching of the eyelids at the left... She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: No new explicit information found.
+
+INFERRED: No new inferred information found.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No new explicit information found.
+
+INFERRED: "Sanger sequencing of DNA from the mother, revealed that she is a carrier of the first variant (c.797delC, p.Pro266ArgfsTer10) and does not carry the missense variant." This suggests that the proband inherited one variant from the mother, supporting the previous inference that the proband is heterozygous for two pathogenic variants.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a 6-year-old child with WARS2 deficiency. The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated. During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No new explicit information found.
+
+INFERRED: "Due to the close proximity of the two variants, biallelic state could be determined. A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants. As the position of the missense variant was not affected by the deletion, both variants were located on a different allele." This confirms the previous inference that the proband is compound heterozygous.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability... At the age of six years, she had an epileptic seizure... In the months after treatment was started, she developed acute liver failure and severe progressive encephalopathy."
+
+EXPLICIT: "When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum... When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed... At six years of age, she was hospitalized because of a long lasting episode with decreased awareness, lateral eye deviation and twitching of the eyelids at the left... She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy."
+
+EXPLICIT: "Here, we report on a 6-year-old child with WARS2 deficiency. The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated. During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+EXPLICIT: "Due to the close proximity of the two variants, biallelic state could be determined. A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants. As the position of the missense variant was not affected by the deletion, both variants were located on a different allele."
+
+## Pages 9 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+INFERRED: "Sanger sequencing of DNA from the mother, revealed that she is a carrier of the first variant (c.797delC, p.Pro266ArgfsTer10) and does not carry the missense variant." This suggests that the proband inherited one variant from the mother, supporting the previous inference that the proband is heterozygous for two pathogenic variants.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability... At the age of six years, she had an epileptic seizure... In the months after treatment was started, she developed acute liver failure and severe progressive encephalopathy."
+
+EXPLICIT: "When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum... When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed... At six years of age, she was hospitalized because of a long lasting episode with decreased awareness, lateral eye deviation and twitching of the eyelids at the left... She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy."
+
+EXPLICIT: "Here, we report on a 6-year-old child with WARS2 deficiency. The proposita had presented at young age with developmental delay, motor weakness and intellectual disability. Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated. During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+EXPLICIT: "Due to the close proximity of the two variants, biallelic state could be determined. A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants. As the position of the missense variant was not affected by the deletion, both variants were located on a different allele."

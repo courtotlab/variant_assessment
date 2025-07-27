@@ -1,0 +1,22 @@
+{
+  "num_tested_probands": 15,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior",
+    "muscular weakness",
+    "tonic\u2013clonic seizures",
+    "athetosis"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "The text mentions 'two Iranian families affected by ARID' and 'The probands were examined by experienced clinical geneticists who assessed their physical and mental status.' This suggests that at least two probands were tested. 'Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis.' This suggests that at least six individuals were tested in Family 2, in addition to the two probands inferred from the previous text. 'Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A.' This suggests that at least four probands were tested in Family 1. 'Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B).' This suggests that at least three probands were tested in Family 2.",
+    "num_positive_het_probands": "No relevant information found.",
+    "positive_phenotypes": "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior. In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior. All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40\u201345 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7\u201310 years), and muscular weakness (since the age of 6\u201310). All patients developed tonic\u2013clonic seizures during infancy, which are well controlled by sodium valproate. Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41\u201346), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7\u201310 years) were observed.",
+    "num_compound_or_double_hets": "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing. This suggests that there is at least one compound/double heterozygote in the second family. As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D). This confirms that there is at least one compound/double heterozygote in the second family. In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2. This confirms that there is at least one compound/double heterozygote in the second family.",
+    "explanation": "The information was extracted from the provided text."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism",
+    "left leg tremor",
+    "expressive language delay",
+    "intermittent dystonic posturing of all extremities"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years. The patient was the first and only child born to non-consanguineous parents of European descent with no relevant family history.",
+    "num_positive_het_probands": "The text mentions a single case of a boy with compound heterozygous mutations, implying that there is one proband who is heterozygous for a pathogenic variant.",
+    "positive_phenotypes": "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years. Early development was normal until the age of 1 when he was first noted to have left leg tremor while learning to stand. At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills. By 23 months, tremor had also become apparent in the upper extremities along with intermittent dystonic posturing of all extremities.",
+    "num_compound_or_double_hets": "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years. Specifically, the patient was compound heterozygous for 2 variants in WARS2 (NM_015836.3): a missense variant c.37T>G (p.Trp13Gly) that was inherited from his mother and a missense variant c.683C>G (p.Ser228Trp) that was inherited from his father.",
+    "explanation": "The information was extracted from the provided text."
+  }
+}

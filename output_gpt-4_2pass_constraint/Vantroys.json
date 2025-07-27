@@ -1,0 +1,35 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "epileptic seizure",
+    "acute liver failure",
+    "severe progressive encephalopathy",
+    "intra-uterine growth retardation",
+    "severe axial hypotonia",
+    "hypertonia",
+    "dystonic posturing of arms and legs",
+    "slight dysmorphic features",
+    "thin upper lip",
+    "low set ears",
+    "broad nasal bridge",
+    "hypertelorism of the eyes",
+    "ogival palatum",
+    "severe delay of cognitive and motor development",
+    "no head control",
+    "rigidity of arms and legs",
+    "fists were bilaterally clenched",
+    "WARS2 deficiency",
+    "severe hepatopathy associated with valproate treatment"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text consistently refers to 'the proband,' suggesting a single proband was tested in this study.",
+    "num_positive_het_probands": "Sanger sequencing of DNA from the mother, revealed that she is a carrier of the first variant (c.797delC, p.Pro266ArgfsTer10) and does not carry the missense variant. This suggests that the proband inherited one variant from the mother, supporting the inference that the proband is heterozygous.",
+    "positive_phenotypes": "The report describes a range of phenotypes associated with the proband, including early developmental delay, motor weakness, intellectual disability, epileptic seizure, acute liver failure, severe progressive encephalopathy, intra-uterine growth retardation, severe axial hypotonia, hypertonia, dystonic posturing of arms and legs, slight dysmorphic features, thin upper lip, low set ears, broad nasal bridge, hypertelorism of the eyes, ogival palatum, severe delay of cognitive and motor development, no head control, rigidity of arms and legs, fists were bilaterally clenched, WARS2 deficiency, severe hepatopathy associated with valproate treatment.",
+    "num_compound_or_double_hets": "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+  }
+}

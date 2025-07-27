@@ -1,0 +1,171 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+INFERRED: The text mentions "The probands were examined by experienced clinical geneticists who assessed their physical and mental status." This suggests that more than one proband was tested, but the exact number is not specified.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing..." This suggests that there is at least one compound/double heterozygote in the second family.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+
+INFERRED: The table lists six individuals (Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, Family 2-V:8) with specific mutations, suggesting that these six individuals were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The table lists the clinical features of the six individuals, including "Delayed Psychomotor development", "Ataxia", "Muscle weakness", "Seizure", "Behavior problems", "Speech impairment", and "Intellectual disability".
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Family 2-V:7" and "Family 2-V:8" are listed in the table with "WARS2 (NM_201263.2; NP_957715.1) mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)", indicating that these two individuals are compound/double heterozygotes.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents, using standard procedures." This suggests that four probands were tested in Family 1.
+
+INFERRED: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." This suggests that three probands were tested in Family 2.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents, using standard procedures." This suggests that four probands were tested in Family 1.
+
+INFERRED: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." This suggests that three probands were tested in Family 2.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Family 2-V:7" and "Family 2-V:8" are listed in the table with "WARS2 (NM_201263.2; NP_957715.1) mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)", indicating that these two individuals are compound/double heterozygotes.
+
+## Pages 9-10 ##
+1. Number of probands tested:
+
+EXPLICIT: "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents, using standard procedures." This suggests that four probands were tested in Family 1.
+
+INFERRED: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." This suggests that three probands were tested in Family 2.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D)." This suggests that there are compound/double heterozygotes in Family 2, but the exact number is not specified. 
+
+EXPLICIT: "The WARS2 genotype we observed in the affected individuals comprises a frameshift mutation on the paternal allele and a missense change on the maternal allele." This further supports the presence of compound/double heterozygotes in Family 2.
+
+## Pages 11-12 ##
+1. Number of probands tested:
+
+EXPLICIT: "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents, using standard procedures." This suggests that four probands were tested in Family 1.
+
+INFERRED: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." This suggests that three probands were tested in Family 2.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D)." This suggests that there are compound/double heterozygotes in Family 2, but the exact number is not specified. 
+
+EXPLICIT: "The WARS2 genotype we observed in the affected individuals comprises a frameshift mutation on the paternal allele and a missense change on the maternal allele." This further supports the presence of compound/double heterozygotes in Family 2.
+
+## Pages 13-14 ##
+1. Number of probands tested:
+
+No new explicit information found.
+
+INFERRED: The text mentions "animals heterozygous (Wars2−/L53F) for the knockout allele and Wars2 p.Leu53Phe" and "our patients", suggesting that more than one proband was tested, but the exact number is not specified.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No new explicit information found.
+
+INFERRED: The text mentions "diminished cardiac angiogenesis and reduced coronary ﬂow" in animals heterozygous for the knockout allele and Wars2 p.Leu53Phe, which could potentially be relevant to the proband phenotypes.
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found.
+
+## Pages 15-16 ##
+1. Number of probands tested:
+
+EXPLICIT: "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents, using standard procedures." 
+
+INFERRED: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." 
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+INFERRED: The text mentions "diminished cardiac angiogenesis and reduced coronary ﬂow" in animals heterozygous for the knockout allele and Wars2 p.Leu53Phe, which could potentially be relevant to the proband phenotypes.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D)." 
+
+EXPLICIT: "The WARS2 genotype we observed in the affected individuals comprises a frameshift mutation on the paternal allele and a missense change on the maternal allele."

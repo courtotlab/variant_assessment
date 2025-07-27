@@ -1,0 +1,157 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+INFERRED: The text mentions "In the first family" and "In the second family", suggesting that there are at least two probands tested in this study.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, we identified a homozygous missense mutation (c.514G>A, p.Asp172Asn) in the cytoplasmic seryl-tRNA synthetase (SARS) gene. The mutation affects the enzymatic core domain of the protein and impairs its enzymatic activity, probably leading to reduced cytoplasmic tRNASer concentrations. The mutant protein was predicted to be unstable, which could be substantiated by investigating ectopic mutant SARS in transfected HEK293T cells."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior." This suggests that there is at least one compound/double heterozygote in the second family.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+
+INFERRED: The table lists six individuals (Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, Family 2-V:8) with specific mutations, suggesting that these six individuals were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The table lists clinical features for six individuals, including gender, parental consanguinity, ethnic origin, birth, growth parameters, age at latest examination, weight, height, OFC, facial features, psychomotor development, ataxia, muscle weakness, seizure, behavior problems, speech impairment, intellectual disability, and other anomalies.
+
+4. Number of compound/double heterozygotes:
+
+INFERRED: The table lists two individuals (Family 2-V:7, Family 2-V:8) with WARS2 mutations, which could suggest that these two individuals are compound/double heterozygotes. However, the text does not explicitly state that these individuals are compound/double heterozygotes.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+
+INFERRED: The table lists six individuals (Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, Family 2-V:8) with specific mutations, suggesting that these six individuals were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+INFERRED: The table lists two individuals (Family 2-V:7, Family 2-V:8) with WARS2 mutations, which could suggest that these two individuals are compound/double heterozygotes. However, the text does not explicitly state that these individuals are compound/double heterozygotes.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+
+INFERRED: The table lists six individuals (Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, Family 2-V:8) with specific mutations, suggesting that these six individuals were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+INFERRED: The table lists two individuals (Family 2-V:7, Family 2-V:8) with WARS2 mutations, which could suggest that these two individuals are compound/double heterozygotes. However, the text does not explicitly state that these individuals are compound/double heterozygotes.
+
+## Pages 9-10 ##
+## From pages 9-10 ##
+1. Number of probands tested:
+
+No new relevant information found.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No new relevant information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D)." This confirms that there are compound/double heterozygotes in the second family.
+
+## Pages 11-12 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+
+INFERRED: The table lists six individuals (Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, Family 2-V:8) with specific mutations, suggesting that these six individuals were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D)." This confirms that there are compound/double heterozygotes in the second family.
+
+## Pages 13-14 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping and multipoint parametric and non-parametric linkage analysis."
+
+INFERRED: The table lists six individuals (Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, Family 2-V:8) with specific mutations, suggesting that these six individuals were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2 (Fig. 1B and D)." This confirms that there are compound/double heterozygotes in the second family.
+
+## Pages 15-16 ##
+## From pages 15-16 ##
+1. Number of probands tested:
+
+No new relevant information found.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No new relevant information found.
+
+4. Number of compound/double heterozygotes:
+
+No new relevant information found.

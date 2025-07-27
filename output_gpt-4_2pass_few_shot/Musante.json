@@ -1,0 +1,19 @@
+{
+  "num_tested_probands": 6,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "The text mentions 'two Iranian families affected by ARID' and 'the probands were examined by experienced clinical geneticists who assessed their physical and mental status.' This suggests that at least one proband from each family was tested, implying a minimum of two probands. Additionally, the text mentions 'Family 1-III:4', 'Family 1-III:10', 'Family 1-III:9', 'Family 1-III:11', 'Family 2-V:7', and 'Family 2-V:8' with different mutations. This suggests that at least six probands were tested.",
+    "num_positive_het_probands": "The text mentions 'In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene.' This suggests that at least one proband from the second family had a heterozygous mutation. However, the exact number of heterozygous probands is not specified. The text does not provide clear information on the number of probands who were heterozygous for a pathogenic variant.",
+    "positive_phenotypes": "The text mentions 'we have identified mutations in two different ARS genes. In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior.' and 'In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior.' The table provides a list of clinical features for each individual, including gender, parental consanguinity, ethnic origin, birth, growth parameters, age at latest examination, weight, height, OFC, facial features, psychomotor development, ataxia, muscle weakness, seizure, behavior problems, speech impairment, intellectual disability, and other anomalies. These could be considered as the phenotypes associated with the probands.",
+    "num_compound_or_double_hets": "The text mentions 'In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene.' and 'Family 2-V:7' and 'Family 2-V:8' with 'WARS2 (NM_201263.2; NP_957715.1) mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)'. This suggests that at least two individuals are compound heterozygotes.",
+    "explanation": "The information was extracted from the provided text."
+  }
+}

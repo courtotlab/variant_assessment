@@ -1,0 +1,36 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "severe axial hypotonia",
+    "hypertonia",
+    "dystonic posturing of arms and legs",
+    "slight dysmorphic features",
+    "thin upper lip",
+    "low set ears",
+    "broad nasal bridge",
+    "hypertelorism of the eyes",
+    "ogival palatum",
+    "severe delay of cognitive and motor development",
+    "no head control",
+    "rigidity of arms and legs",
+    "fists were bilaterally clenched",
+    "decreased awareness",
+    "lateral eye deviation",
+    "twitching of the eyelids at the left",
+    "acute liver failure (ALF)",
+    "metabolic encephalopathy",
+    "seizures"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The report explicitly mentions 'a subject' and 'the proband' in singular form, suggesting that only one proband was tested.",
+    "num_positive_het_probands": "No information about positive HET probands was found in the report.",
+    "positive_phenotypes": "The report lists a number of phenotypes associated with the proband, including developmental delay, motor weakness, intellectual disability, and various physical and neurological symptoms.",
+    "num_compound_or_double_hets": "The report explicitly mentions that two known pathogenic variants were detected in WARS2, indicating compound heterozygosity.",
+    "explanation": "Information was extracted from explicit mentions in the report and inferred from the context."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "epileptic seizure",
+    "acute liver failure",
+    "severe progressive encephalopathy",
+    "severe axial hypotonia",
+    "hypertonia",
+    "dystonic posturing of arms and legs",
+    "slight dysmorphic features",
+    "thin upper lip",
+    "low set ears",
+    "broad nasal bridge",
+    "hypertelorism of the eyes",
+    "ogival palatum",
+    "severe delay of cognitive and motor development",
+    "long lasting episode with decreased awareness",
+    "lateral eye deviation",
+    "twitching of the eyelids at the left",
+    "metabolic encephalopathy"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Here, we present a 6-year-old girl...",
+    "num_positive_het_probands": "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant.",
+    "positive_phenotypes": "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability... At the age of six years, she had an epileptic seizure... In the months after treatment was started, she developed acute liver failure and severe progressive encephalopathy.",
+    "num_compound_or_double_hets": "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant.",
+    "explanation": "Due to the close proximity of the two variants, biallelic state could be determined. A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants. As the position of the missense variant was not affected by the deletion, both variants were located on a different allele."
+  }
+}

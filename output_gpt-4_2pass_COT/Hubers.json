@@ -1,0 +1,16 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "hyperkinetic movement disorder",
+    "cognitive deficits"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: \"Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism.\"",
+    "num_positive_het_probands": "No relevant information found.",
+    "positive_phenotypes": "EXPLICIT: \"Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits.\"",
+    "num_compound_or_double_hets": "EXPLICIT: \"Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits.\"",
+    "explanation": "Information extracted from pages 1-3 of the report."
+  }
+}

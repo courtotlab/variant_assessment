@@ -1,0 +1,37 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "A 31-year-old man was referred to our movement disorders outpatient clinic at the age of 30 years. He was born at term to healthy parents after an uncomplicated pregnancy; neonatal and early infantile course were unremarkable. A younger sister of 4 years had no medical complaints. At the age of 15 months, the patient had first come to medical attention because of ballistic movements and a stepwise loss of already acquired skills. Since the age of 2 years, the patient showed a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements. He could communicate nonverbally with the parents on a basic level and react to orders."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Trio exomic sequencing from leucocyte-derived DNA was performed after written informed consent as reported earlier. No pathogenic or likely pathogenic variants were detected in the mitochondrial DNA. Based on the suspected autosomal recessive pattern of inheritance, we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2)."
+
+## Pages 3 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: The mention of "the 31-year-old patient" and "the first case" suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "A 31-year-old man was referred to our movement disorders outpatient clinic at the age of 30 years. He was born at term to healthy parents after an uncomplicated pregnancy; neonatal and early infantile course were unremarkable. A younger sister of 4 years had no medical complaints. At the age of 15 months, the patient had first come to medical attention because of ballistic movements and a stepwise loss of already acquired skills. Since the age of 2 years, the patient showed a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements. He could communicate nonverbally with the parents on a basic level and react to orders."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Trio exomic sequencing from leucocyte-derived DNA was performed after written informed consent as reported earlier. No pathogenic or likely pathogenic variants were detected in the mitochondrial DNA. Based on the suspected autosomal recessive pattern of inheritance, we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2)." 
+
+INFERRED: The mention of "biallelic variants" and "2 variants in WARS2" suggests that the proband is a compound/double heterozygote.

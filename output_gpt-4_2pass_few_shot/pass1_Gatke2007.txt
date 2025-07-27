@@ -1,0 +1,50 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Hereditary low BChE activity may result in an extensively prolonged duration of action of these drugs, especially in patients who are homozygous for the atypical or silent variants."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Hereditary low BChE activity may result in an extensively prolonged duration of action of these drugs, especially in patients who are homozygous for the atypical or silent variants."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 5 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Hereditary low BChE activity may result in an extensively prolonged duration of action of these drugs, especially in patients who are homozygous for the atypical or silent variants."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."

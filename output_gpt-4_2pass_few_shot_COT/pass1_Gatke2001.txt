@@ -1,0 +1,67 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+
+2. Number of positive HET probands:
+
+INFERRED: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This suggests that the father, mother, and one brother are heterozygous, but it is not clear if they are probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient is compound heterozygous for two silent mutations." "One brother has the same genotype as the patient," This suggests there are two compound heterozygotes.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+
+2. Number of positive HET probands:
+
+INFERRED: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This suggests that the father, mother, and one brother are heterozygous, but it is not clear if they are probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient is compound heterozygous for two silent mutations." "One brother has the same genotype as the patient," This suggests there are two compound heterozygotes.
+
+## Pages 7 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+
+2. Number of positive HET probands:
+
+INFERRED: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This suggests that the father, mother, and one brother are heterozygous, but it is not clear if they are probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient is compound heterozygous for two silent mutations." "One brother has the same genotype as the patient," This suggests there are two compound heterozygotes.
