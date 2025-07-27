@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 19,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "juvenile hyperkinetic movement disorders with dystonia, chorea, and ballism"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: '19 individuals were reported with biallelic variants in WARS2, a nuclear gene encoding for mitochondrial triptophanyl-tRNA synthetase.' INFERRED: The text mentions that 9 individuals were previously reported with biallelic variants in WARS2, but the current study presents an additional case. It is likely that this additional case brings the total number of probands tested to at least 19.",
+    "num_positive_het_probands": "EXPLICIT: 'The trio exomic sequencing from leucocyte-derived DNA was performed after written informed consent as reported earlier. No pathogenic or likely pathogenic variants were detected in the mitochondrial DNA.' INFERRED: The text does not provide information on the number of heterozygous (HET) probands specifically.",
+    "positive_phenotypes": "EXPLICIT: 'This case broadens the differential diagnostic approach to juvenile hyperkinetic movement disorders with dystonia, chorea, and ballism.' INFERRED: The text mentions that the majority of published patients were reported to have had epileptic seizures, which may suggest a smaller subset of patients with this specific presentation.",
+    "num_compound_or_double_hets": "EXPLICIT: 'Because the majority of published patients were reported to have had epileptic seizures, the absence of this clinical finding might explain the survival beyond 25 years in our patient.' INFERRED: The text does not provide information on the total number of compound or double heterozygotes. However, it mentions that the current patient survived beyond 25 years, which is unusually long for a patient with this condition."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "explanation": {
+    "title": "Summary of Research Article",
+    "text": "The article reports on the identification of mutations in two aminoacyl-tRNA synthetases (ARSs) that are associated with autosomal recessive intellectual disability (ARID). The study was conducted on two Iranian families affected by ARID. The authors used homozygosity mapping, next-generation sequencing, and Sanger sequencing to identify mutations in the SARS (Seryl-tRNA synthetase) and WARS2 (WARS2 tryptophanyl-tRNA synthetase) genes.",
+    "key_points": [
+      "Mutations in SARS and WARS2 genes associated with ARID",
+      "Homozygosity mapping, next-generation sequencing, and Sanger sequencing used to identify mutations",
+      "Compound heterozygous genotype (c.325delA, p.Ser109Alafs*15) identified in the WARS2 gene",
+      "Frameshift mutation likely leads to nonsense-mediated mRNA decay, while missense mutation affects mitochondrial localization signal of WARS2"
+    ]
+  }
+}

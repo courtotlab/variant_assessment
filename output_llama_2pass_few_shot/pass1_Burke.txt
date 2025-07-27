@@ -1,0 +1,102 @@
+## Pages 1-2 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: "The patient, following informed and written consent, under the protocol 76-HG-0238, “Diagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders” of the NIH-UDP."
+
+INFERRED: The text mentions that clinical data and samples were obtained from the patient and his unaffected mother and father.
+
+2. Number of positive HET probands:
+EXPLICIT: "The sequencing reads then were filtered for quality, and aligned to human reference genome NCBI build 37 (hg19) using in-house developed pipelines... Variants were called with HaplotypeCaller and GenotypeGVCFs."
+
+INFERRED: The text does not explicitly state the number of positive heterozygous probands. However, it mentions that the patient has pathogenic WARS2 mutations.
+
+3. Number of probands tested:
+EXPLICIT: "The sequencing reads then were filtered for quality, and aligned to human reference genome NCBI build 37 (hg19) using in-house developed pipelines... Variants were called with HaplotypeCaller and GenotypeGVCFs."
+
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that whole exome sequencing was performed on genomic DNA isolated from the patient and his unaffected mother and father.
+
+Note that the text does not provide a clear answer to question 1, as it only mentions the patient's informed consent and protocol number, but does not explicitly state the total number of probands tested.
+
+## Pages 3-4 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: "The patient, following informed and written consent, under the protocol 76-HG-0238, “Diagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders” of the NIH-UDP."
+
+INFERRED: The text mentions that clinical data and samples were obtained from the patient and his unaffected mother and father.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text does not explicitly state the number of positive heterozygous probands, but it mentions that the patient has pathogenic WARS2 mutations.
+
+3. Number of probands tested:
+EXPLICIT: "The sequencing reads then were filtered for quality, and aligned to human reference genome NCBI build 37 (hg19) using in-house developed pipelines... Variants were called with HaplotypeCaller and GenotypeGVCFs."
+
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that whole exome sequencing was performed on genomic DNA isolated from the patient and his unaffected mother and father.
+
+Note that the text does not provide a clear answer to question 1, as it only mentions the patient's informed consent and protocol number, but does not explicitly state the total number of probands tested.
+
+## Pages 5-6 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: "The patient, following informed and written consent, under the protocol 76-HG-0238, “Diagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders” of the NIH-UDP."
+
+INFERRED: The text mentions that clinical data and samples were obtained from the patient and his unaffected mother and father.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text does not explicitly state the number of positive heterozygous probands, but it mentions that the patient has pathogenic WARS2 mutations.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Levodopa-responsive Parkinsonism"
+
+INFERRED: The text mentions that the patient's clinical presentation is similar to other reported cases of WARS2-related disorders, which include developmental delay, infantile-onset leukoencephalopathy, spasticity, hypotonia, tremor, muscle atrophy, and seizures.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient is described as having compound heterozygous mutations in WARS2."
+
+INFERRED: The text does not provide a clear answer to this question, but it mentions that the patient has pathogenic WARS2 mutations and that there are other reported cases of WARS2-related disorders with similar clinical presentations.
+
+## Pages 7 ##
+Here are the answers to the questions based on the provided text:
+
+1. Number of probands tested:
+EXPLICIT: "The patient, following informed and written consent, under the protocol 76-HG-0238, “Diagnosis and Treatment of Patients with Inborn Errors of Metabolism or Other Genetic Disorders” of the NIH-UDP."
+
+INFERRED: The text mentions that clinical data and samples were obtained from the patient and his unaffected mother and father.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: The text does not explicitly state the number of positive heterozygous probands, but it mentions that the patient has pathogenic WARS2 mutations.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Levodopa-responsive Parkinsonism"
+
+INFERRED: The text mentions that the patient's clinical presentation is similar to other reported cases of WARS2-related disorders, which include developmental delay, infantile-onset leukoencephalopathy, spasticity, hypotonia, tremor, muscle atrophy, and seizures.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient is described as having compound heterozygous mutations in WARS2."
+
+INFERRED: The text does not provide a clear answer to this question, but it mentions that the patient has pathogenic WARS2 mutations and that there are other reported cases of WARS2-related disorders with similar clinical presentations.
+
+Note that the text does not provide explicit answers for questions 1 and 4. However, based on the provided information, we can infer that:
+
+* The patient is likely one of multiple probands tested, as the text mentions "clinical data and samples" obtained from the patient and his unaffected mother and father.
+* There are no explicitly stated positive heterozygous probands in this study.
+* The patient has compound heterozygous mutations in WARS2, but it's unclear if there are other compound/double heterozygotes in the study.
+
+To provide a more accurate answer for question 1, we can make an educated inference based on the context. Since the text mentions that the patient followed informed consent under protocol 76-HG-0238, which is part of the NIH-UDP, it's likely that this was one of multiple patients enrolled in the study. However, without further information, we cannot provide a precise answer.
+
+For question 4, while the text does not provide an explicit count, it mentions that the patient has pathogenic WARS2 mutations and that there are other reported cases of WARS2-related disorders with similar clinical presentations. This suggests that there may be multiple compound/double heterozygotes in the study, but without further information, we cannot confirm this.
+
+Here is a summary of the answers:
+
+1. Number of probands tested: The patient is likely one of multiple probands tested.
+2. Number of positive HET probands: None
+3. Positive proband phenotype(s): Levodopa-responsive Parkinsonism
+4. Number of compound/double heterozygotes: Not explicitly stated, but the patient has pathogenic WARS2 mutations and there are other reported cases with similar clinical presentations.

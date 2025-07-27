@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "Compound heterozygosity for two silent mutations in the BCHE gene"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The article mentions that 'the authors used a combination of clinical monitoring, pharmacokinetic analysis, and molecular genetic techniques' to investigate the cause of the prolonged response in the patient.",
+    "num_positive_het_probands": "The article explicitly states that 'the patient's blood samples were analyzed for BCHE activity, phenotype, and genotype, which revealed compound heterozygosity for two silent mutations in the BCHE gene'.",
+    "positive_phenotypes": "The article explicitly states that 'the patient's blood samples were analyzed for BCHE activity, phenotype, and genotype, which revealed compound heterozygosity for two silent mutations in the BCHE gene'.",
+    "num_compound_or_double_hets": "The article mentions that 'the study highlights the importance of molecular genetic techniques in identifying rare genetic mutations that can affect drug response' and that 'the authors used complete nucleotide sequencing to identify the specific mutations'.",
+    "explanation_type": [
+      "EXPLICIT",
+      "INFERRED"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "Prolonged duration of action of succinylcholine",
+    "BChE activity below detection limit"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: 'Three novel mutations were identified: BCHE*FS126, BCHE*328D and BCHE*I3E4-14C.' INFERRED: The text mentions that DNA samples were collected from two of the probands and four relatives, suggesting that there may be additional individuals involved in the study.",
+    "num_positive_het_probands": "EXPLICIT: 'The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.' INFERRED: The text does not provide information on whether any of the other individuals involved in the study are heterozygous for atypical variants.",
+    "positive_phenotypes": "EXPLICIT: 'In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine.' INFERRED: The text does not provide information on other phenotypes associated with the probands.",
+    "num_compound_or_double_hets": "EXPLICIT: 'The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.' Note that there is only one explicit mention of a compound heterozygote, but it is possible that other individuals may also be compound or double heterozygous based on the text."
+  }
+}
