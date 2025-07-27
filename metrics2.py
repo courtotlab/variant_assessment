@@ -5,8 +5,8 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 
 # === CONFIGURATION ===
 ground_truth_csv = "ground_2.csv"
-json_folder = "output_gpt-4_2pass_COT"
-output_csv = "metrics_2pass/gpt-4_metrics_COT.csv"
+json_folder = "output_gpt-4-1106-preview_2pass_few_shot"
+output_csv = "metrics_2pass/gpt-4-1106-preview_metrics_few_shot.csv"
 
 # === Load ground truth ===
 ground_df = pd.read_csv(ground_truth_csv)
