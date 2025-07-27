@@ -1,0 +1,13 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "Since there are no specific mentions of multiple probands or individuals tested, it can be inferred that a single proband was tested in this study.",
+    "num_positive_het_probands": "No relevant information found.",
+    "positive_phenotypes": "No relevant information found.",
+    "num_compound_or_double_hets": "No relevant information found.",
+    "explanation": "Information extracted from pages 3-4."
+  }
+}

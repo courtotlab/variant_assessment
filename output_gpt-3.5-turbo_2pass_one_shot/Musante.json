@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 2,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Mention of 'two unrelated Iranian families' suggests two probands were tested in this study.",
+    "num_positive_het_probands": "The second family had compound heterozygous mutations, indicating 1 positive HET proband.",
+    "positive_phenotypes": "Listed explicitly in the report.",
+    "num_compound_or_double_hets": "Inferred from the mention of compound heterozygous mutations."
+  }
+}

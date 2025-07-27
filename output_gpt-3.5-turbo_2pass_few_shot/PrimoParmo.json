@@ -1,0 +1,13 @@
+{
+  "num_tested_probands": 0,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "No relevant information found",
+    "num_positive_het_probands": "No relevant information found",
+    "positive_phenotypes": "No relevant information found",
+    "num_compound_or_double_hets": "No relevant information found",
+    "explanation": "Information not found in the input text"
+  }
+}

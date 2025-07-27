@@ -1,0 +1,33 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "In 2017, 9 individuals were reported with biallelic variants in WARS2"
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "neurodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa"
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism"
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+## Pages 3 ##
+1. Number of probands tested:
+
+EXPLICIT: "In 2017, 9 individuals were reported with biallelic variants in WARS2"
+
+INFERRED: Mention of multiple individuals studied in relation to WARS2 variants.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "neurodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa"
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism"
+
+4. Number of compound/double heterozygotes:
+No relevant information found.

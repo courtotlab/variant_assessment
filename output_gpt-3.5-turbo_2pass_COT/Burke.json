@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "we report the case of a 17-year-old boy, Whole exome sequencing of both parents and the patient was performed, The patient, following informed and written consent",
+    "num_positive_het_probands": "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)",
+    "positive_phenotypes": "infantile-onset, Levodopa-responsive Parkinsonism",
+    "num_compound_or_double_hets": "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)"
+  }
+}

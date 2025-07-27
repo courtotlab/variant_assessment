@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 2,
+  "positive_phenotypes": [
+    "AS",
+    "SS",
+    "UA",
+    "US",
+    "UU"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "The text mentions three probands from unrelated families, but DNA samples were collected from two of them and four relatives, suggesting a total of 3 probands tested.",
+    "num_positive_het_probands": "Two probands were identified as positive HET probands: one in family 1 with BCHE*115D*I3E4-14C/BCHE*FS126 and one in family 3 with BCHE*328D and BCHE*142M.",
+    "positive_phenotypes": "The positive proband phenotypes include AS (heterozygous for the atypical variant and a silent variant), SS (homozygous for silent variants), UA (heterozygous for the atypical variant), US (heterozygous for a silent variant), and UU (wild-type).",
+    "num_compound_or_double_hets": "Two compound heterozygotes were reported in the study."
+  }
+}

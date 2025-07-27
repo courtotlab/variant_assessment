@@ -1,0 +1,20 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "severe delay of early cognitive and motor development",
+    "mild dysmorphic facial features",
+    "mitochondrial defect",
+    "mitochondrial disorder"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "The number of probands tested was explicitly mentioned in the report on multiple pages.",
+    "num_positive_het_probands": "No relevant information was found regarding the number of positive HET probands.",
+    "positive_phenotypes": "The positive proband phenotypes were explicitly mentioned in the report on multiple pages.",
+    "num_compound_or_double_hets": "No relevant information was found regarding the number of compound/double heterozygotes."
+  }
+}

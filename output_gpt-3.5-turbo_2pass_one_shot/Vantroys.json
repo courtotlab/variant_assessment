@@ -1,0 +1,15 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "severe delay of early cognitive and motor development and mild dysmorphic facial features",
+    "acute liver failure and severe progressive encephalopathy"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "Explicit statements on the number of probands tested were found in the report.",
+    "num_positive_het_probands": "Explicit statements on the number of positive HET probands were found in the report.",
+    "positive_phenotypes": "Explicit statements on the positive proband phenotypes were found in the report.",
+    "num_compound_or_double_hets": "No relevant information was found in the report regarding compound/double heterozygotes."
+  }
+}

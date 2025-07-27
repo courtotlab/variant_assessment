@@ -1,0 +1,50 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a member had experienced severely prolonged duration of action of succinylcholine."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a member had experienced severely prolonged duration of action of succinylcholine."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 5 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a member had experienced severely prolonged duration of action of succinylcholine."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."

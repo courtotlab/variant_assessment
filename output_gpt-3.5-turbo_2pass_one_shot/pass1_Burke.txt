@@ -1,0 +1,57 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "we report the case of a 17-year-old boy"
+EXPLICIT: "Here, we describe a patient with pathogenic WARS2 mutations"
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years"
+EXPLICIT: "This case expands the phenotypic spectrum of WARS2 deficiency and emphasizes the importance of mitochondrial protein synthesis in the pathogenesis of Parkinsonism"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)"
+
+## Pages 3-4 ##
+2. Number of positive HET probands:
+No relevant information found.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "we report the case of a 17-year-old boy"
+EXPLICIT: "Here, we describe a patient with pathogenic WARS2 mutations"
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years"
+EXPLICIT: "This case expands the phenotypic spectrum of WARS2 deficiency and emphasizes the importance of mitochondrial protein synthesis in the pathogenesis of Parkinsonism"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)"
+
+## Pages 7 ##
+1. Number of probands tested:
+
+EXPLICIT: "we report the case of a 17-year-old boy"
+EXPLICIT: "Here, we describe a patient with pathogenic WARS2 mutations"
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years"
+EXPLICIT: "This case expands the phenotypic spectrum of WARS2 deficiency and emphasizes the importance of mitochondrial protein synthesis in the pathogenesis of Parkinsonism"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp)"

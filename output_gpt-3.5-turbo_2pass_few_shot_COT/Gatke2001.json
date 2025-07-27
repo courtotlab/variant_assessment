@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "SS"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The patient was a healthy 30-yr-old man",
+    "num_positive_het_probands": "Complete nucleotide sequencing revealed two point mutations, the known silent variant S7 and a previously undescribed mutation of amino acid residue 170 introducing a stop codon.",
+    "positive_phenotypes": "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS",
+    "num_compound_or_double_hets": "Conclusions: The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+  }
+}

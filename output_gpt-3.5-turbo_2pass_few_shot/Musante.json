@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 2,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Number of probands tested: two unrelated Iranian families.",
+    "num_positive_het_probands": "Number of positive HET probands: In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15) and a missense mutation (c.37T>G, p.Trp13Gly).",
+    "positive_phenotypes": "Positive proband phenotype(s): moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior",
+    "num_compound_or_double_hets": "Number of compound/double heterozygotes: In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15) and a missense mutation (c.37T>G, p.Trp13Gly)."
+  }
+}

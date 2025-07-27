@@ -1,0 +1,62 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
+EXPLICIT: "DNA samples were collected from two of the probands and four relatives."
+EXPLICIT: "Genotypes were determined using complete nucleotide sequencing."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+EXPLICIT: "two of the patients were homozygous for a silent variant and one was heterozygous for the atypical and a silent variant (AS)."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
+EXPLICIT: "DNA samples were collected from two of the probands and four relatives."
+EXPLICIT: "Genotypes were determined using complete nucleotide sequencing."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+EXPLICIT: "two of the patients were homozygous for a silent variant and one was heterozygous for the atypical and a silent variant (AS)."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 5 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine at a time, when it was not possible to perform genotyping."
+EXPLICIT: "DNA samples were collected from two of the probands and four relatives."
+EXPLICIT: "Genotypes were determined using complete nucleotide sequencing."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+EXPLICIT: "two of the patients were homozygous for a silent variant and one was heterozygous for the atypical and a silent variant (AS)."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."

@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 6,
+  "num_positive_het_probands": 2,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Explicitly mentioned individuals in the text",
+    "num_positive_het_probands": "Explicitly mentioned individuals in the text",
+    "positive_phenotypes": "Extracted from positive het probands",
+    "num_compound_or_double_hets": "Explicitly mentioned individuals in the text"
+  }
+}

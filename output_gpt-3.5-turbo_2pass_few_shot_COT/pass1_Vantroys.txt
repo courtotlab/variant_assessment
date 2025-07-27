@@ -1,0 +1,78 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject..."
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "severe delay of early cognitive and motor development and mild dysmorphic facial features"
+EXPLICIT: "acute liver failure and severe progressive encephalopathy"
+EXPLICIT: "diagnosis of a mitochondrial disorder"
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)"
+
+## Pages 3-4 ##
+2. Number of positive HET probands:
+No relevant information found.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject..."
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "severe delay of early cognitive and motor development and mild dysmorphic facial features"
+EXPLICIT: "acute liver failure and severe progressive encephalopathy"
+EXPLICIT: "diagnosis of a mitochondrial disorder"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)"
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject..."
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "severe delay of early cognitive and motor development and mild dysmorphic facial features"
+EXPLICIT: "acute liver failure and severe progressive encephalopathy"
+EXPLICIT: "diagnosis of a mitochondrial disorder"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)"
+
+## Pages 9 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject..."
+EXPLICIT: "Here, we present a 6-year-old girl..."
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "severe delay of early cognitive and motor development and mild dysmorphic facial features"
+EXPLICIT: "acute liver failure and severe progressive encephalopathy"
+EXPLICIT: "diagnosis of a mitochondrial disorder"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)"

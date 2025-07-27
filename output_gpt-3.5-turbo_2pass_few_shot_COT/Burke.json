@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Explicit mention of reporting a case",
+    "num_positive_het_probands": "Explicit mention of compound heterozygous mutations",
+    "positive_phenotypes": "Explicit mention of positive proband phenotype",
+    "num_compound_or_double_hets": "Explicit mention of compound heterozygous mutations"
+  }
+}

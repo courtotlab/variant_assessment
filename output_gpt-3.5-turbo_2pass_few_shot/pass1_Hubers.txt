@@ -1,0 +1,33 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "In 2017, 9 individuals were reported with biallelic variants in WARS2"
+
+2. Number of positive HET probands:
+
+EXPLICIT: "9 individuals were reported with biallelic variants in WARS2"
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "neurodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa", "classified as 'Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures'"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "9 individuals were reported with biallelic variants in WARS2"
+
+## Pages 3 ##
+1. Number of probands tested:
+
+EXPLICIT: "In 2017, 9 individuals were reported with biallelic variants in WARS2"
+
+2. Number of positive HET probands:
+
+EXPLICIT: "9 individuals were reported with biallelic variants in WARS2"
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "neurodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa", "classified as 'Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures'"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "9 individuals were reported with biallelic variants in WARS2"

@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The report describes a patient with pathogenic WARS2 mutations",
+    "num_positive_het_probands": "The patient is reported to have compound heterozygous mutations in WARS2",
+    "positive_phenotypes": "The patient presents with infantile-onset, Levodopa-responsive Parkinsonism",
+    "num_compound_or_double_hets": "The patient is described as having compound heterozygous mutations in WARS2"
+  }
+}

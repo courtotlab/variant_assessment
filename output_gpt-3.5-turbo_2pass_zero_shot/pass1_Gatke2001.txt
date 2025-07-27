@@ -1,0 +1,61 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+EXPLICIT: "A blood sample was drawn at the time of arrival in the intensive care unit to determine the BChE activity, phenotype, and genotype."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+No relevant information found.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 5-6 ##
+1. Number of probands tested:
+No relevant information found.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 7 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+EXPLICIT: "A blood sample was drawn at the time of arrival in the intensive care unit to determine the BChE activity, phenotype, and genotype."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."

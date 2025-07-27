@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "compound heterozygous for silent mutations in the butyrylcholinesterase gene"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The patient was the only individual explicitly mentioned as undergoing genetic testing in this study.",
+    "num_positive_het_probands": "Complete nucleotide sequencing revealed two point mutations, the known silent variant S7 and a previously undescribed mutation of amino acid residue 170 introducing a stop codon.",
+    "positive_phenotypes": "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene.",
+    "num_compound_or_double_hets": "Complete nucleotide sequencing revealed two point mutations, the known silent variant S7 and a previously undescribed mutation of amino acid residue 170 introducing a stop codon."
+  }
+}

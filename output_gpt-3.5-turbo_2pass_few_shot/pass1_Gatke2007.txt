@@ -1,0 +1,57 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine...DNA samples were collected from two of the probands and four relatives."
+EXPLICIT: "Genotypes were determined using complete nucleotide sequencing."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a member had experienced severely prolonged duration of action of succinylcholine."
+EXPLICIT: "Hereditary low BChE activity may result in an extensively prolonged duration of action of these drugs, especially in patients who are homozygous for the atypical or silent variants."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine...DNA samples were collected from two of the probands and four relatives."
+EXPLICIT: "Genotypes were determined using complete nucleotide sequencing."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a member had experienced severely prolonged duration of action of succinylcholine."
+EXPLICIT: "Hereditary low BChE activity may result in an extensively prolonged duration of action of these drugs, especially in patients who are homozygous for the atypical or silent variants."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+## Pages 5 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine...DNA samples were collected from two of the probands and four relatives."
+EXPLICIT: "Genotypes were determined using complete nucleotide sequencing."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a member had experienced severely prolonged duration of action of succinylcholine."
+EXPLICIT: "Hereditary low BChE activity may result in an extensively prolonged duration of action of these drugs, especially in patients who are homozygous for the atypical or silent variants."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."

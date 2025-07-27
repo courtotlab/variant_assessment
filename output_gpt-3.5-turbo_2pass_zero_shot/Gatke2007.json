@@ -1,0 +1,17 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 2,
+  "positive_phenotypes": [
+    "prolonged duration of action of succinylcholine",
+    "silent variant",
+    "atypical variant"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Pages 1-2, 3-4, 5",
+    "num_positive_het_probands": "Pages 1-2, 3-4, 5",
+    "positive_phenotypes": "Pages 1-2, 3-4, 5",
+    "num_compound_or_double_hets": "Pages 1-2, 3-4, 5",
+    "explanation": "Information extracted from the genetic case report"
+  }
+}

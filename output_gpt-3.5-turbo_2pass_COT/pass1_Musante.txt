@@ -1,0 +1,142 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "In the first family, we identified a homozygous missense mutation..."
+EXPLICIT: "In the second family, we found a compound heterozygous genotype..."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "In the first family, we identified a homozygous missense mutation..."
+EXPLICIT: "In the second family, we found a compound heterozygous genotype..."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior"
+EXPLICIT: "moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype..."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..."
+
+INFERRED: Mention of "six DNA samples" from Family 2 suggests multiple probands were tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: Not mentioned in the provided text.
+
+INFERRED: The text mentions homozygosity mapping and sequencing in Family 2, but does not specify the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: Not mentioned in the provided text.
+
+INFERRED: The clinical features listed in the table include ataxia, muscle weakness, seizures, behavior problems (aggressive behavior, temper tantrums), speech impairment, and intellectual disability (ranging from moderate IQ 40-46). These phenotypes are associated with the probands being studied.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "We identified three homozygous genomic intervals with LOD scores above 2... Subsequently, the three homozygous regions were enriched and next-generation sequencing was performed but upon filtering no homozygous apparently disease-causing mutation could be identified."
+
+INFERRED: The text mentions the identification of homozygous genomic intervals but does not provide a clear number of compound/double heterozygotes.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..."
+
+INFERRED: Mention of "six DNA samples" from Family 2 suggests multiple probands were tested.
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions homozygosity mapping and sequencing in Family 2, but does not specify the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The clinical features listed in the table include ataxia, muscle weakness, seizures, behavior problems (aggressive behavior, temper tantrums), speech impairment, and intellectual disability (ranging from moderate IQ 40-46).
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "We identified three homozygous genomic intervals with LOD scores above 2... Subsequently, the three homozygous regions were enriched and next-generation sequencing was performed but upon filtering no homozygous apparently disease-causing mutation could be identified."
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..."
+
+INFERRED: Mention of "six DNA samples" from Family 2 suggests multiple probands were tested.
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions homozygosity mapping and sequencing in Family 2, but does not specify the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The clinical features listed in the table include ataxia, muscle weakness, seizures, behavior problems (aggressive behavior, temper tantrums), speech impairment, and intellectual disability (ranging from moderate IQ 40-46).
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "We identified three homozygous genomic intervals with LOD scores above 2... Subsequently, the three homozygous regions were enriched and next-generation sequencing was performed but upon filtering no homozygous apparently disease-causing mutation could be identified."
+
+## Pages 9-10 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..."
+
+INFERRED: Mention of "six DNA samples" from Family 2 suggests multiple probands were tested.
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions homozygosity mapping and sequencing in Family 2, but does not specify the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The clinical features listed in the table include ataxia, muscle weakness, seizures, behavior problems (aggressive behavior, temper tantrums), speech impairment, and intellectual disability (ranging from moderate IQ 40-46).
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "We identified three homozygous genomic intervals with LOD scores above 2... Subsequently, the three homozygous regions were enriched and next-generation sequencing was performed but upon filtering no homozygous apparently disease-causing mutation could be identified."
+
+## Pages 11-12 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..."
+
+INFERRED: Mention of "six DNA samples" from Family 2 suggests multiple probands were tested.
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions homozygosity mapping and sequencing in Family 2, but does not specify the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The clinical features listed in the table include ataxia, muscle weakness, seizures, behavior problems (aggressive behavior, temper tantrums), speech impairment, and intellectual disability (ranging from moderate IQ 40-46).
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "We identified three homozygous genomic intervals with LOD scores above 2... Subsequently, the three homozygous regions were enriched and next-generation sequencing was performed but upon filtering no homozygous apparently disease-causing mutation could be identified."
+
+## Pages 13-14 ##
+No relevant information found.
+
+## Pages 15-16 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..."
+
+INFERRED: Mention of "six DNA samples" from Family 2 suggests multiple probands were tested.
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions homozygosity mapping and sequencing in Family 2, but does not specify the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: The clinical features listed in the table include ataxia, muscle weakness, seizures, behavior problems (aggressive behavior, temper tantrums), speech impairment, and intellectual disability (ranging from moderate IQ 40-46).
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "We identified three homozygous genomic intervals with LOD scores above 2... Subsequently, the three homozygous regions were enriched and next-generation sequencing was performed but upon filtering no homozygous apparently disease-causing mutation could be identified."
