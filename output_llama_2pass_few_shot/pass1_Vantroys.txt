@@ -1,0 +1,192 @@
+## Page 1 ##
+Here are the answers to your questions based on the provided text:
+
+1. Number of probands tested:
+EXPLICIT: "Two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p.Lys313Met)."
+
+INFERRED: The subject being studied is referred to as a single individual.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: There are no explicit mentions of heterozygous cases in the text. However, it can be inferred that the subject has two pathogenic variants (c.797delC and c.938 A > T) in WARS2, which suggests a compound or double heterozygous mutation.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The subject reported here was first diagnosed as having cerebral palsy. Only after a mitochondriotoxic medication was started, the disease became progressive, and the diagnosis of a mitochondrial defect was made."
+
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 2 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: "Two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T,)."
+
+INFERRED: The subject being studied is referred to as a single individual.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+INFERRED: There are no explicit mentions of heterozygous cases in the text. However, it can be inferred that the subject has two pathogenic variants (c.797delC and c.938 A > T) in WARS2, which suggests a compound or double heterozygous mutation.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The subject reported here was first diagnosed as having cerebral palsy. Only after a mitochondriotoxic medication was started, the disease became progressive, and the diagnosis of a mitochondrial defect was made."
+
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 3 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: None
+
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+2. Number of positive HET probands:
+INFERRED: There is no explicit mention of heterozygous cases in the text. However, it can be inferred that the subject has a compound or double heterozygous mutation based on the presence of two pathogenic variants (c.797delC and c.938 A > T) in WARS2.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Severe axial hypotonia, hyper-tonia and dystonic posturing of arms and legs"
+
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The subject reported here was first diagnosed as having cerebral palsy. Only after a mitochondriotoxic medication was started, the disease became progressive, and the diagnosis of a mitochondrial defect was made."
+
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 4 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: None
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+2. Number of positive HET probands:
+INFERRED: There is no explicit mention of heterozygous cases in the text. However, it can be inferred that the subject has a compound or double heterozygous mutation based on the presence of two pathogenic variants (c.797delC and c.938 A > T) in WARS2.
+
+3. Positive proband phenotype(s):
+EXPLICIT: None
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy. Additionally, the text mentions "early developmental delay, motor weakness and intellectual disability" as phenotypes associated with WARS2 mutations.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 5 ##
+Here are the answers to your questions:
+
+1. Number of probands tested:
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+2. Number of positive HET probands:
+INFERRED: There is no explicit mention of heterozygous cases in the text. However, it can be inferred that the subject has a compound or double heterozygous mutation based on the presence of two pathogenic variants (c.797delC and c.938 A > T) in WARS2.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 6 ##
+Based on the provided text, here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: None
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+2. Number of positive HET probands:
+INFERRED: There is no explicit mention of heterozygous cases in the text. However, it can be inferred that the subject has a compound or double heterozygous mutation based on the presence of two pathogenic variants (c.797delC and c.938 A > T) in WARS2.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 7 ##
+Based on the provided text, here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: None
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+2. Number of positive HET probands:
+INFERRED: There is no explicit mention of heterozygous cases in the text. However, it can be inferred that the subject has a compound or double heterozygous mutation based on the presence of two pathogenic variants (c.797delC and c.938 A > T) in WARS2.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 8 ##
+Based on the provided text, here are the answers to your questions:
+
+1. Number of probands tested:
+EXPLICIT: None
+INFERRED: The text does not explicitly state the number of probands tested. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+2. Number of positive HET probands:
+INFERRED: There is no explicit mention of heterozygous cases in the text. However, it can be inferred that the subject has a compound or double heterozygous mutation based on the presence of two pathogenic variants (c.797delC and c.938 A > T) in WARS2.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+INFERRED: The text mentions that the subject had an epileptic seizure at the age of six years, which was treated with sodium valproate. After treatment was started, she developed acute liver failure and severe progressive encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+INFERRED: The text implies that the subject has a compound or double heterozygous mutation in WARS2, as two pathogenic variants (c.797delC and c.938 A > T) were detected in the subject.
+
+Note: There is some ambiguity in the text regarding the exact nature of the mutations in WARS2. However, based on the information provided, it can be inferred that the subject has a compound or double heterozygous mutation.
+
+## Page 9 ##
+It appears that there are multiple pages with similar questions and answers. I'll provide a general answer to each question.
+
+**1. Number of probands tested:**
+There is no explicit mention of the number of probands tested in the provided text. However, it mentions that genetic studies were performed on "all patients" and that 17 patients with pathogenic variants in PIGN, PIGA, and PIGT were collected.
+
+**2. Number of positive HET probands:**
+There is no explicit mention of heterozygous cases in the text. However, it can be inferred that some subjects may have a compound or double heterozygous mutation based on the presence of two pathogenic variants (e.g., c.797delC and c.938 A > T) in WARS2.
+
+**3. Positive proband phenotype(s):**
+The positive proband phenotypes mentioned in the text include:
+* Early developmental delay
+* Motor weakness
+* Intellectual disability
+Additionally, some subjects may develop acute liver failure and severe progressive encephalopathy after treatment with sodium valproate.
+
+**4. Number of compound/double heterozygotes:**
+There is no explicit mention of the number of compound or double heterozygous mutations in the text. However, it can be inferred that some subjects (e.g., the subject mentioned in page 5) may have a compound or double heterozygous mutation in WARS2 based on the presence of two pathogenic variants (c.797delC and c.938 A > T).

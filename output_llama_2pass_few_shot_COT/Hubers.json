@@ -1,0 +1,19 @@
+{
+  "num_tested_probands": 9,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements",
+    "cognitive deficits"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: '19 different mitochondrial tRNA synthetases exist and are essential for mitochondrial protein synthesis.' INFERRED: The text mentions that 9 individuals were reported with biallelic variants in WARS2, but it does not explicitly state the number of probands tested.",
+    "num_positive_het_probands": "No relevant information found.",
+    "positive_phenotypes": [
+      "EXPLICIT: 'a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements.' INFERRED: The text mentions that the patient had a 'severe hyperkinetic movement disorder' and that he showed 'cognitive deficits'.",
+      "EXPLICIT: 'a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements.'"
+    ],
+    "num_compound_or_double_hets": "EXPLICIT: '2 variants in WARS2 (c.37T>G, p.(Trp13Gly) and c.149G>A, p.Gly50Asp missense variant)",
+    "compound_or_double_het_classification": "The text notes that the patient had a case of compound heterozygosity for two different pathogenic variants in WARS2."
+  }
+}

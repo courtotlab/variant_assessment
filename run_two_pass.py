@@ -1,7 +1,7 @@
 import fitz  # PyMuPDF
 from pathlib import Path
-from Ollama_struct_out import call_ollama_struct_out
-# from openai_struct_out import call_openai_struct_out as call_ollama_struct_out
+# from Ollama_struct_out import call_ollama_struct_out
+from openai_struct_out import call_openai_struct_out as call_ollama_struct_out
 import json
 
 def read_pdf_pages(pdf_path):
@@ -93,10 +93,10 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
 # === Batch Runner for All PDFs ===
 def run_all_passes_on_literature_folder(
     literature_dir="literature",
-    prompt_pass1="llama prompts first pass/COT.txt",
-    prompt_pass2="llama prompts two pass/COT.txt",
-    intermediate_txt_dir="output_llama_2pass_COT",
-    final_json_dir="output_llama_2pass_COT",
+    prompt_pass1="llama prompts first pass/few_shot_COT.txt",
+    prompt_pass2="llama prompts two pass/few_shot_COT.txt",
+    intermediate_txt_dir="output_llama_2pass_few_shot_COT",
+    final_json_dir="output_llama_2pass_few_shot_COT",
     model="llama3.2:latest"
 ):
     pdf_dir = Path(literature_dir)
