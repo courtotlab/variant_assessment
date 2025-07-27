@@ -1,0 +1,7 @@
+{
+  "num_tested_probands": 10,
+  "explanation": {
+    "EXPLICIT": "we examined a total of 15 individuals",
+    "INFERRED": "Mention of 'the majority' suggests that not all 15 individuals were part of the exclusive analysis, but this does not provide specific information on the number of unique probands."
+  }
+}

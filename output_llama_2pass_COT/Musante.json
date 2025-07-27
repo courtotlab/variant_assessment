@@ -1,0 +1,54 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": [
+      {
+        "type": "EXPLICIT",
+        "text": "The index patient (V:1) was sequenced, and siblings and parents were also sequenced, when available."
+      },
+      {
+        "type": "INFERRED",
+        "text": "Mention of 'the patients' in the abstract suggests a single proband."
+      }
+    ],
+    "num_positive_het_probands": [
+      {
+        "type": "EXPLICIT",
+        "text": ""
+      },
+      {
+        "type": "INFERRED",
+        "text": "The text mentions that mutations in at least five mitochondrial ARSs have already been associated with brain-specific phenotypes, but it does not explicitly state how many heterozygous carriers were identified in this study."
+      }
+    ],
+    "positive_phenotypes": [
+      {
+        "type": "EXPLICIT",
+        "text": "moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior"
+      },
+      {
+        "type": "INFERRED",
+        "text": "The text mentions that the probands have a similar accompanying features (Table 1), but it does not explicitly state what those features are."
+      }
+    ],
+    "num_compound_or_double_hets": [
+      {
+        "type": "EXPLICIT",
+        "text": ""
+      },
+      {
+        "type": "INFERRED",
+        "text": "The text mentions that the second family has a 'compound DNA-alterations' affecting the WARS2 gene, but it does not provide information on how many individuals have this genotype."
+      }
+    ]
+  }
+}

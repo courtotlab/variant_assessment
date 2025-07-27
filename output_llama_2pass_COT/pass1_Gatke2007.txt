@@ -1,0 +1,78 @@
+## Pages 1-2 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+
+EXPLICIT: "The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+
+INFERRED: The text mentions that "some members had died and genotyping was not possible", suggesting that there may be additional individuals who underwent genetic testing.
+
+2. Number of positive HET probands:
+
+EXPLICIT: None
+
+INFERRED: The text states that the proband in family 1 was "heterozygous for BCHE*115D*I3E4-14C/BCHE*FS126", and the proband in family 3 was "compound heterozygous for BCHE*328D and BCHE*142M". However, it does not explicitly state that these individuals are single-allele (monoallelic) pathogenic carriers.
+
+INFERRED: The text mentions that the proband in family 2 was "heterozygous for BCHE*FS126", but this is only mentioned as a fact about one individual, and not as part of a larger group of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: None
+
+INFERRED: The text states that the proband in family 1 had "BChE activity below detection limit" and experienced an "extensively prolonged duration of action of succinylcholine". This suggests that this individual has a positive phenotype, but the exact phenotype is not specified.
+
+INFERRED: The text mentions that the proband in family 3 was "heterozygous for BCHE*328D and BCHE*142M", which may suggest a positive phenotype. However, it does not explicitly state what this phenotype is.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: None
+
+INFERRED: The text states that the proband in family 3 was "compound heterozygous for BCHE*328D and BCHE*142M". This suggests that there is at least one individual who has two different pathogenic variants in the same gene.
+
+## Pages 3-4 ##
+Based on the provided text, here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine.
+
+2. Number of positive HET probands:
+EXPLICIT: None
+
+3. Positive proband phenotype(s):
+EXPLICIT: None
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: None
+
+## Pages 5 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+
+EXPLICIT: "The three probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+
+INFERRED: The text mentions that "some members had died and genotyping was not possible", suggesting that there may be additional individuals who underwent genetic testing.
+
+2. Number of positive HET probands:
+
+EXPLICIT: None
+
+INFERRED: The text states that the proband in family 1 was "heterozygous for BCHE*115D/I3E4-14C/BCHE*FS126", and the proband in family 3 was "compound heterozygous for BCHE*328D and BCHE*142M". However, it does not explicitly state that these individuals are single-allele (monoallelic) pathogenic carriers.
+
+INFERRED: The text mentions that the proband in family 2 was "heterozygous for BCHE*FS126", but this is only mentioned as a fact about one individual, and not as part of a larger group of positive HET probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: None
+
+INFERRED: The text states that the proband in family 1 had "BChE activity below detection limit" and experienced an "extensively prolonged duration of action of succinylcholine". This suggests that this individual has a positive phenotype, but the exact phenotype is not specified.
+
+INFERRED: The text mentions that the proband in family 3 was "heterozygous for BCHE*328D and BCHE*142M", which may suggest a positive phenotype. However, it does not explicitly state what this phenotype is.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: None
+
+INFERRED: The text states that the proband in family 3 was "compound heterozygous for BCHE*328D and BCHE*142M". This suggests that there is at least one individual who has two different pathogenic variants in the same gene.
+
+Note: There are no explicit quotes or statements in the provided text that directly answer these questions. The answers provided above are based on inference from the text.
