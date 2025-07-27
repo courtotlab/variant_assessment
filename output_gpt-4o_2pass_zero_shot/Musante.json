@@ -1,0 +1,24 @@
+{
+  "num_tested_probands": 2,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior",
+    "Delayed psychomotor development",
+    "Muscle weakness",
+    "Seizure",
+    "Behavior problems",
+    "Intellectual disability",
+    "tonic\u2013clonic seizures"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Inferred from multiple mentions of two unrelated Iranian families, each with affected individuals, suggesting at least one proband per family.",
+    "num_positive_het_probands": "No explicit or inferred information found regarding heterozygous probands, only compound heterozygous cases were mentioned.",
+    "positive_phenotypes": "Inferred from multiple sections describing clinical features such as moderate ID, microcephaly, ataxia, speech impairment, aggressive behavior, and others associated with the probands.",
+    "num_compound_or_double_hets": "Explicitly mentioned in multiple sections that there are compound heterozygous individuals in family 2, with at least two individuals identified."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism",
+    "left leg tremor",
+    "expressive language delay",
+    "tremor in upper extremities",
+    "intermittent dystonic posturing",
+    "advanced Levodopa-responsive Parkinsonism",
+    "peak-dose dyskinesia",
+    "stooped posture",
+    "disabling off-dystonia"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The report consistently refers to a single proband throughout the pages, such as 'a 17-year-old boy' and 'the patient'.",
+    "num_positive_het_probands": "No information was found regarding probands who were heterozygous for a pathogenic variant.",
+    "positive_phenotypes": "The report describes various phenotypes including 'infantile-onset, Levodopa-responsive Parkinsonism', 'left leg tremor', 'expressive language delay', and others.",
+    "num_compound_or_double_hets": "The report explicitly mentions 'a 17-year-old boy with compound heterozygous mutations in WARS2' and similar statements indicating one compound heterozygote."
+  }
+}

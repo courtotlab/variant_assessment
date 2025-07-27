@@ -1,0 +1,185 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "The probands were examined by experienced clinical geneticists who assessed their physical and mental status." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)." 
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "The probands were examined by experienced clinical geneticists who assessed their physical and mental status." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)." 
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A."
+
+EXPLICIT: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)."
+
+INFERRED: The text describes two families with multiple affected children, suggesting at least two probands, one from each family.
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+EXPLICIT: "Two affected siblings (V:7 and V:8) presented with moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech). Moreover muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years) were observed."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)."
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "The probands were examined by experienced clinical geneticists who assessed their physical and mental status." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)."
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 9-10 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A." and "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)."
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 11-12 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A." and "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)."
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 13-14 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A." and "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)."
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.
+
+## Pages 15-16 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families."
+
+INFERRED: "Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID; the pedigree is shown in Figure 1A." and "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." (This suggests at least two probands, one from each family.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes a homozygous mutation in one family and a compound heterozygous mutation in the other, but no simple heterozygous cases are mentioned.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene, comprising a nonsense mutation (c.325delA, p.Ser109Alafs*15), which very likely entails nonsense-mediated mRNA decay and a missense mutation (c.37T>G, p.Trp13Gly)."
+
+INFERRED: This suggests there is 1 compound heterozygote in the second family.

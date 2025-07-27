@@ -1,0 +1,42 @@
+{
+  "num_tested_probands": 5,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "severe progressive encephalopathy",
+    "acute liver failure",
+    "mild dysmorphic facial features",
+    "slightly dysmorphic",
+    "intrauterine growth retardation",
+    "severe axial hypotonia",
+    "hypertonia",
+    "dystonic posturing of arms and legs",
+    "thin upper lip",
+    "low set ears",
+    "broad nasal bridge",
+    "hypertelorism of the eyes",
+    "ogival palatum",
+    "severe delay of cognitive and motor development",
+    "metabolic encephalopathy",
+    "decreased awareness",
+    "optic atrophy",
+    "severe generalized amyotrophy",
+    "seizures",
+    "extra-pyramidal signs",
+    "epilepsy",
+    "ptosis",
+    "hypoglycaemia",
+    "valproate induced hepatotoxicity",
+    "severe hepatopathy associated with valproate treatment",
+    "non-specific, non-progressive encephalopathy"
+  ],
+  "num_compound_or_double_hets": 5,
+  "explanation": {
+    "num_tested_probands": "Each section consistently uses singular terms such as 'the proband' or 'the subject,' indicating one proband per section, totaling five probands across all sections.",
+    "num_positive_het_probands": "No sections explicitly mention probands who are heterozygous for a pathogenic variant without being compound heterozygous.",
+    "positive_phenotypes": "Phenotypes are explicitly mentioned in each section, with some inferred from context, such as 'mild dysmorphic facial features' and 'extra-pyramidal signs.'",
+    "num_compound_or_double_hets": "Each section describes compound heterozygosity explicitly, indicating one compound heterozygote per section, totaling five across all sections."
+  }
+}

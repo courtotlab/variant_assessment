@@ -1,0 +1,68 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "We present three novel mutations in the butyrylcholinesterase gene (BCHE) identified in three families in which a member had experienced severely prolonged duration of action of succinylcholine."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126."
+
+INFERRED: "one was heterozygous for the atypical and a silent variant (AS)."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126..." (suggesting compound heterozygosity)
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2)...", "The proband (2-1) was not sequenced...", "The proband in family 3 (Table 1, patient 3)..."
+
+INFERRED: No additional inferred information needed as explicit quotes already confirm three probands.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)."
+
+INFERRED: No additional inferred information needed as explicit quotes already confirm one heterozygous proband.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proband in family 1... displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit."
+
+INFERRED: "The proband (2-1)... experienced prolonged duration of action of 360 min following succinylcholine.", "The proband in family 3... had experienced a prolonged duration of action of succinylcholine of 90 min, which is six times the normal duration."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126..." (suggesting compound heterozygosity)
+
+Overall, the information suggests there are two compound heterozygotes.
+
+## Pages 5 ##
+1. Number of probands tested:
+
+No relevant information found.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No relevant information found.
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found.

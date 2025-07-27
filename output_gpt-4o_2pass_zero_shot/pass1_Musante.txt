@@ -1,0 +1,199 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families." This suggests that there are at least two probands, one from each family.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene..." This suggests that there is at least one proband with a compound heterozygous mutation, but no explicit mention of a heterozygous proband.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+INFERRED: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior." This suggests similar phenotypes for the second proband.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene..."
+
+INFERRED: This suggests there is at least one compound heterozygous individual in the study.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Family 2 was part of a large study of the molecular basis of ARID and genotyping results of six DNA samples (IV:2, IV:3, V:2, V:7, V:8, V:9) from this family were used for homozygosity mapping..." This suggests multiple individuals were tested, but it is unclear how many are probands.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No additional inferred information found beyond what was previously extracted.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: The table lists clinical features for individuals from two families, including "Delayed psychomotor development," "Ataxia," "Muscle weakness," "Seizure," "Behavior problems," "Speech impairment," and "Intellectual disability." These features are associated with the probands.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "WARS2 (NM_201263.2; NP_957715.1) mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)" listed for Family 2-V:7 and Family 2-V:8 suggests these individuals are compound heterozygotes. This implies at least two compound heterozygous individuals.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Family 1 is an Iranian family with Arabian ethnicity. The distantly related parents had nine children, four of them presented with ID..." and "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID..." This suggests that there are at least two probands, one from each family, as both families have multiple affected children.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No additional inferred information found beyond what was previously extracted.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+
+INFERRED: No additional inferred information found beyond what was previously extracted.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID..." and "WARS2 (NM_201263.2; NP_957715.1) mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)" listed for Family 2-V:7 and Family 2-V:8 suggests these individuals are compound heterozygotes. This implies at least two compound heterozygous individuals.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Pedigree of family 1" and "Pedigree of family 2" with "arrows indicate the respective index patients" suggest that there is one proband in each family, totaling at least two probands.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No additional inferred information found beyond what was previously extracted.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Full symbols represent affected individuals with ID" and "co-segregating with the disease in the family 1" suggest that the probands have intellectual disability (ID) and possibly other associated phenotypes mentioned in the context of the study, such as microcephaly, ataxia, speech impairment, and aggressive behavior.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "In the second family, we found a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene..." and "compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene" suggest at least one compound heterozygous individual in the study.
+
+## Pages 9-10 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2..." This suggests that there is at least one proband in family 2. Combined with previous inferences, there are at least two probands, one from each family.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No additional inferred information found beyond what was previously extracted.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "The WARS2 genotype we observed in the affected individuals comprises a frameshift mutation on the paternal allele and a missense change on the maternal allele. The mutations cosegregated with the disease in the family..." This suggests that the probands have a phenotype associated with the WARS2 mutations, likely including intellectual disability and other features mentioned in the study.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2..."
+
+INFERRED: This suggests there is at least one compound heterozygous individual in family 2. Combined with previous inferences, there are at least two compound heterozygous individuals in the study.
+
+## Pages 11-12 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "In this report, we describe putatively ID causing mutations in SARS and WARS2 in families with closely overlapping additional clinical features..." This suggests that there are at least two probands, one from each family, as the study involves two families.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals..." This suggests that there is no mention of a heterozygous proband, only compound heterozygous cases.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "In this report, we describe putatively ID causing mutations in SARS and WARS2 in families with closely overlapping additional clinical features including moderate ID, speech impairment, seizures, ataxia, and muscular weakness." This suggests that the probands have these phenotypes.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2."
+
+INFERRED: This suggests there is at least one compound heterozygous individual in family 2. Combined with previous inferences, there are at least two compound heterozygous individuals in the study.
+
+## Pages 13-14 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "We are very grateful to the affected individuals and their family for their participation in the study." This suggests that there are multiple affected individuals, likely corresponding to at least two probands, one from each family, as previously inferred.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No additional inferred information found beyond what was previously extracted.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Functionally the mutations we found in SARS and WARS2 might lead to a reduced amount of charged tRNA available for translation at the ribosomes, which in turn could lead to a reduced translation rate, especially of those proteins that contain high amounts of serine, selenocysteine or tryptophan, respectively." This suggests that the probands may have phenotypes related to these functional impairments, such as neurodevelopmental and neurodegenerative phenotypes, as previously inferred.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "This suggests that Wars2−/L53 represents a compound hypomorph similar to the situation observed in our patients." This implies that there is at least one compound heterozygous individual in the study, consistent with previous inferences.
+
+## Pages 15-16 ##
+1. Number of probands tested:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "Here, we report on mutations in two aminoacyl-tRNA synthetases that are associated with ID in two unrelated Iranian families." This suggests that there are at least two probands, one from each family.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: No additional inferred information found beyond what was previously extracted. The study primarily discusses compound heterozygous cases, with no explicit mention of heterozygous probands.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No explicit quote found.
+
+INFERRED: "In this report, we describe putatively ID causing mutations in SARS and WARS2 in families with closely overlapping additional clinical features including moderate ID, speech impairment, seizures, ataxia, and muscular weakness." This suggests that the probands have these phenotypes.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2."
+
+INFERRED: This suggests there is at least one compound heterozygous individual in family 2. Combined with previous inferences, there are at least two compound heterozygous individuals in the study.

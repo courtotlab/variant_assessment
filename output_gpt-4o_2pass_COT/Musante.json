@@ -1,0 +1,12 @@
+{
+  "num_tested_probands": 6,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Inferred from mentions of specific individuals tested: Family 1-III:4, Family 1-III:10, Family 1-III:9, Family 1-III:11, Family 2-V:7, and Family 2-V:8.",
+    "num_positive_het_probands": "No explicit information about heterozygous probands for pathogenic variants was found.",
+    "positive_phenotypes": "No phenotypes explicitly tied to positive heterozygous probands were found.",
+    "num_compound_or_double_hets": "Inferred from mentions of compound heterozygous mutations in Family 2, specifically individuals V:7 and V:8."
+  }
+}

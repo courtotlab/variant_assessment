@@ -1,0 +1,41 @@
+{
+  "num_tested_probands": 4,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "severe progressive encephalopathy",
+    "epileptic seizure",
+    "acute liver failure",
+    "mild dysmorphic facial features",
+    "intra-uterine growth retardation",
+    "severe axial hypotonia",
+    "hypertonia",
+    "dystonic posturing of arms and legs",
+    "slight dysmorphic features",
+    "severe delay of cognitive and motor development",
+    "optic atrophy",
+    "acute liver failure (ALF)",
+    "metabolic encephalopathy",
+    "severe generalized amyotrophy",
+    "seizures",
+    "severe encephalopathy",
+    "deteriorated rapidly",
+    "became progressively more unconscious and died half a year later",
+    "epilepsy",
+    "ptosis",
+    "hypoglycaemia",
+    "valproate induced hepatotoxicity",
+    "atrophy most prominent in the frontal regions",
+    "atrophy of the vermis cerebelli",
+    "brainstem and cerebellar peduncles atrophy"
+  ],
+  "num_compound_or_double_hets": 4,
+  "explanation": {
+    "num_tested_probands": "Pages 1-2, 3-4, 5-6, and 7-8 each describe a single proband tested.",
+    "num_positive_het_probands": "No explicit mention of heterozygous probands for a single pathogenic variant was found in any section.",
+    "positive_phenotypes": "Phenotypes were extracted from explicit and inferred descriptions across pages 1-8.",
+    "num_compound_or_double_hets": "Pages 1-2, 3-4, 5-6, and 7-8 each describe compound heterozygous mutations in the proband."
+  }
+}

@@ -1,0 +1,130 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability..."
+
+INFERRED: "Mention of 'the subject' and 'a 6-year-old child' suggesting a single proband."
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: "severe progressive encephalopathy," "acute liver failure," "mild dysmorphic facial features," "suggestive of cerebral palsy or a chromosomal disorder"
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)." 
+
+INFERRED: "The presence of two pathogenic variants suggests compound heterozygosity."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The proband was born at term from non-consanguineous parents."
+
+INFERRED: "Whole cell lysates and mitochondrial fractions were prepared from liver from the proband and controls." This suggests a single proband.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proband was born at term from non-consanguineous parents. Antenatal ultrasound examination revealed intra-uterine growth retardation. Birth weight was 2314 g, length 45 cm and head circumference 31.8 cm. The neonatal period was without complications. When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum."
+
+INFERRED: "severe delay of cognitive and motor development," "severe generalized amyotrophy," "acute liver failure (ALF) and metabolic encephalopathy," "optic atrophy," "enlargement of the lateral ventricles and third ventricle presumably due to white matter loss," "hypoplastic vermis cerebelli," "hypoplastic brainstem and cerebellar peduncles."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+
+INFERRED: "The presence of two pathogenic variants suggests compound heterozygosity."
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a 6-year-old child with WARS2 deficiency."
+
+INFERRED: "Mention of 'the subject' and 'a 6-year-old child' suggesting a single proband."
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability."
+
+INFERRED: "Her condition remained stable for several years until she presented for the first time with seizures at the age of six years... she developed acute liver failure and severe encephalopathy."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants."
+
+INFERRED: "The presence of two pathogenic variants suggests compound heterozygosity."
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability..."
+
+INFERRED: "Mention of 'the subject' and 'a 6-year-old child' suggesting a single proband."
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: 
+- "early developmental delay, motor weakness and intellectual disability"
+- "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability."
+
+INFERRED: 
+- "severe progressive encephalopathy," "acute liver failure," "mild dysmorphic facial features," "suggestive of cerebral palsy or a chromosomal disorder"
+- "Her condition remained stable for several years until she presented for the first time with seizures at the age of six years... she developed acute liver failure and severe encephalopathy."
+- "severe delay of cognitive and motor development," "severe generalized amyotrophy," "acute liver failure (ALF) and metabolic encephalopathy," "optic atrophy," "enlargement of the lateral ventricles and third ventricle presumably due to white matter loss," "hypoplastic vermis cerebelli," "hypoplastic brainstem and cerebellar peduncles."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: 
+- "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)."
+- "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+- "A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants."
+
+INFERRED: "The presence of two pathogenic variants suggests compound heterozygosity."
+
+## Pages 9 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability..."
+
+INFERRED: "Mention of 'the subject' and 'a 6-year-old child' suggesting a single proband."
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: 
+- "early developmental delay, motor weakness and intellectual disability"
+- "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability."
+
+INFERRED: 
+- "severe progressive encephalopathy," "acute liver failure," "mild dysmorphic facial features," "suggestive of cerebral palsy or a chromosomal disorder"
+- "Her condition remained stable for several years until she presented for the first time with seizures at the age of six years... she developed acute liver failure and severe encephalopathy."
+- "severe delay of cognitive and motor development," "severe generalized amyotrophy," "acute liver failure (ALF) and metabolic encephalopathy," "optic atrophy," "enlargement of the lateral ventricles and third ventricle presumably due to white matter loss," "hypoplastic vermis cerebelli," "hypoplastic brainstem and cerebellar peduncles."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: 
+- "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)."
+- "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836). The first variant (c.797delC, p.Pro266ArgfsTer10) was a single nucleotide deletion causing a frameshift and premature stopcodon. The second variant (c.938 A > T, p.Lys313Met) was a missense variant."
+- "A third primer pair was designed to confirm compound heterozygosity. This primer pair resulted in a PCR fragment containing both variants."
+
+INFERRED: "The presence of two pathogenic variants suggests compound heterozygosity."

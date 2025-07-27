@@ -1,0 +1,75 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose."
+
+INFERRED: "The patient" suggests a single proband.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not mention any probands who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+No relevant information found. The text does not provide specific clinical phenotypes associated with positive heterozygotes.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+INFERRED: "The patient" suggests a single proband.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "the father, the mother, and the other brother are heterozygous for a silent mutation."
+
+3. Positive proband phenotype(s):
+
+No relevant information found. The text does not provide specific clinical phenotypes associated with positive heterozygotes.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient is compound heterozygous for two silent mutations." 
+
+EXPLICIT: "One brother has the same genotype as the patient," indicating he is also compound heterozygous.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+INFERRED: "our patient" suggests a single proband.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "heterozygous mutation G3A. This mutation, Gly115Asp, is present in the mother and the three sons (striped area)."
+
+EXPLICIT: "Double peaks (C and T nucleotides; arrow) indicating heterozygous mutation, C3T. This mutation (Gln172STOP) is present in the father and two sons (black area in the pedigree)."
+
+3. Positive proband phenotype(s):
+
+No relevant information found. The text does not provide specific clinical phenotypes associated with positive heterozygotes.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "the patient was compound heterozygous for two silent mutations."
+
+EXPLICIT: "One brother has the same genotype as the patient," indicating he is also compound heterozygous.
+
+## Pages 7 ##
+1. Number of probands tested:
+
+No relevant information found. The provided text does not contain any new information about the number of probands tested.
+
+2. Number of positive HET probands:
+
+No relevant information found. The provided text does not contain any new information about probands who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+No relevant information found. The provided text does not contain any new information about clinical phenotypes associated with positive heterozygotes.
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found. The provided text does not contain any new information about individuals with compound or double heterozygous mutations.

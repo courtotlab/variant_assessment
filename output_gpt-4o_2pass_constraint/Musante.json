@@ -1,0 +1,24 @@
+{
+  "num_tested_probands": 2,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior",
+    "Delayed psychomotor development",
+    "Muscle weakness",
+    "Seizure",
+    "Behavior problems",
+    "Intellectual disability",
+    "tonic\u2013clonic seizures"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "The text consistently mentions 'two unrelated Iranian families' and describes genetic findings specific to 'the first family' and 'the second family,' suggesting that there are two probands tested, one from each family.",
+    "num_positive_het_probands": "The text describes 'a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene' in the second family, implying compound heterozygosity rather than simple heterozygosity. No explicit mention of simple heterozygous probands was found.",
+    "positive_phenotypes": "The phenotypes are explicitly listed in various sections, including 'moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior' for both families, and additional phenotypes like 'Delayed psychomotor development,' 'Muscle weakness,' 'Seizure,' 'Behavior problems,' 'Intellectual disability,' and 'tonic\u2013clonic seizures' are mentioned in the context of the families studied.",
+    "num_compound_or_double_hets": "The text explicitly mentions 'a compound heterozygous genotype of the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene' in the second family, and the table lists compound heterozygous mutations for Family 2-V:7 and Family 2-V:8, indicating 2 compound heterozygotes."
+  }
+}

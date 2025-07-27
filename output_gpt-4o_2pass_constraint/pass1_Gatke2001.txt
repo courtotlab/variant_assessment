@@ -1,0 +1,91 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+INFERRED: "The patient was a healthy 30-yr-old man..." and "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS..." suggest a single proband was tested.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not mention any probands who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose."
+
+INFERRED: "The response to mivacurium was an extensively prolonged duration of action." This suggests a phenotype related to prolonged neuromuscular block.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene." This indicates 1 compound heterozygote.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+INFERRED: "Retrospectively, the patient gave written informed consent to publish the results and permission to ask his family to participate in a pedigree analysis." This suggests a single proband was tested, as the focus is on "the patient."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This indicates that there are heterozygous individuals, but they are not the primary focus of the study.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+
+INFERRED: "The case presented shows that patients compound heterozygous for two silent mutations respond to mivacurium with extensively prolonged duration of action." This suggests a phenotype related to prolonged neuromuscular block.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Thus, the patient is compound heterozygous for two silent mutations." This indicates 1 compound heterozygote.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+INFERRED: "The patient" and "our patient" suggest a single proband was tested.
+
+2. Number of positive HET probands:
+
+INFERRED: "Pedigree analyses showed that S7 was inherited from the mother and the novel mutation from the father, which proves that both alleles are affected in the patient." This suggests that the patient is not heterozygous but compound heterozygous, and no other heterozygous probands are the focus of this study.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The homozygous silent phenotype of BChE is characterized by complete absence of BChE activity or by less than 10% activity of the usual phenotype."
+
+INFERRED: "In conclusion, our results indicate that patients who are compound heterozygous for silent mutations in the BCHE respond to mivacurium by extensively prolonged duration of its action." This suggests a phenotype related to prolonged neuromuscular block.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Biochemical data supported the conclusion that the patient was compound heterozygous for two silent mutations." This indicates 1 compound heterozygote.
+
+## Pages 7 ##
+1. Number of probands tested:
+
+INFERRED: "The patient was a healthy 30-yr-old man..." and "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS..." suggest a single proband was tested.
+
+INFERRED: "Retrospectively, the patient gave written informed consent to publish the results and permission to ask his family to participate in a pedigree analysis." This suggests a single proband was tested, as the focus is on "the patient."
+
+INFERRED: "The patient" and "our patient" suggest a single proband was tested.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This indicates that there are heterozygous individuals, but they are not the primary focus of the study.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose."
+
+INFERRED: "The response to mivacurium was an extensively prolonged duration of action." This suggests a phenotype related to prolonged neuromuscular block.
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+
+INFERRED: "The case presented shows that patients compound heterozygous for two silent mutations respond to mivacurium with extensively prolonged duration of action." This suggests a phenotype related to prolonged neuromuscular block.
+
+EXPLICIT: "The homozygous silent phenotype of BChE is characterized by complete absence of BChE activity or by less than 10% activity of the usual phenotype."
+
+INFERRED: "In conclusion, our results indicate that patients who are compound heterozygous for silent mutations in the BCHE respond to mivacurium by extensively prolonged duration of its action." This suggests a phenotype related to prolonged neuromuscular block.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene." This indicates 1 compound heterozygote.
+
+EXPLICIT: "Thus, the patient is compound heterozygous for two silent mutations." This indicates 1 compound heterozygote.
+
+EXPLICIT: "Biochemical data supported the conclusion that the patient was compound heterozygous for two silent mutations." This indicates 1 compound heterozygote.

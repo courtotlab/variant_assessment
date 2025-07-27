@@ -1,0 +1,13 @@
+{
+  "num_tested_probands": 0,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "No relevant text provided for analysis.",
+    "num_positive_het_probands": "No relevant text provided for analysis.",
+    "positive_phenotypes": "No relevant text provided for analysis.",
+    "num_compound_or_double_hets": "No relevant text provided for analysis.",
+    "explanation": "The input text did not contain any relevant information for extracting the required fields."
+  }
+}

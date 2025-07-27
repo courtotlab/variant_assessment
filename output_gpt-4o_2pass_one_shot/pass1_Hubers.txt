@@ -1,0 +1,39 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: "A 31-year-old man was referred to our movement disorders outpatient clinic at the age of 30 years." (This suggests a single proband was tested in this study.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes biallelic variants, which implies compound heterozygosity rather than simple heterozygosity.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: "severe hyperkinetic movement disorder and cognitive deficits," "ballistic movements and a stepwise loss of already acquired skills," "gross cerebellar atrophy of both hemispheres," "developmental cognitive delay and complex movement disorders."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2). The paternally inherited missense variant c.37T>G, p.(Trp13Gly)... The maternally inherited c.149G>A, p.Gly50Asp missense variant..."
+
+INFERRED: The description of "biallelic variants" and the inheritance pattern suggests that the proband is a compound heterozygote.
+
+## Pages 3 ##
+1. Number of probands tested:
+
+No additional relevant information found beyond what was previously extracted.
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes biallelic variants, which implies compound heterozygosity rather than simple heterozygosity.)
+
+3. Positive proband phenotype(s):
+
+No additional relevant information found beyond what was previously extracted.
+
+4. Number of compound/double heterozygotes:
+
+No additional relevant information found beyond what was previously extracted.

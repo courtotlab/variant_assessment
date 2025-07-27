@@ -1,0 +1,87 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS..."
+
+INFERRED: "The patient was a healthy 30-yr-old man..." (suggesting a single proband).
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not mention any probands who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene. The response to mivacurium was an extensively prolonged duration of action."
+
+INFERRED: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose." (This suggests the patient was generally healthy aside from the genetic condition affecting response to mivacurium.)
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: "Complete nucleotide sequencing revealed two point mutations, the known silent variant S7 and a previously undescribed mutation of amino acid residue 170 introducing a stop codon." (This supports the conclusion of one compound heterozygous individual.)
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+INFERRED: "Retrospectively, the patient gave written informed consent to publish the results and permission to ask his family to participate in a pedigree analysis." (This suggests a single proband was tested, as the focus is on "the patient.")
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." (This indicates that the father, mother, and one brother are heterozygous, but they are not probands in this study.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations." 
+
+INFERRED: "The case presented shows that patients compound heterozygous for two silent mutations respond to mivacurium with extensively prolonged duration of action." (This suggests the phenotype includes a prolonged response to mivacurium.)
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient is compound heterozygous for two silent mutations." (This indicates one compound heterozygous individual in the study.)
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS..."
+
+INFERRED: "Retrospectively, the patient gave written informed consent to publish the results and permission to ask his family to participate in a pedigree analysis." (This suggests a single proband was tested, as the focus is on "the patient.")
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not mention any probands who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene. The response to mivacurium was an extensively prolonged duration of action."
+
+INFERRED: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose." (This suggests the patient was generally healthy aside from the genetic condition affecting response to mivacurium.)
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: "Complete nucleotide sequencing revealed two point mutations, the known silent variant S7 and a previously undescribed mutation of amino acid residue 170 introducing a stop codon." (This supports the conclusion of one compound heterozygous individual.)
+
+## Pages 7 ##
+1. Number of probands tested:
+
+EXPLICIT: "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS..."
+
+INFERRED: "The patient was a healthy 30-yr-old man..." (suggesting a single proband).
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not mention any probands who were heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene. The response to mivacurium was an extensively prolonged duration of action."
+
+INFERRED: "The patient was a healthy 30-yr-old man (American Society of Anesthesiologists physical status I) scheduled for correction of the inner nose." (This suggests the patient was generally healthy aside from the genetic condition affecting response to mivacurium.)
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+INFERRED: "Complete nucleotide sequencing revealed two point mutations, the known silent variant S7 and a previously undescribed mutation of amino acid residue 170 introducing a stop codon." (This supports the conclusion of one compound heterozygous individual.)

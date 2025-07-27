@@ -1,0 +1,171 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The probands were examined by experienced clinical geneticists who assessed their physical and mental status."
+
+INFERRED: The text mentions "two Iranian families" and "the probands," suggesting that there are at least two probands tested, one from each family.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not provide explicit information about probands who are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In the first family, homozygosity mapping in combination with subsequent mutation screening revealed a homozygous missense mutation in the Seryl-tRNA Synthetase (SARS) gene (MIM# 607529), which co-segregates with moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+INFERRED: The phenotypes mentioned are associated with the homozygous mutation, not explicitly with heterozygous carriers.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene (MIM# 604733) by whole genome sequencing and could show that both co-segregate with moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior."
+
+INFERRED: The mention of "compound DNA-alterations" in the second family suggests at least one individual is a compound heterozygote.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The mention of "Family 1-III:4", "Family 1-III:10", "Family 1-III:9", "Family 1-III:11", "Family 2-V:7", and "Family 2-V:8" suggests that these individuals were tested, implying at least six probands were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not provide explicit information about probands who are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The table lists phenotypes such as "Delayed psychomotor development," "Ataxia," "Muscle weakness," "Seizure," "Aggressive behavior," "Speech impairment," and "Intellectual disability" for individuals in both families. However, these are associated with the mutations found and not explicitly tied to heterozygous carriers.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The table lists "WARS2 mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)" for Family 2-V:7 and Family 2-V:8, suggesting these individuals are compound heterozygotes.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text mentions "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents," suggesting that at least four probands (III:4, III:9, III:10, III:11) from Family 1 were tested. Additionally, "two affected siblings (V:7 and V:8)" from Family 2 are mentioned, implying they were tested as well. This suggests at least six probands were tested.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not provide explicit information about probands who are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text describes phenotypes such as "moderate ID, speech impairment (slow and slurred speech) and aggressive behavior," "microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10)," and "tonic–clonic seizures during infancy" for Family 1. For Family 2, phenotypes include "moderate ID (IQ = 41–46), athetosis, aggressive behavior, and speech impairment (slow and slurred speech)," "muscular weakness and ataxia (unbalanced gait starting at the age of 7–10 years)." However, these are associated with the mutations found and not explicitly tied to heterozygous carriers.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text mentions "compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene" and lists "WARS2 mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)" for Family 2-V:7 and Family 2-V:8, suggesting these individuals are compound heterozygotes.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text mentions "DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents," which suggests that multiple individuals were tested. However, without specific identifiers or numbers, it is not possible to determine the exact number of probands tested from this excerpt alone.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not provide explicit information about probands who are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text describes phenotypes such as "moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior" associated with the homozygous mutation in the SARS gene in Family 1. However, these are not explicitly tied to heterozygous carriers.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text mentions "compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene" and lists specific mutations, suggesting that individuals in Family 2 are compound heterozygotes. However, without specific identifiers or numbers, it is not possible to determine the exact number of compound heterozygotes from this excerpt alone.
+
+## Pages 9-10 ##
+1. Number of probands tested:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text mentions "affected individuals of family 2" and describes genetic findings in these individuals, suggesting that at least some members of family 2 were tested. However, without specific identifiers or numbers, it is not possible to determine the exact number of probands tested from this excerpt alone.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not provide explicit information about probands who are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text describes phenotypes such as "moderate ID, ataxia, speech impairment, microcephaly, and aggressive behavior" associated with compound heterozygous mutations in the WARS2 gene in family 2. However, these are not explicitly tied to heterozygous carriers.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2."
+
+INFERRED: The text describes a "compound heterozygous genotype" in family 2, indicating that at least one individual in this family is a compound heterozygote.
+
+## Pages 11-12 ##
+1. Number of probands tested:
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text mentions "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals," suggesting that at least some members of the second family were tested. However, without specific identifiers or numbers, it is not possible to determine the exact number of probands tested from this excerpt alone.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not provide explicit information about probands who are heterozygous for a pathogenic variant.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No additional explicit quotes found.
+
+INFERRED: The text describes phenotypes such as "moderate ID, speech impairment, seizures, ataxia, and muscular weakness" associated with the mutations in SARS and WARS2 genes. However, these are not explicitly tied to heterozygous carriers.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2."
+
+INFERRED: The mention of "compound heterozygous genotype" in the second family suggests at least one individual is a compound heterozygote.
+
+## Pages 13-14 ##
+1. Number of probands tested:
+
+No relevant information found.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No relevant information found.
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found.
+
+## Pages 15-16 ##
+1. Number of probands tested:
+
+No relevant information found.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No relevant information found.
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found.

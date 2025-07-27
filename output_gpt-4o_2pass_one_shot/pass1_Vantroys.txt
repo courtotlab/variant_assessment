@@ -1,0 +1,118 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability..."
+
+INFERRED: The consistent use of singular terms such as "a subject," "the subject," and "the proband" throughout the text suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions "two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)," which implies compound heterozygosity rather than simple heterozygosity. Therefore, there are no positive HET probands explicitly mentioned.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "early developmental delay, motor weakness and intellectual disability"
+
+EXPLICIT: "severe progressive encephalopathy"
+
+EXPLICIT: "acute liver failure"
+
+INFERRED: "mild dysmorphic facial features" and "slightly dysmorphic" suggest additional phenotypic features.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)" indicates compound heterozygosity.
+
+INFERRED: The description of the genetic findings in the singular proband suggests there is one compound heterozygote.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+INFERRED: The consistent use of singular terms such as "the proband" and detailed description of a single case throughout the text suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+INFERRED: The text describes "two compound heterozygous variants in the WARS2 gene," indicating compound heterozygosity rather than simple heterozygosity. Therefore, there are no positive HET probands explicitly mentioned.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proband was born at term from non-consanguineous parents. Antenatal ultrasound examination revealed intrauterine growth retardation."
+
+EXPLICIT: "severe axial hypotonia, hypertonia and dystonic posturing of arms and legs"
+
+EXPLICIT: "slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum."
+
+EXPLICIT: "severe delay of cognitive and motor development"
+
+EXPLICIT: "acute liver failure (ALF) and metabolic encephalopathy."
+
+INFERRED: The detailed clinical course, including episodes of decreased awareness, optic atrophy, and severe generalized amyotrophy, suggests a complex phenotype involving neurological and metabolic components.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836)."
+
+INFERRED: The description of the genetic findings in the singular proband suggests there is one compound heterozygote.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+INFERRED: The consistent use of singular terms such as "the proband" and detailed description of a single case throughout the text suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not explicitly mention any probands who are heterozygous for a pathogenic variant without being compound heterozygous.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "developmental delay, motor weakness and intellectual disability"
+
+EXPLICIT: "seizures"
+
+EXPLICIT: "acute liver failure and severe encephalopathy"
+
+INFERRED: The mention of "extra-pyramidal signs" and "epilepsy" in the context of the proband's phenotype suggests additional neurological features.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "A third primer pair was designed to confirm compound heterozygosity."
+
+INFERRED: The description of the genetic findings in the singular proband suggests there is one compound heterozygote.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+
+INFERRED: The consistent use of singular terms such as "the subject," "the proband," and detailed description of a single case throughout the text suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not explicitly mention any probands who are heterozygous for a pathogenic variant without being compound heterozygous.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "epilepsy, ptosis, hypoglycaemia, valproate induced hepatotoxicity"
+
+INFERRED: The mention of "a severe hepatopathy associated with valproate treatment" and "a non-specific, non-progressive encephalopathy" suggests additional phenotypic features related to liver and neurological issues.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The identical compound heterozygous mutant genotype (p.Pro266ArgfsTer10/ p.Lys313Met) was found in the two subjects with severe neonatal expression reported by Wortmann et al."
+
+INFERRED: The description of the genetic findings in the singular proband suggests there is one compound heterozygote.
+
+## Pages 9 ##
+1. Number of probands tested:
+
+INFERRED: The consistent use of singular terms such as "the subject," "the proband," and detailed description of a single case throughout the text suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+No relevant information found. The text does not explicitly mention any probands who are heterozygous for a pathogenic variant without being compound heterozygous.
+
+3. Positive proband phenotype(s):
+
+No relevant information found. The text provided does not contain additional explicit or inferred phenotypic information beyond what has already been extracted.
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found. The text provided does not contain additional explicit or inferred information about compound or double heterozygotes beyond what has already been extracted.

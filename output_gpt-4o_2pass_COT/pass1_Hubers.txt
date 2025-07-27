@@ -1,0 +1,39 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "A 31-year-old man was referred to our movement disorders outpatient clinic at the age of 30 years."
+
+INFERRED: "Trio exomic sequencing from leucocyte-derived DNA was performed after written informed consent as reported earlier." (This suggests that genetic testing was performed on this single proband.)
+
+2. Number of positive HET probands:
+
+No relevant information found. (The text describes biallelic variants, not heterozygous variants.)
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "a severe hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: "cognitive deficits," "developmental cognitive delay," "ballistic movements and a stepwise loss of already acquired skills," "uncontrollable ballistic and dystonic movements," "could communicate nonverbally with the parents on a basic level and react to orders."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2). The paternally inherited missense variant c.37T>G, p.(Trp13Gly)... The maternally inherited c.149G>A, p.Gly50Asp missense variant..." 
+
+This indicates the presence of compound heterozygous mutations in the proband.
+
+## Pages 3 ##
+1. Number of probands tested:
+
+No additional relevant information found.
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+No additional relevant information found.
+
+4. Number of compound/double heterozygotes:
+
+No additional relevant information found.

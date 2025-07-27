@@ -1,0 +1,72 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+2. Number of positive HET probands:
+
+INFERRED: The text does not explicitly mention any proband being heterozygous for a pathogenic variant. The proband in family 1 is described with two different mutations, but it is not explicitly stated that these are on separate alleles (heterozygous). The proband in family 3 is described as compound heterozygous. The proband in family 2 was not sequenced.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: Only one proband (family 3) is explicitly described as compound heterozygous. No other probands are described with this specific genetic configuration.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)."
+
+INFERRED: The proband in family 1 is described with two different mutations, but it is not explicitly stated that these are on separate alleles (heterozygous). The proband in family 3 is described as compound heterozygous. The proband in family 2 was not sequenced.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: Only one proband (family 3) is explicitly described as compound heterozygous. No other probands are described with this specific genetic configuration.
+
+## Pages 5 ##
+1. Number of probands tested:
+
+EXPLICIT: "As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)."
+
+INFERRED: The proband in family 1 is described with two different mutations, but it is not explicitly stated that these are on separate alleles (heterozygous). The proband in family 3 is described as compound heterozygous. The proband in family 2 was not sequenced.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+
+INFERRED: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine..."
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: Only one proband (family 3) is explicitly described as compound heterozygous. No other probands are described with this specific genetic configuration.

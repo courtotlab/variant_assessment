@@ -1,0 +1,12 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 5,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 3,
+  "explanation": {
+    "num_tested_probands": "Pages 1-2: 'The patient' suggests a single proband. Pages 3-4: 'The patient' suggests a single proband. Pages 5-6: 'our patient' suggests a single proband.",
+    "num_positive_het_probands": "Pages 3-4: 'the father, the mother, and the other brother are heterozygous for a silent mutation.' Pages 5-6: 'heterozygous mutation G3A... present in the mother and the three sons.' 'Double peaks... indicating heterozygous mutation, C3T... present in the father and two sons.'",
+    "positive_phenotypes": "No specific clinical phenotypes associated with positive heterozygotes were provided in the text.",
+    "num_compound_or_double_hets": "Pages 1-2: 'The patient was compound heterozygous for silent mutations.' Pages 3-4: 'The patient is compound heterozygous for two silent mutations.' 'One brother has the same genotype as the patient.' Pages 5-6: 'the patient was compound heterozygous for two silent mutations.' 'One brother has the same genotype as the patient.'"
+  }
+}

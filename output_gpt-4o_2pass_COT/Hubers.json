@@ -1,0 +1,24 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "severe hyperkinetic movement disorder",
+    "dystonia",
+    "chorea",
+    "ballism",
+    "cognitive deficits",
+    "developmental cognitive delay",
+    "ballistic movements",
+    "stepwise loss of already acquired skills",
+    "uncontrollable ballistic and dystonic movements",
+    "could communicate nonverbally with the parents on a basic level",
+    "react to orders"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Inferred from 'Trio exomic sequencing from leucocyte-derived DNA was performed...' indicating testing on a single proband.",
+    "num_positive_het_probands": "No relevant information found for heterozygous pathogenic variants.",
+    "positive_phenotypes": "Explicitly mentioned: 'a severe hyperkinetic movement disorder with dystonia, chorea, and ballism.' Inferred: 'cognitive deficits,' 'developmental cognitive delay,' etc.",
+    "num_compound_or_double_hets": "Explicitly mentioned: 'we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2...' indicating compound heterozygous mutations."
+  }
+}

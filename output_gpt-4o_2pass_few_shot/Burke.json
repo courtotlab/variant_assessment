@@ -1,0 +1,22 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism",
+    "left leg tremor",
+    "expressive language delay",
+    "tremor in upper extremities",
+    "intermittent dystonic posturing",
+    "advanced Levodopa-responsive Parkinsonism",
+    "peak-dose dyskinesia",
+    "stooped posture",
+    "disabling off-dystonia"
+  ],
+  "num_compound_or_double_hets": 3,
+  "explanation": {
+    "num_tested_probands": "The text describes three separate cases of probands with compound heterozygous mutations in WARS2, suggesting three probands were tested.",
+    "num_positive_het_probands": "No information about simple heterozygous mutations was found, only compound heterozygous mutations were described.",
+    "positive_phenotypes": "The text explicitly describes various phenotypes associated with Parkinsonism and related symptoms in the probands.",
+    "num_compound_or_double_hets": "Each proband described in the text was reported to have compound heterozygous mutations, totaling three individuals."
+  }
+}

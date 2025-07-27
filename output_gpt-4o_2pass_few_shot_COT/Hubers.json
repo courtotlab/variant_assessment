@@ -1,0 +1,18 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "severe hyperkinetic movement disorder with dystonia, chorea, and ballism",
+    "cognitive deficits",
+    "ballistic movements and a stepwise loss of already acquired skills",
+    "gross cerebellar atrophy",
+    "developmental cognitive delay and complex movement disorders"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text explicitly mentions a single patient with biallelic variants in WARS2 and describes a 31-year-old man referred to the clinic, indicating one proband was tested.",
+    "num_positive_het_probands": "No information about heterozygous probands is provided; the proband has biallelic variants.",
+    "positive_phenotypes": "The text explicitly and implicitly describes several phenotypes: severe hyperkinetic movement disorder with dystonia, chorea, and ballism; cognitive deficits; ballistic movements and a stepwise loss of already acquired skills; gross cerebellar atrophy; developmental cognitive delay and complex movement disorders.",
+    "num_compound_or_double_hets": "The text explicitly states the presence of biallelic variants in WARS2 and describes the inheritance of two different variants from each parent, indicating compound heterozygosity."
+  }
+}

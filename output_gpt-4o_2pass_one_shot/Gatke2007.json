@@ -1,0 +1,17 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "prolonged duration of action of succinylcholine",
+    "BChE activity below detection limit",
+    "apnoea",
+    "postoperative artificial ventilation"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "The explicit statements on pages 1-2 and 3-4 confirm three probands were tested.",
+    "num_positive_het_probands": "The explicit statement on pages 1-2 and 3-4 confirms one heterozygous proband.",
+    "positive_phenotypes": "Explicit and inferred statements on pages 1-2 and 3-4 describe phenotypes such as prolonged duration of action of succinylcholine, BChE activity below detection limit, apnoea, and postoperative artificial ventilation.",
+    "num_compound_or_double_hets": "Explicit and inferred statements on pages 1-2 and 3-4 suggest two compound heterozygotes."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "severe progressive encephalopathy",
+    "acute liver failure",
+    "mild dysmorphic facial features",
+    "suggestive of cerebral palsy or a chromosomal disorder",
+    "severe delay of cognitive and motor development",
+    "severe generalized amyotrophy",
+    "acute liver failure (ALF) and metabolic encephalopathy",
+    "optic atrophy",
+    "enlargement of the lateral ventricles and third ventricle presumably due to white matter loss",
+    "hypoplastic vermis cerebelli",
+    "hypoplastic brainstem and cerebellar peduncles"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The report consistently refers to a single proband throughout the pages, mentioning 'the subject' and 'a 6-year-old child'.",
+    "num_positive_het_probands": "No information indicating a heterozygous proband was found.",
+    "positive_phenotypes": "Phenotypes are explicitly mentioned and inferred throughout the report, including developmental delay, motor weakness, intellectual disability, and various other neurological and physical symptoms.",
+    "num_compound_or_double_hets": "The report explicitly mentions the detection of two pathogenic variants in WARS2, confirming compound heterozygosity."
+  }
+}

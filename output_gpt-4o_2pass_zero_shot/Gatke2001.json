@@ -1,0 +1,15 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "extensively prolonged duration of action of mivacurium",
+    "prolonged neuromuscular block"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "Inferred from multiple references to 'the patient' suggesting a single proband was tested.",
+    "num_positive_het_probands": "No explicit statement found regarding heterozygous probands. Inferred information does not specify probands in the context of this study.",
+    "positive_phenotypes": "Inferred from the description of the proband having 'extensively prolonged duration of action' of mivacurium due to being compound heterozygous for silent mutations.",
+    "num_compound_or_double_hets": "Explicitly stated that the patient was compound heterozygous for two silent mutations."
+  }
+}
