@@ -1,0 +1,100 @@
+## Pages 1-2 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "Three novel mutations were identified: BCHE*FS126, BCHE*I3E4-14C and BCHE*328D."
+
+INFERRED: The text mentions that DNA samples were collected from two of the probands and four relatives.
+
+2. Number of positive HET probands:
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text mentions that a relative of the proband was heterozygous for BCHE*FS126.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "She developed acute liver failure and severe progressive encephalopathy."
+
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: The text mentions that the patient had mild dysmorphic facial features, which were initially suggestive of cerebral palsy or a chromosomal disorder.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text mentions that the patient had a mosaic pattern in hepatocytes after cytochrome c oxidase staining, which suggests a mixture of normal and abnormal cells.
+
+## Pages 3-4 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "Three novel mutations were identified: BCHE*FS126, BCHE*I3E4-14C and BCHE*328D."
+
+INFERRED: The text mentions that DNA samples were collected from two of the probands and four relatives.
+
+2. Number of positive HET probands:
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text mentions that a relative of the proband was heterozygous for BCHE*FS126.
+
+Note: Since only one proband is explicitly mentioned as being heterozygous, we can infer that there may be others who are also heterozygous, but this information is not provided in the text.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "She developed acute liver failure and severe progressive encephalopathy."
+
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: The text mentions that the patient had mild dysmorphic facial features, which were initially suggestive of cerebral palsy or a chromosomal disorder.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text mentions that the patient had a mosaic pattern in hepatocytes after cytochrome c oxidase staining, which suggests a mixture of normal and abnormal cells.
+
+Note: There is only one explicit mention of a compound heterozygote in the text. However, the presence of a mosaic pattern in hepatocytes suggests that there may be other individuals who are also compound or double heterozygous for the mutations.
+
+## Pages 5-6 ##
+Here are the answers to the questions:
+
+1. Number of probands tested:
+EXPLICIT: "Three novel mutations were identified: BCHE*FS126, BCHE*I3E4-14C and BCHE*328D."
+
+INFERRED: The text mentions that DNA samples were collected from two of the probands and four relatives.
+
+2. Number of positive HET probands:
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text mentions that a relative of the proband was heterozygous for BCHE*FS126.
+
+Note: Since only one proband is explicitly mentioned as being heterozygous, we can infer that there may be others who are also heterozygous, but this information is not provided in the text.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "She developed acute liver failure and severe progressive encephalopathy."
+
+EXPLICIT: "Early developmental delay, motor weakness and intellectual disability"
+
+INFERRED: The text mentions that the patient had mild dysmorphic facial features, which were initially suggestive of cerebral palsy or a chromosomal disorder.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text mentions that the patient had a mosaic pattern in hepatocytes after cytochrome c oxidase staining, which suggests a mixture of normal and abnormal cells.
+
+Note: There is only one explicit mention of a compound heterozygote in the text. However, the presence of a mosaic pattern in hepatocytes suggests that there may be other individuals who are also compound or double heterozygous for the mutations.
+
+## Pages 7-8 ##
+The text does not provide explicit answers to the questions. The text is a scientific article discussing a case of WARS2 deficiency and its clinical manifestations, including liver disease and neurological symptoms.
+
+However, I can provide some general information about WARS2 deficiency based on the text:
+
+* WARS2 deficiency is a rare genetic disorder that affects mitochondrial function.
+* It is caused by mutations in the WARS2 gene, which encodes an aminoacyl-tRNA synthetase involved in mitochondrial protein synthesis.
+* The disorder can cause a range of symptoms, including liver disease, neurological symptoms, and developmental delay.
+* The text mentions that the proband had acute liver failure and severe progressive encephalopathy, and that she developed hepatopathy after starting valproate treatment.
+* The text also mentions that other subjects with WARS2 deficiency have been reported to have similar clinical manifestations, including liver disease and neurological symptoms.
+
+If you are looking for explicit answers to specific questions, I would need more information about the context of the article or the specific questions being asked.
+
+## Pages 9 ##
+It appears that there is no clear question being asked in the provided text. The text seems to be a scientific article discussing a case of WARS2 deficiency and its clinical manifestations.
+
+However, if you'd like to extract quotes from the text, I can help with that. Please let me know which specific pages or sections of the text you'd like me to extract quotes from.

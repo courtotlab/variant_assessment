@@ -1,0 +1,39 @@
+{
+  "num_tested_probands": 2,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "EXPLICIT: 'The index patient (V:1) was sequenced, and siblings and parents were also sequenced, when available.' INFERRED: The study mentions that DNA samples were collected from two of the probands and four relatives.",
+    "num_positive_het_probands": "INFERRED: The text does not provide explicit information on the number of heterozygous (HET) probands, but it mentions that 'the proband in family 2 was not sequenced, but a relative was heterozygous for BCHE*FS126.'",
+    "positive_phenotypes": [
+      {
+        "phenotype": "moderate ID",
+        "source": "EXPLICIT: 'moderate ID'"
+      },
+      {
+        "phenotype": "microcephaly",
+        "source": "EXPLICIT: 'microcephaly'"
+      },
+      {
+        "phenotype": "ataxia",
+        "source": "EXPLICIT: 'ataxia'"
+      },
+      {
+        "phenotype": "speech impairment",
+        "source": "EXPLICIT: 'speech impairment'"
+      },
+      {
+        "phenotype": "aggressive behavior",
+        "source": "EXPLICIT: 'aggressive behavior'"
+      }
+    ],
+    "num_compound_or_double_hets": "INFERRED: The text does not provide explicit information on the number of compound or double heterozygous individuals, but it mentions that 'the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.'"
+  }
+}

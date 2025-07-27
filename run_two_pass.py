@@ -93,10 +93,10 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
 # === Batch Runner for All PDFs ===
 def run_all_passes_on_literature_folder(
     literature_dir="literature",
-    prompt_pass1="llama prompts first pass/zero_shot.txt",
-    prompt_pass2="llama prompts two pass/zero_shot.txt",
-    intermediate_txt_dir="output_llama_2pass_zero_shot",
-    final_json_dir="output_llama_2pass_zero_shot",
+    prompt_pass1="llama prompts first pass/one_shot.txt",
+    prompt_pass2="llama prompts two pass/one_shot.txt",
+    intermediate_txt_dir="output_llama_2pass_one_shot",
+    final_json_dir="output_llama_2pass_one_shot",
     model="llama3.2:latest"
 ):
     pdf_dir = Path(literature_dir)

@@ -1,0 +1,14 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text mentions that clinical data and samples were obtained from the patient and his unaffected mother and father. The question 'Number of probands tested' seems to be asking for the number of individuals with genetic testing reported in this study, which is not explicitly stated. However, based on the provided text, it appears that there is only one patient being studied (the proband).",
+    "num_positive_het_probands": "There is no explicit mention of a single proband being heterozygous, but the text does mention that the patient's mother was not sequenced, but a relative was heterozygous for BCHE*FS126.",
+    "positive_phenotypes": "The text mentions that the patient presented with infantile-onset Parkinsonism and had decreased steady-state WARS2 protein in dermal fibroblasts. The text also mentions that the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M, but this is not a positive phenotype.",
+    "num_compound_or_double_hets": "There is no explicit mention of any other patients being compound or double heterozygous, but the text does mention that the patient's mother was not sequenced, but a relative was heterozygous for BCHE*FS126."
+  }
+}
