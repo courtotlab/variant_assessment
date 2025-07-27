@@ -1,0 +1,21 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "hyperkinetic movement disorder",
+    "dystonia",
+    "chorea",
+    "ballism",
+    "loss of already acquired skills",
+    "uncontrollable ballistic and dystonic movements",
+    "nonverbal communication"
+  ],
+  "num_compound_or_double_hets": 0,
+  "explanation": {
+    "num_tested_probands": "Page 1: 'Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism.'",
+    "num_positive_het_probands": "Page 1: The text mentions 'a patient with biallelic variants in WARS2,' which suggests that the patient has two mutated alleles. However, it does not specify whether these are heterozygous (different mutations on each allele) or homozygous (same mutation on both alleles). Therefore, it is not clear whether this patient is a positive HET proband.",
+    "positive_phenotypes": "Page 1: 'A 31-year-old man was referred to our movement disorders outpatient clinic at the age of 30 years... At the age of 15 months, the patient had first come to medical attention because of ballistic movements and a stepwise loss of already acquired skills. Since the age of 2 years, the patient showed a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements.' Page 3: 'Clinical presentation of the 31-year-old patient in the movement disorders outpatient clinic in 2018 showing a severe hyperkinetic movement disorder with uncontrollable dystonic and ballistic movements. He can communicate nonverbally with the parents on a basic level and react to orders.'",
+    "num_compound_or_double_hets": "Page 1: The text mentions 'a patient with biallelic variants in WARS2,' which suggests that the patient has two mutated alleles. However, it does not specify whether these are compound/double heterozygous mutations. Therefore, it is not clear whether this patient is a compound/double heterozygote.",
+    "explanation": "The information was extracted from the provided case report."
+  }
+}

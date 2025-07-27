@@ -1,0 +1,95 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "The patient was a healthy 30-yr-old man"
+
+INFERRED: The text refers to "the patient" throughout, suggesting that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS"
+
+INFERRED: The patient's phenotype is described as SS, which is associated with "extensively prolonged durations of action" in response to mivacurium.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.
+
+2. Number of positive HET probands:
+
+EXPLICIT: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation."
+
+INFERRED: No new inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+
+INFERRED: No new inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Thus, the patient is compound heterozygous for two silent mutations."
+
+INFERRED: No new inferred information found.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The homozygous silent phenotype of BChE is characterized by complete absence of BChE activity or by less than 10% activity of the usual phenotype."
+
+INFERRED: No new inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "Biochemical data supported the conclusion that the patient was compound heterozygous for two silent mutations."
+
+INFERRED: No new inferred information found.
+
+## Pages 7 ##
+1. Number of probands tested:
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.
+
+2. Number of positive HET probands:
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: No new explicit quotes found.
+
+INFERRED: No new inferred information found.

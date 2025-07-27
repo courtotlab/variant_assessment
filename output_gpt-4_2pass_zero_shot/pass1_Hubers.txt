@@ -1,0 +1,33 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+2. Number of positive HET probands:
+
+INFERRED: The text mentions "a patient with biallelic variants in WARS2," which suggests that the patient has two mutated alleles. However, it does not specify whether these are heterozygous (different mutations on each allele) or homozygous (same mutation on both alleles). Therefore, it is not clear whether this patient is a positive HET proband.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "A 31-year-old man was referred to our movement disorders outpatient clinic at the age of 30 years... At the age of 15 months, the patient had first come to medical attention because of ballistic movements and a stepwise loss of already acquired skills. Since the age of 2 years, the patient showed a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+
+4. Number of compound/double heterozygotes:
+
+INFERRED: The text mentions "a patient with biallelic variants in WARS2," which suggests that the patient has two mutated alleles. However, it does not specify whether these are compound/double heterozygous mutations. Therefore, it is not clear whether this patient is a compound/double heterozygote.
+
+## Pages 3 ##
+1. Number of probands tested:
+
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+2. Number of positive HET probands:
+
+No relevant information found.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "Clinical presentation of the 31-year-old patient in the movement disorders outpatient clinic in 2018 showing a severe hyperkinetic movement disorder with uncontrollable dystonic and ballistic movements. He can communicate nonverbally with the parents on a basic level and react to orders."
+
+4. Number of compound/double heterozygotes:
+
+No relevant information found.
