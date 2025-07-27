@@ -1,0 +1,62 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+
+EXPLICIT: "DNA samples were collected from two of the probands and four relatives."
+
+INFERRED: The text implies that genetic testing was reported for two unique probands as it states "DNA samples were collected from two of the probands."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "a relative was heterozygous for BCHE*FS126."
+
+INFERRED: The text does not explicitly state the number of probands who were heterozygous for a pathogenic variant, but it does mention that "a relative was heterozygous for BCHE*FS126," which suggests at least one individual was a positive HET proband.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M. In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine."
+
+INFERRED: The phenotypes associated with the positive heterozygotes are not explicitly mentioned in the text. However, the text does describe the clinical consequence of the mutations as "an extensively prolonged duration of action of succinylcholine," which can be inferred as the clinical phenotype associated with the probands.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: The text explicitly states that the proband in family 3 is a compound heterozygote, indicating that there is at least one individual with compound heterozygous mutations. No other individuals are mentioned as having compound or double heterozygous mutations.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126" and "The proband (2-1) was not sequenced, but had previously been ascribed a phenotype as compound heterozygous for the atypical variant and a silent variant using biochemical assays."
+
+INFERRED: The text suggests that there were at least two probands tested, one from family 1 and another from family 2, as indicated by the mention of "The proband in family 1" and "The proband (2-1) was not sequenced."
+
+2. Number of positive HET probands:
+
+EXPLICIT: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)."
+
+INFERRED: No additional explicit information is provided about the number of probands who were heterozygous for a pathogenic variant. However, the text mentions one patient (patient 2–3) who was genotyped as heterozygous for BCHE*FS126, suggesting at least one positive HET proband.
+
+3. Positive proband phenotype(s):
+
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit."
+
+INFERRED: No additional explicit phenotypes are mentioned for the positive heterozygous probands. However, the clinical consequence of the mutation in patient 1–2, which includes "prolonged duration of action of succinylcholine resulting in 3 hours of apnoea," can be inferred as the clinical phenotype associated with the heterozygous mutation.
+
+4. Number of compound/double heterozygotes:
+
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."
+
+INFERRED: No additional explicit information is provided about the number of individuals with compound or double heterozygous mutations. The text explicitly states that the proband in family 3 is a compound heterozygote, indicating that there is at least one individual with compound heterozygous mutations.
+
+## Pages 5 ##
+1. Number of probands tested:
+No relevant information found.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+No relevant information found.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Response to mivacurium in a patient compound heterozygous for a novel and a known silent mutation in the butyrylcholinesterase gene-Genotyping by sequencing."

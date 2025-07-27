@@ -1,0 +1,17 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 3,
+  "positive_phenotypes": [
+    "extensively prolonged duration of action to mivacurium due to compound heterozygosity for silent mutations",
+    "very prolonged neuromuscular block",
+    "absence of active BChE",
+    "complete absence of BChE activity or by less than 10% activity of the usual phenotype"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "References to 'the patient' and 'our patient' throughout the report suggest a single proband.",
+    "num_positive_het_probands": "The biochemical data indicate that the father, the mother, and one brother are heterozygous for a silent mutation, suggesting three positive HET probands.",
+    "positive_phenotypes": "The report describes the patient as compound heterozygous for silent mutations with an extensively prolonged duration of action to mivacurium, a very prolonged neuromuscular block, and absence of active BChE. It also mentions a complete absence of BChE activity or less than 10% activity of the usual phenotype.",
+    "num_compound_or_double_hets": "The patient and one brother are described as compound heterozygous for two silent mutations, indicating two compound/double heterozygotes."
+  }
+}

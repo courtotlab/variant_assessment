@@ -1,0 +1,21 @@
+{
+  "num_tested_probands": 3,
+  "num_positive_het_probands": 1,
+  "positive_phenotypes": [
+    "prolonged duration of action of succinylcholine",
+    "BChE activity was below detection limit",
+    "extensively prolonged duration of action of succinylcholine",
+    "3 hours of apnoea",
+    "postoperative artificial ventilation at the intensive care unit",
+    "prolonged duration of action of 360 min following succinylcholine",
+    "prolonged duration of action of succinylcholine of 90 min, which is six times the normal duration"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The report states that 'DNA samples were collected from two of the probands' and also mentions 'The probands of the three unrelated families,' suggesting that there were three probands in total.",
+    "num_positive_het_probands": "The report explicitly states that 'One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2-3).'",
+    "positive_phenotypes": "The report provides explicit descriptions of the phenotypes of the probands, including 'prolonged duration of action of succinylcholine,' 'BChE activity was below detection limit,' and specific details about the duration of symptoms and the need for postoperative artificial ventilation.",
+    "num_compound_or_double_hets": "The report explicitly states that 'The proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.'",
+    "explanation": "Information was extracted from explicit statements and inferred from the context provided in the report, following the rules for determining the number of probands tested, positive HET probands, positive proband phenotypes, and compound/double heterozygotes."
+  }
+}

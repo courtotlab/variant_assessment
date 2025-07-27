@@ -1,0 +1,93 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we present a 6-year-old girl in whom severe delay of early cognitive and motor development and mild dysmorphic facial features were initially suggestive of cerebral palsy or a chromosomal disorder as she was slightly dysmorphic."
+
+INFERRED: The text suggests that the study is focused on a single proband, the 6-year-old girl mentioned.
+
+2. Number of positive HET probands:
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)."
+
+INFERRED: The report indicates that the 6-year-old girl is heterozygous for two pathogenic variants in WARS2, but it does not explicitly state that these variants are on separate alleles, which is necessary to confirm that she is a positive HET proband. Without this information, we cannot definitively conclude the number of positive HET probands.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Here, we present a 6-year-old girl in whom severe delay of early cognitive and motor development and mild dysmorphic facial features were initially suggestive of cerebral palsy or a chromosomal disorder as she was slightly dysmorphic."
+
+INFERRED: The phenotypes associated with the proband include "severe delay of early cognitive and motor development" and "mild dysmorphic facial features."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)."
+
+INFERRED: The text indicates that the proband has two known pathogenic variants in WARS2, which could suggest that she is a compound heterozygote. However, without explicit confirmation that these variants are on separate alleles, we cannot definitively conclude that she is a compound/double heterozygote.
+
+No relevant information found to explicitly confirm the number of compound/double heterozygotes.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+EXPLICIT: "The same fractions were prepared from liver from the proband and controls."
+INFERRED: The text continues to suggest that the study is focused on a single proband, as indicated by the use of the singular term "the proband."
+
+2. Number of positive HET probands:
+INFERRED: The report indicates that the proband has two pathogenic variants in WARS2 (c.797delC, p.Pro266ArgfsTer10 and c.938 A > T, p.Lys313Met), which are described as compound heterozygous. This implies that the proband is heterozygous for each of the two pathogenic variants, but it does not explicitly state that these variants are on separate alleles in a monoallelic state for each variant. Therefore, we cannot definitively conclude the number of positive HET probands without explicit confirmation of monoallelic status.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum."
+EXPLICIT: "When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed."
+EXPLICIT: "At six years of age, she was hospitalized because of a long lasting episode with decreased awareness, lateral eye deviation and twitching of the eyelids at the left."
+EXPLICIT: "Dystonic posturing of the limbs together with motor hyperactivity and continuous choreatic movements were seen."
+EXPLICIT: "She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy."
+EXPLICIT: "Ophthalmological examination revealed optic atrophy."
+INFERRED: The proband's clinical phenotypes include severe axial hypotonia, hypertonia, dystonic posturing, dysmorphic features, severe delay of cognitive and motor development, episodes with decreased awareness, optic atrophy, and acute liver failure with metabolic encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "As the great majority of mitochondrial diseases follows a recessive mode of inheritance (after exclusion of mtDNA alterations), only variants that were homozygous or compound heterozygous were included. This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836)."
+INFERRED: The text explicitly states that the proband has two compound heterozygous variants in the WARS2 gene, which indicates that she is a compound heterozygote. Therefore, there is one compound/double heterozygote reported.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we report on a 6-year-old child with WARS2 deficiency."
+INFERRED: The text continues to focus on a single proband, the 6-year-old child mentioned.
+
+2. Number of positive HET probands:
+INFERRED: The text mentions that the mother of the proband is a carrier of one of the variants (c.797delC, p.Pro266ArgfsTer10) and does not carry the missense variant, which suggests that the proband inherited one pathogenic variant from the mother. However, without information about the inheritance of the second variant from the father (due to his DNA not being available for testing), we cannot definitively conclude the zygosity of the proband. Therefore, the number of positive HET probands remains uncertain.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability."
+EXPLICIT: "Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated."
+EXPLICIT: "During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+INFERRED: The proband's clinical phenotypes include developmental delay, motor weakness, intellectual disability, seizures, acute liver failure, and severe encephalopathy.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "A third primer pair was designed to confirm compound heterozygosity."
+INFERRED: The text confirms that the proband is a compound heterozygote, indicating that there is one compound/double heterozygote reported.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+EXPLICIT: "In the subject reported here, microscopic examination of liver showed a mosaic pattern after activity staining of cytochrome c oxidase."
+INFERRED: The text continues to focus on a single proband, as indicated by the use of the singular term "the subject reported here."
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "In the subject reported here, microscopic examination of liver showed a mosaic pattern after activity staining of cytochrome c oxidase."
+INFERRED: The proband's clinical phenotypes include a liver defect as indicated by the mosaic pattern after activity staining of cytochrome c oxidase, which is suggestive of an intramitochondrial protein synthesis defect.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The identical compound heterozygous mutant genotype (p.Pro266ArgfsTer10/ p.Lys313Met) was found in the two subjects with severe neonatal expression reported by Wortmann et al. (Table 2)."
+INFERRED: The text explicitly states that the proband has an identical compound heterozygous genotype as found in two other subjects reported by Wortmann et al., which indicates that the proband is a compound heterozygote. Therefore, there is one compound/double heterozygote reported.
+
+## Pages 9 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we report on a 6-year-old child with WARS2 deficiency."
+INFERRED: The text continues to focus on a single proband, the 6-year-old child mentioned.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "In the subject reported here, microscopic examination of liver showed a mosaic pattern after activity staining of cytochrome c oxidase."
+INFERRED: The proband's clinical phenotypes include a liver defect as indicated by the mosaic pattern after activity staining of cytochrome c oxidase, which is suggestive of an intramitochondrial protein synthesis defect.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The identical compound heterozygous mutant genotype (p.Pro266ArgfsTer10/ p.Lys313Met) was found in the two subjects with severe neonatal expression reported by Wortmann et al. (Table 2)."
+INFERRED: The text explicitly states that the proband has an identical compound heterozygous genotype as found in two other subjects reported by Wortmann et al., which indicates that the proband is a compound heterozygote. Therefore, there is one compound/double heterozygote reported.

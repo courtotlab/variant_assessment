@@ -1,0 +1,50 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+
+2. Number of positive HET probands:
+INFERRED: The text does not explicitly state the number of probands who were heterozygous for a pathogenic variant. However, it mentions that "a relative was heterozygous for BCHE*FS126" and "the proband in family 2 was not sequenced," which implies that there may be at least one heterozygous proband, but this is not explicitly confirmed for the probands themselves.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "prolonged duration of action of succinylcholine" and "prolonged duration of action of mivacurium."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M."
+
+EXPLICIT: "the proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126," which suggests a compound heterozygous state, although it is not explicitly labeled as such in the text.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126."
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."
+INFERRED: "The proband (2-1) was not sequenced," suggesting that there was a proband in family 2, although not sequenced.
+
+2. Number of positive HET probands:
+INFERRED: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)." This suggests that there is at least one heterozygous proband, although it is not explicitly stated that patient 2-3 is a proband.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit."
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M, the latter mutation also known as the H-variant. BChE activity was below detection limit, and the patient had experienced a prolonged duration of action of succinylcholine of 90 min, which is six times the normal duration."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."
+INFERRED: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126," which suggests a compound heterozygous state, although it is not explicitly labeled as such in the text.
+
+## Pages 5 ##
+1. Number of probands tested:
+EXPLICIT: "The probands of the three unrelated families were referred to DCRU because of prolonged duration of action of succinylcholine."
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126."
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."
+INFERRED: "The proband (2-1) was not sequenced," suggesting that there was a proband in family 2, although not sequenced.
+
+2. Number of positive HET probands:
+INFERRED: "One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2–3)." This suggests that there is at least one heterozygous proband, although it is not explicitly stated that patient 2-3 is a proband.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "prolonged duration of action of succinylcholine" and "prolonged duration of action of mivacurium."
+EXPLICIT: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit."
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M, the latter mutation also known as the H-variant. BChE activity was below detection limit, and the patient had experienced a prolonged duration of action of succinylcholine of 90 min, which is six times the normal duration."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M."
+INFERRED: "The proband in family 1 (Fig. 1, patient 1–2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126," which suggests a compound heterozygous state, although it is not explicitly labeled as such in the text.

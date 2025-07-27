@@ -1,0 +1,63 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+INFERRED: "The patient was a healthy 30-yr-old man" and "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS" suggest a single proband was tested.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS, including a pedigree analysis and delineation of the molecular genetic method used to identify the genotype."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+
+## Pages 3-4 ##
+1. Number of probands tested:
+INFERRED: "Retrospectively, the patient gave written informed consent to publish the results and permission to ask his family to participate in a pedigree analysis." This suggests that the focus was on a single proband for the genetic testing.
+
+2. Number of positive HET probands:
+INFERRED: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This indicates that there are three heterozygous individuals, but it does not specify if they are probands or not. Since the focus of the study is on the patient who is compound heterozygous, there is no explicit mention of a positive HET proband.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+INFERRED: "The case presented shows that patients compound heterozygous for two silent mutations respond to mivacurium with extensively prolonged duration of action." This suggests that the proband's phenotype includes an extensively prolonged duration of action to mivacurium due to the compound heterozygous silent mutations.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Thus, the patient is compound heterozygous for two silent mutations."
+INFERRED: "One brother has the same genotype as the patient," which suggests that there is at least one other compound heterozygote in addition to the patient. However, it is not clear if this brother is considered a proband in the study.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+INFERRED: "administered to our patient" and "in our patient" suggest a single proband was tested.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+INFERRED: "in our patient, however, the determinant was drug distribution, as the patient has no active BChE" and "our results indicate that patients who are compound heterozygous for silent mutations in the BCHE respond to mivacurium by extensively prolonged duration of its action" suggest that the proband's phenotype includes no active BChE and an extensively prolonged duration of action to mivacurium.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "the patient was compound heterozygous for two silent mutations."
+INFERRED: "Pedigree analyses showed that S7 was inherited from the mother and the novel mutation from the father, which proves that both alleles are affected in the patient" suggests that there is at least one individual (the patient) who is a compound heterozygote.
+
+## Pages 7 ##
+1. Number of probands tested:
+INFERRED: "The patient was a healthy 30-yr-old man" and "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS" suggest a single proband was tested.
+INFERRED: "Retrospectively, the patient gave written informed consent to publish the results and permission to ask his family to participate in a pedigree analysis." This suggests that the focus was on a single proband for the genetic testing.
+INFERRED: "administered to our patient" and "in our patient" suggest a single proband was tested.
+
+2. Number of positive HET probands:
+INFERRED: "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, whereas the father, the mother, and the other brother are heterozygous for a silent mutation." This indicates that there are three heterozygous individuals, but it does not specify if they are probands or not. Since the focus of the study is on the patient who is compound heterozygous, there is no explicit mention of a positive HET proband.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "This article presents the pharmacodynamics and pharmacokinetics of a normal dose of mivacurium in a patient with phenotype SS, including a pedigree analysis and delineation of the molecular genetic method used to identify the genotype."
+EXPLICIT: "The patient’s BChE activity was zero, indicating that he was homozygous for silent mutations."
+INFERRED: "The case presented shows that patients compound heterozygous for two silent mutations respond to mivacurium with extensively prolonged duration of action." This suggests that the proband's phenotype includes an extensively prolonged duration of action to mivacurium due to the compound heterozygous silent mutations.
+INFERRED: "in our patient, however, the determinant was drug distribution, as the patient has no active BChE" and "our results indicate that patients who are compound heterozygous for silent mutations in the BCHE respond to mivacurium by extensively prolonged duration of its action" suggest that the proband's phenotype includes no active BChE and an extensively prolonged duration of action to mivacurium.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "The patient was compound heterozygous for silent mutations in the butyrylcholinesterase gene."
+EXPLICIT: "Thus, the patient is compound heterozygous for two silent mutations."
+INFERRED: "One brother has the same genotype as the patient," which suggests that there is at least one other compound heterozygote in addition to the patient. However, it is not clear if this brother is considered a proband in the study.
+INFERRED: "Pedigree analyses showed that S7 was inherited from the mother and the novel mutation from the father, which proves that both alleles are affected in the patient" suggests that there is at least one individual (the patient) who is a compound heterozygote.

@@ -1,0 +1,60 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+INFERRED: "Here, we report the case of a 17-year-old boy with compound heterozygous mutations in WARS2" suggests a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a 17-year-old boy with compound heterozygous mutations in WARS2 (p.Trp13Gly, p.Ser228Trp) who presented with infantile-onset, Levodopa-responsive Parkinsonism at the age of 2 years."
+
+4. Number of compound/double heterozygotes:
+INFERRED: "a 17-year-old boy with compound heterozygous mutations in WARS2" suggests there is 1 compound heterozygote.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+INFERRED: "The patient was the first and only child born to non-consanguineous parents" and "The patient, following informed and written consent, was admitted in the NIH Clinical Center" suggest a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The patient was the first and only child born to non-consanguineous parents of European descent with no relevant family history."
+EXPLICIT: "Early development was normal until the age of 1 when he was first noted to have left leg tremor while learning to stand."
+EXPLICIT: "At 18 months, the left leg tremor spread to his right leg and he was noted to have expressive language delay despite good receptive language skills."
+EXPLICIT: "By 23 months, tremor had also become apparent in the upper extremities along with intermittent dystonic posturing of all extremities."
+EXPLICIT: "The patient began to experience typical motor complications of more advanced PD including peak-dose and wearing-off phenomena with disabling retrocollic dystonic spasms."
+EXPLICIT: "The patient was evaluated at the NIH at age 9 and had advanced Levodopa-responsive Parkinsonism with prominent and unpredictable 'on-off' fluctuations, peak-dose dyskinesia, stooped posture and disabling off-dystonia."
+EXPLICIT: "Chronic headaches occurred due to retrocollic dystonic spasms."
+EXPLICIT: "A brain magnetic resonance imaging (MRI) suggested progressive generalized brain atrophy."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Specifically, the patient was compound heterozygous for 2 variants in WARS2 (NM_015836.3): a missense variant c.37T>G (p.Trp13Gly) that was inherited from his mother and a missense variant c.683C>G (p.Ser228Trp) that was inherited from his father." suggests there is 1 compound heterozygote.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+INFERRED: "Here, we present a fourth patient with compound heterozygous mutations in WARS2" suggests a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Here, we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset, Levodopa-responsive Parkinsonism."
+INFERRED: The phenotypes described in the discussion, such as "moderate delayed psychomotor development, speech impairment, ataxia, and athetoid movements," "developmental delay, infantile-onset leukoencephalopathy, spasticity, hypotonia, tremor, muscle atrophy, and seizures," and "infantile-onset, Levodopa-responsive Parkinsonism" are likely relevant to the proband's phenotype, given the context of comparing clinical characteristics of patients with biallelic WARS2 mutations.
+
+4. Number of compound/double heterozygotes:
+INFERRED: "Here, we present a fourth patient with compound heterozygous mutations in WARS2" suggests there is 1 compound heterozygote.
+
+## Pages 7 ##
+1. Number of probands tested:
+INFERRED: "Here, we present a fourth patient with compound heterozygous mutations in WARS2" suggests a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Here, we present a fourth patient with compound heterozygous mutations in WARS2 and a clinical presentation of infantile-onset, Levodopa-responsive Parkinsonism."
+INFERRED: The phenotypes described in the discussion, such as "moderate delayed psychomotor development, speech impairment, ataxia, and athetoid movements," "developmental delay, infantile-onset leukoencephalopathy, spasticity, hypotonia, tremor, muscle atrophy, and seizures," and "infantile-onset, Levodopa-responsive Parkinsonism" are likely relevant to the proband's phenotype, given the context of comparing clinical characteristics of patients with biallelic WARS2 mutations.
+
+4. Number of compound/double heterozygotes:
+INFERRED: "Here, we present a fourth patient with compound heterozygous mutations in WARS2" suggests there is 1 compound heterozygote.

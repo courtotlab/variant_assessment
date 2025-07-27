@@ -1,0 +1,16 @@
+{
+  "num_tested_probands": 4,
+  "num_positive_het_probands": 2,
+  "positive_phenotypes": [
+    "prolonged duration of action of succinylcholine",
+    "3 hours of apnoea",
+    "postoperative artificial ventilation"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Page 1-2: 'DNA samples were collected from two of the probands and four relatives.' Page 3-4: 'The proband in family 1 (Fig. 1, patient 1-2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126' and 'The proband (2-1) was not sequenced...'",
+    "num_positive_het_probands": "Page 1-2: 'a relative was heterozygous for BCHE*FS126.' Page 3-4: 'One patient with a low BChE activity was genotyped as heterozygous for BCHE*FS126 (Table 1, patient 2-3).'",
+    "positive_phenotypes": "Page 1-2: 'In both patients, BChE activity was below detection limit, and they experienced an extensively prolonged duration of action of succinylcholine.' Page 3-4: 'The proband in family 1 (Fig. 1, patient 1-2) had the genotype BCHE*115D*I3E4-14C/BCHE*FS126 and displayed prolonged duration of action of succinylcholine resulting in 3 hours of apnoea and hence postoperative artificial ventilation at the intensive care unit.'",
+    "num_compound_or_double_hets": "Page 1-2: 'the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M.' Page 3-4: 'The proband in family 3 (Table 1, patient 3) was compound heterozygous for BCHE*328D and BCHE*142M.'"
+  }
+}

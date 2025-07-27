@@ -1,0 +1,33 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+INFERRED: The use of "the first case" suggests that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+EXPLICIT: "Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits."
+INFERRED: The patient is described as having "biallelic variants," which implies that the proband is not heterozygous for a single pathogenic variant but has two variants. Therefore, there are no positive HET probands reported in this study.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+EXPLICIT: "Since the age of 2 years, the patient showed a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+EXPLICIT: "The clinical presentation of the patient at the age of 31 years is demonstrated in the accompanying Video S1."
+INFERRED: The patient also has "cognitive deficits," as mentioned in the discussion section, although this is not explicitly tied to the heterozygous state.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits."
+INFERRED: The term "biallelic variants" implies that the patient has two different pathogenic variants, which would classify him as a compound heterozygote. Therefore, there is one compound/double heterozygote reported in this study.
+
+## Pages 3 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+EXPLICIT: "Since the age of 2 years, the patient showed a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+EXPLICIT: "The clinical presentation of the patient at the age of 31 years is demonstrated in the accompanying Video S1."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits."

@@ -1,0 +1,31 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+INFERRED: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism." This suggests a single proband in this study.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+EXPLICIT: "The clinical presentation of the patient at the age of 31 years is demonstrated in the accompanying Video S1."
+INFERRED: "All presented neurodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa," although this refers to individuals from other studies, it provides context for the type of phenotypes associated with WARS2 mutations.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits." The term "biallelic variants" implies that the patient has two different mutations, one on each allele, which is consistent with being a compound heterozygote.
+INFERRED: "we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2)." This further supports that the patient has two different mutations in the WARS2 gene, indicating a compound heterozygote status.
+
+## Pages 3 ##
+1. Number of probands tested:
+INFERRED: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism." This suggests a single proband in this study.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+EXPLICIT: "The clinical presentation of the patient at the age of 31 years is demonstrated in the accompanying Video S1."
+INFERRED: "All presented neurodevelopmental as well as complex movement disorders and variable other findings such as epilepsy or retinitis pigmentosa," although this refers to individuals from other studies, it provides context for the type of phenotypes associated with WARS2 mutations.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Here we present a patient with biallelic variants in WARS2 and a clinical phenotype consisting of a severe hyperkinetic movement disorder and cognitive deficits." The term "biallelic variants" implies that the patient has two different mutations, one on each allele, which is consistent with being a compound heterozygote.
+INFERRED: "we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2)." This further supports that the patient has two different mutations in the WARS2 gene, indicating a compound heterozygote status.

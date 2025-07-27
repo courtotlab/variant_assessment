@@ -1,0 +1,15 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "phenotype SS",
+    "zero BChE activity"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The use of 'The patient' suggests a single proband was tested.",
+    "num_positive_het_probands": "Since the patient is described as compound heterozygous, this implies that there are no positive HET probands (i.e., heterozygous for a single pathogenic variant) reported in this study.",
+    "positive_phenotypes": "The phenotype associated with the proband is referred to as 'phenotype SS,' which is related to the response to mivacurium and extensively prolonged neuromuscular block. Additionally, the patient's BChE activity was zero, indicating that he was homozygous for silent mutations.",
+    "num_compound_or_double_hets": "Since the text refers to 'The patient' as compound heterozygous, we can infer that there is 1 individual reported to have compound heterozygous mutations."
+  }
+}

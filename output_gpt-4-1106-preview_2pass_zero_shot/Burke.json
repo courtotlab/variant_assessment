@@ -1,0 +1,29 @@
+{
+  "num_tested_probands": 2,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "infantile-onset",
+    "Levodopa-responsive Parkinsonism",
+    "left leg tremor",
+    "expressive language delay",
+    "tremor in upper extremities",
+    "intermittent dystonic posturing of all extremities",
+    "motor complications of advanced PD",
+    "peak-dose and wearing-off phenomena",
+    "disabling retrocollic dystonic spasms",
+    "advanced Levodopa-responsive Parkinsonism with 'on-off' fluctuations",
+    "peak-dose dyskinesia",
+    "stooped posture",
+    "off-dystonia",
+    "chronic headaches",
+    "progressive generalized brain atrophy",
+    "deep brain stimulator (DBS) leads implantation"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Pages 1-2, 3-4, 5-6, and 7 all mention a single proband, suggesting two unique probands tested in total.",
+    "num_positive_het_probands": "No information provided about heterozygous probands without compound mutations.",
+    "positive_phenotypes": "Pages 3-4 and 7 provide detailed descriptions of the proband's phenotypes.",
+    "num_compound_or_double_hets": "Pages 1-2, 3-4, 5-6, and 7 each mention a single individual with compound heterozygous mutations, suggesting two unique individuals in total."
+  }
+}

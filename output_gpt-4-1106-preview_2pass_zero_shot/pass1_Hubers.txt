@@ -1,0 +1,25 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+INFERRED: The text refers to "the first case" and provides a detailed case report of a single individual, suggesting that only one proband was tested in this study. "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+2. Number of positive HET probands:
+INFERRED: The case report describes a patient with biallelic variants in WARS2, which implies that the patient is not heterozygous (HET) but rather compound heterozygous or homozygous. Therefore, there are no positive HET probands reported in this study. "Here we present a patient with biallelic variants in WARS2..."
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements," "cognitive deficits," "developmental cognitive delay and complex movement disorders," and "juvenile hyperkinetic movement disorders with dystonia, chorea, and ballism."
+
+4. Number of compound/double heterozygotes:
+INFERRED: The patient described in the case report has biallelic variants in WARS2, which suggests that the patient is either compound heterozygous or homozygous. Since the text does not explicitly state "compound heterozygous," but does mention two different inherited variants from each parent, it can be inferred that the patient is a compound heterozygote. "The paternally inherited missense variant c.37T>G, p.(Trp13Gly)... The maternally inherited c.149G>A, p.Gly50Asp missense variant..."
+
+## Pages 3 ##
+1. Number of probands tested:
+INFERRED: The text refers to "the 31-year-old patient" and "clinical presentation of the 31-year-old patient," suggesting that only one proband was tested in this study.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a severe hyperkinetic movement disorder with uncontrollable dystonic and ballistic movements."
+
+4. Number of compound/double heterozygotes:
+INFERRED: The description of "the 31-year-old patient" in the context of the case report suggests that there is one individual who is the subject of the study, and the previously extracted quotes indicate that this patient has biallelic variants in WARS2, which implies that the patient is a compound heterozygote.

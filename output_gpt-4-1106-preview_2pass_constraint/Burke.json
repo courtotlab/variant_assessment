@@ -1,0 +1,37 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "infantile-onset, Levodopa-responsive Parkinsonism",
+    "left leg tremor",
+    "expressive language delay",
+    "tremor in the upper extremities",
+    "intermittent dystonic posturing of all extremities",
+    "motor complications of more advanced PD including peak-dose and wearing-off phenomena",
+    "disabling retrocollic dystonic spasms",
+    "advanced Levodopa-responsive Parkinsonism with prominent and unpredictable 'on-off' fluctuations",
+    "peak-dose dyskinesia",
+    "stooped posture",
+    "disabling off-dystonia",
+    "chronic headaches",
+    "progressive generalized brain atrophy",
+    "moderate delayed psychomotor development",
+    "speech impairment",
+    "ataxia",
+    "athetoid movements",
+    "developmental delay",
+    "infantile-onset leukoencephalopathy",
+    "spasticity",
+    "hypotonia",
+    "muscle atrophy",
+    "seizures"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The report consistently refers to 'a 17-year-old boy', 'The patient', and 'a fourth patient' in the singular form, suggesting a single proband tested.",
+    "num_positive_het_probands": "The report does not provide explicit information about heterozygous probands, and since the proband is described with compound heterozygous mutations, this field is recorded as 0.",
+    "positive_phenotypes": "The report provides a detailed description of the proband's phenotype, including specific symptoms and clinical findings.",
+    "num_compound_or_double_hets": "The report explicitly states that the proband has compound heterozygous mutations in WARS2, indicating there is 1 compound heterozygote.",
+    "explanation": "Information was inferred from the context and explicit statements within the report, focusing on the singular proband described."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "num_tested_probands": 6,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "moderate ID",
+    "microcephaly",
+    "ataxia",
+    "speech impairment",
+    "aggressive behavior",
+    "Delayed psychomotor development",
+    "Muscle weakness",
+    "Seizure",
+    "Behavior problems",
+    "Intellectual disability",
+    "athetosis"
+  ],
+  "num_compound_or_double_hets": 2,
+  "explanation": {
+    "num_tested_probands": "Pages 3-4: The table lists six individuals from two families with specific mutations, suggesting that at least these six individuals were tested.",
+    "num_positive_het_probands": "No explicit information found regarding the number of positive HET probands.",
+    "positive_phenotypes": "Pages 1-2, 3-4, 5-6, 7-8, 11-12: Various explicit descriptions of phenotypes associated with the probands.",
+    "num_compound_or_double_hets": "Pages 3-4, 9-10, 11-12: Explicit and inferred information suggests at least two individuals are compound heterozygotes."
+  }
+}
