@@ -1,0 +1,39 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [
+    "early developmental delay",
+    "motor weakness",
+    "intellectual disability",
+    "non-progressive encephalopathy",
+    "intra-uterine growth retardation",
+    "severe axial hypotonia",
+    "hypertonia",
+    "dystonic posturing",
+    "slight dysmorphic features",
+    "cognitive and motor development delay",
+    "optic atrophy",
+    "enlargement of the lateral ventricles and third ventricle",
+    "white matter loss",
+    "hypoplastic vermis cerebelli",
+    "enlarged fourth ventricle",
+    "hypoplastic brainstem and cerebellar peduncles",
+    "acute liver failure (ALF)",
+    "metabolic encephalopathy",
+    "generalized amyotrophy",
+    "seizures",
+    "stuporous",
+    "ptosis of the eyelids",
+    "mosaic pattern after activity staining of cytochrome c oxidase",
+    "atrophy in the frontal regions",
+    "atrophy of the vermis cerebelli",
+    "brainstem and cerebellar peduncles atrophy"
+  ],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The text repeatedly refers to a single 6-year-old girl as the proband.",
+    "num_positive_het_probands": "No information was provided that explicitly states the presence of positive HET probands.",
+    "positive_phenotypes": "Various explicit mentions of the proband's clinical features and diagnoses are listed throughout the text.",
+    "num_compound_or_double_hets": "The text explicitly states that the proband has two compound heterozygous variants in the WARS2 gene, suggesting one individual with compound heterozygosity."
+  }
+}

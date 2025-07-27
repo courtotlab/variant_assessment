@@ -1,0 +1,83 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+INFERRED: "Here, we present a 6-year-old girl..." suggests a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "Here, we report on a subject who presented with early developmental delay, motor weakness and intellectual disability and who was considered during several years as having a non-progressive encephalopathy."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Using Whole Exome Sequencing two known pathogenic variants were detected in WARS2 (c.797delC, p.Pro266ArgfsTer10/ c.938 A > T, p. Lys313Met)." 
+INFERRED: The presence of two pathogenic variants in WARS2 suggests the proband is a compound heterozygote, as typically, each variant would be on a different allele. However, the text does not explicitly state that the variants are in trans (on different alleles), which is necessary to confirm compound heterozygosity.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+INFERRED: "from liver from the proband and controls" suggests a single proband.
+
+2. Number of positive HET probands:
+INFERRED: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene" suggests that the proband is not a positive HET but a compound heterozygote.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The proband was born at term from non-consanguineous parents. Antenatal ultrasound examination revealed intra-uterine growth retardation. Birth weight was 2314 g, length 45 cm and head circumference 31.8 cm. The neonatal period was without complications. When examined at the age of eleven months, severe axial hypotonia, hypertonia and dystonic posturing of arms and legs were noticed and she was found to have slight dysmorphic features, i.e. a thin upper lip, low set ears, a broad nasal bridge, hypertelorism of the eyes and an ogival palatum."
+EXPLICIT: "When seen at eighteen months of age, a severe delay of cognitive and motor development was confirmed. The cognitive development was estimated at less than six months. She had no head control and rigidity of arms and legs was noticed. Fists were bilaterally clenched."
+EXPLICIT: "At six years of age, she was hospitalized because of a long lasting episode with decreased awareness, lateral eye deviation and twitching of the eyelids at the left."
+EXPLICIT: "One month later, she was taken to a local hospital after she was found stuporous at home in the morning. Dystonic posturing of the limbs together with motor hyperactivity and continuous choreatic movements were seen."
+EXPLICIT: "Ophthalmological examination revealed optic atrophy."
+EXPLICIT: "Cerebral MRI showed enlargement of the lateral ventricles and third ventricle presumably due to white matter loss. Subarachnoidal spaces were abnormally large, most marked in the frontal regions bilaterally. In the posterior fossa, the vermis cerebelli was hypoplastic, the fourth ventricle was enlarged and the brainstem and cerebellar peduncles were hypoplastic."
+EXPLICIT: "She was diagnosed with acute liver failure (ALF) and metabolic encephalopathy."
+EXPLICIT: "When seen ambulatory at the child neurology department, she was stuporous with ptosis of the eyelids bilaterally and severe generalized amyotrophy."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "This filtering strategy resulted in two compound heterozygous variants in the WARS2 gene (NM_015836)." 
+INFERRED: The proband is described as having two compound heterozygous variants in the WARS2 gene, which implies that there is 1 individual who is a compound heterozygote.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+INFERRED: "Here, we present a 6-year-old girl..." and "from liver from the proband and controls" suggest a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The proposita had presented at young age with developmental delay, motor weakness and intellectual disability."
+EXPLICIT: "Her condition remained stable for several years until she presented for the first time with seizures at the age of six years and a treatment with sodium valproate was initiated."
+EXPLICIT: "During the next month, her clinical condition deteriorated rapidly and ultimately she developed acute liver failure and severe encephalopathy."
+EXPLICIT: "Sodium valproate was stopped but nevertheless she became progressively more unconscious and died half a year later."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "A third primer pair was designed to confirm compound heterozygosity."
+INFERRED: The proband is described as having two compound heterozygous variants in the WARS2 gene, which implies that there is 1 individual who is a compound heterozygote.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+INFERRED: "In the subject reported here," suggests a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "In the subject reported here, microscopic examination of liver showed a mosaic pattern after activity staining of cytochrome c oxidase."
+EXPLICIT: "Cerebral MRI in the proband also showed atrophy most prominent in the frontal regions and, in addition, atrophy of the vermis cerebelli, brainstem and cerebellar peduncles."
+INFERRED: The mention of "the subject reported here" and the description of the clinical findings suggest these are phenotypes associated with the proband.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Two variants were found in WARS2. One was a frameshift mutation (c.797delC, p.Pro266ArgfsTer10), the other a missense mutation (c.938 A > T, p. Lys313Met)."
+INFERRED: The description of two different types of mutations in WARS2 in the proband suggests that the proband is a compound heterozygote.
+
+## Pages 9 ##
+1. Number of probands tested:
+INFERRED: "Here, we present a 6-year-old girl..." and "from liver from the proband and controls" and "In the subject reported here," suggest a single proband.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "In the subject reported here, microscopic examination of liver showed a mosaic pattern after activity staining of cytochrome c oxidase."
+EXPLICIT: "Cerebral MRI in the proband also showed atrophy most prominent in the frontal regions and, in addition, atrophy of the vermis cerebelli, brainstem and cerebellar peduncles."
+INFERRED: The mention of "the subject reported here" and the description of the clinical findings suggest these are phenotypes associated with the proband.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "Two variants were found in WARS2. One was a frameshift mutation (c.797delC, p.Pro266ArgfsTer10), the other a missense mutation (c.938 A > T, p. Lys313Met)."
+INFERRED: The description of two different types of mutations in WARS2 in the proband suggests that the proband is a compound heterozygote.

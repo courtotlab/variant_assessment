@@ -1,0 +1,108 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+INFERRED: "The probands were examined by experienced clinical geneticists who assessed their physical and mental status." This suggests that there were multiple probands, but the exact number is not explicitly stated.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "The variant affects an amino acid residue that is highly conserved across the animal kingdom and it leads to unstable protein expression in mammalian cells. Moreover, the missense change leads to reduced enzymatic activity in vitro."
+INFERRED: The phenotypes associated with the probands are likely related to the effects of the mutations on protein stability and enzymatic activity, which include "moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "In the second family, we found compound DNA-alterations affecting the mitochondrial tryptophanyl-tRNA synthetase (WARS2) gene."
+INFERRED: Since the text mentions "compound DNA-alterations" in the context of the second family, it can be inferred that there is at least one individual with compound heterozygous mutations, but the exact number is not explicitly stated.
+
+## Pages 3-4 ##
+1. Number of probands tested:
+INFERRED: The table lists six individuals from two families with specific mutations and clinical features, suggesting that at least six probands were tested. However, the exact number of probands tested only in this study is not explicitly stated.
+
+2. Number of positive HET probands:
+EXPLICIT: "SARS (NM_006513.3; NP_006504.2) mutation c.514G>A (p.Asp172Asn)" for Family 1-III:4, Family 1-III:10, Family 1-III:9, and Family 1-III:11 indicates that these four individuals have the same heterozygous mutation. 
+INFERRED: The table does not explicitly state that these individuals are heterozygous, but the presence of the same mutation in multiple individuals suggests they may be heterozygous. However, without further information on zygosity, this remains an inference.
+
+3. Positive proband phenotype(s):
+EXPLICIT: The table lists the following clinical features for the individuals tested: "Delayed psychomotor development, Ataxia, Muscle weakness, Seizure, Behavior problems, Speech impairment, Intellectual disability, Other anomalies (Pes planus, thin body, Athetosis)."
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "WARS2 (NM_201263.2; NP_957715.1) mutations c.325delA (p.Ser109Alafs*159) c.37T>G (p.Trp13Gly)" for Family 2-V:7 and Family 2-V:8 indicates that these two individuals have compound heterozygous mutations. 
+INFERRED: Since the text specifies "mutations" in the plural and lists two different mutations for each of these individuals, it can be inferred that Family 2-V:7 and Family 2-V:8 are each compound heterozygotes, making the number of compound/double heterozygotes at least 2.
+
+## Pages 5-6 ##
+1. Number of probands tested:
+INFERRED: "DNA was extracted from peripheral blood of the patients (III:4, III:9, III:10, III:11), three healthy siblings and their parents, using standard procedures." This suggests that at least four probands were tested in family 1. Additionally, "Family 2 is an Iranian family from the Semnan province of Iran. The consanguineous healthy parents had nine children, three of them with ID (Fig. 1B)." This suggests that at least three probands were tested in family 2. Therefore, it can be inferred that a minimum of seven probands were tested.
+
+2. Number of positive HET probands:
+INFERRED: "The cDNA was isolated from a neuroblastoma cell line and contained a change from cytosine to thymine at c.1530, resulting in a missense mutation from arginine to cysteine at position 435 in the SARS protein." This suggests that there was at least one heterozygous mutation identified in the SARS gene, but it does not specify the number of probands with this mutation.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "All affected children were born at full term after uneventful pregnancies, followed by a normal neonatal period. Testing of cognitive function using the Wechsler Adult Intelligence Scale (WAIS-IV) showed an intelligence quotient (IQ) 40–45 in the range of moderate ID, speech impairment (slow and slurred speech) and aggressive behavior. In addition, the patients presented with microcephaly, ataxia (unbalanced gait starting at the age of 7–10 years), and muscular weakness (since the age of 6–10). All patients developed tonic–clonic seizures during infancy, which are well controlled by sodium valproate."
+INFERRED: The phenotypes associated with the probands are likely related to the effects of the mutations on protein stability and enzymatic activity, which include "moderate ID, microcephaly, ataxia, speech impairment, and aggressive behavior."
+
+4. Number of compound/double heterozygotes:
+INFERRED: The previously extracted quotes indicate that in family 2, there are at least two individuals with compound heterozygous mutations. However, the provided text does not contain new explicit information regarding the number of compound/double heterozygotes.
+
+## Pages 7-8 ##
+1. Number of probands tested:
+INFERRED: "DNA was extracted from peripheral blood of the patients, two healthy siblings and their parents, using standard procedures." This suggests that there were multiple probands, but the exact number is not explicitly stated.
+
+2. Number of positive HET probands:
+INFERRED: The text does not provide explicit information about the number of probands who were heterozygous for a pathogenic variant. However, the mention of "only two homozygous missense variants co-segregating with the disease in the family 1" implies that the probands in family 1 are not heterozygous but homozygous for the identified variants.
+
+3. Positive proband phenotype(s):
+INFERRED: The text does not provide explicit information about the phenotypes of the positive probands in this specific section. However, the mention of "affected individuals with ID" in the pedigrees and the discussion of the mutation's impact on protein stability and enzymatic activity suggest that the probands have intellectual disability (ID) and possibly other related phenotypes.
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+## Pages 9-10 ##
+1. Number of probands tested:
+INFERRED: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2." This suggests that there were multiple probands tested in family 2, but the exact number is not explicitly stated.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+INFERRED: "The WARS2 genotype we observed in the affected individuals comprises a frameshift mutation on the paternal allele and a missense change on the maternal allele." This suggests that the affected individuals have phenotypes associated with these WARS2 mutations, but the specific phenotypes are not detailed in this section.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "As a result of whole genome sequencing, we found a compound heterozygous genotype of the WARS2 gene in the affected individuals of family 2." This implies that there is at least one individual with a compound heterozygous mutation in family 2.
+
+## Pages 11-12 ##
+1. Number of probands tested:
+INFERRED: The text does not provide an explicit number of probands tested only in this study. However, previous inferences suggest multiple probands were examined and tested across different families.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+INFERRED: The text discusses the impact of mutations in SARS and WARS2 genes on clinical features such as "moderate ID, speech impairment, seizures, ataxia, and muscular weakness." These clinical features are associated with the probands being studied.
+
+4. Number of compound/double heterozygotes:
+EXPLICIT: "In the second family, whole genome sequencing revealed a compound heterozygous genotype in affected individuals, consisting of a deleterious frame-shift mutation and a missense change (p.Trp13Gly) in the mitochondrial tryptophanyl-tRNA synthetase encoding WARS2." This indicates that there is at least one individual with a compound heterozygous mutation in the second family.
+
+## Pages 13-14 ##
+1. Number of probands tested:
+INFERRED: The text does not provide an explicit number of probands tested only in this study. However, previous inferences suggest multiple probands were examined and tested across different families.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+INFERRED: The text discusses the impact of mutations in SARS and WARS2 genes on clinical features such as "moderate ID, speech impairment, seizures, ataxia, and muscular weakness." These clinical features are associated with the probands being studied.
+
+4. Number of compound/double heterozygotes:
+No relevant information found.
+
+## Pages 15-16 ##
+1. Number of probands tested:
+INFERRED: Previous inferences suggest multiple probands were examined and tested across different families, but the exact number tested only in this study is not explicitly stated.
+
+2. Number of positive HET probands:
+No relevant information found.
+
+3. Positive proband phenotype(s):
+INFERRED: The text discusses the impact of mutations in SARS and WARS2 genes on clinical features such as "moderate ID, speech impairment, seizures, ataxia, and muscular weakness." These clinical features are associated with the probands being studied.
+
+4. Number of compound/double heterozygotes:
+No relevant information found.

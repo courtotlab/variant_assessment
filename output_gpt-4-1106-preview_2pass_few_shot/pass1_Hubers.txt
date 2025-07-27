@@ -1,0 +1,39 @@
+## Pages 1-2 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: The use of "the first case" suggests that only one proband was tested and reported in this study.
+
+2. Number of positive HET probands:
+EXPLICIT: "Based on the suspected autosomal recessive pattern of inheritance, we prioritized genes carrying biallelic variants in the index and detected 2 variants in WARS2 (NM_201263.2)."
+
+INFERRED: Since the case describes biallelic variants, this implies that the proband is not heterozygous but rather homozygous or compound heterozygous. Therefore, there are no positive HET probands reported.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: The proband's phenotype includes "a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+
+4. Number of compound/double heterozygotes:
+INFERRED: The text does not explicitly state that the proband is a compound or double heterozygote, but the mention of "biallelic variants" suggests that the proband has two different mutations, which would be consistent with a compound heterozygous state. Therefore, it can be inferred that there is 1 compound/double heterozygote.
+
+No relevant information found for explicit statements regarding the number of compound/double heterozygotes.
+
+## Pages 3 ##
+1. Number of probands tested:
+EXPLICIT: "Here, we further increase the knowledge on the clinical presentation of WARS2 deficiency by presenting the first case with a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: The use of "the first case" suggests that only one proband was tested and reported in this study.
+
+2. Number of positive HET probands:
+INFERRED: Since the case describes biallelic variants, this implies that the proband is not heterozygous but rather homozygous or compound heterozygous. Therefore, there are no positive HET probands reported.
+
+3. Positive proband phenotype(s):
+EXPLICIT: "a clinically prominent hyperkinetic movement disorder with dystonia, chorea, and ballism."
+
+INFERRED: The proband's phenotype includes "a severe hyperkinetic movement disorder with uncontrollable ballistic and dystonic movements."
+
+4. Number of compound/double heterozygotes:
+INFERRED: The text does not explicitly state that the proband is a compound or double heterozygote, but the mention of "biallelic variants" suggests that the proband has two different mutations, which would be consistent with a compound heterozygous state. Therefore, it can be inferred that there is 1 compound/double heterozygote.
+
+No relevant information found for explicit statements regarding the number of compound/double heterozygotes.

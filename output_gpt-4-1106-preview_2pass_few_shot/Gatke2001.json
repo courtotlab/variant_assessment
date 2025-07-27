@@ -1,0 +1,12 @@
+{
+  "num_tested_probands": 1,
+  "num_positive_het_probands": 0,
+  "positive_phenotypes": [],
+  "num_compound_or_double_hets": 1,
+  "explanation": {
+    "num_tested_probands": "The use of 'The patient' suggests a single proband.",
+    "num_positive_het_probands": "The biochemical data indicate that the patient and one brother are homozygous for silent mutations, implying no positive HET probands in this study.",
+    "positive_phenotypes": "The patient is described as healthy, which suggests the absence of a clinical phenotype related to the genetic condition being studied.",
+    "num_compound_or_double_hets": "Since only one patient is mentioned as being compound heterozygous, it can be inferred that there is 1 compound/double heterozygote."
+  }
+}
