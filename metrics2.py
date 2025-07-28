@@ -38,7 +38,7 @@ for fname in os.listdir(json_folder):
             gt_val = int(row[field])
             pred_val = int(pred[field])
         except (KeyError, ValueError, TypeError):
-            print(f"⚠️ Skipping {base_name} - missing or invalid field: {field}")
+            print(f"Skipping {base_name} - missing or invalid field: {field}")
             continue
 
         y_true = [1 if gt_val > 0 else 0]
