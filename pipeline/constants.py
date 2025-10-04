@@ -27,7 +27,10 @@ LLAMA_PROMPTS_PATH = {"1_pass":{"COT":os.path.join(PROMPTS_PATH, "1_pass", "llam
                             "one_shot":(os.path.join(PROMPTS_PATH, "llama_prompts_first_pass", "one_shot.txt"),
                                      os.path.join(PROMPTS_PATH, "llama_prompts_second_pass", "one_shot.txt")),
                             "zero_shot":(os.path.join(PROMPTS_PATH, "llama_prompts_first_pass", "zero_shot.txt"),
-                                     os.path.join(PROMPTS_PATH, "llama_prompts_second_pass", "zero_shot.txt"))}}
+                                     os.path.join(PROMPTS_PATH, "llama_prompts_second_pass", "zero_shot.txt"))}} 
 
-OUTPUT_DIR = os.path.abspath("../outputs") 
+# Input constants -----------------------------------------------
 
+PASSES_OPTS = ('1_pass', '2_pass')
+
+PROMPT_TECH_OPTS = ('COT', 'few_shot_COT', 'few_shot', 'one_shot', 'zero_shot')

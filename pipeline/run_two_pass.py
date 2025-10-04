@@ -110,7 +110,3 @@ def run_all_passes_on_literature_folder(
 
         pass_one_extract_to_txt(pdf_path, prompt_pass1, txt_output, model)
         pass_two_structure_txt_to_json(txt_output, prompt_pass2, json_output, model)
-
-# === Run it ===
-if __name__ == "__main__":
-    run_all_passes_on_literature_folder()

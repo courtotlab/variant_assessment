@@ -1,27 +1,75 @@
 import os
+import run_two_pass
+import constants
 
-def run_for_all_gene_variants(genes_dir:str):
+def create_output_folder_structure(output_path:str, passes:str, prompt_technique:str, model:str):
+    """
+    Create the folders to save the output. 
+    """
+    try:
+        output_dir = os.path.abspath(output_path)
+        results_path = os.path.join(output_dir, passes, prompt_technique, model) 
+        os.mkdirs(results_path)
+    except FileExistsError:
+        print("Output folder already exists, existing output files will be overwritten")
+    
+    return results_path
+
+def find_prompt_path(passes:str, prompt_technique:str, model:str):
+    try:
+        prompt_path = constants.LEI_PROMPTS_PATH[passes][prompt_technique]
+        if model == "LLAMA":
+            prompt_path = constants.LLAMA_PROMPTS_PATH[passes][prompt_technique]
+        return prompt_path
+    except KeyError:
+        print("There is no prompt defined in config for: ")
+        print("Model:",model)
+        print("Technique:",prompt_technique)
+        print("# of passes:", passes)
+
+def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt_technique:str, model:str):
+    # Start execution for all gene directories
     genes_dir_list = os.listdir(genes_dir)
+    results_path = create_output_folder_structure(output_path, passes, prompt_technique, model)
+
     for gene in genes_dir_list:
         current_gene_dir = os.path.join(genes_dir,gene)
         if os.path.isdir(current_gene_dir):
-            print("--",gene)
+            #Create gene folder in results
+            gene_results_dir = os.path.join(results_path, gene)
+            if not os.path.exists(gene_results_dir):
+                os.mkdir(gene_results_dir)
+            #Get the variant dirs list and access them
             variant_list = os.listdir(current_gene_dir)
             for variant in variant_list:
                 current_variant_dir = os.path.join(current_gene_dir, variant)
                 if os.path.isdir(current_variant_dir):
                     # Reached a variant folder
-                    print("--"*3, variant)
-                    files_list = os.listdir(os.path.join(current_gene_dir, variant))
+                    # Create variant folder in results
+                    variant_results_dir = os.path.join(gene_results_dir, variant)
+                    if not os.path.exists(variant_results_dir):
+                        os.mkdir(variant_results_dir)
+
+                    files_list = os.listdir(current_variant_dir)
+                    # Create folder for highlighted PDFs
+                    hl_docs_path = os.path.join(current_variant_dir, "highlighted_docs")
+                    os.mkdir(hl_docs_path)
+                    # Create folder for outputs
                     for file in files_list:
-                        print("--"*6,file)
                         if file.endswith('pdf'):
                             # It is a PDF article
-                            # TODO - run the pipeline for the file
-                            pass
+                            file_path = os.path.join(current_variant_dir, file)
 
-
-run_for_all_gene_variants("../test_data/")
+                            if passes == constants.PASSES_OPTS[1]:
+                                # Two pass extraction
+                                # First get the prompts tuple
+                                prompt = find_prompt_path(passes, prompt_technique, model)
+                                # Create paths for intermediate text extraction, and JSON results
+                                txt_file_path = os.path.join(variant_results_dir, passes+"_"+prompt_technique+"_"+model+".txt")
+                                json_file_path = os.path.join(variant_results_dir, passes+"_"+prompt_technique+"_"+model+".json")
+                                # Call passes to get results
+                                run_two_pass.pass_one_extract_to_txt(file_path, prompt[0], txt_file_path, model)
+                                run_two_pass.pass_two_structure_txt_to_json(txt_file_path, prompt[1], json_file_path, model)
 
 
 
