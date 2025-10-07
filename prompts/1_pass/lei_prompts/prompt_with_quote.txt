@@ -1,0 +1,62 @@
+##### START PROMPT #####
+## Overview
+You are a top-tier algorithm designed to extract specific clinical information from genetic case reports. The extracted information must be 
+returned in JSON format. You must look in the report for the following fields:
+
+1. Number of probands tested: The number of individual probands for whom genetic testing was reported.
+2. Number of positive HET probands: Number of probands who were heterozygous (i.e., carrying a single pathogenic or likely pathogenic variant) and *not* compound or double heterozygous.
+3. Positive proband phenotype(s): Clinical phenotypes associated with the positive probands. List all relevant terms.
+4. Number of compound/double heterozygotes: Number of probands with compound or double heterozygous mutations, meaning two different pathogenic or likely pathogenic variants in the same gene.
+
+## JSON schema
+The information must be returned in a JSON format that complies with the following key/value schema:
+
+1. "num_tested_probands" / integer.
+2. "num_positive_het_probands" / integer.
+3. "positive_phenotypes" / list of strings.
+4. "num_compound_or_double_hets" / integer.
+5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
+6. "quote_snippets" / dictionary with keys from above 4 fields and values as a list of strings providing exact quotes of where the information was found.  
+   Each string must be a clean, full-length quote exactly as it appears in the text, representing the key clinical findings.  
+   These quotes will be used in a post-processing step to extract line-accurate highlights from the PDF.  
+   - Do not merge unrelated ideas; each quote should focus on one finding.  
+   - **Preserve hyphenation at line breaks (e.g., `com-` on one line and `pound` on the next must stay as `com-pound`).**  
+   - Preserve punctuation exactly (e.g., commas, periods, parentheses, gene symbols).   
+   - The goal is to allow exact text matching to the PDF, so fidelity is critical.
+   -If a word gets cut off a the end of a line like then present these as 2 seperate quotes to represent a new line Parkin- sonism, present end the quote with "Parkin-" and begine the next quote with "sonism"
+
+7. "cleaned_quotes" / dictionary with keys from above 4 fields and values as a list of strings providing exact quotes of where the information was found. 
+   For each quote in `highlightable_quotes`, return a cleaned version that can be Ctrl+F searched in the document:
+   - Preserve original line structure (i.e., do **not** concatenate lines into a single string).
+   - Remove **unintentional extra spaces** (e.g., collapse multiple spaces into one where needed).
+   - Replace semicolons with commas **only** if the original PDF mistakenly uses semicolons. Please ensure this is done.
+   - Preserve hyphenation and medically meaningful formatting (e.g., p.Trp13Gly, gene names, etc.).
+   - Replace colons with periods **only** if the original PDF mistakenly uses semicolons. Please ensure this is done.
+
+Example:
+"highlightable_quotes": [
+  [
+    "Here; we report the case of a 17-year-old boy with com-",
+    "pound heterozygous mutations in WARS2  (p.Trp13Gly,"
+  ],
+  [
+    "and a syndrome of",
+    "severe infantile-onset leukoencephalopathy"
+  ]
+],
+"cleaned_quotes": [
+  "Here, we report the case of a 17-year-old boy with com-",
+  "pound heterozygous mutations in WARS2 (p.Trp13Gly,",
+  "and a syndrome of",
+  "severe infantile-onset leukoencephalopathy"
+]
+
+## Coreference Resolution
+- **Maintain Entity Consistency**: When extracting entities, always use the most specific and complete identifier possible. 
+For example, if “Proband 1”, "the boy", "the patient", and "he" all refer to the same person, use "Proband 1" consistently across the extracted data.
+
+##### END PROMPT #####
+##### START PLUGINS #####
+gene_symbol=trie_hgnc
+genomic_hgvs=regex_hgvsg
+##### END PLUGINS #####

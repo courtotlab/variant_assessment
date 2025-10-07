@@ -3,3 +3,4 @@ evaluation/ground_truth
 evaluation/variant_files
 literature
 test_data
+out_data

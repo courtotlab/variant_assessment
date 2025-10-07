@@ -2,6 +2,7 @@ import subprocess
 from pathlib import Path
 
 # === CONFIGURATION ===
+"""
 pdf_dir = Path("literature")
 prompt_path = Path("prompts/lei_prompt_COT.txt")
 output_dir = Path("output_lei_COT")
@@ -12,17 +13,13 @@ special_cases = {
     "Gatke_2001_11575530_392.pdf": "Gatke2001.json",
     "Gatke_2007_18075469_658.pdf": "Gatke2007.json",
 }
+"""
 
 # === PROCESS ALL PDFS ===
-for pdf_path in pdf_dir.glob("*.pdf"):
-    pdf_name = pdf_path.name
+def process_pdfs_lei(pdf_path:str, prompt_path:str, output_dir:str):
+    pdf_name = pdf_path.name[:-4]
 
-    # Determine output filename
-    if pdf_name in special_cases:
-        out_json_name = special_cases[pdf_name]
-    else:
-        first_author = pdf_name.split("_")[0]
-        out_json_name = f"{first_author}.json"
+    out_json_name = f"{pdf_name}.json"
 
     out_path = output_dir / out_json_name
 

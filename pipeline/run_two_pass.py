@@ -1,12 +1,11 @@
-import fitz  # PyMuPDF
+import pdf_to_text
 from pathlib import Path
 # from Ollama_struct_out import call_ollama_struct_out
 from openai_struct_out import call_openai_struct_out as call_ollama_struct_out
 import json
 
 def read_pdf_pages(pdf_path):
-    doc = fitz.open(pdf_path)
-    return [page.get_text().strip() for page in doc]
+    return pdf_to_text.convert_pdf_to_str_list(pdf_path)
 
 def read_txt_prompt(txt_path):
     with open(txt_path, "r", encoding="utf-8") as f:

@@ -1,11 +1,10 @@
-import fitz  # PyMuPDF
+import pdf_to_text
 from pathlib import Path
 from Ollama_struct_out import call_ollama_struct_out
 import json
 
 def read_pdf_pages(pdf_path):
-    doc = fitz.open(pdf_path)
-    return [page.get_text().strip() for page in doc]
+    return pdf_to_text.convert_pdf_to_str_list(pdf_path)
 
 def read_txt_prompt(txt_path):
     with open(txt_path, "r", encoding="utf-8") as f:
@@ -39,6 +38,8 @@ def get_output_filename(pdf_path: Path):
         return name.split("_")[0] + ".json"
 
 def test_pdf_by_two_pages(pdf_path, prompt_path, output_path, model="llama3.2:latest"):
+    pdf_path = Path(pdf_path)
+    output_path = Path(output_path)
     print(f"\n📄 Processing: {pdf_path.name}")
     system_msg = read_txt_prompt(prompt_path)
     pages = read_pdf_pages(pdf_path)
@@ -77,4 +78,4 @@ def run_on_literature_folder(
         test_pdf_by_two_pages(pdf_file, prompt_file, out_path)
 
 # === Run it ===
-run_on_literature_folder()
+#run_on_literature_folder()
