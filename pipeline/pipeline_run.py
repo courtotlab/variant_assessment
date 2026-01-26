@@ -3,6 +3,7 @@ import run_two_pass
 import constants
 import run_lei
 import run_llama
+from pathlib import Path
 
 def create_output_folder_structure(output_path:str, passes:str, prompt_technique:str, model:str):
     """
@@ -19,15 +20,18 @@ def create_output_folder_structure(output_path:str, passes:str, prompt_technique
 
 def find_prompt_path(passes:str, prompt_technique:str, model:str):
     try:
-        prompt_path = constants.LEI_PROMPTS_PATH[passes][prompt_technique]
-        if model == "LLAMA":
+        if "llama" in model:
             prompt_path = constants.LLAMA_PROMPTS_PATH[passes][prompt_technique]
+        else:
+            prompt_path = constants.LEI_PROMPTS_PATH[passes][prompt_technique]
         return prompt_path
-    except KeyError:
+    except KeyError as err:
         print("There is no prompt defined in config for: ")
         print("Model:",model)
         print("Technique:",prompt_technique)
         print("# of passes:", passes)
+        print(err)
+        exit()
 
 def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt_technique:str, model:str):
     # Start execution for all gene directories
@@ -65,17 +69,18 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
 
                             # First get the prompts tuple
                             prompt = find_prompt_path(passes, prompt_technique, model)
+                            filename = file.replace(".pdf", "")
                             # Create path JSON results
-                            json_file_path = os.path.join(variant_results_dir, passes+"_"+prompt_technique+"_"+model+".json")
+                            json_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".json")
 
                             if passes == constants.PASSES_OPTS[1]:
                                 print("#"*4,"RUNNING 2 PASS EXTRACTION", "#"*4)
                                 # Two pass extraction
                                 # Create paths for intermediate text extraction
-                                txt_file_path = os.path.join(variant_results_dir, passes+"_"+prompt_technique+"_"+model+".txt")
+                                txt_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".txt")
                                 # Call passes to get results
-                                run_two_pass.pass_one_extract_to_txt(file_path, prompt[0], txt_file_path, model)
-                                run_two_pass.pass_two_structure_txt_to_json(txt_file_path, prompt[1], json_file_path, model)
+                                run_two_pass.pass_one_extract_to_txt(Path(file_path), prompt[0], txt_file_path, model)
+                                run_two_pass.pass_two_structure_txt_to_json(Path(txt_file_path), prompt[1], json_file_path, model)
                             else:
                                 print("#"*4,"RUNNING 1 PASS EXTRACTION", "#"*4)
                                 #Run extraction on 1 pass only
@@ -87,11 +92,11 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                                     run_llama.test_pdf_by_two_pages(file_path, prompt, json_file_path)
 
 
-genes_dir = "../test_data"
-out_path = "../out_data/"
-passes = "1_pass"
+genes_dir = "../local_test_data"
+out_path = "../test_out_data/"
+passes = "2_pass"
 prompt_technique = "few_shot_COT"
-model = "Llama"
+model = "llama3:latest"
 run_for_all_gene_variants(genes_dir, out_path, passes, prompt_technique, model)
 
 

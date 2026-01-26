@@ -1,7 +1,7 @@
 import pdf_to_text
 from pathlib import Path
-# from Ollama_struct_out import call_ollama_struct_out
-from openai_struct_out import call_openai_struct_out as call_ollama_struct_out
+from Ollama_struct_out import call_ollama_struct_out
+#from openai_struct_out import call_openai_struct_out as call_ollama_struct_out
 import json
 
 def read_pdf_pages(pdf_path):
@@ -40,7 +40,7 @@ def get_output_filename(pdf_path: Path):
         return name.split("_")[0]
 
 # === PASS 1: Extract raw text and save to .txt ===
-def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama3.2:latest"):
+def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama3:latest"):
     print(f"\nStarting PASS 1 for {pdf_path.name}")
     system_msg = read_txt_prompt(prompt_path)
     pages = read_pdf_pages(pdf_path)
@@ -66,7 +66,7 @@ def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama
         except Exception as e:
             print(f"Error on pages {page_range}: {e}")
 
-    Path(output_txt_path).parent.mkdir(parents=True, exist_ok=True)
+    #Path(output_txt_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_txt_path, "w", encoding="utf-8") as out_txt:
         out_txt.write("\n".join(all_text_outputs))
 
@@ -82,7 +82,7 @@ def pass_two_structure_txt_to_json(input_txt_path, prompt_path, output_json_path
 
     try:
         result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=True)
-        Path(output_json_path).parent.mkdir(parents=True, exist_ok=True)
+        #Path(output_json_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_json_path, "w", encoding="utf-8") as out_json:
             json.dump(result, out_json, indent=2)
         print(f"PASS 2 done: {output_json_path}")

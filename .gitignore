@@ -4,3 +4,6 @@ evaluation/variant_files
 literature
 test_data
 out_data
+local_test_data
+test_out_data
+demo_data

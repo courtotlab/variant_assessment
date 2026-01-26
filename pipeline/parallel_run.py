@@ -34,7 +34,7 @@ def find_prompt_path(passes:str, prompt_technique:str, model:str):
 def process_variant(variant_dir: pathlib.Path, results_dir: pathlib.Path, passes: str, prompt_technique: str, model: str):
     """Handles the processing logic for a single variant directory."""
     
-    # 1. Efficiently Create Variant Result Folder
+    # 1. Create Variant Result Folder
     variant_results_dir = results_dir / variant_dir.name
     # os.makedirs is more efficient than checking with os.path.exists() then calling os.mkdir()
     os.makedirs(variant_results_dir, exist_ok=True)
@@ -55,7 +55,7 @@ def process_variant(variant_dir: pathlib.Path, results_dir: pathlib.Path, passes
             print(f"#### RUNNING 2 PASS EXTRACTION for {file_path.name} ####")
             txt_file_path = variant_results_dir / f"{passes}_{prompt_technique}_{model}.txt"
             
-            # These calls (likely involving LLMs/Heavy I/O) should ideally be concurrent
+            # These calls should ideally be concurrent
             run_two_pass.pass_one_extract_to_txt(str(file_path), prompt[0], str(txt_file_path), model)
             run_two_pass.pass_two_structure_txt_to_json(str(txt_file_path), prompt[1], str(json_file_path), model)
             
@@ -113,3 +113,21 @@ def run_for_all_gene_variants_efficient(genes_dir: str, output_path: str, passes
                 print(f"An error occurred during processing: {e}")
                 
     print("\nAll gene variants processed.")
+
+
+if __name__ == "__main__":
+    genes_dir = "../local_test_data"
+    out_path = "../out_data/"
+    passes = "1_pass"
+    prompt_technique = "few_shot_COT"
+    model = "Llama"
+    
+    try:
+        run_for_all_gene_variants_efficient(genes_dir, out_path, passes, prompt_technique, model)
+    except KeyboardInterrupt:
+        print("\n\n!! Process interrupted by user (Ctrl+C). Shutting down workers gracefully !!")
+        # Since the executor is used within a 'with' block inside the function, 
+        # it will handle the termination and cleanup automatically when the exception propagates.
+        # We simply catch the exception here to print the clean exit message.
+    except Exception as e:
+        print(f"\nAn unexpected error caused the program to halt: {e}")

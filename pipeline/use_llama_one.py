@@ -49,13 +49,13 @@ def test_pdf_by_two_pages(pdf_path, prompt_path, output_path, model="llama3.2:la
             print(f"Structured Output from {page_range}:\n{json.dumps(result, indent=2)}\n")
             final_result = merge_structured_output(final_result, result)
         except Exception as e:
-            print(f"⚠️ Error processing pages {page_range}: {e}")
+            print(f"Error processing pages {page_range}: {e}")
 
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as out_file:
         json.dump(final_result, out_file, indent=2)
 
-    print(f"\n✅ Final structured output written to: {output_path}")
+    print(f"\nFinal structured output written to: {output_path}")
 
 # === Run it ===
 test_pdf_by_two_pages(
