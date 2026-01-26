@@ -358,14 +358,6 @@ habanero==2.3.0 ; python_full_version >= '3.10' \
     --hash=sha256:871e5d088ef641b05514d44b004af512852b309bcd0d81f10545e58d54a654ab \
     --hash=sha256:ba44dd33d562ff33bd778fd7f94bfac3bf805b0b0963976f379e0a1d6894329e
     # via metapub
-hgvs==1.5.4 ; python_full_version < '3.10' \
-    --hash=sha256:06abb6363bb0c8ef9f3f8f9dc333d3a346ab5f9ebcb20a5bb56c69256262559f \
-    --hash=sha256:598640bae0de34ff29c58440904fc9156d7a1bc750ddef5894edd415c772b957
-    # via variant-assessment
-hgvs==1.5.6 ; python_full_version >= '3.10' \
-    --hash=sha256:663755fd5db38a897c447dd1ec0a2bfc8157a28ad30378a08489746e3aa61ff2 \
-    --hash=sha256:7ca4f9fc7be3afca29f5caf1bc5256083fc581a59c6801b7e9654a15d8d2d376
-    # via variant-assessment
 httpcore==1.0.9 \
     --hash=sha256:2d400746a40668fc9dec9810239072b40b4484b640a8c38fd654a024c7a1bf55 \
     --hash=sha256:6e34463af53fd2ab5d807f399a9b45ea31c3dfa2276f15a2c3f00afff6e176e8
