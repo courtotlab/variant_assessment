@@ -1,1 +1,2 @@
 # variant_assessment
+Packages hgvs and metapub may cause dependency issues with psycopg2 and docopt, respectively. If LEI extraction or paper search are not used, these packages may be removed using 'uv remove <package>'

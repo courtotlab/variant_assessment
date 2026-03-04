@@ -17,5 +17,6 @@ dependencies = [
     "metapub>=0.6.4",
     "openai>=2.2.0",
     "pdf2image>=1.17.0",
+    "python-dotenv>=1.2.1",
     "requests>=2.32.5",
 ]

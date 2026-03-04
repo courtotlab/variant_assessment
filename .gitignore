@@ -7,3 +7,4 @@ out_data
 local_test_data
 test_out_data
 demo_data
+.env
