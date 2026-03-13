@@ -34,23 +34,30 @@ def throttle_request(last_request_time:float, requests_per_second:int=3):
         time.sleep(wait)
     return time.time()
 
-def fetch_pmid_list(query:str, max_results:int=10, last_request_time:float=0):
+def fetch_pmid_list(query:str, max_results:int=10, last_request_time:float=0, min_date:str='2023', max_date:str=None):
     """
     Searches PubMed for the given query and returns a list of PMIDs (PubMed IDs).
     """
     print(f"\n--- Searching PubMed for: '{query}' ---")
     last_request_time = throttle_request(last_request_time)
 
+    if max_date is None:
+        from datetime import date
+        today = date.today()
+        max_date = today.year
+
     params = {
         "db": "pubmed",
         "term": query,
         "retmax": str(max_results),
         "retmode": "json",
+        "mindate":min_date,
+        "maxdate":max_date,
+        "datetype":"pdat", # Use publication date to filter
         "email": USER_EMAIL
     }
 
-    if NCBI_API_KEY:
-        params["api_key"] = NCBI_API_KEY
+    params["api_key"] = NCBI_API_KEY
     
     try:
         response = requests.get(ESEARCH_URL, params=params)
@@ -208,7 +215,7 @@ def generate_variant_search_string(variant_query:str, prompt_path:str)->str:
 
     return response.content
 
-def run_miner(variant_query:str, max_papers:int=5, download_dir:str="genomic_papers"):
+def run_miner(variant_query:str, max_papers:int=5, min_date:str='2023', max_date:str=None, download_dir:str="genomic_papers"):
     """
     Main function to execute the literature mining pipeline.
     """
@@ -225,7 +232,9 @@ def run_miner(variant_query:str, max_papers:int=5, download_dir:str="genomic_pap
     pmid_list, last_request_time = fetch_pmid_list(
         query=f'{query}',
         max_results=max_papers,
-        last_request_time=last_request_time
+        last_request_time=last_request_time,
+        min_date=min_date,
+        max_date=max_date
     )
     all_pmids.update(pmid_list)
         
@@ -258,4 +267,4 @@ if __name__ == "__main__":
     # Specify the number of papers to fetch
     MAX_RESULTS = 10
     
-    run_miner(VARIANT_TO_SEARCH, MAX_RESULTS)
+    run_miner(VARIANT_TO_SEARCH, MAX_RESULTS, min_date=2024)
