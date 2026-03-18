@@ -1,0 +1,24 @@
+#!/bin/bash
+#$ -N ollama_extraction      # Job name
+#$ -o logs/$JOB_ID.out       # Standard output log
+#$ -e logs/$JOB_ID.err       # Standard error log
+#$ -q gpu.q                  # Request the GPU queue
+#$ -l h_vmem=4G              # Request 4GB of memory
+#$ -l gpu=1                  # Request 1 GPU
+#$ -l h_rt=01:00:00          # Walltime (1 hour)
+#$ -V                        # Export environment variables
+#$ -cwd                       # Run from the current working directory
+
+# 1. Start the SSH tunnel in the background (-f) for Ollama
+# This allows the compute node to talk to the remote Ollama server.
+# Using -o StrictHostKeyChecking=no prevents the job from hanging if 
+# the host is not in the known_hosts file of the compute node.
+ssh -f -N -L 11434:localhost:11434 -o StrictHostKeyChecking=no ollama-server
+
+# 2. Use uv to run your script
+# 'uv run' will automatically handle the environment and dependencies
+uv run pipeline_run.py
+
+# 3. Cleanup: Kill the tunnel after the script finishes
+# This ensures ports are freed up on the compute node.
+pkill -u $USER -f "ssh -f -N -L 11434"
