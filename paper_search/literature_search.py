@@ -5,15 +5,18 @@ import re
 from xml.etree import ElementTree as ET
 from metapub import PubMedFetcher, FindIt
 from langchain_google_genai import ChatGoogleGenerativeAI
+from dotenv import load_dotenv
 
 # --- Configuration ---
+
+load_dotenv()
 # Unique email address to NCBI for identification and contact.
 # NCBI requires this for all E-utility requests.
-USER_EMAIL = "amelanidelahoz@oicr.on.ca"
+USER_EMAIL = os.getenv("NCBI_USER_EMAIL")
 
 # Set NCBI API key
 # This increases the request limit from 3/sec to 10/sec.
-NCBI_API_KEY = "f783dac7cfa68e141f0430af76966e0fc608"
+NCBI_API_KEY = os.getenv("NCBI_API_KEY")
 
 # Base URLs for NCBI E-utilities
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -21,8 +24,6 @@ EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 # Base URL for PubMed Central (PMC) PDF download link structure
 PMC_BASE_URL = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC{}/pdf/"
-
-GEMINI_API = "AIzaSyA-TO4ql4h1rFE3YDHtjrHMKJ_eMNyT4Ms"
 
 def throttle_request(last_request_time:float, requests_per_second:int=3):
     """Ensures to adhere to NCBI's usage guidelines (max 3 reqs/sec without API key)."""
@@ -33,23 +34,30 @@ def throttle_request(last_request_time:float, requests_per_second:int=3):
         time.sleep(wait)
     return time.time()
 
-def fetch_pmid_list(query:str, max_results:int=10, last_request_time:float=0):
+def fetch_pmid_list(query:str, max_results:int=10, last_request_time:float=0, min_date:str='2023', max_date:str=None):
     """
     Searches PubMed for the given query and returns a list of PMIDs (PubMed IDs).
     """
     print(f"\n--- Searching PubMed for: '{query}' ---")
     last_request_time = throttle_request(last_request_time)
 
+    if max_date is None:
+        from datetime import date
+        today = date.today()
+        max_date = today.year
+
     params = {
         "db": "pubmed",
         "term": query,
         "retmax": str(max_results),
         "retmode": "json",
+        "mindate":min_date,
+        "maxdate":max_date,
+        "datetype":"pdat", # Use publication date to filter
         "email": USER_EMAIL
     }
 
-    if NCBI_API_KEY:
-        params["api_key"] = NCBI_API_KEY
+    params["api_key"] = NCBI_API_KEY
     
     try:
         response = requests.get(ESEARCH_URL, params=params)
@@ -188,7 +196,7 @@ def generate_variant_search_string(variant_query:str, prompt_path:str)->str:
     sys_prompt = prompt_file.read()
 
     if "GOOGLE_API_KEY" not in os.environ:
-        os.environ["GOOGLE_API_KEY"] = GEMINI_API
+        load_dotenv()
     
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-flash",
@@ -207,7 +215,7 @@ def generate_variant_search_string(variant_query:str, prompt_path:str)->str:
 
     return response.content
 
-def run_miner(variant_query:str, max_papers:int=5, download_dir:str="genomic_papers"):
+def run_miner(variant_query:str, max_papers:int=5, min_date:str='2023', max_date:str=None, download_dir:str="genomic_papers"):
     """
     Main function to execute the literature mining pipeline.
     """
@@ -224,7 +232,9 @@ def run_miner(variant_query:str, max_papers:int=5, download_dir:str="genomic_pap
     pmid_list, last_request_time = fetch_pmid_list(
         query=f'{query}',
         max_results=max_papers,
-        last_request_time=last_request_time
+        last_request_time=last_request_time,
+        min_date=min_date,
+        max_date=max_date
     )
     all_pmids.update(pmid_list)
         
@@ -252,11 +262,9 @@ def run_miner(variant_query:str, max_papers:int=5, download_dir:str="genomic_pap
     print("\n\nPipeline complete. Check the 'genomic_papers' directory for downloads.")
 
 if __name__ == "__main__":
-
-    VARIANT_TO_SEARCH = "GALC c.956A_G" 
-    #VARIANT_TO_SEARCH = "BRAF V600E"
-    #VARIANT_TO_SEARCH = "TSC1:c.359T>C"
+    VARIANT_TO_SEARCH = "LRRK2 c.6055G>A"
+    #VARIANT_TO_SEARCH = "GALC c.956A_G" 
     # Specify the number of papers to fetch
     MAX_RESULTS = 10
     
-    run_miner(VARIANT_TO_SEARCH, MAX_RESULTS)
+    run_miner(VARIANT_TO_SEARCH, MAX_RESULTS, min_date=2024)

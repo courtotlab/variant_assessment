@@ -3,8 +3,8 @@ from langchain_core.prompts import ChatPromptTemplate
 import json
 
 def call_ollama_struct_out(system_msg: str, query: str, model_used: str, use_structured_output: bool = True):
-    llm = ChatOllama(model=model_used, temperature=0)
-
+    llm = ChatOllama(model=model_used, temperature=0, base_url="http://localhost:11439")
+    print(llm)
     if use_structured_output:
         json_schema = {
             "title": "report",
@@ -70,3 +70,11 @@ def call_ollama_struct_out(system_msg: str, query: str, model_used: str, use_str
             {"role": "user", "content": query}
         ])
         return response.content
+    
+"""
+For testing connection
+print(call_ollama_struct_out("You are a system designed to tell the definition of words given by the user",
+                             "Please define the word 'genetics'",
+                             "llama3.1:70b",
+                             False))
+"""

@@ -1,12 +1,20 @@
 ##### START PROMPT #####
 ## Overview
-You are a top-tier algorithm designed to extract specific clinical information from genetic case reports. The extracted information must be  
+You are a top-tier algorithm designed to extract specific genomic and clinical information from genetic case reports. The extracted information must be  
 returned in JSON format. You must look in the report for the following fields:
 
 1. Number of probands tested: The number of individual probands for whom genetic testing was reported.
 2. Number of positive HET probands: The number of probands who were heterozygous for a pathogenic variant.
 3. Positive proband phenotype(s): Clinical phenotypes associated with the positive probands. List all relevant terms.
-4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations. u may use these pdfs
+4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations.
+5. Number of positive HOM probands: Count of how many affected individuals carried the variant in the homozygous state.
+6. Race or ethnic background: If the information is provided, it is a breakdown of the race or ethnic background of the individuals carrying the variant.
+7. Number of informative meioses: If the disease segregates with the variant, count how many times it corresponds (e.g., affected parent to affected child, carrier parents to affected child). Possible search terms include "inherit", "segregate", "carrier"
+8. Number of non-segregations: If the variant did not segregate with disease in a family e.g. proband carries the variant and has disease but other relatives that carry the variant do not have disease, and those who have disease do not carry the variant
+9. Number of control chromosomes tested: Literature would say healthy cohort or controls. Multiply the found value by 2
+10. Number of positive control chromosomes: The number of controls that carry the variant. Multiply by 2 if homozygous.
+11. Control race or ethnic background: If the information is provided, it is a breakdown of the race or ethnic background of the positive control chromosomes.
+12. Functional data mentioned: YES or NO depending if functional data was mentioned in the paper. Possible search terms include "mRNA", "splicing", "NMD", "luciferase", "assay", "activity", "fibroblasts", "animal models"
 
 Example 1:
 
