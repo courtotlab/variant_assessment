@@ -8,3 +8,6 @@ local_test_data
 test_out_data
 demo_data
 .env
+.DS_Store
+__pycache__/
+.venv/
