@@ -10,5 +10,7 @@ demo_data
 .env
 .DS_Store
 __pycache__/
+*.py[cod]
+*.pyo
 .venv/
 pipeline/logs
