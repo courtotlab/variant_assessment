@@ -16,4 +16,5 @@ dependencies = [
     "pdf2image>=1.17.0",
     "python-dotenv>=1.2.1",
     "requests>=2.32.5",
+    "typer>=0.23.2",
 ]

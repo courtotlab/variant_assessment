@@ -3,9 +3,9 @@ import time
 import os
 import re
 from xml.etree import ElementTree as ET
-from metapub import PubMedFetcher, FindIt
-from langchain_google_genai import ChatGoogleGenerativeAI
+from metapub import FindIt
 from dotenv import load_dotenv
+from paper_search import variant_validator as var_valid
 
 # --- Configuration ---
 
@@ -191,7 +191,8 @@ def metapub_download_helper(pmid:str, dwnld_dir:str, file_name:str):
         print(f"Error downloading {pmid}: {e}")
 
 
-def generate_variant_search_string(variant_query:str, prompt_path:str)->str:
+def generate_variant_search_string(variant_query:str)->str:
+    """
     prompt_file = open(prompt_path, "r")
     sys_prompt = prompt_file.read()
 
@@ -214,18 +215,24 @@ def generate_variant_search_string(variant_query:str, prompt_path:str)->str:
     response = llm.invoke(messages)
 
     return response.content
+    """
+    search_res = var_valid.generate_search_string(variant_query, True)
+    print(search_res.summary())
+    return search_res.search_string
 
-def run_miner(variant_query:str, max_papers:int=5, min_date:str='2023', max_date:str=None, download_dir:str="genomic_papers"):
+def run_miner(variant_query:str, max_papers:int, min_date:str, max_date:str, download_dir:str):
     """
     Main function to execute the literature mining pipeline.
     """
-    os.makedirs(download_dir, exist_ok=True)
-    print(f"\n[INFO] Download directory set to: '{download_dir}'")
+    var_dir_name = variant_query.replace(" ", "-")
+    target_dir = os.path.join(download_dir, var_dir_name)
+    os.makedirs(target_dir, exist_ok=True)
+    print(f"\n[INFO] Download directory set to: '{target_dir}'")
 
     last_request_time = 0
 
-    query = generate_variant_search_string(variant_query, "../prompts/variant_search/variant_search_query.txt")
-    print("GEMINI-GENERATED QUERY:\n", query)
+    query = generate_variant_search_string(variant_query)
+    print("GENERATED QUERY:\n", query)
 
     all_pmids = set()
     
@@ -261,6 +268,7 @@ def run_miner(variant_query:str, max_papers:int=5, min_date:str='2023', max_date
 
     print("\n\nPipeline complete. Check the 'genomic_papers' directory for downloads.")
 
+"""
 if __name__ == "__main__":
     VARIANT_TO_SEARCH = "LRRK2 c.6055G>A"
     #VARIANT_TO_SEARCH = "GALC c.956A_G" 
@@ -268,3 +276,4 @@ if __name__ == "__main__":
     MAX_RESULTS = 10
     
     run_miner(VARIANT_TO_SEARCH, MAX_RESULTS, min_date=2024)
+"""
