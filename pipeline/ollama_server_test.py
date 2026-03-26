@@ -1,8 +1,11 @@
 from langchain_ollama import ChatOllama
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def call_ollama_server(system_msg:str, query:str, model_choice:str)->None:
-    llm = ChatOllama(model=model_choice, temperature=0, base_url="http://localhost:11434")
+    llm = ChatOllama(model=model_choice, temperature=0)
 
     response = llm.invoke([
             {"role": "system", "content": system_msg},
@@ -20,5 +23,4 @@ def call_ollama_server(system_msg:str, query:str, model_choice:str)->None:
 sys_m = "You are an expert clinician that must respond to simple questions about different diseases. When asked about a disease, explain the causes, symptoms, and treatments"
 q_m = "What is Alzheimer's disease?"
 
-print(os.getcwd())
 call_ollama_server(sys_m, q_m, "llama3.1:70b")
