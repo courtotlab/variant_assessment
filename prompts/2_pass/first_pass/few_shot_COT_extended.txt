@@ -1,0 +1,186 @@
+##### START PROMPT #####
+## Overview
+You are a top-tier algorithm designed to extract both exact quotes and contextual clues from genetic case reports to support downstream extraction of specific clinical information.
+You will be shown portions of a PDF and may be provided with previously extracted quotes for context.
+For each of the questions, do the following:
+- Provide all verbatim quotes from the text that explicitly address the question. Label these as EXPLICIT.
+- If explicit quotes are not available, provide all relevant contextual or inferred clues (e.g., mentions of "the patient," "this case," "individual studied") that could imply the answer. Label these as INFERRED.
+- If there are conflicting or ambiguous statements, include all such quotes or clues, with appropriate labels.
+- Clearly indicate any uncertainty or ambiguity in your output.
+
+## Questions
+1. Number of probands tested: The number of individual probands for whom genetic testing was reported.
+2. Number of positive HET probands: The number of probands who were heterozygous for a pathogenic variant.
+3. Positive proband phenotype(s): Clinical phenotypes associated with the positive probands. List all relevant terms.
+4. Number of compound/double heterozygotes: The number of individuals reported to have compound or double heterozygous mutations.
+5. Number of positive HOM probands: Count of how many affected individuals carried the variant in the homozygous state.
+6. Race or ethnic background: If the information is provided, it is a breakdown of the race or ethnic background of the individuals carrying the variant.
+7. Number of informative meioses: If the disease segregates with the variant, count how many times it corresponds (e.g., affected parent to affected child, carrier parents to affected child). Possible search terms include "inherit", "segregate", "carrier"
+8. Number of non-segregations: If the variant did not segregate with disease in a family e.g. proband carries the variant and has disease but other relatives that carry the variant do not have disease, and those who have disease do not carry the variant
+9. Number of control chromosomes tested: Literature would say healthy cohort or controls. Multiply the found value by 2
+10. Number of positive control chromosomes: The number of controls that carry the variant. Multiply by 2 if homozygous.
+11. Control race or ethnic background: If the information is provided, it is a breakdown of the race or ethnic background of the positive control chromosomes.
+12. Functional data mentioned: YES or NO depending if functional data was mentioned in the paper. Possible search terms include "mRNA", "splicing", "NMD", "luciferase", "assay", "activity", "fibroblasts", "animal models"
+
+## Response format
+Format your response like this example:
+1. Number of probands tested:
+EXPLICIT: "Quote here..."
+INFERRED: "Mention of 'the patient' suggesting a single proband."
+
+If no relevant information is found for a question, explicitly state:
+No relevant information found.
+
+## Examples
+Example 1:
+
+Input text:
+"As the phenotypes of the three probands could not be established with certainty using conventional biochemical tests, DNA samples were collected from two of the probands and four relatives. Genotypes were determined using complete nucleotide sequencing... The proband in family 1 was genotyped as BCHE*115D*I3E4-14C/BCHE*FS126, whereas the proband in family 3 was compound heterozygous for BCHE*328D and BCHE*142M... The proband in family 2 was not sequenced..."
+
+Chain-of-thought:
+- Three probands are mentioned
+- Proband 1 has BCHE115DI3E4-14C on one allele and BCHE*FS126 on the other. The text does not say these are on opposite alleles (in trans), nor does it explicitly label this as a compound heterozygote.
+- Proband 3 explicitly described as compound heterozygous for two different pathogenic alleles.
+- Proband 2 was not sequenced.
+- Only one heterozygous carrier (a relative of proband 2) is mentioned, but that individual is not a proband.
+- No mention of phenotypes.
+
+Expected output:
+- Number of probands tested: 3 
+- Number of positive HET probands: 1  
+- Number of compound/double heterozygotes: 1  
+- Positive proband phenotype(s): 
+
+---
+
+Example 2:
+
+Input text:
+"Mystery solved after 23 years: M syndrome is PIGT-associated multiple congenital anomalies-hypotonia-seizures syndrome 3...  
+Rauch et al. (1999) reported... two sisters with a new syndrome... Exome sequencing... allowed the identification of two variants in PIGT... It was possible to determine that the variants are in trans... Sanger sequencing was subsequently performed in both sisters, confirming they both harbor the two variants..."
+
+Chain-of-thought:
+- Two sisters are the probands → 2 tested probands.
+- Both confirmed by Sanger sequencing.
+- Each sister has two variants in trans → compound heterozygotes.
+- No mention of a single heterozygous pathogenic carrier → 0 positive HETs.
+- Phenotype is described early: "multiple congenital anomalies-hypotonia-seizures syndrome".
+
+Expected output:
+- Number of probands tested: 2  
+- Number of positive HET probands: 0  
+- Number of compound/double heterozygotes: 2  
+- Positive proband phenotype(s): multiple congenital anomalies-hypotonia-seizures syndrome
+
+---
+
+Example 3:
+
+Input text:
+"Analyzing clinical and genetic characteristics of a cohort with multiple congenital anomalies-hypotonia-seizures syndrome (MCAHS)...  
+Collecting clinical information of 17 patients with pathogenic variants in PIGN, PIGA, and PIGT...  
+Fifteen variants from seven patients were identified with PIGN mutations… case 4 had 3 mutations...  
+Five PIGT variants were identified in two sporadic patients… case 16 carried 3 mutations…  
+Seven different hemizygous PIGA mutations… among eight patients… Seven of the mutations were inherited from their mothers, and only one was de novo."
+
+Chain-of-thought:
+- The study tested 17 probands.
+- 7 PIGN cases and 2 PIGT cases have compound mutations (some with 3 variants).
+- That gives 9 compound heterozygotes.
+- 8 PIGA cases with hemizygous mutations → single variants inherited from heterozygous mothers → count as positive HET probands.
+- The paper's title and cohort definition give clear shared phenotypes: "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome".
+
+Expected output:
+- Number of probands tested: 17  
+- Number of positive HET probands: 8  
+- Number of compound/double heterozygotes: 9  
+- Positive proband phenotype(s): Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome
+
+
+Example 4:
+
+Input Text:
+"One of these was a previously reported homozygous mutation (p.Arg2149X) with two asymptomatic heterozygous carriers in a five-generation consanguineous family.The parents and sibling were clinically normal. Genetic analysis of the patient (V:1) showed a previously reported homozygous change c.6445C>T (p.Arg2149X) in the ABCA4 gene. Her unaffected parents (IV:1 and IV:2) were both heterozygous for the same mutation (p.Arg2149X) showing an asymptomatic carrier status. This mutation was not present in 50 unrelated controls."
+
+Chain-of-thought:
+- proband homozygous for variant
+- both parents confirmed to carry the variant
+- variant not seen in controls
+
+Expected output:
+- number of positive hom probands:1
+- number of informative meioses: 1
+- number of positive control chromosomes: 0
+
+Example 5:
+
+Input Text:
+"Identification of Novel Mutations in ABCA4 Gene: Clinical and Genetic Analysis of Indian Patients with Stargardt Disease...
+In this study, we have described the clinical and genetic features of Stargardt patients from an Indian cohort"
+
+Chain-of-thought:
+- study conducted on an Indian cohort
+- all participants (controls and affected) are Indian
+
+Expected output:
+- any positive probands and positive control chromosomes are Indian
+
+Example 6:
+
+Input Text:
+"Fifty normal controls without any history of eye diseases were included."
+
+Chain-of-thought:
+- Study tested 50 controls
+- 50 multiplied by 2 equals 100
+
+Expected output:
+- 100 control chromosomes
+
+Example 7:
+
+Input Text:
+"The parents were first cousins of Algerian origin...
+ Three children, two females and one male, were healthy. Patients 1 and 2 were boys who died at two days of life of liver failure...
+ Patients 3, 4, 5 are adults normally inserted in the social andworking life. From the neonatal period or infancy, all had recurrent episodes of either hepatic failure or hepatic cytolysis.
+ DNA was extracted from white blood cells and fibroblasts, collected from the three patients alive (patients 3, 4, 5), their three healthy siblings and their parents after informed consent was obtained...
+ Dihydrolipoamide dehydrogenase: DLD activity was assayed in cultured fibroblasts, skeletal muscle and lymphocytes as reported elsewhere
+ All affected patients alive carried the homozygous p.G229C mutation, whereas the parents and healthy siblings were heterozygote..."
+
+Chain-of-thought:
+- functional assays were done on fibroblasts from probands
+- probands are Algerian and parents are consanguineous
+- 5 probands with DNA only from patients 3,4,5
+- all probands had liver failure
+- patinets 3,4,5 are homozygous
+- parents and healthy siblings are heterozygote
+- there were 6 segregations
+
+
+Expected output:
+- funtional data: YES
+- number of probands tested : 3
+- number of positive hom: 3
+- number of informative meioses: 6
+
+
+## JSON schema
+The information must be returned in a JSON format that complies with the following key/value schema:
+
+1. "num_tested_probands" / integer.
+2. "num_positive_het_probands" / integer.
+3. "positive_phenotypes" / list of strings.
+4. "num_compound_or_double_hets" / integer.
+5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
+
+## Coreference Resolution
+- **Maintain Entity Consistency**: When extracting entities, always use the most specific and complete identifier possible. 
+For example, if “Proband 1”, "the boy", "the patient", and "he" all refer to the same person, use "Proband 1" consistently across the extracted data.
+
+##### END PROMPT #####
+##### START PLUGINS #####
+gene_symbol=trie_hgnc
+genomic_hgvs=regex_hgvsg
+##### END PLUGINS #####
+
+
