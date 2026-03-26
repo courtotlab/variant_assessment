@@ -4,6 +4,12 @@ import constants
 import run_lei
 import run_llama
 from pathlib import Path
+from dotenv import load_dotenv
+
+# CONFIGURATION/LOAD ENVIRONMENT -------------------------------------------
+load_dotenv()
+
+# FUNCTIONS ----------------------------------------------------------------
 
 def create_output_folder_structure(output_path:str, passes:str, prompt_technique:str, model:str):
     """
@@ -91,6 +97,7 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                                     print("#"*8,"MODEL: Llama", "#"*8)
                                     run_llama.test_pdf_by_two_pages(file_path, prompt, json_file_path)
 
+# RUN ----------------------------------------------------------------
 
 genes_dir = "../local_test_data"
 out_path = "../test_out_data/"

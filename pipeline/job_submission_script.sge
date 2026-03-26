@@ -11,14 +11,12 @@
 
 # 1. Start the SSH tunnel in the background (-f) for Ollama
 # This allows the compute node to talk to the remote Ollama server.
-# Using -o StrictHostKeyChecking=no prevents the job from hanging if 
-# the host is not in the known_hosts file of the compute node.
-ssh -f -N -L 11434:localhost:11434 -o StrictHostKeyChecking=no ollama-server
+ssh -f -N -L 11439:172.17.0.1:11434 amelanidelahoz@ollama.res.oicr.on.ca
 
 # 2. Use uv to run your script
 # 'uv run' will automatically handle the environment and dependencies
-uv run pipeline_run.py
+uv run python -u pipeline_run.py
 
 # 3. Cleanup: Kill the tunnel after the script finishes
 # This ensures ports are freed up on the compute node.
-pkill -u $USER -f "ssh -f -N -L 11434"
+pkill -u $USER -f "ssh -f -N -L 11439"
