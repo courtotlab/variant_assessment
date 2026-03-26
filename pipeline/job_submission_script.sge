@@ -1,4 +1,5 @@
 #!/bin/bash
+#$ -P courtotlab # Project name
 #$ -N ollama_extraction      # Job name
 #$ -o logs/$JOB_ID.out       # Standard output log
 #$ -e logs/$JOB_ID.err       # Standard error log
