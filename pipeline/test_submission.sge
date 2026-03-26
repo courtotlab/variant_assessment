@@ -12,8 +12,6 @@
 
 # 1. Start the SSH tunnel in the background (-f) for Ollama
 # This allows the compute node to talk to the remote Ollama server.
-# Using -o StrictHostKeyChecking=no prevents the job from hanging if 
-# the host is not in the known_hosts file of the compute node.
 ssh -f -N -L 11439:172.17.0.1:11434 amelanidelahoz@ollama.res.oicr.on.ca
 
 # 2. Use uv to run your script
