@@ -45,7 +45,7 @@ Chain-of-thought:
 - Only one heterozygous carrier (a relative of proband 2) is mentioned, but that individual is not a proband.
 - No mention of phenotypes.
 
-Expected output:
+Expected results:
 - Number of probands tested: 3 
 - Number of positive HET probands: 1  
 - Number of compound/double heterozygotes: 1  
@@ -66,7 +66,7 @@ Chain-of-thought:
 - No mention of a single heterozygous pathogenic carrier → 0 positive HETs.
 - Phenotype is described early: "multiple congenital anomalies-hypotonia-seizures syndrome".
 
-Expected output:
+Expected results:
 - Number of probands tested: 2  
 - Number of positive HET probands: 0  
 - Number of compound/double heterozygotes: 2  
@@ -90,7 +90,7 @@ Chain-of-thought:
 - 8 PIGA cases with hemizygous mutations → single variants inherited from heterozygous mothers → count as positive HET probands.
 - The paper's title and cohort definition give clear shared phenotypes: "Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome".
 
-Expected output:
+Expected results:
 - Number of probands tested: 17  
 - Number of positive HET probands: 8  
 - Number of compound/double heterozygotes: 9  
@@ -107,7 +107,7 @@ Chain-of-thought:
 - both parents confirmed to carry the variant
 - variant not seen in controls
 
-Expected output:
+Expected results:
 - number of positive hom probands:1
 - number of informative meioses: 1
 - number of positive control chromosomes: 0
@@ -122,7 +122,7 @@ Chain-of-thought:
 - study conducted on an Indian cohort
 - all participants (controls and affected) are Indian
 
-Expected output:
+Expected results:
 - any positive probands and positive control chromosomes are Indian
 
 Example 6:
@@ -134,7 +134,7 @@ Chain-of-thought:
 - Study tested 50 controls
 - 50 multiplied by 2 equals 100
 
-Expected output:
+Expected results:
 - 100 control chromosomes
 
 Example 7:
@@ -142,7 +142,7 @@ Example 7:
 Input Text:
 "The parents were first cousins of Algerian origin...
  Three children, two females and one male, were healthy. Patients 1 and 2 were boys who died at two days of life of liver failure...
- Patients 3, 4, 5 are adults normally inserted in the social andworking life. From the neonatal period or infancy, all had recurrent episodes of either hepatic failure or hepatic cytolysis.
+ Patients 3, 4, 5 are adults normally inserted in the social and working life. From the neonatal period or infancy, all had recurrent episodes of either hepatic failure or hepatic cytolysis.
  DNA was extracted from white blood cells and fibroblasts, collected from the three patients alive (patients 3, 4, 5), their three healthy siblings and their parents after informed consent was obtained...
  Dihydrolipoamide dehydrogenase: DLD activity was assayed in cultured fibroblasts, skeletal muscle and lymphocytes as reported elsewhere
  All affected patients alive carried the homozygous p.G229C mutation, whereas the parents and healthy siblings were heterozygote..."
@@ -157,30 +157,14 @@ Chain-of-thought:
 - there were 6 segregations
 
 
-Expected output:
+Expected results:
 - funtional data: YES
 - number of probands tested : 3
 - number of positive hom: 3
 - number of informative meioses: 6
-
-
-## JSON schema
-The information must be returned in a JSON format that complies with the following key/value schema:
-
-1. "num_tested_probands" / integer.
-2. "num_positive_het_probands" / integer.
-3. "positive_phenotypes" / list of strings.
-4. "num_compound_or_double_hets" / integer.
-5. "explanation" / dictionary with keys from above fields and values providing concise explanation of where the information was found.
 
 ## Coreference Resolution
 - **Maintain Entity Consistency**: When extracting entities, always use the most specific and complete identifier possible. 
 For example, if “Proband 1”, "the boy", "the patient", and "he" all refer to the same person, use "Proband 1" consistently across the extracted data.
 
 ##### END PROMPT #####
-##### START PLUGINS #####
-gene_symbol=trie_hgnc
-genomic_hgvs=regex_hgvsg
-##### END PLUGINS #####
-
-

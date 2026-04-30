@@ -75,6 +75,7 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
 
                             # First get the prompts tuple
                             prompt = find_prompt_path(passes, prompt_technique, model)
+                            print(prompt)
                             filename = file.replace(".pdf", "")
                             # Create path JSON results
                             json_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".json")
@@ -99,7 +100,7 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
 
 # RUN ----------------------------------------------------------------
 
-genes_dir = "../test_data"
+genes_dir = "../local_test_data"
 out_path = "../test_out_data/"
 passes = "2_pass"
 prompt_technique = "few_shot_COT"
