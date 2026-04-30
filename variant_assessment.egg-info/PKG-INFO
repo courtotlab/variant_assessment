@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: variant-assessment
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: easyocr>=1.7.2
+Requires-Dist: langchain>=0.3.27
+Requires-Dist: langchain-core>=0.3.78
+Requires-Dist: langchain-ollama>=0.3.10
+Requires-Dist: langchain-openai>=0.3.35
+Requires-Dist: langchain-text-splitters>=0.3.11
+Requires-Dist: openai>=2.2.0
+Requires-Dist: pdf2image>=1.17.0
+Requires-Dist: python-dotenv>=1.2.1
+Requires-Dist: requests>=2.32.5
+Requires-Dist: typer>=0.23.2
+Dynamic: license-file
+
+# variant_assessment
+Packages hgvs and metapub may cause dependency issues with psycopg2 and docopt, respectively. If LEI extraction or paper search are not used, these packages may be removed using 'uv remove <package>'
