@@ -4,9 +4,9 @@
 #$ -o logs/$JOB_ID.out       # Standard output log
 #$ -e logs/$JOB_ID.err       # Standard error log
 #$ -q gpu.q                  # Request the GPU queue
-#$ -l h_vmem=4G              # Request 4GB of memory
+#$ -l h_vmem=8G              # Request 8GB of memory
 #$ -l gpu=1                  # Request 1 GPU
-#$ -l h_rt=01:00:00          # Walltime (1 hour)
+#$ -l h_rt=24:00:00          # Walltime (24 hours)
 #$ -V                        # Export environment variables
 #$ -cwd                       # Run from the current working directory
 
@@ -16,7 +16,7 @@ ssh -f -N -L 11439:172.17.0.1:11434 amelanidelahoz@ollama.res.oicr.on.ca
 
 # 2. Use uv to run your script
 # 'uv run' will automatically handle the environment and dependencies
-uv run python -u pipeline_run.py
+pixi run python -u pipeline_run.py
 
 # 3. Cleanup: Kill the tunnel after the script finishes
 # This ensures ports are freed up on the compute node.
