@@ -40,7 +40,7 @@ def get_output_filename(pdf_path: Path):
         return name.split("_")[0]
 
 # === PASS 1: Extract raw text and save to .txt ===
-def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama3:latest"):
+def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama3:latest", variant:str):
     print(f"\nStarting PASS 1 for {pdf_path.name}")
     system_msg = read_txt_prompt(prompt_path)
     pages = read_pdf_pages(pdf_path)
@@ -56,6 +56,7 @@ def pass_one_extract_to_txt(pdf_path, prompt_path, output_txt_path, model="llama
 
         current_text = "\n".join(pages[i:page_end])
         context_section = f"\n\nPreviously extracted quotes:\n{all_quotes_context.strip()}\n" if all_quotes_context.strip() else ""
+        variant_text = "Variant to search for: "
         query = current_text + context_section
 
         try:
