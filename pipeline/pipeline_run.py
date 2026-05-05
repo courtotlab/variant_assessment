@@ -104,7 +104,7 @@ genes_dir = "../local_test_data"
 out_path = "../test_out_data/"
 passes = "2_pass"
 prompt_technique = "few_shot_COT"
-model = "llama3.1:70b"
+model = "gpt-oss:120b"
 run_for_all_gene_variants(genes_dir, out_path, passes, prompt_technique, model)
 
 
