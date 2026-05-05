@@ -86,8 +86,9 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                                 # Create paths for intermediate text extraction
                                 txt_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".txt")
                                 # Call passes to get results
-                                run_two_pass.pass_one_extract_to_txt(Path(file_path), prompt[0], txt_file_path, model)
-                                run_two_pass.pass_two_structure_txt_to_json(Path(txt_file_path), prompt[1], json_file_path, model)
+                                variant_txt = variant + " in " + gene
+                                run_two_pass.pass_one_extract_to_txt(Path(file_path), prompt[0], txt_file_path, variant_txt,model)
+                                run_two_pass.pass_two_structure_txt_to_json(Path(txt_file_path), prompt[1], json_file_path, variant_txt,model)
                             else:
                                 print("#"*4,"RUNNING 1 PASS EXTRACTION", "#"*4)
                                 #Run extraction on 1 pass only
@@ -104,7 +105,8 @@ genes_dir = "../local_test_data"
 out_path = "../test_out_data/"
 passes = "2_pass"
 prompt_technique = "few_shot_COT"
-model = "llama3.1:70b"
+#model = "llama3.1:70b"
+model = "gpt-oss:120b"
 run_for_all_gene_variants(genes_dir, out_path, passes, prompt_technique, model)
 
 
