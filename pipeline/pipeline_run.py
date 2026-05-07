@@ -26,7 +26,7 @@ def create_output_folder_structure(output_path:str, passes:str, prompt_technique
 
 def find_prompt_path(passes:str, prompt_technique:str, model:str):
     try:
-        if "llama" in model:
+        if "llama" in model or "gpt-oss" in model:
             prompt_path = constants.LLAMA_PROMPTS_PATH[passes][prompt_technique]
         else:
             prompt_path = constants.LEI_PROMPTS_PATH[passes][prompt_technique]
@@ -101,7 +101,7 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
 
 # RUN ----------------------------------------------------------------
 
-genes_dir = "../local_test_data"
+genes_dir = "../test_data"
 out_path = "../test_out_data/"
 passes = "2_pass"
 prompt_technique = "few_shot_COT"

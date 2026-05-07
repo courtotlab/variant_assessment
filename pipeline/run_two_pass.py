@@ -83,7 +83,7 @@ def pass_two_structure_txt_to_json(input_txt_path:str, prompt_path:str, output_j
 
     try:
         raw_text = "Variant of interest: "+variant+"\n"
-        result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=True)
+        result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=False)
         #Path(output_json_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_json_path, "w", encoding="utf-8") as out_json:
             json.dump(result, out_json, indent=2)
