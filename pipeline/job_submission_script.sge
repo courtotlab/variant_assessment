@@ -4,9 +4,9 @@
 #$ -o logs/$JOB_ID.out       # Standard output log
 #$ -e logs/$JOB_ID.err       # Standard error log
 #$ -q gpu.q                  # Request the GPU queue
-#$ -l h_vmem=8G              # Request 8GB of memory
+#$ -l h_vmem=16G              # Request 16GB of memory
 #$ -l gpu=1                  # Request 1 GPU
-#$ -l h_rt=24:00:00          # Walltime (24 hours)
+#$ -l h_rt=48:00:00          # Walltime (48 hours)
 #$ -V                        # Export environment variables
 #$ -cwd                       # Run from the current working directory
 

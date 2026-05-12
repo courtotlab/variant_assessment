@@ -5,6 +5,7 @@ import run_lei
 import run_llama
 from pathlib import Path
 from dotenv import load_dotenv
+import time
 
 # CONFIGURATION/LOAD ENVIRONMENT -------------------------------------------
 load_dotenv()
@@ -107,7 +108,18 @@ passes = "2_pass"
 prompt_technique = "few_shot_COT"
 #model = "llama3.1:70b"
 model = "gpt-oss:120b"
+
+start_time = time.perf_counter()
 run_for_all_gene_variants(genes_dir, out_path, passes, prompt_technique, model)
+end_time = time.perf_counter()
+elapsed_time_sec = end_time - start_time
+elapsed_hours = elapsed_time_sec // 3600
+remaining_secs = elapsed_time_sec % 3600
+elapsed_mins = remaining_secs // 60
+elapsed_sec = remaining_secs % 60
+print("-"*80)
+print(f"Total elapsed time: {elapsed_time_sec:.6f} seconds")
+print(f"Elapsed time formatted: {elapsed_hours:.0f}h {elapsed_mins:.0f}m {elapsed_sec:.0f}s")
 
 
 
