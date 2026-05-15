@@ -14,7 +14,7 @@ LEI_PROMPTS_PATH = {"1_pass":{"COT":os.path.join(PROMPTS_PATH, "1_pass", "lei_pr
 
 # LLAMA prompts - 1 and 2 pass. 2 pass prompts represented by tuples (first pass prompt, second pass prompt)
 LLAMA_PROMPTS_PATH = {"1_pass":{"COT":os.path.join(PROMPTS_PATH, "1_pass", "llama_prompts", "llama_prompt_COT.txt"),
-                              "few_shot_COT":os.path.join(PROMPTS_PATH, "1_pass", "llama_prompts", "llama_prompt_few_shot_COT.txt"),
+                              "few_shot_COT":os.path.join(PROMPTS_PATH, "1_pass", "llama_prompts", "few_shot_COT_extended_new.txt"),
                               "few_shot":os.path.join(PROMPTS_PATH, "1_pass", "llama_prompts", "llama_prompt_few_shot.txt"),
                               "one_shot":os.path.join(PROMPTS_PATH, "1_pass", "llama_prompts", "llama_prompt_one_shot.txt"),
                               "zero_shot":os.path.join(PROMPTS_PATH, "1_pass", "llama_prompts", "prompt_with_quote_llama.txt")},
