@@ -1,11 +1,13 @@
 import os
 import run_two_pass
+import run_one_pass
 import constants
 import run_lei
 import run_llama
 from pathlib import Path
 from dotenv import load_dotenv
 import time
+from paper_search import variant_validator as var_val
 
 # CONFIGURATION/LOAD ENVIRONMENT -------------------------------------------
 load_dotenv()
@@ -97,14 +99,18 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                                     print("#"*8,"MODEL: LEI", "#"*8)
                                     run_lei.process_pdfs_lei(file_path, prompt, variant_results_dir)
                                 else:
-                                    print("#"*8,"MODEL: Llama", "#"*8)
-                                    run_llama.test_pdf_by_two_pages(file_path, prompt, json_file_path)
+                                    print("#"*8,"MODEL:", model,"#"*8)
+                                    #run_llama.test_pdf_by_two_pages(file_path, prompt, json_file_path)
+                                    # Create path JSON results
+                                    json_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".json")
+                                    variant = var_val.generate_search_string(gene+" "+variant)
+                                    run_one_pass.structure_txt_to_json(Path(file_path), prompt, json_file_path, variant, model)
 
 # RUN ----------------------------------------------------------------
 
 genes_dir = "../test_data"
 out_path = "../test_out_data/"
-passes = "2_pass"
+passes = "1_pass"
 prompt_technique = "few_shot_COT"
 #model = "llama3.1:70b"
 model = "gpt-oss:120b"
