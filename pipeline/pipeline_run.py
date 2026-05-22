@@ -70,6 +70,15 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                     hl_docs_path = os.path.join(current_variant_dir, "highlighted_docs")
                     if not os.path.exists(hl_docs_path):
                         os.mkdir(hl_docs_path)
+                    
+                    # Create string with variant aliases
+                    variant_in = gene+" "+variant
+                    print(variant_in)
+                    variant_txt = var_val.generate_search_string(variant_in).search_string
+                    if len(variant_txt.split()) <= 1:
+                        variant_txt = variant_txt.input_variant
+                    print(variant_txt)
+
                     # Create folder for outputs
                     for file in files_list:
                         if file.endswith('pdf'):
@@ -89,7 +98,6 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                                 # Create paths for intermediate text extraction
                                 txt_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".txt")
                                 # Call passes to get results
-                                variant_txt = variant + " in " + gene
                                 run_two_pass.pass_one_extract_to_txt(Path(file_path), prompt[0], txt_file_path, variant_txt,model)
                                 run_two_pass.pass_two_structure_txt_to_json(Path(txt_file_path), prompt[1], json_file_path, variant_txt,model)
                             else:
@@ -103,14 +111,19 @@ def run_for_all_gene_variants(genes_dir:str, output_path:str, passes:str, prompt
                                     #run_llama.test_pdf_by_two_pages(file_path, prompt, json_file_path)
                                     # Create path JSON results
                                     json_file_path = os.path.join(variant_results_dir, filename+"_"+passes+"_"+prompt_technique+"_"+model+".json")
-                                    variant = var_val.generate_search_string(gene+" "+variant)
-                                    run_one_pass.structure_txt_to_json(Path(file_path), prompt, json_file_path, variant, model)
+                                    variant_in = gene+" "+variant
+                                    print(variant_in)
+                                    variant_txt = var_val.generate_search_string(variant_in).search_string
+                                    if len(variant_txt.split()) <= 1:
+                                        variant_txt = variant_txt.input_variant
+                                    print(variant_txt)
+                                    run_one_pass.structure_txt_to_json(Path(file_path), prompt, json_file_path, variant_txt, model)
 
 # RUN ----------------------------------------------------------------
 
-genes_dir = "../test_data"
-out_path = "../test_out_data/"
-passes = "1_pass"
+genes_dir = "test_data/"
+out_path = "test_out_data_new/"
+passes = "2_pass"
 prompt_technique = "few_shot_COT"
 #model = "llama3.1:70b"
 model = "gpt-oss:120b"

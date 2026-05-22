@@ -19,6 +19,8 @@ import requests
 from dataclasses import dataclass, field
 from dotenv import load_dotenv
 import os
+from langchain_ollama import ChatOllama
+from langchain_core.prompts import ChatPromptTemplate
 
 
 # ── Configuration ─────────────────────────────────────────────────────────────
@@ -42,7 +44,7 @@ NCBI_EMAIL   = os.getenv("NCBI_USER_EMAIL")   # required by NCBI's usage policy
 NCBI_API_KEY = os.getenv("NCBI_API_KEY")      # optional — raises limit to 10 req/s
 
 # Ollama
-OLLAMA_BASE_URL = "http://localhost:11434"
+OLLAMA_BASE_URL = "http://localhost:11439"
 OLLAMA_MODEL    = "llama3"
 
 
@@ -631,13 +633,13 @@ Example output for c.6055G>A:
 """
 
     try:
-        resp = requests.post(
-            f"{OLLAMA_BASE_URL}/api/generate",
-            json={"model": OLLAMA_MODEL, "prompt": prompt, "stream": False},
-            timeout=60,
-        )
-        resp.raise_for_status()
-        raw = resp.json().get("response", "").strip()
+        llm = ChatOllama(model="gpt-oss:120b", temperature=0, base_url=OLLAMA_BASE_URL)
+        response = llm.invoke([
+            {"role": "system", "content": prompt},
+            {"role": "user", "content": "Generate the output for the genetic variant"}
+        ])
+
+        raw = response.content.strip()
 
         raw   = re.sub(r'^```[a-z]*\n?', '', raw)
         raw   = re.sub(r'\n?```$', '', raw)

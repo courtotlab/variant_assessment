@@ -13,9 +13,10 @@ def read_txt_prompt(txt_path):
 def structure_txt_to_json(input_txt_path:Path, prompt_path:str, output_json_path:str, variant:str, model:str):
     print(f"START EXTRACTION FOR {input_txt_path.name}")
     system_msg = read_txt_prompt(prompt_path)
+    pages = read_pdf_pages(input_txt_path)
 
-    with open(input_txt_path, "r", encoding="utf-8") as f:
-        raw_text = f.read()
+    raw_text = "\n\n".join(pages)
+
     try:
         raw_text = "Variant of interest: "+variant+"\n"
         result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=False)

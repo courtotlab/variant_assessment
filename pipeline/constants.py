@@ -2,7 +2,7 @@ import os
 
 # Path constants -----------------------------------------------
 
-PROMPTS_PATH = os.path.abspath("../prompts")
+PROMPTS_PATH = os.path.abspath("prompts")
 
 # LEI prompts - 1 pass only
 LEI_PROMPTS_PATH = {"1_pass":{"COT":os.path.join(PROMPTS_PATH, "1_pass", "lei_prompts", "lei_prompt_COT.txt"),
@@ -21,7 +21,7 @@ LLAMA_PROMPTS_PATH = {"1_pass":{"COT":os.path.join(PROMPTS_PATH, "1_pass", "llam
                     "2_pass":{"COT":(os.path.join(PROMPTS_PATH, "2_pass", "first_pass", "COT.txt"),
                                      os.path.join(PROMPTS_PATH, "2_pass", "second_pass", "COT.txt")),
                             "few_shot_COT":(os.path.join(PROMPTS_PATH, "2_pass", "first_pass", "few_shot_COT_extended_new.txt"),
-                                     os.path.join(PROMPTS_PATH, "2_pass", "second_pass", "few_shot_COT_extended_new.txt")),
+                                     os.path.join(PROMPTS_PATH, "2_pass", "second_pass", "few_shot_COT_improved.txt")),
                             "few_shot":(os.path.join(PROMPTS_PATH, "2_pass", "first_pass", "few_shot.txt"),
                                      os.path.join(PROMPTS_PATH, "2_pass", "second_pass", "few_shot.txt")),
                             "one_shot":(os.path.join(PROMPTS_PATH, "2_pass", "first_pass", "one_shot.txt"),

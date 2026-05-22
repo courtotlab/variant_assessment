@@ -16,7 +16,7 @@ ssh -f -N -L 11439:172.17.0.1:11434 amelanidelahoz@ollama.res.oicr.on.ca
 
 # 2. Use uv to run your script
 # 'uv run' will automatically handle the environment and dependencies
-pixi run python -u pipeline_run.py
+pixi run python -u pipeline/pipeline_run.py
 
 # 3. Cleanup: Kill the tunnel after the script finishes
 # This ensures ports are freed up on the compute node.

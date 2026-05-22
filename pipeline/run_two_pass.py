@@ -75,7 +75,7 @@ def pass_one_extract_to_txt(pdf_path:str, prompt_path:str, output_txt_path:str, 
 
 # === PASS 2: Structure the text into JSON ===
 def pass_two_structure_txt_to_json(input_txt_path:str, prompt_path:str, output_json_path:str, variant:str,model="llama3.2:latest"):
-    print(f"Starting PASS 2 for {input_txt_path.name}")
+    print(f"Starting PASS for {input_txt_path.name}")
     system_msg = read_txt_prompt(prompt_path)
 
     with open(input_txt_path, "r", encoding="utf-8") as f:

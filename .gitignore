@@ -6,6 +6,7 @@ test_data
 out_data
 local_test_data
 test_out_data
+test_out_data_new
 demo_data
 .env
 .DS_Store
@@ -14,6 +15,7 @@ __pycache__/
 *.pyo
 .venv/
 pipeline/logs
+logs/
 pdf_images/# pixi environments
 .pixi/*
 !.pixi/config.toml

@@ -64,7 +64,6 @@ def call_ollama_struct_out(system_msg: str, query: str, model_used: str, use_str
 
     else:
         # Just do a raw chat completion (no enforced JSON structure)
-        print("Using raw chat completion without structured output.")
         response = llm.invoke([
             {"role": "system", "content": system_msg},
             {"role": "user", "content": query}
