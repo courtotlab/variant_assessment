@@ -18,8 +18,9 @@ def structure_txt_to_json(input_txt_path:Path, prompt_path:str, output_json_path
     raw_text = "\n\n".join(pages)
 
     try:
-        raw_text = "Variant of interest: "+variant+"\n"
-        result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=False)
+        variant = "Target variant: "+variant
+        queries = [variant, raw_text]
+        result = call_ollama_struct_out(system_msg, queries, model)
         
         with open(output_json_path, "w", encoding="utf-8") as out_json:
             json.dump(result, out_json, indent=2)

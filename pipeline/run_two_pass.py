@@ -60,7 +60,7 @@ def pass_one_extract_to_txt(pdf_path:str, prompt_path:str, output_txt_path:str, 
         query = variant_text + current_text + context_section
 
         try:
-            result = call_ollama_struct_out(system_msg, query, model, use_structured_output=False)
+            result = call_ollama_struct_out(system_msg, [query], model)
             result_text = result if isinstance(result, str) else json.dumps(result, indent=2)
             all_text_outputs.append(f"## Pages {page_range} ##\n{result_text}\n")
             all_quotes_context += f"\n\n## From pages {page_range} ##\n{result_text}"
@@ -82,8 +82,9 @@ def pass_two_structure_txt_to_json(input_txt_path:str, prompt_path:str, output_j
         raw_text = f.read()
 
     try:
-        raw_text = "Variant of interest: "+variant+"\n"
-        result = call_ollama_struct_out(system_msg, raw_text, model, use_structured_output=False)
+        variant = "Target variant: "+variant
+        queries = [variant, raw_text]
+        result = call_ollama_struct_out(system_msg, queries, model)
         #Path(output_json_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_json_path, "w", encoding="utf-8") as out_json:
             json.dump(result, out_json, indent=2)
